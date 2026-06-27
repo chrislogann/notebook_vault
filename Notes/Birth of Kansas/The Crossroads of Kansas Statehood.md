@@ -2,10 +2,11 @@
 tags:
   - Political_Science
 Source Type: NotebookLM
-Source Link: https://notebooklm.google.com/notebook/6c806d0a-c2b4-46b3-9327-8d3cfe5cdc95
+Source Name: The Birth of Kansas
+Source Topic: The Birth of Kansas
 ---
-
 [[Birth of Kansas]]
+[[Kansas_Statehood_Debate_Infographic.png]]
 
 The debate over Kansas statehood was fiercely contested, with the arguments dividing largely along party lines between the Democratic Party (opposing immediate admission) and the Republican/Free-State Party (favoring it).
 

@@ -1,8 +1,10 @@
 ---
 tags:
   - Political_Science
-Source Type: NotebookLM
-Source Link: https://notebooklm.google.com/notebook/6c806d0a-c2b4-46b3-9327-8d3cfe5cdc95
+  - Economy
+Source Type: AI
+Source Name: Gemini 3.1 Flash Lite
+Source Topic: The Birth of Kansas
 ---
 [[Birth of Kansas]]
 

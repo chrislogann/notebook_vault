@@ -2,11 +2,13 @@
 tags:
   - Political_Science
 Source Type: NotebookLM
-Source Link: https://notebooklm.google.com/notebook/6c806d0a-c2b4-46b3-9327-8d3cfe5cdc95
+Source Name: The Birth of Kansas
+Source Topic: The Birth of Kansas
 ---
-[[Farmers to Factions]]
+[[The Lifecycle of Institutional Collapse - From Farmers to Factions]]
 [[Birth of Kansas]]
 [[Kansas_Political_Cycle_1859-1863.png]]
+[[Kansas_Statecraft__Idealism_to_Instability.png]]
 
 When the Wyandotte Convention was formed, the voters intentionally pushed for a fresh start by electing politically inexperienced men. These new delegates were mostly "common farmers" and representatives of the "great middle class" who seemingly had **"no personal ambition to gratify, no animosities to resent, no friends to favor"**. Their initial push for change was highly successful; they framed a fundamental law that finally prohibited slavery and established the framework for a free state.
 

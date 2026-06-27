@@ -1,7 +1,9 @@
 ---
 tags:
   - Political_Science
+  - Vigilantism
 Source Type: Book
+Source Topic: The Birth of Kansas
 ---
 
 
@@ -6248,7 +6250,7 @@ ing that “The Black Republican papers are very generally urging
 the prosecution of the war, not for the purpose of restoring the 
 Constitution and the Union, but for the purpose of driving out the 
 owners of Southern plantations to enable northern men to take pos- 
-session of, and enjoy them.” #° General James G. Blunt arrested 
+session of, and enjoy them.” General James G. Blunt arrested 
 Burrell B. Taylor, editor of the Leavenworth Inquirer, and his 
 42. Public Documents, 1861, pp. 6. 7. 
 43. House Journal, 1862, pp. 27-39, 232-234. 
