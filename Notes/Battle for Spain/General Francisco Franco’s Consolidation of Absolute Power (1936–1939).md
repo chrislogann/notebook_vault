@@ -5,7 +5,7 @@ Source Type: NotebookLM
 Source Name: "The Battle for Spain: The Spanish Civil War 1936-1939"
 Source Topic: "Battle for Spain 1936-1939"
 ---
-[[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract.txt]]
+[[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]
 ## 1. The Strategic Foundation: Command of the Army of Africa
 
 General Francisco Franco’s ascent was rooted in his status as a leading _africanista_—an elite colonial officer whose career was forged in the brutal wars of North Africa. This military base was the modern continuation of a "feudal-military" lineage dating back to the _Reconquista_. As the medieval warrior aristocracy retook land from the Moors, the economy shifted toward Merino wool production. The seizure of common land for sheep grazing catastrophicially undermined the food supply and led to mass soil erosion; for centuries, the only alternatives to starvation for the Castilian population were the army or the empire. Franco’s command over the Army of Africa was the culmination of this historical trajectory.

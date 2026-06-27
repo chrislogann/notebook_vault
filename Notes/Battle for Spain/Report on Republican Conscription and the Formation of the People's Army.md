@@ -5,7 +5,7 @@ Source Type: NotebookLM
 Source Name: "The Battle for Spain: The Spanish Civil War 1936-1939"
 Source Topic: "Battle for Spain 1936-1939"
 ---
-[[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract.txt]]
+[[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]
 ### 1. The Collapse of the Regular Army and the Rise of Militias (July 1936)
 
 The immediate aftermath of the July 1936 rising presented a "fatal paradox" that effectively decapitated the Spanish Second Republic’s monopoly on organized violence. While the Casares Quiroga government initially collapsed due to its refusal to arm the working class, the subsequent Giral administration—formed by a personal friend of Azaña who realized the "terrible truth" of the military rebellion—attempted to preserve the state by dismantling its primary instrument of defense.
