@@ -1,6 +1,6 @@
 ---
 tags:
-  - Political_Science
+  - Politics
 Source Type: AI
 Source Name: Gemini 3.1 Flash Lite
 Source Topic: Battle for Spain 1936-1939

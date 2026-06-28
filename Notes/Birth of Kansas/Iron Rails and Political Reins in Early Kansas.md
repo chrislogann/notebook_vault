@@ -1,6 +1,6 @@
 ---
 tags:
-  - Political_Science
+  - Politics
   - Economy
 Source Type: AI
 Source Name: Gemini 3.1 Flash Lite

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Political_Science
+  - Politics
 Source Type: NotebookLM
 Source Name: "The Battle for Spain: The Spanish Civil War 1936-1939"
 Source Topic: "Battle for Spain 1936-1939"

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Political_Science
+  - Politics
 Source Type: AI
 Source Name: "Gemini 3.1 Flash Lite"
 Source Topic: The Birth of Kansas

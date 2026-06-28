@@ -1,6 +1,6 @@
 ---
 tags:
-  - Political_Science
+  - Politics
   - Vigilantism
 Source Type: Book
 Source Topic: The Birth of Kansas

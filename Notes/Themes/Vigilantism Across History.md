@@ -5,6 +5,8 @@ Source Type: NotebookLM
 Source Name: Vigilantism Across History
 Source Topic: Theming
 ---
+[[Four_Models_of_Extralegal_Justice.png]]
+
 Vigilantism is rarely a monolithic phenomenon. When the formal rule of law collapses, becomes deeply corrupted, or is perceived as fundamentally unjust, societies often witness the rise of extralegal justice. Across different historical periods, vigilantism has manifested in wildly different forms—ranging from the spontaneous, visceral fury of mob justice to organized paramilitary raids, and even state-sanctioned systems of arbitrary retribution.
 
 **Spontaneous Mob Justice: The 1956 Hungarian Revolution** In its rawest form, vigilantism erupts as spontaneous mob violence triggered by state oppression. During the 1956 Hungarian Revolution, citizens who had endured years of brutal Soviet-backed rule formed **spontaneous lynch mobs to exact "instant justice" upon the widely despised secret police, the State Security Authority (AVO)**.

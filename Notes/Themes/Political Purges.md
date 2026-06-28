@@ -1,6 +1,6 @@
 ---
 tags:
-  - Political_Science
+  - Politics
 Source Topic: Theming
 ---
 [[The Ideological Marginalization of the Falangist 'Old Shirts']]

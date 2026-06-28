@@ -1,6 +1,6 @@
 ---
 tags:
-  - Political_Science
+  - Politics
 Source Type: NotebookLM
 Source Name: Foreign Intervention in Spain and Kansas
 Source Topic: Battle for Spain 1936-1939

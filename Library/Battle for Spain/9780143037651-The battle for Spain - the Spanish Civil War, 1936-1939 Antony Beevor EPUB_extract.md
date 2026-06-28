@@ -1,20 +1,15 @@
 ---
 tags:
-  - Political_Science
+  - Politics
   - Vigilantism
 Source Type: Book
 Source Topic: Battle for Spain 1936-1939
 ---
-
-
 ---
-
 ## Section 2
 
 ## THE BATTLE FOR SPAIN
-
 ---
-
 ## Section 3
 
 ## Books by the same author
@@ -57,17 +52,17 @@ LONDON
 
 ## Section 6
 
-First published in Great Britain in 2006   
+First published in Great Britain in 2006
 by Weidenfeld & Nicolson
 
-An earlier version of this book was published by Orbis Publishing Ltd in 1982   
+An earlier version of this book was published by Orbis Publishing Ltd in 1982
 under the title The Spanish Civil War
 
 © Ocito Ltd 2006
 
 All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without the prior permission of both the copyright owner and the above publisher.
 
-The right of Antony Beevor to be identified as the author of this work has been asserted in accordance with the   
+The right of Antony Beevor to be identified as the author of this work has been asserted in accordance with the
 Copyright, Designs and Patents Act 1988.
 
 A CIP catalogue record for this book is available from the British Library.
@@ -78,9 +73,9 @@ The Orion Publishing Group’s policy is to use papers that are natural, renewab
 
 Weidenfeld & Nicolson
 
-The Orion Publishing Group Ltd   
-Orion House  
- 5 Upper Saint Martin’s Lane  
+The Orion Publishing Group Ltd
+Orion House
+ 5 Upper Saint Martin’s Lane
  London, WC2H 9EA
 
 www.orionbooks.co.uk
@@ -109,7 +104,7 @@ For Gonzalo Pontón with all my gratitude for all his help
 >
 > [INITIALS](part0012.html#filepos55311)
 
-[PART ONE:  
+[PART ONE:
  Old Spain and the Second Republic](part0013.html#filepos61786)
 
 [1 Their Most Catholic Majesties](part0015.html#filepos62147)
@@ -122,7 +117,7 @@ For Gonzalo Pontón with all my gratitude for all his help
 
 [5  The Fatal Paradox](part0019.html#filepos183384)
 
-[PART TWO:  
+[PART TWO:
  The War of Two Spains](part0020.html#filepos209329)
 
 [6  The Rising of the Generals](part0022.html#filepos209678)
@@ -141,7 +136,7 @@ For Gonzalo Pontón with all my gratitude for all his help
 
 [PHOTOGRAPHIC INSERT I](part0029.html#filepos426594)
 
-[PART THREE:  
+[PART THREE:
  The Civil War Becomes International](part0048.html#filepos436326)
 
 [13  Arms and the Diplomats](part0050.html#filepos436691)
@@ -156,7 +151,7 @@ For Gonzalo Pontón with all my gratitude for all his help
 
 [17  The Battle for Madrid](part0054.html#filepos540793)
 
-[PART FOUR:  
+[PART FOUR:
  World War by Proxy](part0055.html#filepos600701)
 
 [18  The Metamorphosis of the War](part0057.html#filepos601048)
@@ -167,7 +162,7 @@ For Gonzalo Pontón with all my gratitude for all his help
 
 [21  The Propaganda War and the Intellectuals](part0060.html#filepos752457)
 
-[PART FIVE:  
+[PART FIVE:
  Internal Tensions](part0061.html#filepos791127)
 
 [22  The Struggle for Power](part0063.html#filepos791473)
@@ -182,7 +177,7 @@ For Gonzalo Pontón with all my gratitude for all his help
 
 [27  The Destruction of the Northern Front and of Republican Idealism](part0085.html#filepos939234)
 
-[PART SIX:  
+[PART SIX:
  The Route to Disaster](part0086.html#filepos967157)
 
 [28  The Battle of Teruel and Franco’s ‘Victorious Sword’](part0088.html#filepos967506)
@@ -201,7 +196,7 @@ For Gonzalo Pontón with all my gratitude for all his help
 
 [34  The Collapse of the Republic](part0112.html#filepos1183104)
 
-[PART SEVEN:  
+[PART SEVEN:
  Vae Victis!](part0113.html#filepos1225722)
 
 [35  The New Spain and the Franquist Gulag](part0115.html#filepos1226063)
@@ -6157,10 +6152,10 @@ CHAPTER 17: The Battle for Madrid
 
 29 BA-MA RL35/38.
 
-30 Venid a ver la sangre por las calles,   
-venid a ver   
-la sangre por las calles,   
-venid a ver la sangre   
+30 Venid a ver la sangre por las calles,
+venid a ver
+la sangre por las calles,
+venid a ver la sangre
 por las calles! ‘Explico algunas cosas’ in Poesía política, Santiago de Chile, 1953, I, p. 60.
 
 31 RGASPI 495/120/261, p. 14.
