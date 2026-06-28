@@ -1,6 +1,6 @@
 ---
 tags:
-Source Type: 
-Source Name: 
-Source Topic: 
+Topic:
+Genre:
+Source Name:
 ---

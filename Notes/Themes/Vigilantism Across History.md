@@ -1,9 +1,12 @@
 ---
 tags:
-  - Vigilantism
-Source Type: NotebookLM
-Source Name: Vigilantism Across History
-Source Topic: Theming
+  - NotebookLM
+  - Theme
+Topic:
+  - "[[Vigilantism Across History]]"
+Genre:
+Source Name:
+  - "[[Vigilantism Across History]]"
 ---
 [[Four_Models_of_Extralegal_Justice.png]]
 

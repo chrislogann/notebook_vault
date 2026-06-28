@@ -1,10 +1,13 @@
 ---
 tags:
-  - Politics
-  - Economy
-Source Type: AI
-Source Name: Gemini 3.1 Flash Lite
-Source Topic: The Birth of Kansas
+  - AI
+  - Note
+Topic:
+  - "[[Business Interests in Politics]]"
+Genre:
+  - "[[Kansas]]"
+Source Name:
+  - "[[Gemini 3.1 Flash Lite]]"
 ---
 [[Birth of Kansas]]
 

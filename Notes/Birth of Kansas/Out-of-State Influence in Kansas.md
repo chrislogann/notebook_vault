@@ -1,12 +1,15 @@
 ---
 tags:
-  - Politics
-Source Type: NotebookLM
-Source Name: Foreign Intervention in Spain and Kansas
-Source Topic: The Birth of Kansas
+  - NotebookLM
+  - Note
+Topic:
+  - "[[Foreign Actors]]"
+Genre:
+  - "[[Kansas]]"
+Source Name:
+  - "[[Foreign Intervention in Spain and Kansas]]"
 ---
 [[Birth of Kansas]]
-[[Role of Foreign Actors]]
 
 Out-of-state actors played a pivotal role in the early political, military, and economic development of Kansas. Just as foreign powers used Spain as a battleground, external forces—ranging from Missouri border ruffians to Eastern politicians and financiers—used Kansas as a proxy to fight national battles over slavery, political dominance, and economic exploitation.
 

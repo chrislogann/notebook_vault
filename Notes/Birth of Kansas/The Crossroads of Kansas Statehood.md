@@ -1,9 +1,13 @@
 ---
 tags:
-  - Politics
-Source Type: NotebookLM
-Source Name: The Birth of Kansas
-Source Topic: The Birth of Kansas
+  - NotebookLM
+  - Note
+Topic:
+  - "[[Statecraft]]"
+Genre:
+  - "[[Kansas]]"
+Source Name:
+  - The Birth of Kansas
 ---
 [[Birth of Kansas]]
 [[Kansas_Statehood_Debate_Infographic.png]]

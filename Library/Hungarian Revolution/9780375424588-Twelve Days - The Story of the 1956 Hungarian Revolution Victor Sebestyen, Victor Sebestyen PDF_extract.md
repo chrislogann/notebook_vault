@@ -1,9 +1,8 @@
 ---
 tags:
-  - Vigilantism
-Source Type: Book
-Source Name: Twelve Days
-Source Topic: Twelve Days
+  - Book
+Genre: "[[Hungarian Revolution]]"
+Author: "[[Victor Sebestyen]]"
 ---
 
 

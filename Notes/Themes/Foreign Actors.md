@@ -1,9 +1,12 @@
 ---
 tags:
-  - Politics
-Source Type: NotebookLM
-Source Name: Foreign Intervention in Spain and Kansas
-Source Topic: Theming
+  - NotebookLM
+  - Theme
+Topic:
+  - "[[Politics]]"
+Genre:
+Source Name:
+  - "[[Foreign Intervention in Spain and Kansas]]"
 ---
 Both Spain and Kansas experienced periods where their internal struggles were completely overtaken by the agendas of out-of-state actors. In both cases, these regions were transformed into **proxy battlegrounds** where larger, external powers fought for ideological dominance, political control, and economic gain.
 

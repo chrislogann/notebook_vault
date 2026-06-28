@@ -1,9 +1,16 @@
 ---
 tags:
-  - Politics
-Source Type: NotebookLM
-Source Name: The Birth of Kansas
-Source Topic: Theming
+  - NotebookLM
+  - Theme
+  - Status/wip
+Topic:
+  - "[[Politics]]"
+  - "[[Vigilantism Across History]]"
+  - "[[Idealism]]"
+  - "[[Corruption]]"
+Genre:
+Source Name:
+  - "[[The Birth of Kansas]]"
 ---
 ### Overview
 

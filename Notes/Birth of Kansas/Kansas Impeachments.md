@@ -1,11 +1,13 @@
 ---
 tags:
-  - Politics
-Source Type: AI
+  - AI
+  - Note
+Topic:
+  - "[[Political Purges]]"
+Genre:
+  - "[[Kansas]]"
 Source Name: Gemini 3.1 Flash Lite
-Source Topic: The Birth of Kansas
 ---
-[[Political Purges]]
 [[Birth of Kansas]]
 
 While the term "political purge" is not explicitly used in the historical records of early Kansas, the political landscape between 1859 and 1863 was defined by intense factionalism and exclusionary tactics that functioned similarly to purges. Based on the provided notes, the role of these dynamics can be analyzed through the following lenses:

@@ -1,9 +1,13 @@
 ---
 tags:
-  - Politics
-Source Type: AI
-Source Name: Gemini 3.1 Flash Lite
-Source Topic: Battle for Spain 1936-1939
+  - AI
+  - Note
+Topic:
+  - "[[The Lifecycle of Institutional Collapse - From Farmers to Factions]]"
+Genre:
+  - "[[Spanish Civil War]]"
+Source Name:
+  - "[[Gemini 3.1 Flash Lite]]"
 ---
 The historical trajectory of the Spanish Second Republic, as detailed in [[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]], provides a striking real-world parallel to the theoretical cycle of institutional collapse described in [[The Lifecycle of Institutional Collapse - From Farmers to Factions]].
 

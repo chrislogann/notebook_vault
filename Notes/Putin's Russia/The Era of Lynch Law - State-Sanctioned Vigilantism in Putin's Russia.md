@@ -1,9 +1,13 @@
 ---
 tags:
-  - Vigilantism
-Source Type: NotebookLM
-Source Name: Vigilantism Across History
-Source Topic: Putin's Russia
+  - NotebookLM
+  - Note
+Topic:
+  - "[[Vigilantism Across History]]"
+Genre:
+  - Putin's Russia
+Source Name:
+  - "[[Vigilantism Across History]]"
 ---
 [[9780805082500-Putin's Russia - life in a failing democracy Anna Politkovskaya EPUB_extract.txt]]
 [[Vigilantism Across History]]

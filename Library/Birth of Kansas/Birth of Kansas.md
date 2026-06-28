@@ -1,11 +1,10 @@
 ---
 tags:
-  - Politics
-  - Vigilantism
-Source Type: Book
-Source Name: The Birth of Kansas
-Source Topic: The Birth of Kansas
+  - Book
+Genre: "[[Kansas]]"
+Author: "[[Raymond Gaeddert]]"
 ---
+
 
 
 --- Page 2 ---

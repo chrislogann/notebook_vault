@@ -1,11 +1,13 @@
 ---
 tags:
-  - Politics
-  - Vigilantism
+  - AI
   - Status/wip
-Source Type: AI
-Source Name: Gemini 3.1 Flash Lite
-Source Topic: Russia - Revolution and Civil War, 1917-1921
+  - Note
+Topic:
+Genre:
+  - "[[Russia - Revolution and Civil War, 1917-1921]]"
+Source Name:
+  - "[[Gemini 3.1 Flash Lite]]"
 ---
 To prepare for reading [[9780593493878-Russia - Revolution and Civil War, 1917-1921 Antony Beevor EPUB_extract]], you should review notes that provide context on the **mechanisms of state collapse, the nature of ideological terror, and the dangers of factionalism**.
 
@@ -25,7 +27,7 @@ Beevor’s extract emphasizes the "Red Terror" and the use of the Cheka as a too
 ### 3. The Role of Foreign Intervention
 The Russian Civil War involved significant foreign intervention (Allied forces in Murmansk, Arkhangel, and Vladivostok). To understand the geopolitical stakes of such interventions, review:
 - [[Foreign Intervention in Spain]]: This note analyzes how external powers (Germany, Italy, USSR) turned a local conflict into a "world war by proxy." It provides a framework for evaluating how foreign aid—and the political strings attached to it—can fracture a revolutionary movement’s internal unity.
-- [[Role of Foreign Actors]]
+- [[Foreign Actors]]
 
 ### 4. State-Sanctioned Vigilantism
 The Beevor extract notes that the Bolsheviks viewed civil war as a necessary tool for class annihilation. To see how this "lynch law" mentality manifests in modern Russian history, review:

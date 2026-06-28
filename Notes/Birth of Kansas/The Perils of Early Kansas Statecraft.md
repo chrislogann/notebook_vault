@@ -1,11 +1,14 @@
 ---
 tags:
-  - Politics
-Source Type: NotebookLM
+  - NotebookLM
+  - Note
+Topic:
+  - "[[The Lifecycle of Institutional Collapse - From Farmers to Factions]]"
+  - "[[Statecraft]]"
+Genre:
+  - "[[Kansas]]"
 Source Name: The Birth of Kansas
-Source Topic: The Birth of Kansas
 ---
-[[The Lifecycle of Institutional Collapse - From Farmers to Factions]]
 [[Birth of Kansas]]
 [[Kansas_Political_Cycle_1859-1863.png]]
 [[Kansas_Statecraft__Idealism_to_Instability.png]]

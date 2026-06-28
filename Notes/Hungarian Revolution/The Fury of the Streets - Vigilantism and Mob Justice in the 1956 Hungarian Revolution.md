@@ -1,12 +1,15 @@
 ---
 tags:
-  - Vigilantism
-Source Type: NotebookLM
-Source Name: Vigilantism Across History
-Source Topic: Hungarian Revolution
+  - NotebookLM
+  - Note
+Topic:
+  - "[[Vigilantism Across History]]"
+Genre:
+  - "[[Hungarian Revolution]]"
+Source Name:
+  - "[[Vigilantism Across History]]"
 ---
 [[9780375424588-Twelve Days - The Story of the 1956 Hungarian Revolution Victor Sebestyen, Victor Sebestyen PDF_extract]]
-[[Vigilantism Across History]]
 
 During the 1956 Hungarian Revolution, vigilantism emerged as a defining and terrifying feature of the street-level uprising. Driven by years of brutal oppression under a Soviet-backed regime, Hungarian citizens formed **spontaneous lynch mobs to deliver "instant justice" against the widely despised secret police, the State Security Authority (AVO)**. Because the AVO was viewed as the chief instrument of state terror, crowds frequently bypassed formal law to dispense gruesome "popular judgments" directly on the streets.
 

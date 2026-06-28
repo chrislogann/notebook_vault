@@ -1,10 +1,10 @@
 ---
 tags:
-  - Politics
-  - "#Status/wip"
-Source Type: Book
-Source Name: Russia - Revolution and Civil War, 1917-1921
-Source Topic: Russia - Revolution and Civil War, 1917-1921
+  - Book
+Genre:
+  - "[[Russia - Revolution and Civil War, 1917-1921]]"
+Author:
+  - "[[Antony Beevor]]"
 ---
 
 
@@ -66,7 +66,7 @@ Copyright © 2022 by Ocito Ltd
 
 Penguin Random House supports copyright. Copyright fuels creativity, encourages diverse voices, promotes free speech, and creates a vibrant culture. Thank you for buying an authorized edition of this book and for complying with copyright laws by not reproducing, scanning, or distributing any part of it in any form without permission. You are supporting writers and allowing Penguin Random House to continue to publish books for every reader.
 
-Illustration credits can be found on [this page](008_List_of_Illustration.xhtml).
+Illustration credits can be found on this page.
 
 library of congress cataloging-in-publication data
 
@@ -106,113 +106,113 @@ For Lyuba Vinogradova
 
 # CONTENTS
 
-[List of Maps](007_List_of_Maps.xhtml)
+List of Maps
 
-[List of Illustrations](008_List_of_Illustration.xhtml)
+List of Illustrations
 
-[Foreword](010_Foreword.xhtml)
+Foreword
 
-[PART ONE: 1912–1917](011_Part_One_1912_1917.xhtml)
+PART ONE: 1912–1917
 
-[1. The Suicide of Europe 1912–1916](012_1_The_Suicide_of_Eur.xhtml)
+1. The Suicide of Europe 1912–1916
 
-[2. The February Revolution January–March 1917](013_2_The_February_Revol.xhtml)
+2. The February Revolution January–March 1917
 
-[3. The Fall of the Double-Headed Eagle February–March 1917](014_3_The_Fall_of_the_Do.xhtml)
+3. The Fall of the Double-Headed Eagle February–March 1917
 
-[4. From Autocracy to Chaos March–April 1917](015_4_From_Autocracy_to_.xhtml)
+4. From Autocracy to Chaos March–April 1917
 
-[5. The Pregnant Widow March–May 1917](016_5_The_Pregnant_Widow.xhtml)
+5. The Pregnant Widow March–May 1917
 
-[6. The Kerensky Offensive and the July Days June–July 1917](017_6_The_Kerensky_Offen.xhtml)
+6. The Kerensky Offensive and the July Days June–July 1917
 
-[7. Kornilov July–September 1917](018_7_Kornilov.xhtml)
+7. Kornilov July–September 1917
 
-[8. The October Coup September–November 1917](019_8_The_October_Coup.xhtml)
+8. The October Coup September–November 1917
 
-[9. The Boys’ Crusade – Revolt of the *Junkers* October–November 1917](020_9_The_Boys_Crusade_R.xhtml)
+9. The Boys’ Crusade – Revolt of the *Junkers* October–November 1917
 
-[10. The Infanticide of Democracy November–December 1917](021_10_The_Infanticide_o.xhtml)
+10. The Infanticide of Democracy November–December 1917
 
-[PART TWO: 1918](022_Part_Two_1918.xhtml)
+PART TWO: 1918
 
-[11. Breaking the Mould January–February 1918](023_11_Breaking_the_Moul.xhtml)
+11. Breaking the Mould January–February 1918
 
-[12. Brest-Litovsk December 1917–March 1918](024_12_Brest-Litovsk.xhtml)
+12. Brest-Litovsk December 1917–March 1918
 
-[13. The Volunteer Army’s Ice March January–March 1918](025_13_The_Volunteer_Arm.xhtml)
+13. The Volunteer Army’s Ice March January–March 1918
 
-[14. The Germans March In March–April 1918](026_14_The_Germans_March.xhtml)
+14. The Germans March In March–April 1918
 
-[15. Enemies on the Periphery Spring and Summer 1918](027_15_Enemies_on_the_Pe.xhtml)
+15. Enemies on the Periphery Spring and Summer 1918
 
-[16. The Czechs and Left Socialist Revolutionaries Revolt May–July 1918](028_16_The_Czechs_and_Le.xhtml)
+16. The Czechs and Left Socialist Revolutionaries Revolt May–July 1918
 
-[17. Red Terror Summer 1918](029_17_Red_Terror.xhtml)
+17. Red Terror Summer 1918
 
-[18. Fighting on the Volga and the Red Army Summer 1918](030_18_Fighting_on_the_V.xhtml)
+18. Fighting on the Volga and the Red Army Summer 1918
 
-[19. From the Volga to Siberia Autumn 1918](031_19_From_the_Volga_to.xhtml)
+19. From the Volga to Siberia Autumn 1918
 
-[20. The Central Powers Depart Autumn–Winter 1918](032_20_The_Central_Power.xhtml)
+20. The Central Powers Depart Autumn–Winter 1918
 
-[21. The Baltic and Northern Russia Autumn–Winter 1918](033_21_The_Baltic_and_No.xhtml)
+21. The Baltic and Northern Russia Autumn–Winter 1918
 
-[PART THREE: 1919](034_Part_Three_1919.xhtml)
+PART THREE: 1919
 
-[22. The Fatal Compromise January–March 1919](035_22_The_Fatal_Comprom.xhtml)
+22. The Fatal Compromise January–March 1919
 
-[23. Siberia January–May 1919](036_23_Siberia.xhtml)
+23. Siberia January–May 1919
 
-[24. Don and Ukraine April–June 1919](037_24_Don_and_Ukraine.xhtml)
+24. Don and Ukraine April–June 1919
 
-[25. Murmansk and Arkhangel Spring and Summer 1919](038_25_Murmansk_and_Arkh.xhtml)
+25. Murmansk and Arkhangel Spring and Summer 1919
 
-[26. Siberia June–September 1919](039_26_Siberia.xhtml)
+26. Siberia June–September 1919
 
-[27. Baltic Summer May–August 1919](040_27_Baltic_Summer.xhtml)
+27. Baltic Summer May–August 1919
 
-[28. The March on Moscow July–October 1919](041_28_The_March_on_Mosc.xhtml)
+28. The March on Moscow July–October 1919
 
-[29. Baltic Surprise Autumn 1919](042_29_Baltic_Surprise.xhtml)
+29. Baltic Surprise Autumn 1919
 
-[30. Siberian Retreat September–December 1919](043_30_Siberian_Retreat.xhtml)
+30. Siberian Retreat September–December 1919
 
-[31. The Turning Point September–November 1919](044_31_The_Turning_Point.xhtml)
+31. The Turning Point September–November 1919
 
-[32. Retreat in the South November–December 1919](045_32_Retreat_in_the_So.xhtml)
+32. Retreat in the South November–December 1919
 
-[PART FOUR: 1920](046_Part_Four_1920.xhtml)
+PART FOUR: 1920
 
-[33. The Great Siberian Ice March December 1919–February 1920](047_33_The_Great_Siberia.xhtml)
+33. The Great Siberian Ice March December 1919–February 1920
 
-[34. The Fall of Odessa January 1920](048_34_The_Fall_of_Odess.xhtml)
+34. The Fall of Odessa January 1920
 
-[35. The Last Hurrah of the White Cavalry January–March 1920](049_35_The_Last_Hurrah_o.xhtml)
+35. The Last Hurrah of the White Cavalry January–March 1920
 
-[36. Wrangel Takes Command and the Poles Take Kiev Spring and Summer 1920](050_36_Wrangel_Takes_Com.xhtml)
+36. Wrangel Takes Command and the Poles Take Kiev Spring and Summer 1920
 
-[37. Poles in the West, Wrangel in the South June–September 1920](051_37_Poles_in_the_West.xhtml)
+37. Poles in the West, Wrangel in the South June–September 1920
 
-[38. The Miracle on the Vistula August–September 1920](052_38_The_Miracle_on_th.xhtml)
+38. The Miracle on the Vistula August–September 1920
 
-[39. The Riviera of Hades September–December 1920](053_39_The_Riviera_of_Ha.xhtml)
+39. The Riviera of Hades September–December 1920
 
-[40. The Death of Hope 1920–1921](054_40_The_Death_of_Hope.xhtml)
+40. The Death of Hope 1920–1921
 
-[Conclusion: The Devil’s Apprentice](055_Conclusion_The_Devil.xhtml)
+Conclusion: The Devil’s Apprentice
 
-[Glossary](056_Glossary.xhtml)
+Glossary
 
-[Acknowledgements](057_Acknowledgements.xhtml)
+Acknowledgements
 
-[Abbreviations](058_Abbreviations.xhtml)
+Abbreviations
 
-[Notes](059_Notes.xhtml)
+Notes
 
-[Bibliography](060_Bibliography.xhtml)
+Bibliography
 
-[Index](062_Index.xhtml)
+Index
 
 ---
 
@@ -220,31 +220,31 @@ For Lyuba Vinogradova
 
 # MAPS
 
-[1](009_Map.xhtml#image_page_xiv): Russian Empire 1914
+1: Russian Empire 1914
 
-[2](013_2_The_February_Revol.xhtml#image_page_18): Petrograd in 1917
+2: Petrograd in 1917
 
-[3](017_6_The_Kerensky_Offen.xhtml#image_page_64): The Kerensky Offensive – July Retreat
+3: The Kerensky Offensive – July Retreat
 
-[4](024_12_Brest-Litovsk.xhtml#image_page_151): Finland and the Baltic states
+4: Finland and the Baltic states
 
-[5](024_12_Brest-Litovsk.xhtml#image_page_157): The German Advance and Occupation March–November 1918
+5: The German Advance and Occupation March–November 1918
 
-[6](025_13_The_Volunteer_Arm.xhtml#image_page_167): The Ice March – The First Kuban Campaign
+6: The Ice March – The First Kuban Campaign
 
-[7](027_15_Enemies_on_the_Pe.xhtml#image_page_188): Allied Occupation of Arkhangel
+7: Allied Occupation of Arkhangel
 
-[8](027_15_Enemies_on_the_Pe.xhtml#image_page_198): The Caspian
+8: The Caspian
 
-[9](031_19_From_the_Volga_to.xhtml#image_page_241): Volga and Caucasus
+9: Volga and Caucasus
 
-[10](037_24_Don_and_Ukraine.xhtml#image_page_303): Summer 1919, the White Army’s Advance
+10: Summer 1919, the White Army’s Advance
 
-[11](039_26_Siberia.xhtml#image_page_324): Kolchak’s Retreat 1919
+11: Kolchak’s Retreat 1919
 
-[12](044_31_The_Turning_Point.xhtml#image_page_384): The Red Army’s Revenge and Denikin’s Retreat
+12: The Red Army’s Revenge and Denikin’s Retreat
 
-[13](050_36_Wrangel_Takes_Com.xhtml#image_page_449): The Polish-Soviet War and the End of the Whites 1920
+13: The Polish-Soviet War and the End of the Whites 1920
 
 ---
 
@@ -252,85 +252,85 @@ For Lyuba Vinogradova
 
 # ILLUSTRATIONS
 
-[1](012_1_The_Suicide_of_Eur.xhtml#image_page_13_0): Rasputin and the Tsar and Tsarina. Alamy / World History Archive.
+1: Rasputin and the Tsar and Tsarina. Alamy / World History Archive.
 
-[2](012_1_The_Suicide_of_Eur.xhtml#image_page_13_1): Prince and Princess Yusupov. Alamy / The History Collection.
+2: Prince and Princess Yusupov. Alamy / The History Collection.
 
-[3](015_4_From_Autocracy_to_.xhtml#image_page_36): Meeting of the Petrograd Soviet in 1917. Alamy / Pictoral Press Ltd.
+3: Meeting of the Petrograd Soviet in 1917. Alamy / Pictoral Press Ltd.
 
-[4](015_4_From_Autocracy_to_.xhtml#image_page_44): Bolshevik poster hailing the Red Fleet. Bridgeman Images / Tobie Mathew.
+4: Bolshevik poster hailing the Red Fleet. Bridgeman Images / Tobie Mathew.
 
-[5](018_7_Kornilov.xhtml#image_page_81): General Lavr Kornilov and Boris Savinkov. Topfoto / Sputnik.
+5: General Lavr Kornilov and Boris Savinkov. Topfoto / Sputnik.
 
-[6](018_7_Kornilov.xhtml#image_page_82): General Kornilov hailed as a hero, 12 August 1917. Alamy / Historic Collection.
+6: General Kornilov hailed as a hero, 12 August 1917. Alamy / Historic Collection.
 
-[7](023_11_Breaking_the_Moul.xhtml#image_page_140): Women of the ‘former classes’ sell their last possessions. Getty Images / Slava Katamidze Collection.
+7: Women of the ‘former classes’ sell their last possessions. Getty Images / Slava Katamidze Collection.
 
-[8](025_13_The_Volunteer_Arm.xhtml#image_page_160): General M.V. Alekseev. Alamy / Archive PL.
+8: General M.V. Alekseev. Alamy / Archive PL.
 
-[9](025_13_The_Volunteer_Arm.xhtml#image_page_162): The ‘Railway War’. Bridgeman Images / The Stapleton Collection.
+9: The ‘Railway War’. Bridgeman Images / The Stapleton Collection.
 
-[10](025_13_The_Volunteer_Arm.xhtml#image_page_174): Colonel V.G. Buizin with his wife, V.I. Buizina. Russian State Archive of Film and Photography, Krasnogorsk.
+10: Colonel V.G. Buizin with his wife, V.I. Buizina. Russian State Archive of Film and Photography, Krasnogorsk.
 
-[11](026_14_The_Germans_March.xhtml#image_page_176): March 1918, German divisions march into Kiev. Bridgeman Images / Sputnik.
+11: March 1918, German divisions march into Kiev. Bridgeman Images / Sputnik.
 
-[12](027_15_Enemies_on_the_Pe.xhtml#image_page_193): Josef Stalin as commissar of the 10th Army in Tsaritsyn. Alamy / Süddeutsche Zeitung Photo.
+12: Josef Stalin as commissar of the 10th Army in Tsaritsyn. Alamy / Süddeutsche Zeitung Photo.
 
-[13](027_15_Enemies_on_the_Pe.xhtml#image_page_195): Colonel Andrei Shkuro with his wolfskin *papaha.* Alamy / Alto Vintage Images.
+13: Colonel Andrei Shkuro with his wolfskin *papaha.* Alamy / Alto Vintage Images.
 
-[14](028_16_The_Czechs_and_Le.xhtml#image_page_208): General Radola Gajda. Alamy / Eraza Collection.
+14: General Radola Gajda. Alamy / Eraza Collection.
 
-[15](028_16_The_Czechs_and_Le.xhtml#image_page_210): Russian revolutionary women. Maria Spriridonova with five comrades. Getty Images / Bob Thomas / Popperfoto.
+15: Russian revolutionary women. Maria Spriridonova with five comrades. Getty Images / Bob Thomas / Popperfoto.
 
-[16](030_18_Fighting_on_the_V.xhtml#image_page_226): The Red Volga flotilla commanded by Fyodor Raskolnikov. Alamy / Keystone Press.
+16: The Red Volga flotilla commanded by Fyodor Raskolnikov. Alamy / Keystone Press.
 
-[17](030_18_Fighting_on_the_V.xhtml#image_page_229): M.N. Tukhachevsky. Alamy / Chronicle.
+17: M.N. Tukhachevsky. Alamy / Chronicle.
 
-[18](031_19_From_the_Volga_to.xhtml#image_page_249): American troops land in Vladivostok. Alamy / Pictoral Press Ltd.
+18: American troops land in Vladivostok. Alamy / Pictoral Press Ltd.
 
-[19](031_19_From_the_Volga_to.xhtml#image_page_250): Major General Graves meets Ataman Semenov. Alamy / Alamy Stock Photo.
+19: Major General Graves meets Ataman Semenov. Alamy / Alamy Stock Photo.
 
-[20](032_20_The_Central_Power.xhtml#image_page_259): General Vladimir Mai-Maevsky. Alamy / Reading Room 2020.
+20: General Vladimir Mai-Maevsky. Alamy / Reading Room 2020.
 
-[21](032_20_The_Central_Power.xhtml#image_page_260): Nestor Makhno. Alamy / Album.
+21: Nestor Makhno. Alamy / Album.
 
-[22](033_21_The_Baltic_and_No.xhtml#image_page_271): General Nikolai Yudenich and General Aleksandr Rodzyanko. Alamy / Yogi Black.
+22: General Nikolai Yudenich and General Aleksandr Rodzyanko. Alamy / Yogi Black.
 
-[23](035_22_The_Fatal_Comprom.xhtml#image_page_288): Vladimir Lenin and Leon Trotsky in Red Square, 1919. Alamy / mccool.
+23: Vladimir Lenin and Leon Trotsky in Red Square, 1919. Alamy / mccool.
 
-[24](036_23_Siberia.xhtml#image_page_293): American Red Cross hospital train. National Museum of the U.S. Navy, Public domain, via Wikimedia Commons.
+24: American Red Cross hospital train. National Museum of the U.S. Navy, Public domain, via Wikimedia Commons.
 
-[25](037_24_Don_and_Ukraine.xhtml#image_page_308): The White armoured train United Russia. Alamy / Süddeutsche Zeitung Photo.
+25: The White armoured train United Russia. Alamy / Süddeutsche Zeitung Photo.
 
-[26](037_24_Don_and_Ukraine.xhtml#image_page_310): British armoured cars at Tsaritsyn. Alamy / Reading Room 2020.
+26: British armoured cars at Tsaritsyn. Alamy / Reading Room 2020.
 
-[27](037_24_Don_and_Ukraine.xhtml#image_page_312_1): General Anton Denikin. Alamy / Chronicle.
+27: General Anton Denikin. Alamy / Chronicle.
 
-[28](037_24_Don_and_Ukraine.xhtml#image_page_312_0): General Baron Pyotr Wrangel. Alamy / Heritage Image Partnership Ltd.
+28: General Baron Pyotr Wrangel. Alamy / Heritage Image Partnership Ltd.
 
-[29](037_24_Don_and_Ukraine.xhtml#image_page_313): Denikin announces the ‘Moscow Directive’ in Tsaritsyn. Russian State Archive of Film and Photography, Krasnogorsk.
+29: Denikin announces the ‘Moscow Directive’ in Tsaritsyn. Russian State Archive of Film and Photography, Krasnogorsk.
 
-[30](039_26_Siberia.xhtml#image_page_326): The Supreme Ruler, Admiral Kolchak. Getty Images / Universal History Archive.
+30: The Supreme Ruler, Admiral Kolchak. Getty Images / Universal History Archive.
 
-[31](040_27_Baltic_Summer.xhtml#image_page_338): General Johan Laidoner visits Bulak-Balakhovich. Alamy / Historic Images.
+31: General Johan Laidoner visits Bulak-Balakhovich. Alamy / Historic Images.
 
-[32](043_30_Siberian_Retreat.xhtml#image_page_371): Admiral Kolchak and his lover, the poet Anna Timieryova. Alamy / Heritage Image Partnership Ltd.
+32: Admiral Kolchak and his lover, the poet Anna Timieryova. Alamy / Heritage Image Partnership Ltd.
 
-[33](045_32_Retreat_in_the_So.xhtml#image_page_404): General Yakov Slashchov. Alamy / History and Art Collection.
+33: General Yakov Slashchov. Alamy / History and Art Collection.
 
-[34](049_35_The_Last_Hurrah_o.xhtml#image_page_438): Don Cossacks on the deck of HMS *Emperor of India* after their evacuation. Alamy / Chronicle.
+34: Don Cossacks on the deck of HMS *Emperor of India* after their evacuation. Alamy / Chronicle.
 
-[35](051_37_Poles_in_the_West.xhtml#image_page_454): Red Army men with a British Mark V tank. Alamy / CPA Media Pte Ltd.
+35: Red Army men with a British Mark V tank. Alamy / CPA Media Pte Ltd.
 
-[36](052_38_The_Miracle_on_th.xhtml#image_page_469): Budyonny’s 1st Cavalry Army, or Konarmiya. Alamy / Photo 12.
+36: Budyonny’s 1st Cavalry Army, or Konarmiya. Alamy / Photo 12.
 
-[37](052_38_The_Miracle_on_th.xhtml#image_page_472): Marshal Józef Piłsudski. Alamy / Pictoral Press Ltd.
+37: Marshal Józef Piłsudski. Alamy / Pictoral Press Ltd.
 
-[38](053_39_The_Riviera_of_Ha.xhtml#image_page_483): Budyonny, Frunze and Voroshilov, Crimea, 1920. Alamy / Süddeutsche Zeitung Photo.
+38: Budyonny, Frunze and Voroshilov, Crimea, 1920. Alamy / Süddeutsche Zeitung Photo.
 
-[39](054_40_The_Death_of_Hope.xhtml#image_page_493): Starvation in western Siberia. Alamy / ITAR-TASS News Agency.
+39: Starvation in western Siberia. Alamy / ITAR-TASS News Agency.
 
-[40](054_40_The_Death_of_Hope.xhtml#image_page_500): Tukhachesky’s troops crushing the Kronstadt uprising. Topfoto / Sputnik.
+40: Tukhachesky’s troops crushing the Kronstadt uprising. Topfoto / Sputnik.
 
 ---
 
@@ -426,11 +426,11 @@ Officers offered hard-up women students in Odessa hundreds of roubles for nude p
 
 While officers cavorted, ordinary soldiers were not allowed to see their wives, even in areas far behind the front. Evdokiya Merkulova, the illiterate young wife of a Cossack in the 9th Independent Don Sotnia did not know the regulations and went to visit her husband in early December 1916. She had the courage to make a formal complaint afterwards about her treatment by his squadron commander. ‘Commander of the *sotnia* Mikhail Rysakov soon learned about my arrival,’ her dictated testimony ran. ‘I don’t know why, but on 5 December he ordered the *sotnia* to form up on parade and made me lie face down in front of them. Two Cossacks were ordered to roll up my skirt and undershirt and hold my arms and legs. The commander ordered my husband to whip me fifteen times on my naked body. He personally controlled the execution of the punishment and threatened my husband, saying that the strokes should be applied with full strength, and on the skin rather than clothes. My husband was afraid of his chief and administered bloody strokes that are still healing. I was then sent back across the Don with an escort.’
 
-As cannon-fodder, the peasant-soldier hated the war, the mud, the lice, the bad food and the scurvy. Dr Kravkov despaired of their diet. ‘Another delivery of foodstuffs has arrived, this time from Orenburg,’ he noted in his diary. ‘It consisted of 1,000 poods[[\*]](064_Footnote.xhtml#footnote_1 "footnote") of hams and sausage, all of it rotten! The whole of our mother Russia is rotting away.’
+As cannon-fodder, the peasant-soldier hated the war, the mud, the lice, the bad food and the scurvy. Dr Kravkov despaired of their diet. ‘Another delivery of foodstuffs has arrived, this time from Orenburg,’ he noted in his diary. ‘It consisted of 1,000 poods[\*] of hams and sausage, all of it rotten! The whole of our mother Russia is rotting away.’
 
 The rainy season came in October 1916 with a vengeance which disturbed Kravkov. ‘Dr Tolchenov, whom I had dispatched to the positions to investigate the sanitary conditions, gave a hair-raising report on the horrible situation in which our unfortunate soldiers are living: in mud that reaches up to their waist, with no shelter from bad weather, with no warm clothes, hot food or tea.’ Two weeks later he wrote: ‘We received reinforcements, boys that are green behind the ears. They were sent into a bayonet attack on the following day . . . It was a stunning scene when many of them, who did not want to die, cried out in despair: “Mama!”.’ The military authorities suppressed news of mutinies which were ruthlessly put down.
 
-That winter in Petrograd, criticism of the government did not come just from liberals and the Left. Arch-conservatives, such as the politician Vasily Shulgin, were appalled by the irresponsibility of the rich, indifferent to the fact that Russian casualties were running at twice the rate of their German and Austro-Hungarian enemies. ‘And here we are,’ he wrote bitterly, ‘dancing the “last tango” on the breastworks of trenches choked with corpses.’ Shulgin was infuriated by the rumours and conspiracy theories which ran around the capital’s salons, especially the ‘chatter about treason’. He blamed the leader of the Kadet Party, Pavel Milyukov, for his sensational speech when the State Duma reconvened on 1 November.[[\*]](065_Footnote.xhtml#footnote_2 "footnote") Milyukov’s savage attacks on the Tsar’s ministers astonished those present because he was usually so moderate. Now, he openly denounced ‘occult forces fighting for the benefit of Germany’. To great cheers, after each example of incompetence he hammered in the rhetorical question: ‘And what is this? Stupidity or treason?’
+That winter in Petrograd, criticism of the government did not come just from liberals and the Left. Arch-conservatives, such as the politician Vasily Shulgin, were appalled by the irresponsibility of the rich, indifferent to the fact that Russian casualties were running at twice the rate of their German and Austro-Hungarian enemies. ‘And here we are,’ he wrote bitterly, ‘dancing the “last tango” on the breastworks of trenches choked with corpses.’ Shulgin was infuriated by the rumours and conspiracy theories which ran around the capital’s salons, especially the ‘chatter about treason’. He blamed the leader of the Kadet Party, Pavel Milyukov, for his sensational speech when the State Duma reconvened on 1 November.[\*] Milyukov’s savage attacks on the Tsar’s ministers astonished those present because he was usually so moderate. Now, he openly denounced ‘occult forces fighting for the benefit of Germany’. To great cheers, after each example of incompetence he hammered in the rhetorical question: ‘And what is this? Stupidity or treason?’
 
 The pervasive corruption in the capital shocked idealistic young officers at the front. ‘Everyone knows that all kinds of swindlers at the establishment of Grand Duchess Maria Pavlovna arrange safe positions in exchange for bribes,’ a young cavalry officer in the Seventh Army wrote to his fiancée, who wanted to secure a post for him in the rear. ‘But I implore you to not bribe anyone. I want to live and die a nobleman.’
 
@@ -442,7 +442,7 @@ One of the main reasons the Tsar immersed himself at the *Stavka* in Mogilev was
 
 In that winter of 1916, nobody at Mogilev dared tell the Tsar of the rumours in Petrograd. Revolutionary pamphlets about Rasputin had started to appear, such as ‘The Adventures of Grishka’, hinting at orgies with the Tsarina and even her daughters. These pornographic fantasies were reminiscent of those other caricatures more than a century earlier in Paris against Marie Antoinette and the Princesse de Lamballe. Inevitably, such grotesque stories turned Rasputin, the supposed peasant-debaucher of grandees, into something of a folk hero.
 
-Rasputin’s murder on 17 December by Prince Feliks Yusupov, Grand Duke Dmitry Pavlovich and Vladimir Purishkevich, the leader of the anti-Semitic Black Hundreds,[[\*]](066_Footnote.xhtml#footnote_3 "footnote") increased the impression of aristocratic corruption in the capital. The idea of Yusupov using his wife Irina, the beautiful niece of the Tsar, as bait for the lecherous monk added a salacious twist to the drama. The public’s imagination was gripped above all by the difficulties the conspirators had in killing Rasputin, with poisoned cakes and several revolver shots, then finally disposing of his huge body through an ice hole below a bridge so that it was not found for two days.
+Rasputin’s murder on 17 December by Prince Feliks Yusupov, Grand Duke Dmitry Pavlovich and Vladimir Purishkevich, the leader of the anti-Semitic Black Hundreds,[\*] increased the impression of aristocratic corruption in the capital. The idea of Yusupov using his wife Irina, the beautiful niece of the Tsar, as bait for the lecherous monk added a salacious twist to the drama. The public’s imagination was gripped above all by the difficulties the conspirators had in killing Rasputin, with poisoned cakes and several revolver shots, then finally disposing of his huge body through an ice hole below a bridge so that it was not found for two days.
 
 The profound cynicism which developed in the rear created a dangerous apathy. An officer called Fedulenko, back from the front, was invited by his colonel to a lunch. ‘Two Guards officers were sitting next to us,’ he recorded. ‘They began to talk about Rasputin; I was shocked by their talk.’ They repeated gossip about the Tsarina and Rasputin and said that the Tsar was a weakling. ‘As I was returning to Oranienbaum with the colonel afterwards, I asked why such a filthy thing was allowed, why these two young men who were shaming their Emperor had not been stopped. They had been talking in Russian right in front of the servants who could understand them.’ The colonel made a gesture of resignation with his hand. ‘Ah,’ he said. ‘The downfall is already beginning. A horrible time lies ahead.’ Dr Kravkov had no doubts at all. ‘Whatever the outcome of the war, there is going to be a revolution.’
 
@@ -478,7 +478,7 @@ Even the Tsarina’s own sister, the abbess of the Martha and Mary Convent in Mo
 
 On Russian New Year’s Eve, the tall and elegant British ambassador Sir George Buchanan went to see the Tsar. His Imperial Majesty evidently had a clear idea of what Buchanan intended to say. Instead of inviting him into his study to sit and smoke together according to their usual routine, he received him standing stiffly in the audience chamber.
 
-Sir George opened by expressing how concerned King George V and the British government were at the situation in Russia. He then asked if he might speak frankly. ‘I am listening,’ the Tsar answered curtly. Buchanan was indeed frank. He spoke of the chaotic administration of the war which had led to such massive casualties. He urged that a politician from the Duma should head the government rather than a royal appointee. The only chance for the regime to survive was ‘to break down the barrier that separates you from your people and to regain their confidence’. The Tsar stiffened. ‘You say, ambassador, that I must earn the confidence of my people. Is it not up to my people to earn my confidence?’[[\*]](067_Footnote.xhtml#footnote_1 "footnote") Buchanan, albeit with exquisite politeness, even raised the question of enemy agents and Germanophile influences around the Tsarina. He said that it was his duty to ‘warn your Majesty of the abyss that lies ahead of you’. Buchanan suddenly noticed that the door to the private apartments was ajar. He sensed that the Tsarina was listening to every word.
+Sir George opened by expressing how concerned King George V and the British government were at the situation in Russia. He then asked if he might speak frankly. ‘I am listening,’ the Tsar answered curtly. Buchanan was indeed frank. He spoke of the chaotic administration of the war which had led to such massive casualties. He urged that a politician from the Duma should head the government rather than a royal appointee. The only chance for the regime to survive was ‘to break down the barrier that separates you from your people and to regain their confidence’. The Tsar stiffened. ‘You say, ambassador, that I must earn the confidence of my people. Is it not up to my people to earn my confidence?’[\*] Buchanan, albeit with exquisite politeness, even raised the question of enemy agents and Germanophile influences around the Tsarina. He said that it was his duty to ‘warn your Majesty of the abyss that lies ahead of you’. Buchanan suddenly noticed that the door to the private apartments was ajar. He sensed that the Tsarina was listening to every word.
 
 ---
 
@@ -544,7 +544,7 @@ In Petrograd, Protopopov summoned Globachev after dinner, not to discuss the cat
 
 \*
 
-Any hope that the Monday morning would see a return to calm and order did not last long. During the night, according to one famous account, Sergeant Kirpichnikov in the Volynsky Guards had persuaded his fellow NCOs that the regiment must refuse orders to march against the workers.[[\*]](068_Footnote.xhtml#footnote_2 "footnote") So, when the officers arrived to find them formed up for duty on the snow-covered parade ground of the Tavrichesky barracks, the sergeant gave a signal. The ranks shouted together ‘We won’t shoot!’ As soon as the officers made threats, the men began pounding their rifle butts on the ground in rhythm. The officers, recognising a full-scale mutiny, turned and ran. A single shot killed their commander.
+Any hope that the Monday morning would see a return to calm and order did not last long. During the night, according to one famous account, Sergeant Kirpichnikov in the Volynsky Guards had persuaded his fellow NCOs that the regiment must refuse orders to march against the workers.[\*] So, when the officers arrived to find them formed up for duty on the snow-covered parade ground of the Tavrichesky barracks, the sergeant gave a signal. The ranks shouted together ‘We won’t shoot!’ As soon as the officers made threats, the men began pounding their rifle butts on the ground in rhythm. The officers, recognising a full-scale mutiny, turned and ran. A single shot killed their commander.
 
 In Communist mythology, this was the incident which brought the Petrograd garrison round to the revolution. Their determination to help the workers was not, however, their only motive. Few wanted to be sent to the front, and everyone knew that an order to that effect was planned for a number of reserve battalions in Petrograd.
 
@@ -620,7 +620,7 @@ In the early hours of 2 March, General Ruzsky at Pskov began negotiations on the
 
 In an attempt to help Ruzsky persuade the Tsar, General Lukomsky, the adjutant-general at Mogilev, convinced General Alekseev to send a signal to all the other commanders-in-chief of fronts as well as the commanders of the Baltic and Black Sea Fleets to ask their opinion. Alekseev agreed. He was naturally concerned that the mutiny in Petrograd would spread to the front and the enemy would exploit it. Generals Evert, Brusilov and the Tsar’s uncle, Grand Duke Nikolai Nikolaevich, all responded in a similar way, expressing their loyalty and devotion to the Tsar and his family, but begging him to abdicate immediately in favour of the Tsarevich, as Rodzyanko suggested. General Sakharov, the commander-in-chief of the Romanian front at Jassy, avoided a reply by having their Hughes apparatus disconnected. Lukomsky was furious when they discovered this. Sakharov, when forced to answer, insisted on seeing the replies of the other commanders-in-chief first.
 
-Sakharov described Rodzyanko’s behaviour as ‘criminal and revolting’ and the proposition of abdication as ‘abominable’. ‘I am certain that it is not the Russian people who have dreamed up this punishment, but a small group of criminals called the State Duma who have perfidiously profited from an opportune moment to achieve their guilty objectives.’ But then he added: ‘I am, as a loyal subject of His Majesty, obliged to say through my tears, that perhaps the decision to accept the conditions mentioned, could be the least painful for the country.’ Sakharov may, of course, have been drunk.[[\*]](069_Footnote.xhtml#footnote_1 "footnote")
+Sakharov described Rodzyanko’s behaviour as ‘criminal and revolting’ and the proposition of abdication as ‘abominable’. ‘I am certain that it is not the Russian people who have dreamed up this punishment, but a small group of criminals called the State Duma who have perfidiously profited from an opportune moment to achieve their guilty objectives.’ But then he added: ‘I am, as a loyal subject of His Majesty, obliged to say through my tears, that perhaps the decision to accept the conditions mentioned, could be the least painful for the country.’ Sakharov may, of course, have been drunk.[\*]
 
 General Ruzsky was finally able to return to the Tsar in the blue and gold imperial train to inform him of the replies. After several minutes of contemplation, the Tsar, finally convinced by the opinion of his generals, as opposed to despised politicians, agreed to abdicate. The *Stavka* at Mogilev was informed and asked to send back a suggested draft to announce the abdication.
 
@@ -634,7 +634,7 @@ The Tsar gave the amended bulletin that evening to two members of the Provisiona
 
 \*
 
-Nicholas’s change of mind about the succession caused consternation in Petrograd. Rodzyanko thought that he had convinced the socialists of the Executive Committee to accept the abdication in favour of the young Tsarevich, with the Grand Duke Mikhail Aleksandrovich as regent. But now the news that such a popular cavalry commander as the Tsar’s younger brother could step straight into absolute power horrified the revolutionaries at the Tauride Palace.[[\*]](070_Footnote.xhtml#footnote_2 "footnote") They feared sudden retribution while the liberals feared chaos and even civil war. Many of the people might have softened towards the idea of the vulnerable boy as a constitutional monarch, but this change was more likely to be seen as a step back towards autocracy.
+Nicholas’s change of mind about the succession caused consternation in Petrograd. Rodzyanko thought that he had convinced the socialists of the Executive Committee to accept the abdication in favour of the young Tsarevich, with the Grand Duke Mikhail Aleksandrovich as regent. But now the news that such a popular cavalry commander as the Tsar’s younger brother could step straight into absolute power horrified the revolutionaries at the Tauride Palace.[\*] They feared sudden retribution while the liberals feared chaos and even civil war. Many of the people might have softened towards the idea of the vulnerable boy as a constitutional monarch, but this change was more likely to be seen as a step back towards autocracy.
 
 Even when a Kadet announced from the gallery of the Catherine Hall that the Tsar was abdicating in favour of his son Aleksei, a future Bolshevik leader recorded the wave of indignation that rolled through the hall. ‘Instead of the enthusiastic shout of “*Urrrra!*”, on which the Kadet speaker had probably counted, there broke from the throats of hundreds of soldiers a unanimous cry of protest: “Down with the Romanovs! Long live the democratic republic!”.’
 
@@ -744,7 +744,7 @@ After he had disappeared, Alekseev handed Tikhobrazov the small sheet of ‘Tsar
 >
 > To remain in Tsarskoe Selo, free, until the complete recovery of my family members;
 >
-> To return to Russia after the termination of the war and stay permanently in the Livadia Palace.[[\*]](071_Footnote.xhtml#footnote_1 "footnote")
+> To return to Russia after the termination of the war and stay permanently in the Livadia Palace.[\*]
 
 ---
 
@@ -902,7 +902,7 @@ Even just seven years after Count Tolstoy’s death, his semi-anarchist communit
 
 The Provisional Government’s first major crisis came in April. It was triggered from within Lvov’s Cabinet by Professor Milyukov, the minister for foreign affairs. As his arguments to maintain the monarchy had shown, the intellectually rigorous, even icy Milyukov disdained the idea of bowing to political necessity. ‘In those turbulent times,’ wrote Paustovsky, ‘he seemed to be a refugee from some other, well-ordered, academic planet.’
 
-The whole question of continuing the war on the side of the Allies against the Central Powers was a fraught subject. The most effective German propaganda at the front claimed that Russia had been forced to stay in the conflict by Britain. Meanwhile, left-wing arguments condemned it as an ‘imperialist’ and ‘capitalist’ war. This played to the anger at the corruption in the capital over government contracts. The Soviet had even launched an ‘Appeal to the Peoples of All the World’ to oppose the war and called for peace without ‘annexations or reparations’. The French government was particularly upset by this because one of its major war aims was to retrieve the provinces of Alsace and Lorraine which they had lost to Germany in 1871.[[\*]](072_Footnote.xhtml#footnote_1 "footnote")
+The whole question of continuing the war on the side of the Allies against the Central Powers was a fraught subject. The most effective German propaganda at the front claimed that Russia had been forced to stay in the conflict by Britain. Meanwhile, left-wing arguments condemned it as an ‘imperialist’ and ‘capitalist’ war. This played to the anger at the corruption in the capital over government contracts. The Soviet had even launched an ‘Appeal to the Peoples of All the World’ to oppose the war and called for peace without ‘annexations or reparations’. The French government was particularly upset by this because one of its major war aims was to retrieve the provinces of Alsace and Lorraine which they had lost to Germany in 1871.[\*]
 
 When the French socialist leader Albert Thomas came to Moscow to make a speech supporting ‘the sacred war alliance’ a Bolshevik demonstration marched down the Tverskoi boulevard in response with placards proclaiming ‘Down with the war!’; ‘Peace to the peasants! War to the landowners!’; ‘All power to the Soviets!’
 
@@ -1074,7 +1074,7 @@ Trotsky climbed up onto the car and addressed the sailors who fell silent on rec
 
 \*
 
-In the early hours of 5 July, after arguments which lasted through the night, Lenin finally persuaded the Central Committee to call off the demonstrations. But that very morning, the right-wing ‘reptile press’ enjoyed its revenge. The army’s counter-intelligence department had been gathering evidence for the Provisional Government on Bolshevik sources of finance. Without permission, they had passed their most sensational findings to the newspapers, which published accusations that Lenin had received ‘German gold’. Lenin was never a German agent as the papers claimed, on the other hand, he would have had no scruples about accepting large sums of German money to develop the increasingly powerful Bolshevik press empire.[[\*]](073_Footnote.xhtml#footnote_1 "footnote")
+In the early hours of 5 July, after arguments which lasted through the night, Lenin finally persuaded the Central Committee to call off the demonstrations. But that very morning, the right-wing ‘reptile press’ enjoyed its revenge. The army’s counter-intelligence department had been gathering evidence for the Provisional Government on Bolshevik sources of finance. Without permission, they had passed their most sensational findings to the newspapers, which published accusations that Lenin had received ‘German gold’. Lenin was never a German agent as the papers claimed, on the other hand, he would have had no scruples about accepting large sums of German money to develop the increasingly powerful Bolshevik press empire.[\*]
 
 Police and groups of ‘*junker*’ officer cadets raided the offices of *Pravda* that morning and the Party’s headquarters in the Kshesinskaya mansion on the following day. Raskolnikov, Lunacharsky, Kamenev and Trotsky were soon arrested, but Lenin and Zinoviev slipped away. Ironically, Konstantin Globachev, the former head of the Okhrana and now a prisoner of the Provisional Government, noted that some arrested Bolsheviks brought to his prison were locked in a separate cell. This was because the head warder suspected that some of the guards were Bolsheviks themselves. When the arrested Bolsheviks were searched, several were found to possess forged ten-rouble notes, which allegedly had been provided to the Party by the German government.
 
@@ -1236,7 +1236,7 @@ Railway workers had already mobilised to halt the troop trains, just as they had
 
 \*
 
-Kerensky’s denunciation of Kornilov triggered more attacks on officers by their soldiers, convinced that they were all secret counter-revolutionaries. In Finland, the commander of the XLII Corps, General Oganovsky and most of his staff were seized, as the Cossack officer Maksim Kulik witnessed. ‘The agitated crowd of soldiers assembled, for some reason, on the bridge that connected the two parts of Vyborg. They dragged over the corps commander and other officers, allegedly to have them declare to the gathering whether they supported Kerensky’s government, or “traitor” Kornilov. After that the soldiers started throwing their captives into the gulf. When the officers tried to swim they were shot with rifles. The brutalized crowd accompanied these atrocities with jeers and roaring laughter. They were probably shocked by their own brutality, because soon after the execution the crowd went back to their barracks, and the bridge emptied.’[[\*]](074_Footnote.xhtml#footnote_1 "footnote")
+Kerensky’s denunciation of Kornilov triggered more attacks on officers by their soldiers, convinced that they were all secret counter-revolutionaries. In Finland, the commander of the XLII Corps, General Oganovsky and most of his staff were seized, as the Cossack officer Maksim Kulik witnessed. ‘The agitated crowd of soldiers assembled, for some reason, on the bridge that connected the two parts of Vyborg. They dragged over the corps commander and other officers, allegedly to have them declare to the gathering whether they supported Kerensky’s government, or “traitor” Kornilov. After that the soldiers started throwing their captives into the gulf. When the officers tried to swim they were shot with rifles. The brutalized crowd accompanied these atrocities with jeers and roaring laughter. They were probably shocked by their own brutality, because soon after the execution the crowd went back to their barracks, and the bridge emptied.’[\*]
 
 As part of this ‘spree of violence’, four officers from the battleship *Petropavlovsk*, who were sent ashore ‘to be at the disposal of the Revolutionary Committee of Finland, were killed by their guards on the dockside’. Their crime was to have answered ‘No’, when asked whether they would obey the Executive Committee of the Soviet of Workers’ and Soldiers’ Deputies.
 
@@ -1292,7 +1292,7 @@ During September, support for the Bolsheviks increased sharply among factory wor
 
 The Central Committee, however, was deeply alarmed. A premature attempt could allow Kerensky to suppress the Party entirely. Lenin turned that argument around, insisting that the threat of being crushed was a reason to move immediately. His real concern was that if they waited until the Soviet Congress in October, the Bolsheviks might have to share power with the Mensheviks and Socialist Revolutionaries, whom he despised as ‘compromisers’. More than ever, Lenin wanted sole control.
 
-Even Trotsky was unsettled by Lenin’s raging impatience to mount a coup straight away. ‘Distrust of the Bolshevik had been replaced by sympathy,’ Trotsky wrote, ‘or at the worst by a watchful neutrality. But the sympathy was not active. The garrison remained in a political sense extremely shaky and – as *muzhiks* are – suspicious.’ He estimated that not more than 1,000 soldiers were ‘ready to fight on the side of the revolution . . . among the more passive units’. His hopes lay much more with the Red Guards – ‘no longer a militia of the factories and workers’ districts, but the cadres of a future army of insurrection’.[[\*]](075_Footnote.xhtml#footnote_1 "footnote")
+Even Trotsky was unsettled by Lenin’s raging impatience to mount a coup straight away. ‘Distrust of the Bolshevik had been replaced by sympathy,’ Trotsky wrote, ‘or at the worst by a watchful neutrality. But the sympathy was not active. The garrison remained in a political sense extremely shaky and – as *muzhiks* are – suspicious.’ He estimated that not more than 1,000 soldiers were ‘ready to fight on the side of the revolution . . . among the more passive units’. His hopes lay much more with the Red Guards – ‘no longer a militia of the factories and workers’ districts, but the cadres of a future army of insurrection’.[\*]
 
 ---
 
@@ -1322,7 +1322,7 @@ Tension increased in other Russian cities as the storm clouds gathered. In Mosco
 
 Descriptions in Trotsky’s account of nightly Cossack mounted patrols in the proletarian districts of Petrograd and the reinforcement of the Winter Palace were grossly exaggerated. This was part of the Bolsheviks’ false narrative that the Military Revolutionary Committee was not the instigator, but reacting to a threat from the Right. It ran with their false rumour that Kerensky was planning to surrender Petrograd to the Germans to smash the revolution.
 
-Trotsky talked of cold and raw Baltic winds from the direction of Kronstadt blowing through the squares and along the quays of Petrograd. This was his way of threatening the bourgeoisie with the much-feared sailors of the Baltic Fleet. In this period of autumn rain streets had turned to mud. Mass meetings were permeated by the smell of damp wool from the sodden sheepskin caps and grey greatcoats of the soldiers, as well as the woollen shawls covering the heads of women. Meanwhile, according to General Alekseev, the large number of demoralised officers, of whom there would have been enough in Petrograd to resist the coup if they had been organised, relapsed into drunken despair.[[\*]](076_Footnote.xhtml#footnote_2 "footnote")
+Trotsky talked of cold and raw Baltic winds from the direction of Kronstadt blowing through the squares and along the quays of Petrograd. This was his way of threatening the bourgeoisie with the much-feared sailors of the Baltic Fleet. In this period of autumn rain streets had turned to mud. Mass meetings were permeated by the smell of damp wool from the sodden sheepskin caps and grey greatcoats of the soldiers, as well as the woollen shawls covering the heads of women. Meanwhile, according to General Alekseev, the large number of demoralised officers, of whom there would have been enough in Petrograd to resist the coup if they had been organised, relapsed into drunken despair.[\*]
 
 Glittering Petrograd was a caricature that had worn very thin since February, but Trotsky still found it useful. ‘Guards officers still click their spurs and go after adventures,’ he wrote. ‘Wild parties are in progress in the private dining rooms of expensive restaurants. The shutting off of the electric lights at midnight does not prevent the flourishing of gambling clubs where Champagne sparkles by candlelight, where illustrious speculators swindle no less illustrious German spies, where monarchist conspirators call the bets of Semitic smugglers, and where the astronomical figures of the stakes played for indicate both the scale of debauchery and the scale of inflation.’
 
@@ -1336,7 +1336,7 @@ Trotsky, meanwhile, was paying particular attention to the armoured car division
 
 Early the next morning, Tuesday 24 October, the Military Staff in Petrograd sent a company of young ‘*junker*’ officer cadets to close the Bolshevik Party’s printing presses. An order was also issued to arrest the members of Trotsky’s Military Revolutionary Committee, but by then it was far too late. All the government managed to achieve was to raise the bridges over the Neva to impede mass demonstrations from flooding the centre of Petrograd. Other *junker* detachments from the Ivanovsky Military Academy were sent to defend the Winter Palace. They were reinforced by a bicycle company, a few Cossacks and two reinforced companies from the Women’s Death Battalion, making a force of less than 1,500.
 
-At 3 a.m. on Wednesday 25 October, the light cruiser *Aurora* arrived from Kronstadt, entered the Neva and anchored just below the Nikolaevsky Bridge. Still before dawn, Red Guards began occupying key buildings, railway stations and disarming *junker* pickets on the bridges. Trotsky claimed that the central telephone exchange was captured by an infantry company without a battle, while a detachment of sailors occupied the state bank.[[\*]](077_Footnote.xhtml#footnote_3 "footnote") In fact, a group of *junkers* had arrived first to seize the telephone exchange on Gorokhovaya ulitsa, running up towards the Admiralty.
+At 3 a.m. on Wednesday 25 October, the light cruiser *Aurora* arrived from Kronstadt, entered the Neva and anchored just below the Nikolaevsky Bridge. Still before dawn, Red Guards began occupying key buildings, railway stations and disarming *junker* pickets on the bridges. Trotsky claimed that the central telephone exchange was captured by an infantry company without a battle, while a detachment of sailors occupied the state bank.[\*] In fact, a group of *junkers* had arrived first to seize the telephone exchange on Gorokhovaya ulitsa, running up towards the Admiralty.
 
 Several trucks pulled up outside containing soldiers from the Latvian Rifle Regiment, commanded by the Bolshevik Mikhail Lashevich. The first Latvians out of the vehicles shot down the sentries. The detachment charged into the building and opened fire on the *junkers* upstairs. The women telephone operators there screamed in terror.
 
@@ -1512,7 +1512,7 @@ Krylenko tried to shelter Dukhonin in his carriage, but the Kronstadt sailors we
 
 A week later, the new *Stavka* sent out a stark warning to all senior officers who might sympathise with ‘Generals Kaledin, Kornilov, Dutov and others . . . We are warning commanders that any counter-revolutionary activities on their part and by those sympathising with them will be punished without mercy. Anyone guilty will be dismissed from their position and handed over to a military revolutionary tribunal.’ Krylenko also ordered all officers to remove their shoulder boards, which had become hated symbols of oppression in the eyes of angry soldiers.
 
-As the hungry winter approached, it brought a marked change in mood. The young journalist Konstantin Paustovsky wrote that ‘the misty romanticism’ of the February Revolution and the ‘belief in universal happiness’ had evaporated. He described how the veteran writer Vladimir Gilyarovsky, with his sheepskin cap, extravagant Cossack moustache and hoarse voice, entered the newsroom. ‘You suckling babes!’ he growled at all those present. ‘Socialists! Mouldering liberals! You don’t know any more about the Russian people than that old fool Madame Kurdyukova.[[\*]](078_Footnote.xhtml#footnote_1 "footnote") I know the Russian people. And they’ll show you yet where lobsters spend the winters!’
+As the hungry winter approached, it brought a marked change in mood. The young journalist Konstantin Paustovsky wrote that ‘the misty romanticism’ of the February Revolution and the ‘belief in universal happiness’ had evaporated. He described how the veteran writer Vladimir Gilyarovsky, with his sheepskin cap, extravagant Cossack moustache and hoarse voice, entered the newsroom. ‘You suckling babes!’ he growled at all those present. ‘Socialists! Mouldering liberals! You don’t know any more about the Russian people than that old fool Madame Kurdyukova.[\*] I know the Russian people. And they’ll show you yet where lobsters spend the winters!’
 
 ---
 
@@ -1694,7 +1694,7 @@ Lenin sat on one side of the speaker’s tribune, his bald head clearly visible 
 
 After an interminable wait while votes were counted, the Right SR leader leader Chernov was elected chairman of the Constituent Assembly. By that time it was close to midnight. Lenin stretched out conspicuously, pretending to fall asleep. Chernov’s speech was over-cautious and over-long, as he carefully avoided any acknowledgement of Sverdlov’s insistence on the primacy of the All-Russian Soviet over the Constituent Assembly. He was followed by the Menshevik leader Tsereteli, who was once again the most impressive speaker of all.
 
-Gusev gave the signal. His recruits as well as the sailors started to create pandemonium. ‘The night session,’ wrote Zenzinov, ‘was conducted in an unbearable atmosphere. We, the deputies, were surrounded by a raging crowd.’ Gusev’s mob in the gallery started their ‘whistling, rattling and shouting: They yelled at the delegates: “How much is Antanta paying you?”[[\*]](079_Footnote.xhtml#footnote_1 "footnote") or “Away with the war!”.’ Chernov, in an attempt to quieten them, shouted back: ‘Comrades on the diplomatic balcony! If you don’t stop the noise, I will give orders for you to be removed!’ They just laughed at him. ‘To whom could he give the order? The sailors?’
+Gusev gave the signal. His recruits as well as the sailors started to create pandemonium. ‘The night session,’ wrote Zenzinov, ‘was conducted in an unbearable atmosphere. We, the deputies, were surrounded by a raging crowd.’ Gusev’s mob in the gallery started their ‘whistling, rattling and shouting: They yelled at the delegates: “How much is Antanta paying you?”[\*] or “Away with the war!”.’ Chernov, in an attempt to quieten them, shouted back: ‘Comrades on the diplomatic balcony! If you don’t stop the noise, I will give orders for you to be removed!’ They just laughed at him. ‘To whom could he give the order? The sailors?’
 
 One of the Bolshevik deputies announced that the Constituent Assembly, by refusing to acknowledge the supremacy of the All-Russian Soviet, was a counter-revolutionary organisation. This was the sign for all the Bolsheviks to leave the hall. They were followed soon afterwards by the Left Socialist Revolutionaries. Sailors began to yawn openly, then they surrounded the deputies with rifles raised, cursing them as counter-revolutionaries. A deputy hurriedly proposed a motion that they should adjourn until 5 p.m. It was passed and they filed out of the Tauride Palace. The Constituent Assembly was closed. What Lenin contemptuously called ‘bourgeois democracy’ had not even been allowed to last twelve hours, signifying the death of the liberal and socialist intelligentsia. Open minds never stood a chance against the ruthless single-mindedness of the Bolsheviks.
 
@@ -2124,7 +2124,7 @@ To the outrage of Rodzyanko, the former chairman of the State Duma, as well as t
 
 This was too much for Rodzyanko, whose self-regard matched his formidable, bearded bulk. He wrote: ‘To the Ataman of the Great Don Army. I have received the copy of your letter to the German Emperor. The anonymous person who had forwarded this copy assured me that the original had been sent to Berlin with the Duke of Lichtenstein. If this letter to the German Emperor really was written and sent by you, then you, just like Hetman Skoropadsky, have put yourself into the situation of a vassal towards Germany, and by no means are you serving the Russian cause.’
 
-The reply came back two days later. ‘To the Citizen of the Russian Democratic Republic Mikhail Vladimirovich Rodzyanko. In accordance with the orders of the Ataman of the Don Cossacks, I would like to ask you, dear Sir, to leave the territory of the Great Don Army within three days.’[[\*]](080_Footnote.xhtml#footnote_1 "footnote")
+The reply came back two days later. ‘To the Citizen of the Russian Democratic Republic Mikhail Vladimirovich Rodzyanko. In accordance with the orders of the Ataman of the Don Cossacks, I would like to ask you, dear Sir, to leave the territory of the Great Don Army within three days.’[\*]
 
 The British agent in Moscow, Robert Bruce Lockhart, was rather more realistic in his assessment of Krasnov. ‘Like most of the well-to-do class in Russia, he is an opportunist: pro-German today, pro-Ally tomorrow.’ In Kiev, Field Marshal Hermann von Eichhorn, the German commander-in-chief in Ukraine, did not object to Skoropadsky allowing Krasnov to have the weaponry from Russian arsenals, but he objected strongly to them being passed to the Volunteer Army ‘because they rejected any idea of peace with Germany’.
 
@@ -2168,7 +2168,7 @@ While the Bolsheviks were the only disciplined political party in Russia, they c
 
 Borman turned up as instructed at the Kursk Station ready for their departure. ‘Stalin’s face was unremarkable,’ he wrote. ‘His eyes are unpleasant and angry. His cheeks are covered in pockmarks. He was wearing a dark-blue velvet shirt under his jacket. He sat in silence without moving. Manuilsky is a dark and agile small man. He is Russian, he kept trying to convince me that he was a peasant from the Kiev guberniya . . . The “experts” are looking rather confused. They do not know how to behave. A lot of middle-aged faces. A young Jew is hanging around Rakovsky. He is wearing a tunic and breeches and high boots. He was the Chekist Zaitsev, secretary of the delegation.’
 
-They sat there waiting, then it transpired that nobody had warned the railway administration, so no special train had been prepared. ‘Finally, Stalin rang the Kremlin. For some reason he spoke to the commander of the Latvian rifles. Despite pressure from the Kremlin, we still had to wait two more hours. Podvoisky [the former head of the Bolshevik Military Organisation] came to our train at the Kursk station and climbed on board. He was the commander of the local sector of the front against Germans and Haidemaks.[[\*]](081_Footnote.xhtml#footnote_2 "footnote") He told us how he had to revert to shooting men in order to restore discipline in the units. But he was accompanied by a huge red-haired sailor with a terrifying appearance. We were seated in the restaurant car which had still its past neat appearance. The sailor immediately reprimanded us for the white tablecloth. He declared to us: “It is time to abandon these bourgeois manners. For example Comrade Podvoisky and I are living like proletarians. If you are serving the Soviet authority, you have no business eating off a tablecloth.” This was my first encounter with sailors. Soon however, matters became more serious. The sailors’ detachments, or rather independent gangs, did not recognise any authority and were greatly upset by our arrival. “What kind of peace do you want to sign?” they demanded. “We are fighting here killing *burzhuis* and Haidemaks and you are trying to get in the way. We need to check who you are.” ’
+They sat there waiting, then it transpired that nobody had warned the railway administration, so no special train had been prepared. ‘Finally, Stalin rang the Kremlin. For some reason he spoke to the commander of the Latvian rifles. Despite pressure from the Kremlin, we still had to wait two more hours. Podvoisky the former head of the Bolshevik Military Organisation] came to our train at the Kursk station and climbed on board. He was the commander of the local sector of the front against Germans and Haidemaks.[[\*] He told us how he had to revert to shooting men in order to restore discipline in the units. But he was accompanied by a huge red-haired sailor with a terrifying appearance. We were seated in the restaurant car which had still its past neat appearance. The sailor immediately reprimanded us for the white tablecloth. He declared to us: “It is time to abandon these bourgeois manners. For example Comrade Podvoisky and I are living like proletarians. If you are serving the Soviet authority, you have no business eating off a tablecloth.” This was my first encounter with sailors. Soon however, matters became more serious. The sailors’ detachments, or rather independent gangs, did not recognise any authority and were greatly upset by our arrival. “What kind of peace do you want to sign?” they demanded. “We are fighting here killing *burzhuis* and Haidemaks and you are trying to get in the way. We need to check who you are.” ’
 
 The sailors’ resentment and suspicions did not abate. ‘On the very first day after our arrival, it was reported to Manuilsky that some naval detachments were going to attack the delegation. The fact that there were several hundred sailors in the city did not stop Manuilsky. Immediately he took twenty Latvians from our escort and set off for their headquarters. Probably he treated them quite harshly. There were rumours that several sailors were shot on the spot . . . Indeed, after this incident no sailor detachment tried to interfere with the work of the delegation.’
 
@@ -2332,7 +2332,7 @@ After the Bolsheviks in Petrograd closed down the Constituent Assembly in Januar
 
 On 14 May, in Chelyabinsk on the edge of the Urals, there was an ugly clash between Hungarian prisoners of war and Czechs, leaving several dead. The German and Austro-Hungarian prisoners of war were angry because, following the Treaty of Brest-Litovsk, they thought that they should be going home. And the Czechs sitting in trains all along the Trans-Siberian Railway appeared to be blocking it. The Chelyabinsk Soviet arrested some of the Czechs, but their comrades released them at gunpoint and took over the town.
 
-Trotsky was outraged. He first ordered the arrest of the representatives of the Czech National Council in Moscow, and then instructed that the Czech Legion be halted in its trains. Its members must either join the Red Army or be drafted into labour battalions. On 22 May, the Czechs refused to disarm. Trotsky sent his fatal signal on 25 May. ‘All Soviets on the railways are obliged, on pain of grave responsibility, to disarm the Czechs. Each Czech found with arms on the railway line is to be shot on the spot. Each echelon in which a single armed man is found, must be thrown off the wagons, and the men confined in a prisoner-of-war camp. Local military commissariats are to execute this order at once . . . Reliable troops are being sent against the rear of the Czech echelons to teach the mutineers a lesson. Those Czechs who lay down their arms will be treated as brothers. Trotsky.’ For the Czechs, there was now no going back. They did not trust Trotsky’s idea of brotherhood.[[\*]](082_Footnote.xhtml#footnote_1 "footnote")
+Trotsky was outraged. He first ordered the arrest of the representatives of the Czech National Council in Moscow, and then instructed that the Czech Legion be halted in its trains. Its members must either join the Red Army or be drafted into labour battalions. On 22 May, the Czechs refused to disarm. Trotsky sent his fatal signal on 25 May. ‘All Soviets on the railways are obliged, on pain of grave responsibility, to disarm the Czechs. Each Czech found with arms on the railway line is to be shot on the spot. Each echelon in which a single armed man is found, must be thrown off the wagons, and the men confined in a prisoner-of-war camp. Local military commissariats are to execute this order at once . . . Reliable troops are being sent against the rear of the Czech echelons to teach the mutineers a lesson. Those Czechs who lay down their arms will be treated as brothers. Trotsky.’ For the Czechs, there was now no going back. They did not trust Trotsky’s idea of brotherhood.[\*]
 
 One city after another fell to the Czechs all along the Trans-Siberian Railway, starting with Novo-Nikolaevsk (Novosibirsk) in central Siberia on the day after Trotsky’s signal. The last few days of May saw the Communists chased from Penza west of the Volga, Syrzan on the Volga and Tomsk in western Siberia.
 
@@ -2442,7 +2442,7 @@ The royal couple and their five children were held in the Ipatiev House, the rat
 
 From the sunshine and snow showers of spring, they were soon experiencing the rising heat of the Siberian summer with humid nights. The shortages of water contributed to a growing typhus epidemic in the city. The royal family had sensed the hostile atmosphere, but they were not told of the Kronstadt sailors who had arrived in late May and killed forty-five members of the local Orthodox clergy. They also ‘assaulted and raped women, attacked and murdered members of the bourgeoisie and raided the local distillery for vodka, distributing it to the mob’. Nor did the former Tsar know that his younger brother, the Grand Duke Mikhail, for whom he had in theory abdicated, had been taken from his prison in Perm on 12 June by the Cheka and shot in the woods outside. His body was disposed of in a smelting furnace. The Cheka spread the story that he had been spirited away by ‘White Guardists’.
 
-By the end of June gunfire could be heard in the distance as the Czechs advanced in their direction. On 29 June, the former Tsar noted that in recent days ‘we received two letters, one after the other, in which we were warned to prepare ourselves for a rescue by persons devoted to us. But several days have passed without anything happening, it was torture to wait in an atmosphere of uncertainty.’[[\*]](083_Footnote.xhtml#footnote_2 "footnote")
+By the end of June gunfire could be heard in the distance as the Czechs advanced in their direction. On 29 June, the former Tsar noted that in recent days ‘we received two letters, one after the other, in which we were warned to prepare ourselves for a rescue by persons devoted to us. But several days have passed without anything happening, it was torture to wait in an atmosphere of uncertainty.’[\*]
 
 The advance of the Czechs caused panic in the whole region. In Irbit, less than 200 kilometres to the northeast, the Military Revolutionary Committee announced on 6 July that a number of wealthy residents would be taken hostage and shot if there was any attempt at an uprising. One of their posters announced: ‘The counter-revolution is advancing on all fronts, while factory owners, landowners, merchants and other parasites are walking around freely in our cities. Traitors should remember that 100 of their people will die for every one of us.’
 
@@ -2522,7 +2522,7 @@ The peasants may not have benefited from much education, but they soon suspected
 
 This deliberate defiance of all economic forces produced its own vicious circle. One pood of flour cost twenty-five to thirty roubles in the Volga region in 1918, while in Petrograd it could reach 1,000 roubles. The Communist food detachments started to confiscate all grain, not just the ill-defined ‘surplus’ produce. Lenin refused to accept that the forced requisitions reduced food production disastrously. Outraged at the resistance, his reaction was to intensify the repression. Food detachments were told to recruit poor peasants as informers against the rich peasants, the ‘kulaks’. The food detachments, made up mainly of Communists from cities and towns, could not tell the difference between a poor peasant, a ‘middle peasant’ and a supposedly rich ‘class enemy’. They paid no attention to the need to hold back seed corn for the next year’s harvest. All they were interested in was extracting the estimate they had been given. As a result, peasants decided to grow no more than their own needs for the following year. They hid their grain by sealing it in large earthenware jars which they buried. Food detachments then resorted to torturing family members, to force them to reveal their hiding places. In a cycle of violence, peasants attacked members of the detachments, in some cases even killing them and slitting open their stomachs which they stuffed with grain as a warning.
 
-Europe had not seen such conspicuous cruelty used as a weapon of terror since the wars of religion. This raises the question whether the modern equivalent, the political civil war, was a predictable development. On 23 August, even before Kaplan’s attack on Lenin, the Chekist Latsis published an article in *Izvestia* stating that the ‘established customs of war’ were irrelevant. ‘Massacring all the wounded who fought against you – that is a law of civil war.’ Yet where did the extremes of sadism come from – the hacking with sabres, the cutting with knives, the boiling and burning, the scalping alive, the nailing of epaulettes to shoulders, the gouging of eyes, the soaking of victims in winter to freeze them to death, castration, evisceration, amputation? Was all this just an atavistic part of Pushkin’s ‘senseless and merciless’[[\*]](084_Footnote.xhtml#footnote_1 "footnote") depiction of Russian revolt? Or had the frenzy of vengeance been intensified to another level by the rhetoric of political hatred?
+Europe had not seen such conspicuous cruelty used as a weapon of terror since the wars of religion. This raises the question whether the modern equivalent, the political civil war, was a predictable development. On 23 August, even before Kaplan’s attack on Lenin, the Chekist Latsis published an article in *Izvestia* stating that the ‘established customs of war’ were irrelevant. ‘Massacring all the wounded who fought against you – that is a law of civil war.’ Yet where did the extremes of sadism come from – the hacking with sabres, the cutting with knives, the boiling and burning, the scalping alive, the nailing of epaulettes to shoulders, the gouging of eyes, the soaking of victims in winter to freeze them to death, castration, evisceration, amputation? Was all this just an atavistic part of Pushkin’s ‘senseless and merciless’[\*] depiction of Russian revolt? Or had the frenzy of vengeance been intensified to another level by the rhetoric of political hatred?
 
 ---
 
@@ -2544,7 +2544,7 @@ Raskolnikov’s Volga flotilla headed south for Kazan with only an inkling of wh
 
 The Red Volga flotilla commanded by Fyodor Raskolnikov with his wife the writer Larisa Reisner as commissar.
 
-Colonel Kappel was again in the vanguard with his Samara Detachment of the anti-Bolshevik People’s Army on six armed steamboats. ‘Our leading units entered the city at noon. There was a battle in the main street of the city against infantry and armoured vehicles of the enemy. We had no armour-piercing bullets and no artillery support.’ Because of the heat and the exhaustion of his men, who had not eaten as their supplies were still on the river steamers which had landed them, Kappel pulled them back to the edge of the town. The next morning at 4 a.m., they went back in. ‘Elimination of Bolsheviks in the city,’ he reported to the Komuch by the end of the day. ‘Seizure by our detachment of the whole gold reserves – 645 million, as well as a large amount of cash in money boxes belonging to Soviet units.’[[\*]](085_Footnote.xhtml#footnote_1 "footnote")
+Colonel Kappel was again in the vanguard with his Samara Detachment of the anti-Bolshevik People’s Army on six armed steamboats. ‘Our leading units entered the city at noon. There was a battle in the main street of the city against infantry and armoured vehicles of the enemy. We had no armour-piercing bullets and no artillery support.’ Because of the heat and the exhaustion of his men, who had not eaten as their supplies were still on the river steamers which had landed them, Kappel pulled them back to the edge of the town. The next morning at 4 a.m., they went back in. ‘Elimination of Bolsheviks in the city,’ he reported to the Komuch by the end of the day. ‘Seizure by our detachment of the whole gold reserves – 645 million, as well as a large amount of cash in money boxes belonging to Soviet units.’[\*]
 
 Kerensky’s former minister of marine, Vladimir Lebedev, whom Dvorzhets described as ‘the Komuch’s evil genius’, took the gold reserves down the Volga the next night by steamer to Samara. Prokofiev was another who disliked Lebedev. Some months later, after being taken off by some friends ‘to visit some expensive tarts’, Prokofiev met Lebedev at a musical soirée. ‘I asked him if he had hanged any people after taking Kazan,’ Prokofiev noted in his diary. ‘He replied: “I shot two hundred.” I exclaimed: “Two hundred?!” and he added: “Scoundrels.” He then asked Shindler [their host] to play something by Kalinnikov. He likes tender music.’
 
@@ -2554,7 +2554,7 @@ Kerensky’s former minister of marine, Vladimir Lebedev, whom Dvorzhets describ
 
 The humiliation of the Treaty of Brest-Litovsk, compounded by the military superiority of the Czechs, had provided a bitter lesson to the Communist leadership. The followers of Bukharin in the ‘Left Opposition’, and the Left SRs who had advocated revolutionary warfare to resist the Germans, remained viscerally opposed to any idea of a professional army. Ideologically, they could accept nothing more than a citizen’s militia based on the armed factory workers of the Red Guards.
 
-To start with, the Communists promoted talented NCOs. Several went on to the highest command in the Second World War, especially those associated with Stalin and Kliment Voroshilov in Tsaritsyn. They included Georgy Zhukov and Semyon Budyonny, both dragoon sergeants, Semyon Timoshenko and Ivan Konev, an artilleryman.[[\*]](086_Footnote.xhtml#footnote_2 "footnote") But both Lenin and Trotsky knew that if Communism was to survive they needed not just discipline and organisation but experts to train an effective Red Army, able to defeat more than rebellious peasants. They therefore recruited members of the Tsarist officer corps, despite all their rhetoric about never trusting class enemies. An initial step in this direction had been taken with the hiring of economic and other commercial experts, but the very word ‘officer’ was anathema to their followers, so they were given the euphemistic title of ‘military specialists’. This was a policy which Stalin, supported by Dzerzhinsky, fought against with all his might.
+To start with, the Communists promoted talented NCOs. Several went on to the highest command in the Second World War, especially those associated with Stalin and Kliment Voroshilov in Tsaritsyn. They included Georgy Zhukov and Semyon Budyonny, both dragoon sergeants, Semyon Timoshenko and Ivan Konev, an artilleryman.[\*] But both Lenin and Trotsky knew that if Communism was to survive they needed not just discipline and organisation but experts to train an effective Red Army, able to defeat more than rebellious peasants. They therefore recruited members of the Tsarist officer corps, despite all their rhetoric about never trusting class enemies. An initial step in this direction had been taken with the hiring of economic and other commercial experts, but the very word ‘officer’ was anathema to their followers, so they were given the euphemistic title of ‘military specialists’. This was a policy which Stalin, supported by Dzerzhinsky, fought against with all his might.
 
 Trotsky bitterly resented Stalin’s encroachment into military affairs. Lenin had sent Stalin down to Tsaritsyn to increase grain requisitions in the lower Volga region, yet Stalin, taking on the role of commissar, proceeded to act as if he were Front commander. He also increased the Cheka in Tsaritsyn and impelled them into carrying out terrifying massacres.
 
@@ -2562,7 +2562,7 @@ Trotsky bitterly resented Stalin’s encroachment into military affairs. Lenin h
 
 \*
 
-Some Red Army commanders appointed at this time had been junior or middle-ranking officers in the war, such as Mikhail Tukhachevsky and Aleksandr Vasilevsky. A number were already generals. For example, General Mikhail Svechin’s younger brother, Aleksandr, had also been a Tsarist general. He later became the chief military theorist of the Red Army in the 1920s and the father of Soviet ‘operational art’, until executed in Stalin’s purges nearly twenty years later along with Tukhachevsky.[[\*]](087_Footnote.xhtml#footnote_3 "footnote") By the end of the civil war no less than 75,000 Tsarist officers had served with the Red Army. Many had been forced to join up either because no other work was available or through coercion, with their families taken hostage, yet a large number proved loyal and worked well with their commissars.
+Some Red Army commanders appointed at this time had been junior or middle-ranking officers in the war, such as Mikhail Tukhachevsky and Aleksandr Vasilevsky. A number were already generals. For example, General Mikhail Svechin’s younger brother, Aleksandr, had also been a Tsarist general. He later became the chief military theorist of the Red Army in the 1920s and the father of Soviet ‘operational art’, until executed in Stalin’s purges nearly twenty years later along with Tukhachevsky.[\*] By the end of the civil war no less than 75,000 Tsarist officers had served with the Red Army. Many had been forced to join up either because no other work was available or through coercion, with their families taken hostage, yet a large number proved loyal and worked well with their commissars.
 
 The Red Army of Workers and Peasants failed to recruit more than a third of the volunteers Trotsky had counted on. Conscription had to be introduced as the number of fronts to be manned multiplied as the civil war developed. But even conscripts needed encouragement, otherwise they would desert at the first opportunity. One method, which the authorities tried, was to provide more perks than just rations and clothing, especially if they were to recruit peasants as well as proletarians. Accordingly, they produced a ‘protection document’ for families of Red Army soldiers, which stipulated that ‘neither their land, nor livestock, nor seeds can be confiscated’ by the food detachments. It was probably not worth the paper it was printed on.
 
@@ -2678,7 +2678,7 @@ For the Socialist Revolutionaries of the Komuch, the loss of Kazan and Simbirsk 
 
 Colonel Kappel struggled to keep up the spirits of his so-called United Corps, which by the end of September was less than a division in strength. ‘Valorous Troops! Great Russia is being reborn, albeit amidst great suffering. Your labours and the blood that you are shedding are creating the basis on which History will build the greatness of your Motherland . . . Your success fills with joy and hope the hearts of all the honest citizens of Russia. Our temporary and small-scale bad luck will soon pass.’ He avoided mentioning the collapse of the Komuch by hailing the State Conference in Ufa to create a ‘united Russian state authority’. The idea of the Ufa gathering was to agree an All-Russia government, bringing together all the anti-Bolshevik adminstrations.
 
-After Tukhachevsky’s capture of Simbirsk, the Komuch’s days based at Samara had been numbered. On 7 October, the Red Army took the city, causing a flight of Socialist Revolutionaries nearly 500 kilometres eastwards to Ufa. Their only hope was to join this future All-Russia government, alongside the provisional Siberian government and the semi-independent Cossack ‘khanates’. But considering how their own Komuch had been infiltrated and taken over by self-promoted reactionaries such as ‘General’ Galkin, their chances of controlling events were very small. The Socialist Revolutionary Yakov Dvorzhets had no illusions about dealing with ‘the brutalised and brazen officers and Black Hundred reaction’.[[\*]](088_Footnote.xhtml#footnote_1 "footnote") He even considered staying in Samara with the Reds, rather than leave for Ufa to witness ‘the end of the disgraceful adventure’. But since he knew what his fate would be if he did, he left for Ufa, where he ‘witnessed the agony of Komuch’s shameful bastard child’.
+After Tukhachevsky’s capture of Simbirsk, the Komuch’s days based at Samara had been numbered. On 7 October, the Red Army took the city, causing a flight of Socialist Revolutionaries nearly 500 kilometres eastwards to Ufa. Their only hope was to join this future All-Russia government, alongside the provisional Siberian government and the semi-independent Cossack ‘khanates’. But considering how their own Komuch had been infiltrated and taken over by self-promoted reactionaries such as ‘General’ Galkin, their chances of controlling events were very small. The Socialist Revolutionary Yakov Dvorzhets had no illusions about dealing with ‘the brutalised and brazen officers and Black Hundred reaction’.[\*] He even considered staying in Samara with the Reds, rather than leave for Ufa to witness ‘the end of the disgraceful adventure’. But since he knew what his fate would be if he did, he left for Ufa, where he ‘witnessed the agony of Komuch’s shameful bastard child’.
 
 The Ufa State Conference opened on 8 September, although many of its delegates had not yet arrived. A guard of honour from the Samara People’s Army and another of Orenburg Cossacks sent by Ataman Dutov greeted some of the trains. The conference in the Siberia Hotel was noisy, with more than 200 delegates from ‘various governmental, party, national and public groups that had sprung up on the territory liberated from the Bolsheviks’. There was also a delegation from the Czechoslovak corps, even though they were not taking part.
 
@@ -2858,9 +2858,9 @@ The Revolutionary Insurrectionary Army of Ukraine was a force to be reckoned wit
 
 Although an ally of the Reds to start with, Makhno and his followers turned against their dictatorial state Communism later. As the war swung in different directions, both Whites and Reds would send a force to occupy Gulyai-Polye, hoping to catch the legendary rebel, but often they themselves would be taken by surprise in a sudden night attack.
 
-Makhno’s wife, Galina Kuzmenko, described one such counter-attack in her diary: ‘Red Army soldiers did not protest very much; they surrendered their weapons quickly while their commanders fought to the end, until they were killed on the spot. By the morning almost three quarters of the 6th Regiment were disarmed. Part of the regiment engaged bravely in a fire-fight with us, but when they learned that their comrades had already been disarmed, they surrendered their weapons on their own initiative. Our lads were very cold and tired, but every one of them was rewarded by the realization that even a small group of people, with weak bodies but strong spirit, inspired by one great idea, can achieve great deeds. In several hours, 70 or 75 of our lads had captured over 450–500 of the enemy, killed almost all of their commanders and taken a lot of rifles, cartridges, machine-guns, carts, and horses.’[[\*]](089_Footnote.xhtml#footnote_1 "footnote")
+Makhno’s wife, Galina Kuzmenko, described one such counter-attack in her diary: ‘Red Army soldiers did not protest very much; they surrendered their weapons quickly while their commanders fought to the end, until they were killed on the spot. By the morning almost three quarters of the 6th Regiment were disarmed. Part of the regiment engaged bravely in a fire-fight with us, but when they learned that their comrades had already been disarmed, they surrendered their weapons on their own initiative. Our lads were very cold and tired, but every one of them was rewarded by the realization that even a small group of people, with weak bodies but strong spirit, inspired by one great idea, can achieve great deeds. In several hours, 70 or 75 of our lads had captured over 450–500 of the enemy, killed almost all of their commanders and taken a lot of rifles, cartridges, machine-guns, carts, and horses.’[\*]
 
-A White horse artillery officer, part of the special force assembled to hunt him down, acknowledged that ‘the whole population was on Makhno’s side’.[[\*]](090_Footnote.xhtml#footnote_2 "footnote") He also admitted that he was so scared of being captured by Makhnovists that when he finally reached safety after a lonely ride returning to the battery, ‘my legs were so weak that I almost fell from the saddle.’
+A White horse artillery officer, part of the special force assembled to hunt him down, acknowledged that ‘the whole population was on Makhno’s side’.[\*] He also admitted that he was so scared of being captured by Makhnovists that when he finally reached safety after a lonely ride returning to the battery, ‘my legs were so weak that I almost fell from the saddle.’
 
 Once, when they entered a village, he asked a peasant which side he was on. ‘Nobody’s,’ he replied. ‘The Whites pillage, the Reds pillage, the Makhnovists pillage. So, who do you think we should support?’ This White officer called Mamontov discovered for himself that soldiers did not pillage just to eat. He was once persuaded to go out looting by some comrades to see what it was like. It disgusted him, ‘but another bad feeling invaded me little by little. The intoxication of absolute power. These terrified people were at your mercy. You could do with them what you wanted.’
 
@@ -3116,11 +3116,11 @@ Alexander-Sinclair’s 6th Cruiser Squadron was replaced in the Baltic by Rear A
 
 After their recapture of Pskov next to the Soviet-Estonian border, the Reds reported unexpected problems to Petrograd despite a ‘thorough cleansing of all counter-revolutionaries and enemies of the people’. They found that engine drivers were ‘traitors’ and had deliberately sabotaged their locomotives. ‘Many of them had to be dragged from under their beds to be forced back to work. The sabotage of the engine drivers was a colossal blow to the Soviet authority, resulting in the loss of a thousand freight cars, either empty or loaded, as well as ninety-eight locomotives.’ These railway workers were handed over to the Cheka. ‘The black clique of engine drivers knew that communists have no mercy for counter-revolutionaries.’
 
-Even more seriously, they were facing their third revolt in the Luga district as a result of Red Army troops looting the peasants’ grain. In June of the year before, ‘the cavalry detachment of Balakhovich, known for his drastic solutions, was particularly active in suppressing this uprising. For example Balakhovich and his men hacked to death whole villages with their sabres. Only a few were executed by shooting after a judgement.’ The uprising was blamed on ‘deserters and suspicious characters’ taking advantage of ‘the low cultural level of the local peasantry which creates wide opportunities for provocations. And the lack of cultural enlightenment and their complete ignorance of the true policy of the Soviet authority.’ Artillery was needed to complete the repression. Perhaps not surprisingly, the Cheka strongly supported the savage reprisals ordered by Balakhovich.[[\*]](091_Footnote.xhtml#footnote_1 "footnote") ‘The Kulak-White Guard rebellion in the Luga district,’ it reported, ‘was eliminated thanks to the resolute actions of the independent joint revolutionary detachment commanded by Comrade Balakhovich.’
+Even more seriously, they were facing their third revolt in the Luga district as a result of Red Army troops looting the peasants’ grain. In June of the year before, ‘the cavalry detachment of Balakhovich, known for his drastic solutions, was particularly active in suppressing this uprising. For example Balakhovich and his men hacked to death whole villages with their sabres. Only a few were executed by shooting after a judgement.’ The uprising was blamed on ‘deserters and suspicious characters’ taking advantage of ‘the low cultural level of the local peasantry which creates wide opportunities for provocations. And the lack of cultural enlightenment and their complete ignorance of the true policy of the Soviet authority.’ Artillery was needed to complete the repression. Perhaps not surprisingly, the Cheka strongly supported the savage reprisals ordered by Balakhovich.[\*] ‘The Kulak-White Guard rebellion in the Luga district,’ it reported, ‘was eliminated thanks to the resolute actions of the independent joint revolutionary detachment commanded by Comrade Balakhovich.’
 
 The chief commissar of the 7th Army was clearly nervous at the peasant anger they faced around the whole of the Gulf of Finland and Lake Ladoga region. He wrote to Yelena Stasova of the Central Committee about the need ‘to fight the predatory, bandit-appetites and plots of the bloodthirsty Finnish bourgeoisie which has been egged on by the British and American capitalists. It is necessary to create an atmosphere of hatred and to make the population loyal towards the Soviet Socialist Russia.’ The military council of the Karelia Front was also reporting ‘many cases of Red Army soldiers murdered by locals’.
 
-Terror begat terror, which in turn led to even greater conspicuous cruelty. Those in Britain and France who were reluctant to abandon their White protégés to their fate could only shrug off the horrors as inevitable in a civil war. Lloyd George, on the other hand, was deeply suspicious of Churchill’s enthusiasm for the anti-Bolshevik cause. He wrote to Churchill from the peace conference in Paris: ‘I have had a long interview with Chaikovsky[[\*]](092_Footnote.xhtml#footnote_2 "footnote") and Paderewski[[\*]](093_Footnote.xhtml#footnote_3 "footnote") upon the position in Russia and regret that neither of them take your views as to Kolchak and Denikin and their entourage: on the contrary they are genuinely alarmed lest their success should result in the triumph of reaction . . . if our efforts simply ended in establishing a reactionary military regime in Russia, British Democracy would never forgive us.’
+Terror begat terror, which in turn led to even greater conspicuous cruelty. Those in Britain and France who were reluctant to abandon their White protégés to their fate could only shrug off the horrors as inevitable in a civil war. Lloyd George, on the other hand, was deeply suspicious of Churchill’s enthusiasm for the anti-Bolshevik cause. He wrote to Churchill from the peace conference in Paris: ‘I have had a long interview with Chaikovsky[\*] and Paderewski[\*] upon the position in Russia and regret that neither of them take your views as to Kolchak and Denikin and their entourage: on the contrary they are genuinely alarmed lest their success should result in the triumph of reaction . . . if our efforts simply ended in establishing a reactionary military regime in Russia, British Democracy would never forgive us.’
 
 ---
 
@@ -3196,7 +3196,7 @@ Not long afterwards, the Supreme Ruler himself issued another order which reveal
 
 The Reds too were finding little sympathy among the civilian population. A Red Army commissar on the Ural Front complained to Stasova of ‘Sabotage in almost all institutions’. Locals had such a negative attitude towards the Soviet authority that they hated Party agitators and called them ‘alligators’. Not long afterwards forced labour camps were set up for civilians sentenced by revolutionary tribunals.
 
-An even greater vulnerability existed south of Orenburg. The Ural Cossack Army, commanded by its new ataman General Vladimir Tolstov, tried to recapture its capital of Uralsk (now Oral in Kazakhstan). A raid by Vasily Chapayev’s 25th Division redeployed from Ufa put the force to flight, but a sudden counter-attack at Lbishchensk caught Chapayev’s men off-guard and he was killed.[[\*]](094_Footnote.xhtml#footnote_1 "footnote") Most of the Ural Cossacks rushed back to their *stanitsas* to defend their homes and families. On 5 February, Tolstov issued a stand and fight order. ‘The army will be reformed. The panic-stricken retreat must stop immediately. Any Cossack who abandons the fight to return to their settlements must return to their unit at the front, otherwise they will be punished in the strictest fashion. The *stanitsas* must assist in returning Cossacks to their units.’
+An even greater vulnerability existed south of Orenburg. The Ural Cossack Army, commanded by its new ataman General Vladimir Tolstov, tried to recapture its capital of Uralsk (now Oral in Kazakhstan). A raid by Vasily Chapayev’s 25th Division redeployed from Ufa put the force to flight, but a sudden counter-attack at Lbishchensk caught Chapayev’s men off-guard and he was killed.[\*] Most of the Ural Cossacks rushed back to their *stanitsas* to defend their homes and families. On 5 February, Tolstov issued a stand and fight order. ‘The army will be reformed. The panic-stricken retreat must stop immediately. Any Cossack who abandons the fight to return to their settlements must return to their unit at the front, otherwise they will be punished in the strictest fashion. The *stanitsas* must assist in returning Cossacks to their units.’
 
 They had lost so many horses that Tolstov ordered that dismounted Cossacks would be transported five to a sledge or cart. All Cossacks over fifty were to enlist in the Holy Cross Militia of the Elder Kabaev. ‘Although we are now suffering the disintegration of units, with men leaving of their own accord, officers should remain at their posts even if they are the only ones left. Officers must return to their units in the shortest possible time. Special departments are to be set up to look for deserters and weapons held back in *stanitsas*.’ But for General Tolstov, worst of all was the ‘shameful phenomenon of Cossacks selling rifles and machine-guns’.
 
@@ -3262,7 +3262,7 @@ It was not long before the Bolshevik citadel of Kharkov began to hear the distan
 
 Lekhno had spent the night before hiding in an overgrown garden to avoid being seized, either as a hostage or for forced labour digging trenches on the south side of the city. By midday, he could hear artillery from the fighting round Merefa, just to the south. Soon afterwards Red Army soldiers could be seen in flight from the Drozdovsky Regiment. ‘As they ran, they were abandoning their rifles, cartridge pouches and other military equipment, throwing them over a fence into someone’s garden.’
 
-As a member of the city Duma, Lekhno joined a panel to interview and to free innocent citizens held as hostages in the Kholodnogorskaya prison. ‘The name of Preobrazhensky was called. He had been arrested as a “counter” [revolutionary]. A young man in semi-military clothes entered the room. His hair was completely white. It turned out that the Bolsheviks shot lots of hostages and counter-revolutionaries the night before. About 2 am the Cheka butcher Saenko, known to everyone in Kharkov, turned up at the jail. As usual, he was dead drunk. He went around the cells calling out names from his list. He took people outside and immediately shot them in the courtyard of the jail. He called two people from Preobrazhensky’s cell and then called his name. Very calmly Preobrazhensky replied: “But you shot him yesterday”. Everyone else in the cell remained silent. “Aha”, Saenko mumbled. Preobrazhensky’s cellmates did not betray him, but his hair went completely white during that night.’[[\*]](095_Footnote.xhtml#footnote_1 "footnote")
+As a member of the city Duma, Lekhno joined a panel to interview and to free innocent citizens held as hostages in the Kholodnogorskaya prison. ‘The name of Preobrazhensky was called. He had been arrested as a “counter” revolutionary]. A young man in semi-military clothes entered the room. His hair was completely white. It turned out that the Bolsheviks shot lots of hostages and counter-revolutionaries the night before. About 2 am the Cheka butcher Saenko, known to everyone in Kharkov, turned up at the jail. As usual, he was dead drunk. He went around the cells calling out names from his list. He took people outside and immediately shot them in the courtyard of the jail. He called two people from Preobrazhensky’s cell and then called his name. Very calmly Preobrazhensky replied: “But you shot him yesterday”. Everyone else in the cell remained silent. “Aha”, Saenko mumbled. Preobrazhensky’s cellmates did not betray him, but his hair went completely white during that night.’[[\*]
 
 Lekhno then worked with pathologists on the Duma commission to examine Cheka crimes. He was taken to three large pits filled with the bodies of hostages, which had been found next to the Technological Institute in Tchaikovsky *ulitsa*. ‘We examined the scene, it was absolutely horrifying. Everywhere in the multi-storey building we found traces of atrocities committed by the Bolsheviks. Traces of blood were almost all over the place. People had written on the walls, on the window-sills, everywhere where they could write. Many of these martyrs were doing so to inform their families about their death and wrote the addresses. It was clear from these writings that many of the victims were not *burzhuis* at all. The walls of the basement where they had performed executions were covered in blood, pieces of skin and hair, brains. In the room next to this basement we found one intact “glove” skinned from a hand of a person who was still alive, and two torn ones . . . When we passed on to the examination of over 300 corpses that were found there, my hair stood on end. Piled on top of each other, there lay bodies, piled together without any distinction of age, sex, social status or nationality, and all of them were victims of the “new regime”.’ In other pits they found torture victims. ‘They were all naked, with shoulder boards cut out of their shoulders, straps on the backs, and stripes on the legs. We were unable to establish who these unfortunate people were.’
 
@@ -3272,7 +3272,7 @@ General Mai-Maevsky, who had set himself up in style in the Hotel Astoria, took 
 
 \*
 
-The Whites were greatly helped in May when Ataman Grigoriev in Ukraine deserted the Reds to embark on his campaign of anti-Semitic pogroms and looting. Fighting was harder on the eastern flank, where the Cossacks were hoping to take back land beyond the River Don. The 15th Don Cossack Regiment was ordered to send agents across offering rewards for important information. The Red 9th Army was struggling with Cossack revolts in its rear, provoked by attacks on priests and churches as well as the savage ‘de-cossackisation’ programme to destroy their traditional culture, which Mironov had condemned to Trotsky.[[\*]](096_Footnote.xhtml#footnote_2 "footnote") ‘Cossacks armed themselves with weapons that they had hidden (for example, in the river, or in coffins in the cemeteries) and attacked the Revolutionary Committee,’ the Don Bureau reported on one uprising to the Kremlin. ‘Part of the committee was killed, but some members together with small garrisons managed to break through to our troops.’
+The Whites were greatly helped in May when Ataman Grigoriev in Ukraine deserted the Reds to embark on his campaign of anti-Semitic pogroms and looting. Fighting was harder on the eastern flank, where the Cossacks were hoping to take back land beyond the River Don. The 15th Don Cossack Regiment was ordered to send agents across offering rewards for important information. The Red 9th Army was struggling with Cossack revolts in its rear, provoked by attacks on priests and churches as well as the savage ‘de-cossackisation’ programme to destroy their traditional culture, which Mironov had condemned to Trotsky.[\*] ‘Cossacks armed themselves with weapons that they had hidden (for example, in the river, or in coffins in the cemeteries) and attacked the Revolutionary Committee,’ the Don Bureau reported on one uprising to the Kremlin. ‘Part of the committee was killed, but some members together with small garrisons managed to break through to our troops.’
 
 Lenin, aware of the damage being done by ‘de-cossackisation’, sent a telegram to the Military Revolutionary Committee of the Southern Front. ‘We would like to draw your attention to the importance of being especially cautious concerning the break-up of small aspects of daily life that don’t play any role in the general policy but at the same time irritate the population. Hold your course firm on the principal issues and make concessions on the archaic throwbacks that the population is used to.’
 
@@ -3664,9 +3664,9 @@ A couple of the boats’ crews owed their lives to two of the aircraft pilots, o
 
 July–October 1919
 
-On 3 July, the day that General Denikin announced his Moscow directive in Tsaritsyn, Sergei Kamenev (no relation of Lev Kamenev), was appointed commander-in-chief of the Red Army.[[\*]](097_Footnote.xhtml#footnote_1 "footnote") Although a former Tsarist colonel, Kamenev was nominated by Stalin, who had packed the Revolutionary War Council with allies to outvote Trotsky, the chairman.
+On 3 July, the day that General Denikin announced his Moscow directive in Tsaritsyn, Sergei Kamenev (no relation of Lev Kamenev), was appointed commander-in-chief of the Red Army.[\*] Although a former Tsarist colonel, Kamenev was nominated by Stalin, who had packed the Revolutionary War Council with allies to outvote Trotsky, the chairman.
 
-Five days later, the former commander-in-chief, Vatsetis, who had been appointed by Trotsky, was arrested on a trumped-up charge of belonging to a secret ‘White Guardist’ organisation.[[\*]](098_Footnote.xhtml#footnote_2 "footnote") The bitter dispute had started the year before, when Kamenev had insisted that the counter-attack against Kolchak’s forces should be carried through without a break.
+Five days later, the former commander-in-chief, Vatsetis, who had been appointed by Trotsky, was arrested on a trumped-up charge of belonging to a secret ‘White Guardist’ organisation.[\*] The bitter dispute had started the year before, when Kamenev had insisted that the counter-attack against Kolchak’s forces should be carried through without a break.
 
 Vatsetis and Trotsky had wanted to fight Denikin by attacking through the Donbas, with its population of industrial workers who supported the Reds. Kamenev and Stalin, on the other hand, argued for the recapture of Tsaritsyn. Although Stalin’s reputation was linked to that city, he was right to argue that troops could be more easily transferred to that flank from the victorious Red Army in Siberia.
 
@@ -3694,7 +3694,7 @@ General Wrangel was highly critical of Denikin’s plan. He considered it far to
 
 General Mai-Maevsky gave little sign of urgency in his advance on Moscow. When Heiden arrived in Kharkov to inspect depots he went to see the commander-in-chief. ‘The first unpleasant surprise was the commander himself, a shapeless rounded mass with puffy eyes and slurring speech, which must have been a result of the previous wild night and mad drinking. In the several days that I spent in Kharkov, there were non-stop lunches, dinners or suppers in this or that restaurant, for the commander with a whole entourage of officers and a military band. The merriest parties took place when the famous General Shkuro with his Wolf Sotnia was also in the city.’
 
-Mai-Maevsky’s Volunteer Army then consisted of General Kutepov’s I Corps, General Prolitov’s II Corps, General Shkuro’s III Cavalry Corps stationed in Prokhorovka[[\*]](099_Footnote.xhtml#footnote_3 "footnote") and General Yuzefovich’s V Corps in Poltava. Heiden was deeply concerned about the supply situation just before the momentous advance. While inspecting the depots, he found that only half the bread ration was available and there was a complete lack of fats, meat, tea, milk, matches and, perhaps most serious of all, forage. The regions they had conquered and which they were about to cross could not provide what the Volunteer Army needed to keep going.
+Mai-Maevsky’s Volunteer Army then consisted of General Kutepov’s I Corps, General Prolitov’s II Corps, General Shkuro’s III Cavalry Corps stationed in Prokhorovka[\*] and General Yuzefovich’s V Corps in Poltava. Heiden was deeply concerned about the supply situation just before the momentous advance. While inspecting the depots, he found that only half the bread ration was available and there was a complete lack of fats, meat, tea, milk, matches and, perhaps most serious of all, forage. The regions they had conquered and which they were about to cross could not provide what the Volunteer Army needed to keep going.
 
 After the capture of Poltava on 31 July, the remaining Red forces in Ukraine became increasingly nervous as regiments of the Volunteer Army approached. French warships once again anchored off Odessa, while inland a revolt broke out in the German communities, supported by Ukrainian peasants. Yelena Lakier heard that the Cheka was carrying out executions every night. ‘They rev the engines of trucks to hide the noise of gunshots.’
 
@@ -3750,7 +3750,7 @@ Churchill was already concerned that the Admiralty’s decision to withdraw its 
 
 Denikin’s push across Ukraine faced little resistance. On 31 August, Symon Petliura’s Ukrainian forces, who had remained hidden in villages to the west of Kiev, emerged just as the Reds pulled out and Denikin’s troops were about to enter from the other side. The Ukrainians appeared marching up the main street and ran up their blue and yellow flag on the Municipal Duma. Rumours spread through the city that Denikin was giving Kiev to Petliura while the Whites advanced on Moscow. But then a Volunteer Army cavalry detachment arrived, followed by a regiment of Don Cossacks. Astonished to find Petliura’s men, the Cossacks drew their sabres and charged with their wild whooping. The Ukrainians retreated in a rush and abandoned the city.
 
-General Mai-Maevsky was welcomed to Kiev with a production of Gounod’s *Faust* at the State Theatre. His appearance in the royal box prompted a standing ovation. The grateful rich of the city began sending bouquets of flowers up to the gilded box. Mai-Maevsky, still standing, shouted to the audience: ‘People of Kiev! I greet you and congratulate you on being free of the Red filth!’ The singers all bowed to him, just as they used to bow to Nicholas II. When the performance began, Mai-Maevsky paid little attention to the singing. He chatted with General Efimov about the assassination in 1911 of Prime Minister Pyotr Stolypin in the same theatre close to where they were seated. Mai-Maevsky then discussed the atrocities of the Cheka in the city and told Efimov: ‘Please pass the information to Osvag for propaganda purposes. Publicise them widely and do not spare the details.’[[\*]](100_Footnote.xhtml#footnote_4 "footnote")
+General Mai-Maevsky was welcomed to Kiev with a production of Gounod’s *Faust* at the State Theatre. His appearance in the royal box prompted a standing ovation. The grateful rich of the city began sending bouquets of flowers up to the gilded box. Mai-Maevsky, still standing, shouted to the audience: ‘People of Kiev! I greet you and congratulate you on being free of the Red filth!’ The singers all bowed to him, just as they used to bow to Nicholas II. When the performance began, Mai-Maevsky paid little attention to the singing. He chatted with General Efimov about the assassination in 1911 of Prime Minister Pyotr Stolypin in the same theatre close to where they were seated. Mai-Maevsky then discussed the atrocities of the Cheka in the city and told Efimov: ‘Please pass the information to Osvag for propaganda purposes. Publicise them widely and do not spare the details.’[\*]
 
 Once again, the regional Cheka had carried out a massacre just before a city fell to the Whites. On the night of 28 August, 127 prisoners had been killed in the concrete garage of their headquarters on Sadovaya ulitsa. ‘Many of the heads of the corpses appear to have been crushed,’ it was reported. ‘Another 70 bodies were found at the district Cheka on Elizavetinskaya ulitsa; a similar number at the “Chinese Cheka”, and another 51 corpses of railway workers at the Railways Cheka by the main station.’ In the so-called ‘Chinese Cheka’ the commission found one horrifying rumour to be true. A short length of pipe was attached to the stomach of a victim and fastened securely. A rat would be introduced into the pipe, and a fire was lit at the far end, forcing the rat to eat its way into the intestines of the prisoner to escape.
 
@@ -3962,7 +3962,7 @@ On 14 December, the Reds caught up with the tail of the railway logjam and took 
 
 ‘The Czechs treated the Poles as the Poles treated the Russians,’ an American consular official reported. They allowed ‘no trains to pass through until the complete evacuation of Czech troops was accomplished. In this manner Admiral Kolchak’s train was being detained by the Czechs at Krasnoyarsk as well as all other Russian trains between Tayga and Krasnoyarsk.’
 
-At Tayga, beyond Novo-Nikolaevsk, real fighting over trains broke out on 20 December between Czechs, Poles and Russians. The Poles wanted to ensure that no Russian train left until all their men were through, but this was simply not possible. ‘On 22 December 1919, a blood-red sun set over Tayga,’ as part of the Polish 5th Division marched back along the railway track towards the west to hold off the Red 27th and 30th Rifle Divisions from the 5th Army. Captain Werobej, together with Captain Dojan, commander of ‘Dojan’s Ptichki’,[[\*]](101_Footnote.xhtml#footnote_1 "footnote") joined up with a large detachment of General Kappel’s army at Yashkino station. They fought all the next day. The Poles alone lost 100 killed and several hundred wounded, but it meant that they had won a crucial breathing space.
+At Tayga, beyond Novo-Nikolaevsk, real fighting over trains broke out on 20 December between Czechs, Poles and Russians. The Poles wanted to ensure that no Russian train left until all their men were through, but this was simply not possible. ‘On 22 December 1919, a blood-red sun set over Tayga,’ as part of the Polish 5th Division marched back along the railway track towards the west to hold off the Red 27th and 30th Rifle Divisions from the 5th Army. Captain Werobej, together with Captain Dojan, commander of ‘Dojan’s Ptichki’,[\*] joined up with a large detachment of General Kappel’s army at Yashkino station. They fought all the next day. The Poles alone lost 100 killed and several hundred wounded, but it meant that they had won a crucial breathing space.
 
 Amid the chaos of national rivalries, British officers were amused to receive a message from Vladivostok telling them: ‘If the situation seems to warrant it, do not hesitate to take complete control.’ Sometimes they were progressing less than five kilometres a day. Janin heard from the Czech commander that between Mariinsk and Krasnoyarsk almost all the railway workers had deserted. The few who remained were carrying out acts of sabotage by dousing the fire in a locomotive, so the pipes froze solid. At Bogotol, thirty locomotives had been left to freeze and there was a foot of ice on the rails. There was no coal available because the miners had not been paid for three months. The Supreme Ruler had refused to touch the gold reserves as a point of honour. Janin also heard that the officers in Kolchak’s entourage were drinking themselves into oblivion.
 
@@ -3998,7 +3998,7 @@ That afternoon, Kamenev wasted no time issuing orders for the commander of the R
 
 Sergei Gusev, one of Stalin’s supporters on the Military Revolutionary Committee, told Ivar Smilga, the commissar of the Southern Front: ‘I have declared Mironov a traitor and a rebel, I am sending out troops against him.’ He added that Mamontov’s units had reached Ryazhsk, just 310 kilometres from Moscow. ‘They are probably headed for Tula.’ This appeared to rule out any fear that Mironov might be involved in a plot to join up with Mamontov. ‘Mironov is busy making sentimental speeches. I have informed him that if he surrenders, his life and freedom will be granted.’ But next morning Smilga immediately accused Mironov of attempting ‘to join up with the troops of Mamontov and Denikin . . . Rebel Mironov is to be brought to the headquarters of the Soviet troops dead or alive.’
 
-Mironov responded to Smilga by saying: ‘The first shot can only be fired by you, so it will be you who will shed the first blood.’ Smilga issued another warning to Mironov’s troops. ‘Mironov is a rebel, strong detachments are being sent to fight against him. He will be treated as an outlaw . . . anyone who dares take up arms against the Soviet authority will be wiped off the face of the earth.’ He then claimed that Mironov had stolen 5 million roubles and food destined for the peasants. Next, Smilga claimed that a letter to Denikin had been intercepted. ‘Red Eagles of the 9th Army! The Military Revolutionary Committee is sure that not a single Red soldier, not a single Red Cossack will support the traitor and kin-slayer . . . The blood of brothers is being shed in the rear. Those guilty of this unheard-of crime will be wiped off the face of the earth. Death to traitor Mironov! Long live the revolution! Long live the Soviet power!’ Smilga had to admit to Kamenev that Mironov, accompanied by 500 sabres, had broken through the reserve army cordon. He blamed Goldberg for trying to catch cavalry with infantry, who clearly could not keep up. An uneasy Goldberg tried to claim that he had surrounded and defeated one of Mironov’s columns, but then on 4 September, the Saratov Cheka reported that Mironov did not have just 500 sabres, he had 2,000 men with him and had ‘slipped through to Balashov’, between Saratov and Voronezh.[[\*]](102_Footnote.xhtml#footnote_1 "footnote") Lenin had meanwhile sent in the 21st Division in an attempt to catch Mamontov, but it had as little luck as Goldberg.
+Mironov responded to Smilga by saying: ‘The first shot can only be fired by you, so it will be you who will shed the first blood.’ Smilga issued another warning to Mironov’s troops. ‘Mironov is a rebel, strong detachments are being sent to fight against him. He will be treated as an outlaw . . . anyone who dares take up arms against the Soviet authority will be wiped off the face of the earth.’ He then claimed that Mironov had stolen 5 million roubles and food destined for the peasants. Next, Smilga claimed that a letter to Denikin had been intercepted. ‘Red Eagles of the 9th Army! The Military Revolutionary Committee is sure that not a single Red soldier, not a single Red Cossack will support the traitor and kin-slayer . . . The blood of brothers is being shed in the rear. Those guilty of this unheard-of crime will be wiped off the face of the earth. Death to traitor Mironov! Long live the revolution! Long live the Soviet power!’ Smilga had to admit to Kamenev that Mironov, accompanied by 500 sabres, had broken through the reserve army cordon. He blamed Goldberg for trying to catch cavalry with infantry, who clearly could not keep up. An uneasy Goldberg tried to claim that he had surrounded and defeated one of Mironov’s columns, but then on 4 September, the Saratov Cheka reported that Mironov did not have just 500 sabres, he had 2,000 men with him and had ‘slipped through to Balashov’, between Saratov and Voronezh.[\*] Lenin had meanwhile sent in the 21st Division in an attempt to catch Mamontov, but it had as little luck as Goldberg.
 
 On 12 September, Trotsky issued another order to the 9th Army on leaflets and posters run off on the mobile printing press in his armoured train. ‘Mironov has been proclaimed an outlaw and a traitor. Every honest citizen who crosses paths with him ought to shoot him as a mad dog.’ Extraordinary measures were taken on Kamenev’s orders to deal with this eccentric demonstration. ‘Units were taken from the Eastern Front’s 1st and 4th Armies, and units from the reserve army in Kazan’ and the Samara fortified area to eliminate Mironov’s uprising. However, there was no need of their assistance. Mironov’s detachment ran into Budyonny’s cavalry corps and was scattered.
 
@@ -4048,9 +4048,9 @@ Makhno’s forces were striking all over eastern Ukraine. According to the Red A
 
 The middle of October marked ‘the culminating point’ for Denikin’s forces – the moment when an army has over-extended itself and has lost both momentum and the initiative. Tula, between Orel and Moscow, with its arms factories, was the second-greatest objective for the Whites after the capital. Trotsky feared that the loss of the arms industry there could be even more disastrous than the loss of Moscow.
 
-The Communists had prepared Tula for defence with typical ‘backs-to-the-wall’ excess. Martial law was declared because of worker unrest in the factories due to severe food shortages. These had prompted the slogan ‘Down with the Commissars!’. Lenin, well aware that they could not rely on proletarian support, sent Dzerzhinsky down with Cheka detachments. Many thousands of the population, peasants and *burzhui* alike, were conscripted into forced labour companies to dig trenches. The Red Army had reinforced its defences at Tula with the 21st Division from the Eastern Front when Mamontov approached.[[\*]](103_Footnote.xhtml#footnote_2 "footnote") Yet the key battle was still around Orel, the most northerly point of the main advance. Kamenev ordered in the regime’s praetorian guard, the Latvian Rifle Division, Pavlov’s infantry brigade and Primakov’s cavalry brigade. They were to be reinforced by an ‘Estonian’ division, but how many were genuinely from Estonia is unknown. This counter-attack was planned as ‘a double envelopment’, but the real strength was on the western flank.
+The Communists had prepared Tula for defence with typical ‘backs-to-the-wall’ excess. Martial law was declared because of worker unrest in the factories due to severe food shortages. These had prompted the slogan ‘Down with the Commissars!’. Lenin, well aware that they could not rely on proletarian support, sent Dzerzhinsky down with Cheka detachments. Many thousands of the population, peasants and *burzhui* alike, were conscripted into forced labour companies to dig trenches. The Red Army had reinforced its defences at Tula with the 21st Division from the Eastern Front when Mamontov approached.[\*] Yet the key battle was still around Orel, the most northerly point of the main advance. Kamenev ordered in the regime’s praetorian guard, the Latvian Rifle Division, Pavlov’s infantry brigade and Primakov’s cavalry brigade. They were to be reinforced by an ‘Estonian’ division, but how many were genuinely from Estonia is unknown. This counter-attack was planned as ‘a double envelopment’, but the real strength was on the western flank.
 
-Their assault, on the left flank of General Kutepov’s I Corps of the Volunteer Army, seemed to come out of nowhere. Kutepov reported that the Kornilov division ‘withstood seven bayonet attacks of the Reds during the day. New units have arrived, mostly Latvians and Chinese.[[\*]](104_Footnote.xhtml#footnote_3 "footnote") It has not been possible to establish their numbers. Our losses are reaching 80% . . . Only 200 men are left in some regiments of the Kornilov and Drozdovsky divisions.’ Although they had inflicted almost as many casualties on the Latvian Rifle Division, Kutepov’s men had to withdraw during the night of 20 October. ‘The streets of Orel were deserted,’ wrote Aleksandr Gubarev. ‘Only in some windows there were scared, anxious faces. The people that received us with such joy a few days ago now feared for their lives. We quickly passed through the city and got to the main road.’
+Their assault, on the left flank of General Kutepov’s I Corps of the Volunteer Army, seemed to come out of nowhere. Kutepov reported that the Kornilov division ‘withstood seven bayonet attacks of the Reds during the day. New units have arrived, mostly Latvians and Chinese.[\*] It has not been possible to establish their numbers. Our losses are reaching 80% . . . Only 200 men are left in some regiments of the Kornilov and Drozdovsky divisions.’ Although they had inflicted almost as many casualties on the Latvian Rifle Division, Kutepov’s men had to withdraw during the night of 20 October. ‘The streets of Orel were deserted,’ wrote Aleksandr Gubarev. ‘Only in some windows there were scared, anxious faces. The people that received us with such joy a few days ago now feared for their lives. We quickly passed through the city and got to the main road.’
 
 Like Shkuro, Kutepov and others were shaken by the overwhelming numbers of the enemy they were suddenly facing. Subsequent reports from the British military mission alarmed and baffled Churchill back in London, who could not believe the changing fortunes of war. ‘During September and October,’ he signalled back to General Holman, ‘Denikin’s armies advanced on broad fronts, taking Orel, Yeletz, Voronezh and threatening Tula and Moscow. If the Bolsheviks had all these reinforcements available, why did they allow these advances to take place with so little opposition? Were they preparing all this time to strike this blow, or have they in their need thrown in all available reserves? Do you think their offensive is a desperate effort which cannot last long, or is it evidence of really superior power on their side?’
 
@@ -4132,7 +4132,7 @@ Wrangel then spoke about the state of the Volunteer Army. According to him, ther
 
 After a thaw, hard frosts returned in mid-December. ‘Moustache freezes,’ Kennedy noted, ‘horse’s sweat becomes hoar frost.’ Despite Lloyd George’s declaration of British withdrawal, more officers were still arriving to join the military mission. Captain Lever of the Royal Engineers headed to Taganrog as instructed with revolver, rifle and 150 rounds. A British major he met in Rostov told him, ‘whilst delving into a tin of bully-beef with a hefty jack-knife’, what it had been like on the last train out of Kharkov, with refugees clinging to the roof and outside of every carriage. A number died of hypothermia and rolled off by the side of the track, frozen into a ball.
 
-In Taganrog, Lever found the place swarming with those refugees who had survived so far. ‘Every corridor, alley-way, waiting room, restaurant and veranda is packed with sleeping or resting forms – men, women and children bundled together indiscriminately – full-length on the floors.’ The value of the ‘Bell’, the Denikin rouble, had halved again in ten days, down to 2,500 to the pound.[[\*]](105_Footnote.xhtml#footnote_1 "footnote")
+In Taganrog, Lever found the place swarming with those refugees who had survived so far. ‘Every corridor, alley-way, waiting room, restaurant and veranda is packed with sleeping or resting forms – men, women and children bundled together indiscriminately – full-length on the floors.’ The value of the ‘Bell’, the Denikin rouble, had halved again in ten days, down to 2,500 to the pound.[\*]
 
 ---
 
@@ -4272,7 +4272,7 @@ Consul-General Harris reported on the chaos in Krasnoyarsk just before the Red A
 
 \*
 
-The triangular quarrels between Czechs, White Russians and Poles dominated the chaos of the retreat. ‘Polish troops became disgruntled with having to form the rearguard of the Czech retreat,’ a White Russian report stated. General Janin never wavered in his favouritism towards the Czechs.[[\*]](106_Footnote.xhtml#footnote_1 "footnote") The Polish liaison officer with Kolchak’s headquarters protested: ‘To be the rear guard over a distance of thousands of kilometres may be an honour to the Poles, but it is too heavy a burden to be borne all the time by one and the same Polish division.’ Janin’s reply was dry and firm. ‘The fact that the Polish Division will serve as rearguard for the majority of our way East has not escaped me, but under the circumstances, we could not have done otherwise. By moving the Division up, we would have delayed the general traffic by at least three weeks.’
+The triangular quarrels between Czechs, White Russians and Poles dominated the chaos of the retreat. ‘Polish troops became disgruntled with having to form the rearguard of the Czech retreat,’ a White Russian report stated. General Janin never wavered in his favouritism towards the Czechs.[\*] The Polish liaison officer with Kolchak’s headquarters protested: ‘To be the rear guard over a distance of thousands of kilometres may be an honour to the Poles, but it is too heavy a burden to be borne all the time by one and the same Polish division.’ Janin’s reply was dry and firm. ‘The fact that the Polish Division will serve as rearguard for the majority of our way East has not escaped me, but under the circumstances, we could not have done otherwise. By moving the Division up, we would have delayed the general traffic by at least three weeks.’
 
 The commander of the Czech 3rd Division refused to offer any help as the Poles fought off the Red 27th Division. Polish headquarters informed both General Janin and the commander of all the Czech forces, General Syrový, of their men’s ‘extreme exhaustion, losses in hundreds of killed and its current catastrophic situation’. Janin never replied, while Syrový’s answer was curt to say the least. ‘To Commander of the Polish Army Colonel Czuma. I am surprised at the tone of your correspondence. According to Gen. Janin’s orders, you are to come last. I cannot permit even one Polish transport to move East, until the last Czech transport leaves Klukviennaya station. There shall be no more negotiations or requests regarding this issue, for the matter is closed.’
 
@@ -4360,7 +4360,7 @@ Shilling and his staff had now boarded the *Vladimir*, where Globachev joined th
 
 Shulgin, like several prominent individuals, had formed his own defence detachment. They were down by the port when gunmen opened fire from the Aleksandrovsky Park above them. People rushed to hide behind the stone warehouses at the entrance to the harbour. ‘Bolsheviks were not good marksmen,’ Shulgin noted. ‘Not many people were wounded.’ Then, he remembered his New Year’s Eve conversation with General Dragomirov. ‘It was at this moment that the impulse of resistance was finally born. Suddenly several people rushed forward – not officers, but rank and file dragoons. They started shouting, making wild gestures: “So what, gentlemen? Are you going to stay like this for much longer? Where are we to go, there is only the sea around us! Are we going to just die here? Let’s go and beat them, the fuckers, never mind their machine guns. Fuck them! Let’s go!”
 
-‘On the way my men caught a lad of around twenty who claimed not to be a “Yid”, but when ordered to cross himself did it incorrectly.[[\*]](107_Footnote.xhtml#footnote_1 "footnote") One of them was convinced that this was a Bolshevik who had got rid of his rifle just after firing at us. I had to threaten them to let him go . . . We came across other groups. Everyone was terribly thirsty. Some ladies were giving us water but with great caution. They were scared of Bolsheviks taking revenge on them.’
+‘On the way my men caught a lad of around twenty who claimed not to be a “Yid”, but when ordered to cross himself did it incorrectly.[\*] One of them was convinced that this was a Bolshevik who had got rid of his rifle just after firing at us. I had to threaten them to let him go . . . We came across other groups. Everyone was terribly thirsty. Some ladies were giving us water but with great caution. They were scared of Bolsheviks taking revenge on them.’
 
 Shulgin, hearing that it was time to leave, went down to the port. He had been warned that if they did not make it in time, they would have to escape on foot to the Romanian border. ‘I reached our own barge and was terrified. The barge was supposed to be pulled by our “own” steamer. It was evident, when seeing both the steamer and the barge, that they could not possibly get out of the port, and if they could they were certainly doomed. Both were stuffed full of people, among them many of my close friends and family.’ He decided to join Colonel Stessel, who set off for the long march through snow and across the ice of the lagoon. No welcome awaited them when they eventually reached the frontier post. The Romanian army stripped them of everything worth having, including their boots, for which they received birch-bark *lapti* in exchange.
 
@@ -4450,7 +4450,7 @@ South of the River Kuban, the mass of humanity on foot followed the railway trac
 
 After the departure of the Whites from Ekaterinodar, a painter called Yakob Glasse recorded the scene in his remarkable diary. ‘It is a gloomy grey day. Everywhere there is a sea of mud. The city’s pavements have been completely destroyed by the carts of the retreating army and cavalry detachments.’ The only people who had not departed were about 6,000 Kalmyks – old people, women and children who had followed the retreat of Denikin’s armies from the Stavropol steppe, where they had been persecuted by the Reds. These families just sat in the muddy streets with their camels and carts.
 
-Glasse, who fortunately for him was of humble origins, awaited the arrival of the Red Army and the Communists. Having no idea how much more killing there was to go, he mistakenly thought he was witnessing the final drama of the Russian Civil War. ‘At dusk there is all of a sudden an unbelievable chaos of noises, shouts, and howling, the inhuman howling of women and children and, finally, sobbing. The Red Army broke into the city. The harmless unarmed Kalmyks were attacked with great brutality that has no obvious reason and slaughtered to the last child. Twenty minutes was enough. The silence that came after was especially sinister, one couldn’t even hear any moans from the wounded people. It feels as if the city’s population is also dead, all gates and doors are locked. Everywhere there are detachments of drunken cavalrymen. What will the night bring?’[[\*]](108_Footnote.xhtml#footnote_1 "footnote")
+Glasse, who fortunately for him was of humble origins, awaited the arrival of the Red Army and the Communists. Having no idea how much more killing there was to go, he mistakenly thought he was witnessing the final drama of the Russian Civil War. ‘At dusk there is all of a sudden an unbelievable chaos of noises, shouts, and howling, the inhuman howling of women and children and, finally, sobbing. The Red Army broke into the city. The harmless unarmed Kalmyks were attacked with great brutality that has no obvious reason and slaughtered to the last child. Twenty minutes was enough. The silence that came after was especially sinister, one couldn’t even hear any moans from the wounded people. It feels as if the city’s population is also dead, all gates and doors are locked. Everywhere there are detachments of drunken cavalrymen. What will the night bring?’[\*]
 
 ‘More Red detachments are arriving,’ he wrote next day. ‘There are mounted patrols everywhere . . . The Red cavalry horses are decorated with officers’ epaulettes and medals, generals’ ribbons are flying from the bridle. One horse has an archbishop’s hat. They are just missing some human heads . . . Two women from the dregs of society point a cavalryman to a man in civilian clothes. “That’s an officer” they whisper. Immediately the man’s skull is split with one blow of a sabre. He turns out to be a book-keeper from the post office.’
 
@@ -4596,7 +4596,7 @@ Kennedy was dismayed to find that for the 4.5-inch howitzers, there was hardly a
 
 The Polish-Soviet conflict had started with a ‘scuffle’ between irregulars on both sides in February 1919, following the German withdrawal which left a power vacuum between them. There was no clear frontier or even national identity in the central European borderlands, which had all been under Tsarist or Austro-Hungarian domination. Poland awaited the decision of the Supreme Allied Council in Paris, yet at the same time feared Bolshevik encroachment from the east as they tried to create a land-bridge westwards for their road to world revolution. Their concerns were justified.
 
-Ever since those first clashes, fighting had surged or died down. Piłsudski ensured that the Poles seized his birthplace of Wilno (Vilnius) on 20 April of that year, and Minsk on 8 August.[[\*]](109_Footnote.xhtml#footnote_1 "footnote") They had then advanced to the line of the River Berezina and halted there. To Churchill’s frustration Piłsudski wisely resisted the temptation to march on Moscow, as Denikin advanced from the south. Apart from Denikin’s reluctance to recognise Polish independence, the country had been ravaged and impoverished after being fought over for most of the First World War. The Polish Army had reached its limits, at least for the time being. As a newly reborn state its armed forces represented a strange mixture of different military cultures and weaponry, coming from German, Austro-Hungarian, Russian and French origins. Above all Piłsudski knew that, if he attempted such a gamble, he would receive little help from the Allies in Paris, mainly due to Lloyd George’s disapproval.
+Ever since those first clashes, fighting had surged or died down. Piłsudski ensured that the Poles seized his birthplace of Wilno (Vilnius) on 20 April of that year, and Minsk on 8 August.[\*] They had then advanced to the line of the River Berezina and halted there. To Churchill’s frustration Piłsudski wisely resisted the temptation to march on Moscow, as Denikin advanced from the south. Apart from Denikin’s reluctance to recognise Polish independence, the country had been ravaged and impoverished after being fought over for most of the First World War. The Polish Army had reached its limits, at least for the time being. As a newly reborn state its armed forces represented a strange mixture of different military cultures and weaponry, coming from German, Austro-Hungarian, Russian and French origins. Above all Piłsudski knew that, if he attempted such a gamble, he would receive little help from the Allies in Paris, mainly due to Lloyd George’s disapproval.
 
 Peace negotiations between Moscow and Warsaw began on 11 October 1919, three days before Kutepov’s corps took Orel. Piłsudski’s assurance that he would not attack the Red Army in the flank while they dealt with Denikin allowed the Kremlin to redeploy 40,000 men from their Western Front against the Volunteer Army. Piłsudski, however, played for time and delayed a final agreement. Talks collapsed in December.
 
@@ -4604,7 +4604,7 @@ In January 1920, Lenin approved plans for a major double offensive in the west a
 
 Polish confidence increased at this time with the arrival from France of General Józef Haller’s ‘Blue Army’, so-called because of their blue-grey French uniforms. Haller’s force even came with a regiment of seventy Renault tanks. Having started in December 1918 with just on 9,000 men, the Polish armed forces reached a strength of 900,000 by July 1920. Piłsudski also built up a small but effective air force, thanks to those who had learned to fly in their original armies during the war in the West. They were joined by American volunteers in the Kościuszko Squadron commanded by Major Cedric E. Fauntleroy, with Captain Merian C. Cooper, who later achieved fame as director of *King Kong.*
 
-Polish ‘legions’, formed secretly in many different places including Kiev, Murmansk, Vladivostok and Orenburg, had made their way back to the motherland to join the army of ‘The Commandant’, as Piłsudski was known.[[\*]](110_Footnote.xhtml#footnote_2 "footnote") The most unfortunate of all were the 5th Siberian Division, abandoned by the Czechs and General Janin at Krasnoyarsk. ‘All colonels and high-ranking officers were imprisoned; all officers and soldiers of the storm battalion and all those who had been involved in action against the Bolsheviks, were on Cheka orders executed by firing squad. Due to malnutrition, almost all imprisoned officers came down with epidemic typhus. Bolshevik authorities provided no medical help.’ The bulk of the survivors were forced into labour brigades, as miners or loggers in the forests of the Yenisei. Only a few hundred of the former 5th Division lived to reach Poland.
+Polish ‘legions’, formed secretly in many different places including Kiev, Murmansk, Vladivostok and Orenburg, had made their way back to the motherland to join the army of ‘The Commandant’, as Piłsudski was known.[\*] The most unfortunate of all were the 5th Siberian Division, abandoned by the Czechs and General Janin at Krasnoyarsk. ‘All colonels and high-ranking officers were imprisoned; all officers and soldiers of the storm battalion and all those who had been involved in action against the Bolsheviks, were on Cheka orders executed by firing squad. Due to malnutrition, almost all imprisoned officers came down with epidemic typhus. Bolshevik authorities provided no medical help.’ The bulk of the survivors were forced into labour brigades, as miners or loggers in the forests of the Yenisei. Only a few hundred of the former 5th Division lived to reach Poland.
 
 In mid-April the Polish Army carried out a covert mobilisation, while Piłsudski suddenly made an alliance with the ‘Head Ataman’ of Ukraine, Symon Petliura. The Soviet reaction was predictably scathing. ‘This agreement, which would actually have made Ukraine a colony of bourgeois-aristocratic Poland, was necessary for Piłsudski as a political pretext for justifying the invasion of Ukraine by Polish legions.’
 
@@ -4702,7 +4702,7 @@ On Tukhachevsky’s right flank, nearest to the border of Lithuania, was the III
 
 \*
 
-On 13 July, Broniewski wrote: ‘The Bolsheviks have broken through the front also in the north – always the cavalry.’ Gai’s cavalry corps in the north had outflanked the Polish line and advanced 40 kilometres on the first day. ‘So, the situation is grave. Our armies, exhausted by the uneven fight, continue to retreat. The Soviets have flexed all their muscles against Poland; hordes of Great-Russians and half-savage Bashkirs, Chinamen, storm at us, with the battle cry of “Death to Poland”.[[\*]](111_Footnote.xhtml#footnote_1 "footnote") In the past, [under the Tsars], it was “Death to rebellious Poland”. Today I read in one Bolshevik handbill: “Death to lordly Poland”! The content has not changed at all. It is a struggle between two nations – between fire and water – a war between the idea of nation-states and political rapacity.’ For Broniewski, the only encouraging news was the surge in patriotic emotions, and a ‘*levée en masse*’ to defend the country.
+On 13 July, Broniewski wrote: ‘The Bolsheviks have broken through the front also in the north – always the cavalry.’ Gai’s cavalry corps in the north had outflanked the Polish line and advanced 40 kilometres on the first day. ‘So, the situation is grave. Our armies, exhausted by the uneven fight, continue to retreat. The Soviets have flexed all their muscles against Poland; hordes of Great-Russians and half-savage Bashkirs, Chinamen, storm at us, with the battle cry of “Death to Poland”.[\*] In the past, [under the Tsars], it was “Death to rebellious Poland”. Today I read in one Bolshevik handbill: “Death to lordly Poland”! The content has not changed at all. It is a struggle between two nations – between fire and water – a war between the idea of nation-states and political rapacity.’ For Broniewski, the only encouraging news was the surge in patriotic emotions, and a ‘*levée en masse*’ to defend the country.
 
 The Poles were ordered to fall back 100 kilometres, prompting Tukhachevsky to think that he had achieved a far greater victory than was the case. He thus missed the opportunity of destroying the First and Fourth Armies. The momentum of their retreat, however, was hard to break. Each time they formed a new defence line, Gai’s cavalry would break it. Wilno, Grodno, Baranowicze and Pińsk. Piłsudski’s handling of the campaign faced furious criticism and a new Government of National Defence was formed.
 
@@ -4750,7 +4750,7 @@ In Krasnodar, the renamed Ekaterinodar, the painter Yakob Glasse had kept a secr
 
 On 4 April, he recorded: ‘Today a crowd of arrested “*burzhui* women” was sent to the typhoid hospitals of which there are six. They will wash floors there, wash clothes, etc. No measures can slow the epidemics. Sick people lie on the floor in these so-called hospitals, on straw as there are no mattresses. There are cases when people who were not yet quite dead were sent off to the cemetery to create space for new patients. I have seen a grave that had a thin layer of earth on top and I could see hands of the buried corpses. The director of the cemetery told me that he had seen these hands move.’
 
-‘All day searches are in progress in the houses that are more or less rich,’ Glasse wrote on 17 April. ‘They are sawing the legs off furniture, digging up the floor in cellars, as well as gardens.[[\*]](112_Footnote.xhtml#footnote_2 "footnote") Among those conducting searches are well-known thieves and other town riff-raff. They have been released from jails and are now working for the Cheka with great zeal. The requisitioned gold is supposed to be deposited in the bank, but a great deal gets appropriated . . . A book seller who is well known in town demanded a receipt from the Cheka men who took his gold. He was then arrested as a counter-revolutionary and shot on the way to the Cheka, allegedly for trying to escape. The following day his belongings were confiscated, and his wife and two young children found themselves in the street. Robbing and settling personal scores is being covered up by accusations of counter-revolution. The sentence, invariably, is execution.’
+‘All day searches are in progress in the houses that are more or less rich,’ Glasse wrote on 17 April. ‘They are sawing the legs off furniture, digging up the floor in cellars, as well as gardens.[\*] Among those conducting searches are well-known thieves and other town riff-raff. They have been released from jails and are now working for the Cheka with great zeal. The requisitioned gold is supposed to be deposited in the bank, but a great deal gets appropriated . . . A book seller who is well known in town demanded a receipt from the Cheka men who took his gold. He was then arrested as a counter-revolutionary and shot on the way to the Cheka, allegedly for trying to escape. The following day his belongings were confiscated, and his wife and two young children found themselves in the street. Robbing and settling personal scores is being covered up by accusations of counter-revolution. The sentence, invariably, is execution.’
 
 A few days later, Glasse found that his father had been arrested. ‘His apartment is completely ransacked. Everywhere there are splinters of wood, the legs of furniture have been sawn off [in the search for gold]. The wallpaper torn off, sofas ripped open, the spines of books torn off, the bottoms of suitcases broken open, some of the floorboards taken up. The piano and icon had been chopped to pieces with an axe. They had been through the album of family photographs. Luckily our family are people of the plough, pure bred proletarians. These albums are often used as evidence to reveal the social background of an individual. The most unfortunate are those who have hung on to photographs of officers or those dressed as *burzhuis*. One post official lost his life the other day. A metal button with a double-headed eagle was found in a sewing box in his home. It was from his uniform and it was enough for him to be executed.’
 
@@ -4862,7 +4862,7 @@ While Tukhachevsky’s troops fled east back to the River Niemen, or escaped nor
 
 Budyonny still had only the vaguest idea of the disaster which had befallen Tukhachevsky’s Western Front, when he received a formal order from Kamenev, the commander-in-chief of the Red Army, that he was still expected to advance on Lublin. The plan made no sense. It was a futile gesture which Kamenev, perhaps trying to make up for his earlier weakness, insisted was a necessary diversion. This time, the Cavalry Army clique felt obliged to obey to make up for their earlier refusals. Slowly, due to the exhaustion of both men and horses, Budyonny’s *Konarmiya* set off towards Lublin. The Polish victory in the north now allowed Piłsudski to redirect Sikorski and part of his Fifth Army south to join up with the Third Army, to hunt down the hated Red Cavalry Army. They found that on 29 August they had it trapped, quite by chance, outside the walls of Zamość, half-way between Lwów and Lublin.
 
-This beautiful Renaissance city, named in 1580 after its founder, Jan Zamoyski, was built to attract the greatest craftsmen from all over Europe, most of whom were Jewish.[[\*]](113_Footnote.xhtml#footnote_1 "footnote") Budyonny was not too concerned until he discovered from prisoners the extent of Tukhachevsky’s defeat. His army was advancing, quite isolated, into the heart of victorious Poland.
+This beautiful Renaissance city, named in 1580 after its founder, Jan Zamoyski, was built to attract the greatest craftsmen from all over Europe, most of whom were Jewish.[\*] Budyonny was not too concerned until he discovered from prisoners the extent of Tukhachevsky’s defeat. His army was advancing, quite isolated, into the heart of victorious Poland.
 
 On 31 August 1920, the last great cavalry engagement in Napoleonic style took place east of Zamość as the *Konarmiya* tried to break towards the River Bug. The battle centred on and around some high ground defined as Hill 255. It became a day-long melee of Lancers against Red Cossack regiments, charging, turning, and charging again with lance, sabre and revolver. Thanks partly to the heavy rain and bad visibility, Budyonny and his staff managed to extricate themselves with many of his men. This had been the last major action of the *Konarmiya*. ‘Beginning of the end for the 1st Cavalry Army,’ Babel wrote of its broken spirit. Utterly demoralised, they retreated, venting their rancour on any Polish village or Jewish *shtetl* in their path.
 
@@ -4970,7 +4970,7 @@ Pavel Makarov, the secret Communist and General Mai-Maevsky’s adjutant, joined
 
 Lenin told Dzerzhinsky not to keep the surviving White prisoners from the Crimea in southern Russia and the Caucasus as he proposed. It would be more convenient, he told him ‘to concentrate them somewhere in the north’. This meant the concentration camps around the White Sea. Very few emerged alive. Most prisoners, however, were saved from this extended death by a far more rapid one. The man in charge of the Crimean Red terror, almost certainly the most concentrated in all Soviet territory, turned out not to be Dzerzhinsky, but the Hungarian Communist Béla Kun, assisted by Rozalia Zalkind, a woman commissar known as Zemlyachka. Béla Kun seemed to imply that he was acting under orders. ‘Comrade Trotsky told us that he would not visit the Crimea as long as the very last counter-revolutionary remains there. The Crimea is a bottle that none of the counter-revolutionaries will be able to escape.’
 
-Prisoners were supposedly sent for ‘screening’ to the Chekists in the Special Department of each Red Army formation.[[\*]](114_Footnote.xhtml#footnote_1 "footnote") Posters ordered all uncaptured officers to register, and because of Frunze’s promise, many went along only to find themselves arrested immediately. In Simferopol, a young officer called Demidov begged his mother from prison to bring him some warm socks, which she did. On her next visit, she was told he had been transferred elsewhere, but then she heard that all the prisoners had been executed. Relatives of other victims told her the most likely site. She went there with them and in the dirt spotted one of her son’s socks which she had darned. She found a piece of paper in the sock which turned out to be a note from him. He had written to say that it looked as if they were all going to be shot that night. The family has held on to that piece of paper ever since.
+Prisoners were supposedly sent for ‘screening’ to the Chekists in the Special Department of each Red Army formation.[\*] Posters ordered all uncaptured officers to register, and because of Frunze’s promise, many went along only to find themselves arrested immediately. In Simferopol, a young officer called Demidov begged his mother from prison to bring him some warm socks, which she did. On her next visit, she was told he had been transferred elsewhere, but then she heard that all the prisoners had been executed. Relatives of other victims told her the most likely site. She went there with them and in the dirt spotted one of her son’s socks which she had darned. She found a piece of paper in the sock which turned out to be a note from him. He had written to say that it looked as if they were all going to be shot that night. The family has held on to that piece of paper ever since.
 
 ---
 
@@ -5266,46 +5266,46 @@ NB In the case of most Russian archives the format indicates the reference given
 
 1. ‘nice and amiable . . .’, CAC-CHAR 1/3/20–21
 
-   [GO TO NOTE REFERENCE IN TEXT](010_Foreword.xhtml#EndnotePhraseInText0)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘Supper was served . . .’, ibid.
 
-   [GO TO NOTE REFERENCE IN TEXT](010_Foreword.xhtml#EndnotePhraseInText1)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘We are two hundred years . . .’ Consuelo Vanderbilt Balsan, *The Glitter and the Gold*, p. 125
 
-   [GO TO NOTE REFERENCE IN TEXT](010_Foreword.xhtml#00_New_1)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘The Grand Duke Vladimir . . .’, CAC-CHAR 1/3/20–21
 
-   [GO TO NOTE REFERENCE IN TEXT](010_Foreword.xhtml#EndnotePhraseInText2)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘An example of the . . .’, WiR, p. 13
 
-   [GO TO NOTE REFERENCE IN TEXT](010_Foreword.xhtml#EndnotePhraseInText3)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘But people will not . . .’, ibid., p. 11
 
-   [GO TO NOTE REFERENCE IN TEXT](010_Foreword.xhtml#EndnotePhraseInText4)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘as bureaucratic oppressors . . .’, ibid., p. 4
 
-   [GO TO NOTE REFERENCE IN TEXT](010_Foreword.xhtml#EndnotePhraseInText5)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘Russia swung . . .’, ‘Teffi’ (Nadezhda Lokhvitskaya), *Rasputin and Other Ironies*, p. 75
 
-   [GO TO NOTE REFERENCE IN TEXT](010_Foreword.xhtml#EndnotePhraseInText6)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘Our peasantry lives . . .’, NZ-UT, No. 35, 30/5/1917
 
-   [GO TO NOTE REFERENCE IN TEXT](010_Foreword.xhtml#EndnotePhraseInText7)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘It is deplorable . . .’, Second Army, RGVIA 7789/2/28
 
-    [GO TO NOTE REFERENCE IN TEXT](010_Foreword.xhtml#EndnotePhraseInText8)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘Russian revolt . . .’, *The Captain’s Daughter*, p. 203
 
-    [GO TO NOTE REFERENCE IN TEXT](010_Foreword.xhtml#EndnotePhraseInText9)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘the devastating effect . . .’, quoted Charlotte Hobson (ed), M.E. Saltykov-Shchedrin, *The History of a Town*, p. xiii
 
-    [GO TO NOTE REFERENCE IN TEXT](010_Foreword.xhtml#EndnotePhraseInText10)
+    GO TO NOTE REFERENCE IN TEXT
 13. Count Dmitry Sheremetev, Douglas Smith, *Former People*, p. 35
 
-    [GO TO NOTE REFERENCE IN TEXT](010_Foreword.xhtml#EndnotePhraseInText11)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘There are no sewage . . .’, NZ-UT, No. 35, 30/5/1917
 
-    [GO TO NOTE REFERENCE IN TEXT](010_Foreword.xhtml#EndnotePhraseInText12)
+    GO TO NOTE REFERENCE IN TEXT
 
 ## Part One: 1912–1917
 
@@ -5313,937 +5313,937 @@ NB In the case of most Russian archives the format indicates the reference given
 
 1. ‘The Suicide of Europe!’, Maksim Gorky, NZ-UT, No. 4, 22/4/1917
 
-   [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText13)
+   GO TO NOTE REFERENCE IN TEXT
 2. Mobilisation and the July crisis: for an excellent account, see Dominic Lieven’s *Towards the Flame*, pp. 313*–*42
 
-   [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#page_7)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘the German stranglehold’, Allan K. Wildman, *The End of the Russian Imperial Army*, Vol. 1, p. 113
 
-   [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText15)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘Having dug . . .’, NZ-UT No. 4 22/4/1917
 
-   [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText16)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘The most recent technological . . .’, V.P. Kravkov, 14/5/1916, *Velikaya voina bez retushi: Zapiski korpusnogo vracha*, p. 222
 
-   [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText17)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘Corpses are still lying . . .’, RGVIA 2067/1/2932/228
 
-   [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText18)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘We collected the bodies . . .’, RGVIA, 2067/1/2931/465
 
-   [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText19)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘The ordinary soldier. . .’, RGVIA 2031/2/533/38
 
-   [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText20)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘It was very simple . . .’, Kravkov, pp. 202*–*3
 
-   [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText21)
+   GO TO NOTE REFERENCE IN TEXT
 10. Odessa students, RGVIA 12067/1/ 2935/348*–*9
 
-    [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#page_9)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘Please write to me . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText22)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘Commander of the *sotnia*. . .’, RGVIA 2007/1/26/170
 
-    [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText23)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘Another delivery . . .’, Kravkov, 14/5/16, p. 243
 
-    [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText24)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘Dr Tolchenov, whom I had dispatched . . .’, Kravkov, 11/10/16, p. 268
 
-    [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText25)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘We received reinforcements . . .’, Kravkov, p. 272
 
-    [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText26)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘And here we are . . .’, V.V. Shulgin, *Days of the Russian Revolution – Memoirs from the Right,* p. 51
 
-    [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText27)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘chatter about treason’, ibid., pp. 53*–*4
 
-    [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText28)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘occult forces fighting . . .’, Sean McMeekin, *The Russian Revolution*, pp. 78*–*9
 
-    [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText29)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘Everyone knows that . . .’, RGVIA 2067/1/2937/172
 
-    [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText30)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘the handsomest and most impressive . . .’, WiR, 47
 
-    [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText31)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘Autocracy without an autocrat . . .’, Shulgin, p. 69
 
-    [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText32)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘General Dolgov’s chief-of-staff . . .’, Kravkov, p. 204
 
-    [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText33)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘The Adventures of Grishka’, V. B. Shklovsky, *Sentimental Journey*, pp. 8*–*9
 
-    [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText34)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘Two Guards officers . . .’, V.V. Fedulenko, HIA 2001C59
 
-    [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText35)
+    GO TO NOTE REFERENCE IN TEXT
 25. ‘Whatever the outcome . . .’, Kravkov, p. 277
 
-    [GO TO NOTE REFERENCE IN TEXT](012_1_The_Suicide_of_Eur.xhtml#EndnotePhraseInText36)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 2: The February Revolution
 
 1. ‘The current situation . . .’, D.N. Tikhobrazov, BA-CU 4078150
 
-   [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText37)
+   GO TO NOTE REFERENCE IN TEXT
 2. 300,000 workers in Petrograd, K.I. Globachev, BA-CU 4077547
 
-   [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#page_14)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘Most of them were former . . .’, M.F. Skorodumov, in Michael Blinov collection, HIA 2003C39 9/12
 
-   [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText39)
+   GO TO NOTE REFERENCE IN TEXT
 4. *praporshchiki* , Peter Kenez, ‘A Profile of the Pre-Revolutionary Officer Corps’, *California Slavic Studies*, Vol. 7, 1973, 147; Allan K. Wildman, *The End of the Russian Imperial Army*, Vol. 1, pp. 100*–*2
 
-   [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText40)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘To finish we drank . . .’, Maurice Paléologue, *Le crépuscule des Tsars*, p. 556
 
-   [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText41)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘On the contrary . . .’, ibid., p. 557
 
-   [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText42)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘I am listening’, ibid., pp. 562*–*3
 
-   [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText43)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘to break down the barrier that separates you . . .’, George Buchanan, *My Mission to Russia*, Vol. 2, p. 44
 
-   [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText44)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘Adieu, Monsieur l’ambassadeur’, Paléologue, p. 563
 
-   [GO TO NOTE REFERENCE IN TEXT](067_Footnote.xhtml#EndnotePhraseInText45)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘warn your Majesty . . .’, ibid, p. 47
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText46)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘Every evening . . .’, ibid., p. 564
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText47)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘Queues began . . .’, Shultz, ASF-ARLM 1/R-145, p. 129
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText48)
+    GO TO NOTE REFERENCE IN TEXT
 13. 57,000 wagons, Paléologue, p. 586
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#page_16)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘We never faced . . .’, Globachev, BA-CU 4077547, p. 16
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText49)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘I am certain that . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText50)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘the dull despair and resentment . . .’, Shklovsky, p. 7*–*9
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText51)
+    GO TO NOTE REFERENCE IN TEXT
 17. International Women’s Day, see Ruthchild, Rochelle Goldberg. ‘Women and Gender in 1917’, *Slavic Review*, Fall 2017, Vol. 76, No. 3, pp. 694–702
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText52)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘Are you going to whip . . .’, Anonymous, ASF-ARLM E-100, 1/1/310/ 3
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText53)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘There was a certain accumulation . . .’, Sergei Prokofiev, *Dnevnik*, 24/2/1917
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#00_New_2)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘German Woman’, quoted Richard Pipes, *The Russian Revolution*, p. 275
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText54)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘They are very picturesque . . .’, Louis de Robien, *Journal d’un diplomate en Russie, 1917*–*1918*, p. 10
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText55)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘very chic . . .’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText56)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘The charge was carried . . .’, ibid., p. 12
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText57)
+    GO TO NOTE REFERENCE IN TEXT
 24. Pavlovsky mutiny, Globachev, BA-CU 4077547
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#page_21)
+    GO TO NOTE REFERENCE IN TEXT
 25. ‘The army is loyal . . .’, Robien, p. 11
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText59)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘Cossacks were riding . . .’, Vladimir Zenzinov. ‘*Iz zhizni revolyutsionera*’ (*From a Life of a Revolutionary*), p. 11
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText60)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘I saw my first . . .’, Vladimir Nabokov, *Speak Memory*, p. 71
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText61)
+    GO TO NOTE REFERENCE IN TEXT
 28. Protopopov and Rasputin, Paléologue, p. 587
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#page_21)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘lugubrious . . .’, Robien, p. 13
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText63)
+    GO TO NOTE REFERENCE IN TEXT
 30. ‘The snow deadened . . .’, ibid., p. 14
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText64)
+    GO TO NOTE REFERENCE IN TEXT
 31. ‘We won’t shoot!’ Wildman, *The End of the Russian Imperial Army*, Vol. 1, p. 143
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText65)
+    GO TO NOTE REFERENCE IN TEXT
 32. ‘Sa Majesté Impériale . . .’, Tikhobrazov, BA-CU 4078150
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText66)
+    GO TO NOTE REFERENCE IN TEXT
 33. ‘That fat fellow . . .’, quoted Pipes, *Russian Revolution*, p. 282
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText67)
+    GO TO NOTE REFERENCE IN TEXT
 34. ‘Asiatic savagery’, Brian Moynahan, *Comrades 1917*, p. 95
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText68)
+    GO TO NOTE REFERENCE IN TEXT
 35. ‘incarnation of spiritual . . .’, ibid., p. 201
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText69)
+    GO TO NOTE REFERENCE IN TEXT
 36. ‘Gorky was tall . . .’, Shklovsky, p. 188
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText70)
+    GO TO NOTE REFERENCE IN TEXT
 37. ‘to my great sadness . . .’, Buisson (ed.), *Journal intime de Nicholas II*, p. 57
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText71)
+    GO TO NOTE REFERENCE IN TEXT
 38. ‘Cavalry patrols allowed . . .’, Globachev, BA-CU 4077547
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText72)
+    GO TO NOTE REFERENCE IN TEXT
 39. ‘finally understood . . .’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText73)
+    GO TO NOTE REFERENCE IN TEXT
 40. ‘to crush the revolt . . .’, Tikhobrazov, BA-CU 4078150
 
-    [GO TO NOTE REFERENCE IN TEXT](013_2_The_February_Revol.xhtml#EndnotePhraseInText74)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 3: The Fall of the Double-Headed Eagle
 
 1. ‘Streets were filled . . .’, Prokofiev, *Dnevnik*, 28/2/1917
 
-   [GO TO NOTE REFERENCE IN TEXT](014_3_The_Fall_of_the_Do.xhtml#EndnotePhraseInText75)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘Wealthier looking people . . .’, Eduard E Dune, BA-CU 4077481
 
-   [GO TO NOTE REFERENCE IN TEXT](014_3_The_Fall_of_the_Do.xhtml#EndnotePhraseInText76)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘saw a big bonfire . . .’, Prokofiev, *Dnevnik*, 28/2/1917
 
-   [GO TO NOTE REFERENCE IN TEXT](014_3_The_Fall_of_the_Do.xhtml#EndnotePhraseInText77)
+   GO TO NOTE REFERENCE IN TEXT
 4. *Stavka* questionnaire, Wildman, *The End of the Russian Imperial Army*, Vol. 1, pp. 153–4
 
-   [GO TO NOTE REFERENCE IN TEXT](014_3_The_Fall_of_the_Do.xhtml#page_27)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘What a disgrace! . . .’, Buisson (ed.), p. 58
 
-   [GO TO NOTE REFERENCE IN TEXT](014_3_The_Fall_of_the_Do.xhtml#EndnotePhraseInText79)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘Yes, we’ve come . . .’, Shulgin, p. 129
 
-   [GO TO NOTE REFERENCE IN TEXT](014_3_The_Fall_of_the_Do.xhtml#00_New_4)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘Hatred for the dynasty . . .’, Tikhobrazov, BA-CU 4078150
 
-   [GO TO NOTE REFERENCE IN TEXT](014_3_The_Fall_of_the_Do.xhtml#EndnotePhraseInText81)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘I am certain . . .’, ibid.
 
-   [GO TO NOTE REFERENCE IN TEXT](014_3_The_Fall_of_the_Do.xhtml#EndnotePhraseInText82)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘Not wanting to be separated . . .’, ibid*.*
 
-   [GO TO NOTE REFERENCE IN TEXT](014_3_The_Fall_of_the_Do.xhtml#EndnotePhraseInText83)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘absolutely impossible’, Diary of Grand Duke Andrei Vladimirovich, GARF 650/1/55/83–154
 
-    [GO TO NOTE REFERENCE IN TEXT](069_Footnote.xhtml#EndnotePhraseInText84)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘I left Pskov . . .’, Buisson (ed.), p. 59
 
-    [GO TO NOTE REFERENCE IN TEXT](014_3_The_Fall_of_the_Do.xhtml#EndnotePhraseInText85)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘Instead of the enthusiastic. . .’, Raskolnikov, *Kronstadt and Petrograd in 1917*, i.,1
 
-    [GO TO NOTE REFERENCE IN TEXT](014_3_The_Fall_of_the_Do.xhtml#EndnotePhraseInText86)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘We by God’s mercy . . .’, quoted Donald Crawford, ‘The Last Tsar’, in Brenton (ed.), *Historically Inevitable? Turning points of the Russians Revolution*, p. 88; also Pipes, *Russian Revolution*, p. 319–20
 
-    [GO TO NOTE REFERENCE IN TEXT](014_3_The_Fall_of_the_Do.xhtml#EndnotePhraseInText87)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘It seems that Micha . . .’, Buisson (ed.), p. 59
 
-    [GO TO NOTE REFERENCE IN TEXT](014_3_The_Fall_of_the_Do.xhtml#EndnotePhraseInText88)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 4: From Autocracy to Chaos
 
 1. ‘They were filled to the brim . . .’, Prokofiev, *Dnevnik*, 1/3/1917
 
-   [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText89)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘thirty or forty policemen . . .’, quoted Helen Rappaport, *Caught in the Revolution*, p. 99
 
-   [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText90)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘Beat the constable!’ A.I. Boyarchikov, *Memoirs*, p. 39
 
-   [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText91)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘The people’s hatred . . .’, Gd Duke Andrei Vladimirovich, GARF 650/1/55/83–154
 
-   [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText92)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘Only one man could . . .’, Shulgin, p. 135
 
-   [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText93)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘Inside, the palace . . .’, Zenzinov, p. 39
 
-   [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText94)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘We, the women, demand . . .’, Anonymous, ASF-ARLM E-100, 1/1/310/12
 
-   [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText95)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘an actor to the marrow’, Shulgin, p. 119
 
-   [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText96)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘The Duma sheds no blood!’, quoted Pipes, *Russian Revolution*, p. 303; Globachev, BA-CU 4077547
 
-   [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText97)
+   GO TO NOTE REFERENCE IN TEXT
 10. Litovsky Castle, Evguénia Iaroslavskaïa-Markon, *Revoltée*, p. 28
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText98)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘Tell me, is life going to get better?’, Y.I. Lakier diary, BA-CU 4077740
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText99)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘I slept badly . . .’, Kravkov, p. 295
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText100)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘News of the Sovereign’s . . .’, Gd Duke Andrei Vladimirovich, GARF 650/1/55/83–154
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText101)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘Everyone seemed depressed . . .’, Tikhobrazov, BA-CU 4078150
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText102)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘the incarnation of the . . .’, Konstantin Paustovsky, *The Story of a Life*, p. 464
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText103)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘Lots of rumours . . .’, Aleksei Oreshnikov, *Dnevnik*, 1/3/1917, p. 108
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText104)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘Go off and feed . . .’, Paustovsky, p. 489
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText105)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘the beloved Czar’, Cdr Oliver Locker-Lampson, RNAS Armoured Car Division, CAC-CHAR 2/95/2–36
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText106)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘military aristocracy cannot . . .’, Kravkov, p. 297
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText107)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘babushka’s underwear’, quoted Wildman, Vol. 1, p. 242
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText108)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘Dossier of the Revolution’, Tikhobrazov, BA-CU 4078150
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText109)
+    GO TO NOTE REFERENCE IN TEXT
 22. Desertion rate following *prikaz* No. 1, WiR, 14; see also Wildman, Vol. 1, p. 368, n64
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#page_42)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘The mass of soldiers . . .’, Maksim Kulik, *Kubansky Sbornik*, No. 6, 22/9/2015, ASF-ARML
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText111)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘A crowd was standing all around . . .’, Maj Gen V.N. v. Dreier, BA-CU 4077478, pp. 317–18
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText112)
+    GO TO NOTE REFERENCE IN TEXT
 25. ‘How could the infantry . . .’, Locker-Lampson, CAC-CHAR 2/95/2–36
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText113)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘lifted on bayonets’, Wildman, Vol. 1, p. 211
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText114)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘In Kronstadt . . .’, Locker-Lampson, CAC-CHAR 2/95/2–36
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText115)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘wharf-rats’, Evan Mawdsley, *The Russian Revolution and the Baltic Fleet*, p. 16
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText116)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘Mutiny in the *Andrei . . .*’, Mawdsley, p. 1
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText117)
+    GO TO NOTE REFERENCE IN TEXT
 30. ‘the reputation of . . .’, Raskolnikov, *Kronstadt and Petrograd in 1917*, Vol. 2, p. 1
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText118)
+    GO TO NOTE REFERENCE IN TEXT
 31. ‘All of the navy . . .’, Lakier, BA-CU 4077740
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText119)
+    GO TO NOTE REFERENCE IN TEXT
 32. ‘It was not you who . . .’, Makhonin, BA-CU 4077787
 
-    [GO TO NOTE REFERENCE IN TEXT](015_4_From_Autocracy_to_.xhtml#EndnotePhraseInText120)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 5: The Pregnant Widow
 
 1. ‘The death of the . . .’, Herzen, *From the Other Shore*, London, 1956, p. 124
 
-   [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText121)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘at the same time . . .’, Isaiah Berlin, introduction to *From the Other Shore*, p. xv
 
-   [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText122)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘a little light-haired . . .’, Ransome, *Autobiography*, p. 275
 
-   [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText123)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘In six months . . .’, quoted Victor Sebestyen, *Lenin the Dictator*, p. 273
 
-   [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText124)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘predatory imperialist . . .’, LCW, Vol. 24, p. 19–26; *Pravda* 7 April 1917
 
-   [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText125)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘Lenin’s programme . . .’, Robert Service, *Lenin*, p. 264
 
-   [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText126)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘in most of . . .’, LCW, Vol. 24, pp. 19–26
 
-   [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText127)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘As an orator . . .’, ‘Teffi’, *Rasputin*, pp. 105–7
 
-   [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText128)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘the soldiers only wanted . . .’, A.A. Brusilov, quoted Orlando Figes, *A People’s Tragedy*, pp. 379–80
 
-   [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText129)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘Desertion in the army . . .’, Kravkov, p. 316
 
-    [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText130)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘Everyone here . . .’, RGVIA 2031/1/1181/330
 
-    [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText131)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘Will we be better off . . .’, quoted Orlando Figes, *Peasant Russia Civil War*, pp. 41–2
 
-    [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText132)
+    GO TO NOTE REFERENCE IN TEXT
 13. Mtsensk rampage, Douglas Smith, *Former People*, 94
 
-    [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#page_51)
+    GO TO NOTE REFERENCE IN TEXT
 14. The death of Boris Vyazemsky, Douglas Smith, pp. 105–7; for another less reliable version, G.A Rimsky-Korsakov, *Rossiya 1917 v ego-dokumentakh*, p. 121
 
-    [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#page_52)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘I implore you, don’t destroy . . .’, website of Natalia Mikhailova ‘Family Archive’ [www.domarchive.ru](http://www.domarchive.ru)
 
-    [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText135)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘The countess, who was currently . . .’, I.F. Nazhivin, *Zapiski o revolyutsii,* p. 238
 
-    [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#00_New_5)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘In those turbulent times . . .’, Paustovsky, p. 485
 
-    [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText137)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘To insist, as Milyukov does . . .’, Kravkov, p. 312
 
-    [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText138)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘The foul ruthlessness . . .’, Shklovsky, p. 60
 
-    [GO TO NOTE REFERENCE IN TEXT](072_Footnote.xhtml#00_New_6)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘In the name of . . .’, quoted N.N. Sukhanov, *The Russian Revolution 1917*, p. 361
 
-    [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText140)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘The scores of robberies and murder . . .’, Kravkov, p. 329
 
-    [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText141)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘On the whole . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText142)
+    GO TO NOTE REFERENCE IN TEXT
 23. Transfer of divisions, Wildman, Vol. 1, p. 358, n44
 
-    [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#page_58)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘return home soon’, Rudolf Rothkegel, Bundestiftung zur Aufarbeitung der SED-Diktatur, Berlin
 
-    [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText144)
+    GO TO NOTE REFERENCE IN TEXT
 25. ‘The men had fraternized . . .’, Shklovsky, p. 34
 
-    [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText145)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘The 45th and 46th . . .’, Kravkov, p. 329
 
-    [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText146)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘Commissar Savinkov . . .’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText147)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘My greetings to you . . .’, M.F. Skorodumov, HIA 2003C39 9/12
 
-    [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText148)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘He would throw . . .’, Paustovsky, pp. 484–5
 
-    [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText149)
+    GO TO NOTE REFERENCE IN TEXT
 30. ‘I am full of joy . . .’, Lakier, BA-CU 4077740
 
-    [GO TO NOTE REFERENCE IN TEXT](016_5_The_Pregnant_Widow.xhtml#EndnotePhraseInText150)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 6: The Kerensky Offensive and July Days
 
 1. ‘The nearer we approached . . .’, CAC-CHAR 2/95/2–36
 
-   [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText151)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘fervent appeal . . .’, ibid.
 
-   [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText152)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘I don’t think that even . . .’, Shklovsky, p. 29
 
-   [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText153)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘The officers are . . .’, RGVIA 2067/1/3868/244
 
-   [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText154)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘ready at any moment . . .’, Sukhanov, p. 380
 
-   [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText155)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘to encourage . . .’, etc., Locker-Lampson, CAC-CHAR 2/95/2–36
 
-   [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText156)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘magnificent dash . . .’, ibid.
 
-   [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText157)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘distraught beyond belief’, ibid*.*
 
-   [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText158)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘Mr Kerensky . . .’, ibid.
 
-   [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText159)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘There was noise . . .’, Prokoviev, *Dnevnik*, 1/7/1917
 
-    [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText160)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘Our soldiers were scratching . . .’, Shklovsky, p. 44
 
-    [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText161)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘While going through . . .’, ibid*.* p. 48
 
-    [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText162)
+    GO TO NOTE REFERENCE IN TEXT
 13. Kalush and 23rd Division, Wildman, vol. 2, p. 99
 
-    [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#page_66)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘Those who had doubts . . .’, Maksim Kulik, *Kubansky Sbornik*, No. 6 22/9/2015, ASF-ARML
 
-    [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText164)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘Without it . . .’, Locker-Lampson, CAC-CHAR 2/95/2–36
 
-    [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText165)
+    GO TO NOTE REFERENCE IN TEXT
 16. Colonel Nikitin, see McMeekin, pp. 165–9
 
-    [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText166)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘We never called . . .’, Sukhanov, p. 429
 
-    [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText167)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘Arrest the Executive Committee. . .,’ ibid., 431
 
-    [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText168)
+    GO TO NOTE REFERENCE IN TEXT
 19. Inflation in 1917, S.A. Smith, *Russia in Revolution – An Empire in Crisis*, p. 143
 
-    [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#page_69)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘The prices are crazy . . .’, Prokofiev, *Dnevnik*, 1/7/1917
 
-    [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText170)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘apparently under Anarchist . . .’, etc., Raskolnikov, VII.1
 
-    [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText171)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘the Party always kept . . .’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText172)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘Kronstadt as a symbol . . .’, Raskolnikov VII.2
 
-    [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText173)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘The sailors formed up . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#00_New_7)
+    GO TO NOTE REFERENCE IN TEXT
 25. ‘The frightening sortie . . .’, NZ-UT, No. 74, 14/7/1917
 
-    [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText175)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘The Kronstadters have . . .’, Raskolnikov, VII.2
 
-    [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText176)
+    GO TO NOTE REFERENCE IN TEXT
 27. forged ten-rouble notes, Globachev, 5/7/1917, BA-CU 4077547; Pipes, *Russian Revolution*, p. 412
 
-    [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#EndnotePhraseInText177)
+    GO TO NOTE REFERENCE IN TEXT
 28. Lenin in Alliluev apartment, Service, *Lenin*, p. 282–3
 
-    [GO TO NOTE REFERENCE IN TEXT](017_6_The_Kerensky_Offen.xhtml#page_72)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 7: Kornilov
 
 1. ‘Alexander IV’, Aleksandr Vertinsky, ‘*Dorogoi dlinnoyu*’ (The Long Road), p. 27
 
-   [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText179)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘utterly crushed . . .’, Shklovsky, p. 62
 
-   [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText180)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘assist them by placing . . .’, Buchanan *My Mission*, Vol. 2, p. 173
 
-   [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText181)
+   GO TO NOTE REFERENCE IN TEXT
 4. Moscow State conference, see Figes, *People’s Tragedy*, pp. 448–9; Pipes, *Russian Revolution*, pp. 444, 446–7
 
-   [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#page_82)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘upstarts on the . . .’, Sukhanov, p. 495
 
-   [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText183)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘Who was the . . .’, ‘Now do you see . . .’, ibid., p. 497
 
-   [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText184)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘no less than . . .’, Wildman, Vol 2, pp. 134–6
 
-   [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText185)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘The Corps will . . .’, quoted Gen Alekseev in letter to Milyukov, 12/9/1917, Borel Collection, BA-CU 4078202
 
-   [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText186)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘Russian citizens! . . .’, RGAVMF R-21/1/25/37
 
-   [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText187)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘His staff subsequently . . .’, Locker-Lampson to First Ld Admiralty, 5/12/17, CAC-CHAR 2/95/73–81
 
-    [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText188)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘Mannerheim reacted . . .’, Dreier, BA-CU 4077478
 
-    [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText189)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘evasiveness’, Alekseev diary, Borel Collection, BA-CU 4078202
 
-    [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText190)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘Minister Kerensky . . .’, RGAVMF R-21/1/25–26/36
 
-    [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText191)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘Urgent. To Naval . . .’, RGAVMF R-21/1/25/26
 
-    [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText192)
+    GO TO NOTE REFERENCE IN TEXT
 15. Kerensky and Tsentrobalt, RGAVMF R-21/1/25–26/36
 
-    [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#page_87)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘the 2nd Baltic Guards . . .’, Tsentroflot to Kerensky, 29/8/1917, RGAVMF R-21/1/25–26/41
 
-    [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText194)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘would rather die than . . .’, 30/8/1917, RGAVMF R-21/1/25/59
 
-    [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText195)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘to occupy and hold . . .’, RGAVMF R-21/1/25/15
 
-    [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText196)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘for the sake of . . .’, RGAVMF R-21/1/25/23
 
-    [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText197)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘railway tracks have been . . .’, RGVAMF R-21/1/25–26/36
 
-    [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText198)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘seven trains of Don Cossacks . . .’, RGVAMF R-21/1/25–26/49
 
-    [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText199)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘The agitated crowd . . .’, Maksim Kulik, *Kubansky Sbornik*, No. 6, ASF-ARML
 
-    [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText200)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘spree of violence’, RGAVMF R-21/1/24/10
 
-    [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText201)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘to be at the disposal . . .’, 31/8/1917, RGAVMF R-21/1/24
 
-    [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText202)
+    GO TO NOTE REFERENCE IN TEXT
 25. ‘Generals Kornilov, Lukomsky . . .’, Chairman of Tsentroflot, Magnitsky, RGVAMF R-21/1/25–26
 
-    [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText203)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘The last card . . .’, quoted W. Bruce Lincoln, *Passage Through Armageddon*, p. 423
 
-    [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText204)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘Greatly respected . . .’, Borel Collection, BA-CU 4078202
 
-    [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText205)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘The corps commander . . .’, Abramov of Tsentroflot, RGAVMF R-21/1/25/40
 
-    [GO TO NOTE REFERENCE IN TEXT](074_Footnote.xhtml#EndnotePhraseInText206)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘The prisoners were brought . . .’, Lieutenant Il’in, ASF-ARLM E-27 1/1/109, p. 24
 
-    [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText207)
+    GO TO NOTE REFERENCE IN TEXT
 30. Wrangel to Crimea, Dreier, BA-CU 4077478
 
-    [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#page_90)
+    GO TO NOTE REFERENCE IN TEXT
 31. ‘about the unacceptability . . .’, RGAVMF R-21/1/23/7
 
-    [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText209)
+    GO TO NOTE REFERENCE IN TEXT
 32. ‘All the objective conditions . . .’, LCW, Vol. 26, 25
 
-    [GO TO NOTE REFERENCE IN TEXT](018_7_Kornilov.xhtml#EndnotePhraseInText210)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 8: The October Coup
 
 1. ‘His thin pointed face . . .’, John Reed, *Ten Days that Shook the World*, p. 59
 
-   [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText211)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘intellectual, pseudo-aristocratic . . .’, THRR, p. 749
 
-   [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText212)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘The Bolsheviks were a lot . . .’, I.I. Serebrennikov, HIA 51004
 
-   [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText213)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘They repeated slogans . . .’, G.A. Rimsky-Korsakov, *Rossiya 1917 v ego-dokumentakh*, p. 124
 
-   [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText214)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘can and *must*. . .’, etc., LCW, Vol. 26, p. 19
 
-   [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText215)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘Distrust of the Bolshevik . . .’, THRR, p. 681
 
-   [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText216)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘ready to fight . . .’, THRR, p. 752
 
-   [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText217)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘no longer a militia . . .’, THRR, p. 754
 
-   [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText218)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘It was clear . . .’, Dmitry Heiden papers, HIA 75009
 
-   [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#00_New_3)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘Boxes with the Hermitage . . .’, Aleksei Oreshnikov, *Dnevnik*, 1/10/17
 
-    [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText219)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘the openly prepared . . .’, *Rabochii put*’, No. 33, 1917, cited in Pipes, *Russian Revolution*, p. 479
 
-    [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText220)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘Although an insurrection . . .’, THRR, pp. 769–70
 
-    [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText221)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘With this same purpose . . .’, THRR, p. 685
 
-    [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText222)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘I only wish . . .’, Buchanan, Vol. 2, p. 201
 
-    [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText223)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘Rumours are more . . .’, NZ-UT, No. 156, 18/10/1917
 
-    [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText224)
+    GO TO NOTE REFERENCE IN TEXT
 16. Historical Museum, Aleksei Oreshnikov, *Dnevnik*, 16/10/1917
 
-    [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText225)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘None of us went . . .’, Yelena Ivanovna, 20/10/1917, BA-CU 4077740
 
-    [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText226)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘cold and raw Baltic winds’, THRR, p. 706
 
-    [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText227)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘Guards officers still . . .’, THRR, p. 765
 
-    [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText228)
+    GO TO NOTE REFERENCE IN TEXT
 20. Ivanovsky Military Academy, Steveni papers, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText229)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘Latvians and *junkers*. . .’, Boyarchikov, p. 42–3
 
-    [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText230)
+    GO TO NOTE REFERENCE IN TEXT
 22. Fyodor Dan and Lenin, Service, *Lenin*, pp. 306–7
 
-    [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#page_101)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘To the Citizens of Russia!’, ‘The Provisional Government  . . .’, LCW, Vol. 26, p. 236
 
-    [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText232)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘When evening came . . .’, Antonov-Ovseenko, *Zapiski o grazhdanskoi voine*, pp. 19–20, quoted Lincoln, *Armageddon*, p. 452
 
-    [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText233)
+    GO TO NOTE REFERENCE IN TEXT
 25. ‘As far as could be . . .’, Knox, *With the Russian Army,* Vol. 2, p. 714
 
-    [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText234)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘One party after another . . .’, Zenzinov, p. 59
 
-    [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText235)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘the inevitable hunger . . .’, ‘frightened petty . . .’, THRR, p. 784
 
-    [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText236)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘You are miserable . . .’, S.A. Smith, p. 150
 
-    [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText237)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘The working class should . . .’, NZ-UT, No. 174, 7/11/1917
 
-    [GO TO NOTE REFERENCE IN TEXT](019_8_The_October_Coup.xhtml#EndnotePhraseInText238)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 9: The Boys’ Crusade – Revolt of the Junkers
 
 1. ‘We shall now proceed . . .’, Reed, p. 105
 
-   [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText239)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘But we hope’, ibid*.*
 
-   [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText240)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘Lenin ordered him . . .’, N.I. Podvoisky, *God 1917*, p. 169, quoted Wildman, Vol. 2, p. 304
 
-   [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText241)
+   GO TO NOTE REFERENCE IN TEXT
 4. Volynsky Guards, Belov G.A. (et al. eds.), *Doneseniya komissarov Petrogradskogo Voenno-Revolyutsionnogo komiteta*, p. 93
 
-   [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText242)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘Before dawn a group . . .’, Belov G.A. (et al. eds.), p. 154
 
-   [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText243)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘Suddenly a boy officer . . .’, Bessie Beatty, *Red Heart of Russia*, p. 226, quoted Pitcher, *Witnesses*, p. 225
 
-   [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText244)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘Officers supporting . . .’, Belov, p. 154
 
-   [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText245)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘While the firing . . .’, Knox, Vol. 2, p. 717
 
-   [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText246)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘The *junkers* capitulated . . .’, M. Philips Price, *My Reminiscences of the Russian Revolution*, p. 154
 
-   [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText247)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘Editorial offices . . .’, Aleksei Oreshnikov, *Dnevnik*, 26/10/1917
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText248)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘firewood, furniture . . .’, Eduard E Dune, BA-CU 4077481
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText249)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘The shots keep . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText250)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘There were very many artillery rounds . . .’, Ivan Bunin. Collected Edition vol viii, *Okayannye dni* (*Cursed Days*). Memoirs. Articles and Speeches. 1918–1953. Moscow, 2000
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText251)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘Lenin and company . . .’, Aleksei Oreshnikov, *Dnevnik*, 1/11/1917
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText252)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘We had been told . . .’, Eduard E Dune, BA-CU 407748
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText253)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘The *junkers* were standing . . .’, Paustovsky, pp. 504–5
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText254)
+    GO TO NOTE REFERENCE IN TEXT
 17. Dutov, GARF 127/1/3/28
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#page_110)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘He was lean, shabby . . .’, quoted Kuzmin, S. (ed.), *Baron Ungern v dokumentakh i materialakh*, p. 270
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText255)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘His only serious . . .’, RGASPI 71/33/2209/1
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText256)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘Deputy Naval Commissar . . .’, L.Tamarov, *Nash Put,* No. 10, 14 January 1934
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText257)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘Cossacks, especially the front . . .’, *Protokoly zasedaniy Soveta narodnykh komissarov RSFSR, Noyabr 1917–Mart 1918*, p. 56
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText258)
+    GO TO NOTE REFERENCE IN TEXT
 22. *Junkers* in Taganrog, Figes, *A People’s Tragedy*, p. 526
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#page_113)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘Due to Kaledin’s uprising . . .’, RGAVMF R-22/1/5/1
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText260)
+    GO TO NOTE REFERENCE IN TEXT
 24. Finlandsky at Novgorod, Belov G.A. (et al. eds.), pp. 96–100
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#page_113)
+    GO TO NOTE REFERENCE IN TEXT
 25. Value of the rouble, Pipes *Russian Revolution*, p. 505
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText262)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘And so the Bolsheviks . . . ’, M. A. Krol, *Pages of My Life*, pp. 187–190
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText263)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘I saw a small . . .’, Serebrennikov, HIA 51004, p. 40
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText264)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘had not counted . . .’, ibid., p. 61
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText265)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘The victors guaranteed . . .’, Krol, p. 191
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText266)
+    GO TO NOTE REFERENCE IN TEXT
 30. ‘a control post for . . .’, Serebrennikov, HIA 51004, p. 46
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText267)
+    GO TO NOTE REFERENCE IN TEXT
 31. ‘Something mad is going on . . .’, Lakier, BA-CU 4077740
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText268)
+    GO TO NOTE REFERENCE IN TEXT
 32. ‘Local women set it . . .’, Federovsky, GAI R-1020/1/2/1–10
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText269)
+    GO TO NOTE REFERENCE IN TEXT
 33. ‘a nice, quiet capable . . .’, WiR, p. 30
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText270)
+    GO TO NOTE REFERENCE IN TEXT
 34. ‘lifted him on their bayonets’, N. Dubakina, BA-CU 4077480
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText271)
+    GO TO NOTE REFERENCE IN TEXT
 35. ‘Generals Kaledin, Kornilov . . .’, 28/11/1917, GARF 127/1/1/34
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText272)
+    GO TO NOTE REFERENCE IN TEXT
 36. ‘the misty romanticism . . .’, Paustovsky, p. 507
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText273)
+    GO TO NOTE REFERENCE IN TEXT
 37. ‘You suckling babes!’, ibid., p. 511
 
-    [GO TO NOTE REFERENCE IN TEXT](020_9_The_Boys_Crusade_R.xhtml#EndnotePhraseInText274)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 10: The Infanticide of Democracy
 
 1. ‘The army of . . .’, Paustovsky, p. 513
 
-   [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText275)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘civil war is the sharpest . . .’, LCW, Vol. 26, pp. 28–42
 
-   [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText276)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘class enemies’, ‘enemies of the people’, Council of People’s Commissars Decree, 28 November, 1917
 
-   [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText277)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘Far more than . . .’, Nicolas Werth, ‘Crimes and Mass Violence of the Russian Civil Wars, 1918–1921’, Sciences Po, 2008
 
-   [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText278)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘I am the new Minister . . .’, Bunyan & Fisher, *Bolshevik Revolution*, p. 225
 
-   [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText279)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘All of those refusing . . .’, N.K. Nikolaev, 4/12/1917, BA-CU 4077869
 
-   [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText280)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘You know . . .’, A. Borman, ‘In the Enemy Camp’, GARF 5881/1/81/13
 
-   [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText281)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘intelligentsia pessimism’, NZ-UT, xxii
 
-   [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText282)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘If you took the most . . .’, quoted Daniel Guerin, *Anarchism: From Theory to Practice*, pp. 25–6
 
-   [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText283)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘He was sitting . . .’, RGVA 1304/1/483/86-7; GARO 4071/2/10/21
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText284)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘Many people, even . . .’, Lakier 17/11/1917, BA-CU 4077740
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText285)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘Almost nobody . . .’, Globachev, BA-CU 4077547, p. 132
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText286)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘They have started making . . .’, Lakier 11/12/1917, BA-CU 4077740
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#00_New_8)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘The bourgeoisie are prepared to commit . . .’, LCW, Vol. 26, p. 374
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText287)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘lice’, ‘fleas’, etc., LCW, Vol. 26, pp. 404–15
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#00_New_8)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘Feliks would not spare . . .’, GARF 5881/1/81/13
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText289)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘There is no greater joy . . .’, by Aleksandr Eiduk, in Valerii Shambov, *Gosudarstvo i revolutsii*, p. 17, quoted Rayfield, *Stalin and his Hangmen*, p. 76
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText290)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘burning heart . . .’, Mitrokhin (ed.), *Chekisms – A KGB Anthology*, xxiii
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText291)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘Lenin made the Revolution . . .’, J. Scholmer, *Die Toten kehren zurück*, p. 128
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText292)
+    GO TO NOTE REFERENCE IN TEXT
 20. Jews in Smolensk, see Hickey, Michael C., ‘Smolensk’s Jews in War, Revolution and Civil War’, in Badcock, Sarah; Novikova, Liudmila G.; and Retish, Aaron B., *Russia’s Home Front in War and Revolution, 1914*–*22*, Vol. 1, *Russia’s Revolution in Regional Perspective*, pp. 185–97
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#page_124)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘Soviet authorities tacitly . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText294)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘spontaneity of the masses’, For Left Socialist Revolutionaries in Sovnarkom, see Lara Douds, ‘ “The dictatorship of the democracy”? The Council of People’s Commissars as Bolshevik-Left Socialist Revolutionary coalition government, December 1917–March 1918’
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText295)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘humiliated and demoralized’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#00_New_9)
+    GO TO NOTE REFERENCE IN TEXT
 24. Left SRs joining Cheka, TsAFSB 1/10/52/5–6, Rabinowitch, p. 88
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#page_125)
+    GO TO NOTE REFERENCE IN TEXT
 25. Generals escaping from Bykhov in disguise, Figes, *A People’s Tragedy*, p. 558
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#page_126)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘Near Baku, I saw . . .’, Shklovsky, *Sentimental Journey*, p. 74
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#00_New_10)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘I arrived . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText300)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘None of these tribes . . .’, Shklovsky, p. 80
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText301)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘In the army committee . . .’, ibid., p. 87
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText302)
+    GO TO NOTE REFERENCE IN TEXT
 30. ‘Men I knew . . .’, ibid., 100–1
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText303)
+    GO TO NOTE REFERENCE IN TEXT
 31. ‘I kept seeing . . .’, ibid., p. 102
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText304)
+    GO TO NOTE REFERENCE IN TEXT
 32. ‘A rifle, especially . . .’, ibid., p. 110
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText305)
+    GO TO NOTE REFERENCE IN TEXT
 33. Theodosia, Gorky, NZh, 16 /3/1918
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#page_128)
+    GO TO NOTE REFERENCE IN TEXT
 34. ‘Khatchikov eventually . . .’, Shklovsky, p. 104
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#EndnotePhraseInText306)
+    GO TO NOTE REFERENCE IN TEXT
 35. For Dunsterforce, see Lionel Dunsterville, *The Adventures of Dunsterforce*; Teague-Jones, Reginald, *The Spy who Disappeared – Diary of a Secret Mission to Russian Central Asia in 1918*; Richard H. Ullman *Anglo-Soviet Relations 1917*–*21. Vol. I. Intervention and the War*; William Leith-Ross papers, NAM 1983-12-71-333; TNA FO 371 8204/8205/9357
 
-    [GO TO NOTE REFERENCE IN TEXT](021_10_The_Infanticide_o.xhtml#page_129)
+    GO TO NOTE REFERENCE IN TEXT
 
 ## Part Two: 1918
 
@@ -6251,907 +6251,907 @@ NB In the case of most Russian archives the format indicates the reference given
 
 1. ‘Anyone who took part . . .’, Zenzinov, p. 97
 
-   [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText308)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘Gusev assembled . . .’, Anon. ASF-ARML C-15/3/4
 
-   [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText309)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘The night session . . .’, Zenzinov, p. 99
 
-   [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText310)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘whistling, rattling and shouting . . .’, Anon. ASF-ARML C-15/3/4
 
-   [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText311)
+   GO TO NOTE REFERENCE IN TEXT
 5. Escape of Vladimir D. Nabokov, V.V. Nabokov, pp. 186–7
 
-   [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#page_135)
+   GO TO NOTE REFERENCE IN TEXT
 6. For reintroduction of the death penalty, see Melgunov, *Red Terror in Russia, 1918–1923*, pp. 36–8
 
-   [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#page_136)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘They were inventing . . .’, G.K. Borel, Borel Collection, BA-CU 4078202
 
-   [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText314)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘a sailor with high . . .’, Paustovsky, p. 515
 
-   [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText315)
+   GO TO NOTE REFERENCE IN TEXT
 9. Death of General Abaleshev, Lt Gen M.A. Svechin, BA-CU 4078130, 17
 
-   [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#page_137)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘An arrested officer . . .’, Lakier, BA-CU 4077740
 
-    [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText317)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘indescribable horror . . .’, Bunin, p. 38
 
-    [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText318)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘The most senior . . .’, Melgunov, pp. 89–90
 
-    [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText319)
+    GO TO NOTE REFERENCE IN TEXT
 13. The pier at Yalta, Nabokov, p. 189
 
-    [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#page_138)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘up to 20,000 workers . . .’, Peters, *Izvestiya* 29/8/1919, Melgunov, p. 155
 
-    [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText320)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘Everyone treated people . . .’, Paustovsky, p. 615
 
-    [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText321)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘Inhabitants of the capital . . .’, M. K. Borel, Borel Collection, BA-CU 4078202; see also Globachev, BA-CU 4077547
 
-    [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText322)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘selling themselves for . . .’, Goldman, *My Disillusionment*, p. 39; quoted Figes, *Tragedy*, p. 605
 
-    [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText323)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘In the very centre . . .’, Lakier, BA-CU 4077740
 
-    [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText324)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘On Tverskaya . . .’, Bunin, p. 39
 
-    [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText325)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘were given a spade . . .’, Globachev, BA-CU 4077547
 
-    [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText326)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘The same circus . . .’, Heiden, HIA 75009
 
-    [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText327)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘the history-themed . . .’, Nazhivin, p. 193
 
-    [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText328)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘Kiev’s situation . . .’, Mogilyansky, N.M., *Kiev 1918*, pp. 36–7
 
-    [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText329)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘started dragging . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText330)
+    GO TO NOTE REFERENCE IN TEXT
 25. looting, murder and rape in Kiev, Anon, ASF-ARLM A-94
 
-    [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#page_142)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘Machine gun belts . . .’, Mogilyansky, p. 39
 
-    [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText332)
+    GO TO NOTE REFERENCE IN TEXT
 27. Mass executions . . .’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText333)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘The anatomy theatre . . .’, Heiden, BA-CU 75009
 
-    [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText334)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘At night it is dark . . .’, Gubarev, BA-CU 4077582
 
-    [GO TO NOTE REFERENCE IN TEXT](023_11_Breaking_the_Moul.xhtml#EndnotePhraseInText335)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 12: Brest-Litovsk
 
 1. Recruitment of Stashkov, I.G. Fokke, ‘Na stsene i sa kulisami brestsakoi tragikomedii’, in *Arkhiv russkoi revoluiutsii*, I.V. Hessen (ed.), Vol. 20, 15–17, Wheeler-Bennett, *Brest-Litovsk*, pp. 86–7
 
-   [GO TO NOTE REFERENCE IN TEXT](024_12_Brest-Litovsk.xhtml#page_144)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘a Jew recently . . .’, quoted Wheeler-Bennett, p. 113
 
-   [GO TO NOTE REFERENCE IN TEXT](024_12_Brest-Litovsk.xhtml#EndnotePhraseInText337)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘Which is the stronger . . .’, ibid., p. 114
 
-   [GO TO NOTE REFERENCE IN TEXT](024_12_Brest-Litovsk.xhtml#EndnotePhraseInText338)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘The bourgeoisie has to be . . .’, RGASPI 17/1/405/1–13
 
-   [GO TO NOTE REFERENCE IN TEXT](024_12_Brest-Litovsk.xhtml#EndnotePhraseInText339)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘inciting the German troops . . .’, Wheeler-Bennett, p. 221
 
-   [GO TO NOTE REFERENCE IN TEXT](024_12_Brest-Litovsk.xhtml#EndnotePhraseInText340)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘the Germans will be unable . . .’, quoted ibid., pp. 185–6
 
-   [GO TO NOTE REFERENCE IN TEXT](024_12_Brest-Litovsk.xhtml#00_New_15)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘It is the most . . .’, Hoffmann, Vol. 1, pp. 206–7
 
-   [GO TO NOTE REFERENCE IN TEXT](024_12_Brest-Litovsk.xhtml#EndnotePhraseInText341)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘Great Russian chauvinism . . .’, LCW, Vol. 24, pp. 135–9
 
-   [GO TO NOTE REFERENCE IN TEXT](024_12_Brest-Litovsk.xhtml#EndnotePhraseInText342)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘somewhat embarrassing’, Steveni, KCLMA
 
-   [GO TO NOTE REFERENCE IN TEXT](024_12_Brest-Litovsk.xhtml#EndnotePhraseInText343)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘In accordance with the request . . .’, quoted Steinberg, 18/4/1918, HIA XX692
 
-    [GO TO NOTE REFERENCE IN TEXT](024_12_Brest-Litovsk.xhtml#EndnotePhraseInText344)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘from the Red Terror’, Goltz, p. 48
 
-    [GO TO NOTE REFERENCE IN TEXT](024_12_Brest-Litovsk.xhtml#EndnotePhraseInText345)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘both my head . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](024_12_Brest-Litovsk.xhtml#EndnotePhraseInText346)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘There was no pretence . . .’, Mawdsley, *Baltic Fleet*, p. 150
 
-    [GO TO NOTE REFERENCE IN TEXT](024_12_Brest-Litovsk.xhtml#EndnotePhraseInText347)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘The Brest Treaty has been . . .’, RGAVMF R-96/1/6/118
 
-    [GO TO NOTE REFERENCE IN TEXT](024_12_Brest-Litovsk.xhtml#EndnotePhraseInText348)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘Shchastny, acting heroically . . .’, ‘a bloody comedy . . .’, Melgunov, *Red Terror*, p. 38
 
-    [GO TO NOTE REFERENCE IN TEXT](024_12_Brest-Litovsk.xhtml#EndnotePhraseInText349)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘The execution of Shchastny . . .’, RGAVMF R-96/1/6/124
 
-    [GO TO NOTE REFERENCE IN TEXT](024_12_Brest-Litovsk.xhtml#EndnotePhraseInText350)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘Ration cards . . .’, Memoir of Ambroży Kowalenko, KCF AW II/1993
 
-    [GO TO NOTE REFERENCE IN TEXT](024_12_Brest-Litovsk.xhtml#EndnotePhraseInText351)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘We live in a dead . . .’, quoted, Teffi, *Memories*, p. 15
 
-    [GO TO NOTE REFERENCE IN TEXT](024_12_Brest-Litovsk.xhtml#EndnotePhraseInText352)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘they put up ugly . . .’, Borel Collection, BA-CU 4078202
 
-    [GO TO NOTE REFERENCE IN TEXT](024_12_Brest-Litovsk.xhtml#00_New_11)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘prehistoric gloom’, Serge, *Conquered City*, p. 30
 
-    [GO TO NOTE REFERENCE IN TEXT](024_12_Brest-Litovsk.xhtml#EndnotePhraseInText354)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘Bandits get in . . .’, ibid., p. 32
 
-    [GO TO NOTE REFERENCE IN TEXT](024_12_Brest-Litovsk.xhtml#EndnotePhraseInText355)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 13: The Volunteer Army’s Ice March
 
 1. ‘No, thank you . . .’, Lt Gen M.A. Svechin, BA-CU 4078130, p. 2
 
-   [GO TO NOTE REFERENCE IN TEXT](025_13_The_Volunteer_Arm.xhtml#EndnotePhraseInText356)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘many workers had scores . . .’, Dune, BA-CU 4077481, p. 77
 
-   [GO TO NOTE REFERENCE IN TEXT](025_13_The_Volunteer_Arm.xhtml#EndnotePhraseInText357)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘It was the first time . . .’, Dune, BA-CU 4077481, p. 86
 
-   [GO TO NOTE REFERENCE IN TEXT](025_13_The_Volunteer_Arm.xhtml#EndnotePhraseInText358)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘Would they have treated . . .’, Dune, BA-CU 4077481, p. 92
 
-   [GO TO NOTE REFERENCE IN TEXT](025_13_The_Volunteer_Arm.xhtml#EndnotePhraseInText359)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘Of course, we felt . . .’, ibid.
 
-   [GO TO NOTE REFERENCE IN TEXT](025_13_The_Volunteer_Arm.xhtml#EndnotePhraseInText360)
+   GO TO NOTE REFERENCE IN TEXT
 6. Taganrog killings, Melgunov, *Red Terror*, pp. 88–9
 
-   [GO TO NOTE REFERENCE IN TEXT](025_13_The_Volunteer_Arm.xhtml#page_163)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘the complete unwillingness . . .’, Alekseev Papers, Borel collection, BA-CU 4078202
 
-   [GO TO NOTE REFERENCE IN TEXT](025_13_The_Volunteer_Arm.xhtml#EndnotePhraseInText362)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘The ground is wobbly . . .’, Mironov, RGVA, 192/6/1/2
 
-   [GO TO NOTE REFERENCE IN TEXT](025_13_The_Volunteer_Arm.xhtml#EndnotePhraseInText363)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘There’s been enough talking’, Svechin, BA-CU 4078130
 
-   [GO TO NOTE REFERENCE IN TEXT](025_13_The_Volunteer_Arm.xhtml#EndnotePhraseInText364)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘I congratulated him . . .’, etc., ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](025_13_The_Volunteer_Arm.xhtml#EndnotePhraseInText365)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘The enemy was nowhere . . .’, Dune, BA-CU 4077481, 91
 
-    [GO TO NOTE REFERENCE IN TEXT](025_13_The_Volunteer_Arm.xhtml#EndnotePhraseInText366)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘Stand up when . . .’, Svechin, BA-CU 4078130, 26
 
-    [GO TO NOTE REFERENCE IN TEXT](025_13_The_Volunteer_Arm.xhtml#EndnotePhraseInText367)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘My dear, beloved Nyuta . . .’, Alekseev Papers, Borel Collection, BA-CU 4078202
 
-    [GO TO NOTE REFERENCE IN TEXT](025_13_The_Volunteer_Arm.xhtml#EndnotePhraseInText368)
+    GO TO NOTE REFERENCE IN TEXT
 14. Breakdown by rank of Volunteer Army, Kenez i, *Red Attack*, p. 100
 
-    [GO TO NOTE REFERENCE IN TEXT](025_13_The_Volunteer_Arm.xhtml#page_168)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘I act in complete concordance . . .’, 2/5/1918, Alekseev Papers, Borel Collection, BA-CU 4078202
 
-    [GO TO NOTE REFERENCE IN TEXT](025_13_The_Volunteer_Arm.xhtml#EndnotePhraseInText370)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘The half-destroyed army . . .’, Pavel Konstantinov, GARF 5881/1/106/1–14
 
-    [GO TO NOTE REFERENCE IN TEXT](025_13_The_Volunteer_Arm.xhtml#EndnotePhraseInText371)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘Neither side took . . .’, Makhonin, Box 33, BA-CU 4077787
 
-    [GO TO NOTE REFERENCE IN TEXT](025_13_The_Volunteer_Arm.xhtml#EndnotePhraseInText372)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘The Bolsheviks are burying . . .’, Lakier, BA-CU 4077740
 
-    [GO TO NOTE REFERENCE IN TEXT](025_13_The_Volunteer_Arm.xhtml#EndnotePhraseInText373)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘On the other side . . .’, Nazhivin, p. 199
 
-    [GO TO NOTE REFERENCE IN TEXT](025_13_The_Volunteer_Arm.xhtml#EndnotePhraseInText374)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘A civil war is always . . .’, Alekseev Papers, Borel collection, BA-CU 4078202
 
-    [GO TO NOTE REFERENCE IN TEXT](025_13_The_Volunteer_Arm.xhtml#EndnotePhraseInText375)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘I told them . . .’, Makhonin, BA-CU 4077787, p. 26
 
-    [GO TO NOTE REFERENCE IN TEXT](025_13_The_Volunteer_Arm.xhtml#EndnotePhraseInText376)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘There was great joy in the city . . .’, Svechin, BA-CU 4078130, p. 34
 
-    [GO TO NOTE REFERENCE IN TEXT](025_13_The_Volunteer_Arm.xhtml#EndnotePhraseInText377)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 14: The Germans March In
 
 1. ‘We haven’t slept . . .’, Lakier, BA-CU 4077740
 
-   [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText378)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘They came down the steps’, ibid*.*
 
-   [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText379)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘the well-organized . . .’, Heiden, BA-CU 75009, p. 19
 
-   [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText380)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘The Bolsheviks vanished . . .’, Nabokov, p. 190
 
-   [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText381)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘As soon as the train . . .’, Dreier, BA-CU 4077478, p. 350
 
-   [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText382)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘a wonderful and unprecedented . . .’, Teffi, *Memories*, p. 124
 
-   [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText383)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘In those days . . .’, Paustovsky, p. 567
 
-   [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText384)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘gathered in front of . . .’, Mogilyansky, p. 77
 
-   [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText385)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘This whole comedy . . .’, Heiden, HIA 75009
 
-   [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText386)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘little Pavel . . .’, Heiden, HIA 75009
 
-    [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText387)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘Most Illustrious Hetman’, Svechin, BA-CU 40781309
 
-    [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText388)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘I can see they are guarding . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#00_New_12)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘Ukraine interests . . .’, quoted Mark R. Baker, ‘War and Revolution in Ukraine’, in Badcock (et al. eds), iii, 1, p. 137
 
-    [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText390)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘There were many cases . . .’, Mogilyansky, p. 83
 
-    [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText391)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘Your Imperial and Royal Excellency . . .’, 27/7/1918, M.V. Rodzyanko, HIA 27003, Box 1
 
-    [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText392)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘To the Ataman of the Great Don . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText393)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘To the Citizen . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText394)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘Like most of the well-to-do . . .’, Bruce Lockhart, TNA FO 371/3332/9748
 
-    [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText395)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘because they rejected . . .’, Svechin, BA-CU 40781309, p. 55
 
-    [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText396)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘All the Red Army . . .’, Dune, BA-CU 4077481, p. 95
 
-    [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText397)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘Our eternal enemies . . .’, Mironov, RGVA 192/6/1/11
 
-    [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText398)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘I need to know . . .’, Mironov to SKVO (North Caucasus Military District) Tsaritsyn, RGVA 1304/1/489/108
 
-    [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText399)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘They are going . . .’, GARF 5881/1/81/24
 
-    [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText400)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘completely new class . . .’, GARF 5881/1/81/14
 
-    [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText401)
+    GO TO NOTE REFERENCE IN TEXT
 25. ‘the pervasive corruption . . .’, quoted Pipes, *Russian Revolution*, p. 617
 
-    [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText402)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘They had come to . . .’, GARF 5881/1/81/14
 
-    [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText403)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘The tables were . . . ’, GARF 5881/1/81/51
 
-    [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText404)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘to Kursk in order . . .’, GARF 5881/1/81/16
 
-    [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText405)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘Finally, Stalin . . .’, GARF 5881/1/81/18
 
-    [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText406)
+    GO TO NOTE REFERENCE IN TEXT
 30. ‘On the very first day . . .’, GARF 5881/1/81/25
 
-    [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText407)
+    GO TO NOTE REFERENCE IN TEXT
 31. ‘What permission do . . .’, GARF 5881/1/81/29
 
-    [GO TO NOTE REFERENCE IN TEXT](026_14_The_Germans_March.xhtml#EndnotePhraseInText408)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 15: Enemies on the Periphery
 
 1. ‘hunger and the ignorance . . .’, 29/6/1918, RGASPI 67/1/96/29
 
-   [GO TO NOTE REFERENCE IN TEXT](027_15_Enemies_on_the_Pe.xhtml#EndnotePhraseInText409)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘Once a military force . . .’, Lund Collection KCLMA
 
-   [GO TO NOTE REFERENCE IN TEXT](027_15_Enemies_on_the_Pe.xhtml#EndnotePhraseInText410)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘If we receive no help . . .’, 19/7/1918, RGASPI 67/1/96/34
 
-   [GO TO NOTE REFERENCE IN TEXT](027_15_Enemies_on_the_Pe.xhtml#EndnotePhraseInText411)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘principles of discipline . . .’, LCW xxii, 378
 
-   [GO TO NOTE REFERENCE IN TEXT](027_15_Enemies_on_the_Pe.xhtml#EndnotePhraseInText412)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘interests of the working masses’, quoted Karsten Brüggemann, ‘National and Social Revolution in the Empire’s West’, Badcock (et al. eds.), iii, 1, p. 150
 
-   [GO TO NOTE REFERENCE IN TEXT](027_15_Enemies_on_the_Pe.xhtml#00_New_19)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘It is absolutely necessary . . .’, Ernest Lloyd Harris, HIA XX072 Box 1
 
-   [GO TO NOTE REFERENCE IN TEXT](027_15_Enemies_on_the_Pe.xhtml#EndnotePhraseInText413)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘not wanting to cooperate . . .’, Pierre Janin Diary, 18/9/18, HIA YY239
 
-   [GO TO NOTE REFERENCE IN TEXT](027_15_Enemies_on_the_Pe.xhtml#EndnotePhraseInText414)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘Transport German prisoners . . .’, Harris, HIA XX072 Box 1
 
-   [GO TO NOTE REFERENCE IN TEXT](027_15_Enemies_on_the_Pe.xhtml#EndnotePhraseInText415)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘He is a great sportsman . . .’, Lt Col Blackwood to Maj Gen Poole, 14/2/1919, Poole, KCLMA
 
-   [GO TO NOTE REFERENCE IN TEXT](027_15_Enemies_on_the_Pe.xhtml#EndnotePhraseInText416)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘the brutal five-day battle . . .’, Pavel Konstantinov, GARF 5881/1/106/1
 
-    [GO TO NOTE REFERENCE IN TEXT](027_15_Enemies_on_the_Pe.xhtml#EndnotePhraseInText417)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘This time the Army . . .’, GARF 5881/1/106/3
 
-    [GO TO NOTE REFERENCE IN TEXT](027_15_Enemies_on_the_Pe.xhtml#00_New_13)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘Everything was mixed up . . .’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](027_15_Enemies_on_the_Pe.xhtml#EndnotePhraseInText419)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘He would take five . . .’, Nazhivin, 200
 
-    [GO TO NOTE REFERENCE IN TEXT](027_15_Enemies_on_the_Pe.xhtml#EndnotePhraseInText420)
+    GO TO NOTE REFERENCE IN TEXT
 14. Krasnovodsk etc., Teague-Jones report, ‘The Russian Revolution in Transcaspia’, TNA WO 106/61; Sinclair Papers, IWM, 67/329/1
 
-    [GO TO NOTE REFERENCE IN TEXT](027_15_Enemies_on_the_Pe.xhtml#page_197)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘The poor native people . . .’, Harris, HIA XX 072 – 9.23 Box 5
 
-    [GO TO NOTE REFERENCE IN TEXT](027_15_Enemies_on_the_Pe.xhtml#EndnotePhraseInText422)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘to deny sea-power . . .’, ‘The Royal Navy on the Caspian, 1918–1919’, *Naval Review*, 8(1), p. 89
 
-    [GO TO NOTE REFERENCE IN TEXT](027_15_Enemies_on_the_Pe.xhtml#EndnotePhraseInText423)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘They preferred . . .’, William Leith-Ross, NAM 1983-12-71-333
 
-    [GO TO NOTE REFERENCE IN TEXT](027_15_Enemies_on_the_Pe.xhtml#EndnotePhraseInText424)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘The town is a queer . . .’, ‘The Royal Navy on the Caspian’, p. 93
 
-    [GO TO NOTE REFERENCE IN TEXT](027_15_Enemies_on_the_Pe.xhtml#EndnotePhraseInText425)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘A British General on the . . .’, Teague-Jones, *The Spy who Disappeared*, p. 99
 
-    [GO TO NOTE REFERENCE IN TEXT](027_15_Enemies_on_the_Pe.xhtml#EndnotePhraseInText426)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘that unless the Armenians . . .’, ‘The Royal Navy on the Caspian’, p. 95
 
-    [GO TO NOTE REFERENCE IN TEXT](027_15_Enemies_on_the_Pe.xhtml#EndnotePhraseInText427)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘The Turks and Tatars . . .’, Teague-Jones, *The Spy who Disappeared*, p. 101
 
-    [GO TO NOTE REFERENCE IN TEXT](027_15_Enemies_on_the_Pe.xhtml#EndnotePhraseInText428)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 16: The Czechs and Left Social Revolutionaries Revolt
 
 1. ‘All Soviets . . .’, Harris, HIA XX072 Box 1
 
-   [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText429)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘We split into groups . . .’, Lenkov, BA-CU 4077747
 
-   [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText430)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘News of the Czech . . .’, Yakov S.Dvorzhets, GARF 127/1/3/15
 
-   [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText431)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘The German government . . .’, to Sec of State from Alfred R. Thomson, 16/8/19, HIA XX 072–9.23 Box 2
 
-   [GO TO NOTE REFERENCE IN TEXT](082_Footnote.xhtml#EndnotePhraseInText432)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘I opened the door . . .’, GARF 127/1/3/17
 
-   [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText433)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘A crowd of officers . . .’, ibid.
 
-   [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText434)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘On the very day . . .’, Dvorzhets, GARF 127/1/3/21
 
-   [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText435)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘The People’s Army headquarters . . .’, Dvorzhets, GARF 127/1/3/28
 
-   [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText436)
+   GO TO NOTE REFERENCE IN TEXT
 9. Diterikhs, Steveni, KCLMA
 
-   [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#page_206)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘the Czechs stormed . . .’, S. Lubodziecki, ‘Polacy na Syberji w latach 1917–1920. Wspomnienia’, *Sybirak*, 2/1934, 42
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText437)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘Its presence . . .’, Serebrennikov, HIA 51004, 69
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText438)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘The Irkutsk Bolsheviks were . . .’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText439)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘Factory whistles sounded . . .’, to Sec of State, Harris, 29/7/1918, HIA XX072 Box 1
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText440)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘consisting chiefly of . . .’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText441)
+    GO TO NOTE REFERENCE IN TEXT
 15. Yaroslavl rebellion, Shultz, ASF-ARML R-145
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#page_208)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘[Savinkov] bases his hopes . . .’, Bruce Lockhart, 28/5/1918, TNA FO 371/3332/9748
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText443)
+    GO TO NOTE REFERENCE IN TEXT
 17. Colonel Aleksandr Perkhurov, RGVA 39458/1/9/11
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText444)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘sometimes pushing . . .’, Paustovsky, p. 540
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText445)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘Long live the rebellion . . .’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText446)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘as *agents provocateurs* . . .’, Steinberg, HIA XX692
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText447)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘all questions of peace . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText448)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘Lenin did not turn pale . . .’, quoted Pipes, *Russian Revolution*, p. 640
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText449)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘Long live the revolt!’, Paustovsky, p. 538
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText450)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘eight artillery guns . . .’, quoted Pipes, p. 641
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText451)
+    GO TO NOTE REFERENCE IN TEXT
 25. ‘Comrade, will we hold. . .,’ Steinberg, HIA XX692
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText452)
+    GO TO NOTE REFERENCE IN TEXT
 26. Siege of the Pokrovsky barracks, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#page_213)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘to make use of . . .’, quoted Mawdsley, *The Russian Civil War*, p. 76
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText453)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘It was reported that Muraviev . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText454)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘Isn’t it a shame . . .’, Svechin, BA-CU 40781309, p. 55
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText455)
+    GO TO NOTE REFERENCE IN TEXT
 30. ‘It is certainly . . .’, Buisson (ed.), p. 204
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText456)
+    GO TO NOTE REFERENCE IN TEXT
 31. ‘assaulted and raped . . .’, Helen Rappaport, *Ekaterinburg*, p. 36
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText457)
+    GO TO NOTE REFERENCE IN TEXT
 32. ‘we received two letters . . .’, Buisson (ed.), p. 210
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText458)
+    GO TO NOTE REFERENCE IN TEXT
 33. ‘The counter-revolution is . . .’, Ural exhibition, ASF-ARLM
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText459)
+    GO TO NOTE REFERENCE IN TEXT
 34. ‘Alexis has had his first . . .’, Buisson (ed.), p. 212
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText460)
+    GO TO NOTE REFERENCE IN TEXT
 35. ‘the sanctity of human life’, Figes, *Tragedy*, p. 641
 
-    [GO TO NOTE REFERENCE IN TEXT](028_16_The_Czechs_and_Le.xhtml#EndnotePhraseInText461)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 17: Red Terror
 
 1. Fanya Kaplan and attempt on Lenin, Vasily Mitrokhin, [ed], *‘Chekisms’ – A KGB Anthology*, pp. 65–9
 
-   [GO TO NOTE REFERENCE IN TEXT](029_17_Red_Terror.xhtml#page_218)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘We need to take . . .’, 9/9/1918, RGASPI 67/1/95/134
 
-   [GO TO NOTE REFERENCE IN TEXT](029_17_Red_Terror.xhtml#EndnotePhraseInText463)
+   GO TO NOTE REFERENCE IN TEXT
 3. Uritsky’s funeral, Globachev, BA-CU 4077547
 
-   [GO TO NOTE REFERENCE IN TEXT](029_17_Red_Terror.xhtml#EndnotePhraseInText464)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘Thousands of your . . .’, Melgunov, *Red Terror*, pp. 40–1
 
-   [GO TO NOTE REFERENCE IN TEXT](029_17_Red_Terror.xhtml#EndnotePhraseInText465)
+   GO TO NOTE REFERENCE IN TEXT
 5. Party newspapers, RGASPI 67/1/95/ 31
 
-   [GO TO NOTE REFERENCE IN TEXT](029_17_Red_Terror.xhtml#EndnotePhraseInText466)
+   GO TO NOTE REFERENCE IN TEXT
 6. 500 hostages, *Cheka Weekly* 20 October (No.5), quoted Melgunov, p. 21
 
-   [GO TO NOTE REFERENCE IN TEXT](029_17_Red_Terror.xhtml#EndnotePhraseInText467)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘Dzerzhinsky only works . . .’, Grigory Aronson, *Na zare krasnogo terrora*, p. 46
 
-   [GO TO NOTE REFERENCE IN TEXT](029_17_Red_Terror.xhtml#EndnotePhraseInText468)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘The district’s population . . .’, Cossack Department of VTsIK Danilov, GARF. 1235/83/8/43–52
 
-   [GO TO NOTE REFERENCE IN TEXT](029_17_Red_Terror.xhtml#EndnotePhraseInText469)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘Sometimes they shot 50–60 people a day . . .’, TsA FSB RF S/d N-217. T.D S. pp. 149–153
 
-   [GO TO NOTE REFERENCE IN TEXT](029_17_Red_Terror.xhtml#00_New_14)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘In Kursk, the population . . .’, Mitrokhin (ed.), *Chekisms*, p. 72
 
-    [GO TO NOTE REFERENCE IN TEXT](029_17_Red_Terror.xhtml#EndnotePhraseInText471)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘When interrogating . . .’, quoted Rayfield, p. 71; *Pravda* 25/12/1918
 
-    [GO TO NOTE REFERENCE IN TEXT](029_17_Red_Terror.xhtml#EndnotePhraseInText472)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘Markets were banned . . .’, Borel Collection, BA-CU 4078202
 
-    [GO TO NOTE REFERENCE IN TEXT](029_17_Red_Terror.xhtml#EndnotePhraseInText473)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 18: Fighting on the Volga and the Red Army
 
 1. ‘At 08.00 after . . .’, GARF 127/1/8/1–2
 
-   [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText474)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘warrior Diana’, letter from Raskolnikov to Reisner, quoted Cathy Porter, *Larissa Reisner*, p. 54
 
-   [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText475)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘an Olympian goddess . . .’, quoted Bruce Lincoln, *Red Victory*, p. 188
 
-   [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText476)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘The town isn’t taken . . .’, ibid*.*, p. 59
 
-   [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText477)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘Suddenly the rumour spread . . .’, Zenzinov, *Iz zhizni revolyutsionera*, p. 134
 
-   [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#00_New_20)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘the Serbian International . . .’, RACO, p. 52
 
-   [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText478)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘Our leading units . . .’, RGVA 39458/1/7/2
 
-   [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText479)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘Komuch’s evil genius . . .’, GARF 127/1/3/66
 
-   [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText480)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘to visit some . . .’; ‘I asked him if . . .’, Prokofiev, *Dnevnik* 26/11/1918,
 
-   [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText481)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘Tukhachevsky, with whom . . .’, WiR, p. 72
 
-    [GO TO NOTE REFERENCE IN TEXT](087_Footnote.xhtml#EndnotePhraseInText482)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘protection document’, Ural exhibition, ASF-ARLM
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText483)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘Proletarians to Horse!’, Boyarchikov, *Vospominaniya*, p. 50
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText484)
+    GO TO NOTE REFERENCE IN TEXT
 13. Red uniforms, Olga Khoroshilova, ‘Red Revolutionary Breeches’, *Rodina*, No. 10, 2017
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#page_229)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘A moral “quarantine” . . .’, Oe-StA-KA FA AOK OpAbt Akten, Heimkehrergruppe 1918 K358 130078
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText486)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘In the [Khabarovsk] camp . . .’, Maj F. Reder Ritter von Schellmann, Oe-StA-KA NL F Reder, 763 (B,C) B763
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText487)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘propaganda is being . . .’, Oe-StA-KA FA AOK OpAbt Akten, Heimkehrergruppe 1918 K358 130055
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText488)
+    GO TO NOTE REFERENCE IN TEXT
 17. Tsaritsyn death rate, Oe-StA-KA, 10 7/7–862, quoted Wurzer, Georg, *Die Kriegsgefangenen der Mittelmächte in Russland im Ersten Weltkrieg*, Vienna, 2005, p. 465
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#page_230)
+    GO TO NOTE REFERENCE IN TEXT
 18. Conditions in Russian prisoners-of-war camps, Wurzer, p. 111
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#page_231)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘foreign invasion’, Jansen, Marc, ‘International Class Solidarity or Foreign Intervention? Internationalists and Latvian Rifles in the Russian Revolution and the Civil War’, *International Review of Social History*, 31(1) (1986), p. 79
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText491)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘internationalist occupation’, I.Bernshtam, ‘Storony v grazhdanskoi voine, 1917–1922 gg’, in *Vestnik Russkogo Kristianskogo Dvizheniia*, 128 (1979), p. 332.
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText492)
+    GO TO NOTE REFERENCE IN TEXT
 21. Recruitment of Chinese labour during the war, Alexander Lukin, *The Bear Watches the Dragon*, p. 60
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#page_231)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘Soviet authority . . .’, GAKK R-53/1/3/41
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText494)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘not only reliable . . .’, Nikolai Karpenko, *Kitaiskii legion: uchastie kitaitsev v revoliutsionnykh sobytiiakh na territorii Ukrainy, 1917–1921 gg.* (*The Chinese Legion: Participation of the Chinese in the Revolutionary Events in the Territory of Ukraine, 1917–1921*), p. 323
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText495)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘I feared capture . . .’, Shipitsyn, Fyodor, in *V Boyakh i Pokhodakh* (*In Battles and on the March*), 1959, p. 504
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText496)
+    GO TO NOTE REFERENCE IN TEXT
 25. Chinese in Red Army and Cheka, Aleksandr Larin, ‘Red and White, Red Army from the Middle Kingdom’, *Rodina*, 7 (2000)
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#page_232)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘In the area controlled . . .’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText498)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘The Chinese were very serious . . .’, Karpenko, *Kitaiskii legion*, p. 323
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText499)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘the enemy is blowing up tracks . . .’, telegram 10/8/1918, Ural exhibition, ASF-ARLM
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText500)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘But the Velikie Luki . . .’, Head of Political Department of Commander of North-Eastern Sector 13/8/1918, RGAVMF R-96/1/6/92–9
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText501)
+    GO TO NOTE REFERENCE IN TEXT
 30. ‘This was reported . . .’, RGAVMF R-96/1/6/97
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText502)
+    GO TO NOTE REFERENCE IN TEXT
 31. ‘At Trotsky’s side . . .’, Reisner, *Letters from the Front*, Moscow, 1918, quoted Serge, *Year One*, p. 334
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText503)
+    GO TO NOTE REFERENCE IN TEXT
 32. ‘panic now seized . . .’, Serge, *Year One*, p. 335
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText504)
+    GO TO NOTE REFERENCE IN TEXT
 33. 50,000 roubles for Kappel, Andrei Svertsev, ‘Tragedy of a Russian Bonaparte’, 16/4/2013, *Russkiy Mir*
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#page_235)
+    GO TO NOTE REFERENCE IN TEXT
 34. ‘500 Navy Communists . . .’, RGAVMF R-96/1/6/70
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText506)
+    GO TO NOTE REFERENCE IN TEXT
 35. ‘the way to freedom. . .’, Col. Jan Skorobohaty-Jakubowski, ‘Jak legjoniści sybiracy zamierzali porwać Trockiego?’, *Sybirak*, 2(10) (1936), pp. 56–60
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText507)
+    GO TO NOTE REFERENCE IN TEXT
 36. ‘The plan of the headquarters . . .’, RGVA 39458/1/8/1; see also *Izvestiya*, No. 41, 22/2/1919
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText508)
+    GO TO NOTE REFERENCE IN TEXT
 37. ‘the Bolsheviks’ flotilla . . .’, Shultz, ASF-ARML R-145
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText509)
+    GO TO NOTE REFERENCE IN TEXT
 38. ‘to the front line . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText510)
+    GO TO NOTE REFERENCE IN TEXT
 39. ‘All the most important locations . . .’, RGVA 39458/1/8/2
 
-    [GO TO NOTE REFERENCE IN TEXT](030_18_Fighting_on_the_V.xhtml#EndnotePhraseInText511)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 19: From the Volga to Siberia
 
 1. ‘Over 300 mobilized sailors . . .’, To People’s Military Commissar Sklyansky, RGAVMF R-96/1/13/234
 
-   [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText512)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘Over 4,000 mobilized . . .’, RGAVMF R-96/1/13/285
 
-   [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText513)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘Valorous Troops! . . .’, 28/9/1918, RGVA 39458/1/5/36
 
-   [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText514)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘the brutalised and brazen . . .’, GARF 127/1/3/77
 
-   [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText515)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘witnessed the agony . . .’, GARF 127/1/3/78
 
-   [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText516)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘various governmental . . .’, Serebrennikov, HIA 51004,125
 
-   [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText517)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘On the right flank . . .’, Serebrennikov, HIA 51004,130
 
-   [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText518)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘Russians need . . .’, Serebrennikov, HIA 51004,113
 
-   [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText519)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘many of which . . .’, Serebrennikov, HIA 51004,117
 
-   [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText520)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘to retreat in haste’, RGVA 39458/1/5/33
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText521)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘captured a Maxim machine gun . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText522)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘Soldiers of the Siberian . . .’, Ural exhibition, ASF-ARLM
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText523)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘I was taken to serve . . .’, S.A. Zaborsky, 19/8/1927, OR RGB 320/18/1/27
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText524)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘addressed each other . . .’, OR RGB 320/18/1/26
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText525)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘Annenkov was a great . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText526)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘an ignorant . . .’, Zenzinov, *Iz zhizni revolyutsionera*, p. 143
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText527)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘Its reception . . .’, Serebrennikov, HIA 51004, p. 154
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText528)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘dangerous man’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText529)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘He was a brilliant seaman . . .’, Fedulenko, HIA 2001C59
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText530)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘declared in a tired voice . . .’, Serebrennikov, p. 162
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText531)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘criminal coup’, Telegram from Komuch ministers 18/11/1918, GARF 193/1/1/18
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText532)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘We felt the reactionary . . .’, Zenzinov, p. 154
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText533)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘Watch your step . . .’, Lyon papers, US Red Cross, HIA 74096
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText534)
+    GO TO NOTE REFERENCE IN TEXT
 24. AEF American Expeditionary Force, HIA XX546
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#page_248)
+    GO TO NOTE REFERENCE IN TEXT
 25. ‘not received any pay . . .’, GARF 193/1/6/19
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText536)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘organized traffic . . .’, Kolchak, 24/11/1918, GARF 195/1/18/1
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText537)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘I cannot recognise . . .’, GARF 193/1/3/19
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText538)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘excessive Japanese forces . . .’, telegram Morris to Harris, 23/12/1918, Harris, HIA XX072–9.23 Box 5
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText539)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘sitting astride the . . .’, Steveni, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText540)
+    GO TO NOTE REFERENCE IN TEXT
 30. ‘If Ataman Semenov had fallen . . .’, Serebrennikov, HIA 51004, p. 173
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText541)
+    GO TO NOTE REFERENCE IN TEXT
 31. ‘anarchic militarism’, Yuexin Rachel Lin, ‘White Water, Red Tide: Sino-Russian Conflict on the Amur, 1917–20’
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText542)
+    GO TO NOTE REFERENCE IN TEXT
 32. ‘enormously rich . . .’, Fedulenko, HIA 2001C59
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText543)
+    GO TO NOTE REFERENCE IN TEXT
 33. ‘Valorous troops . . .’, 13/12/1918, RGVA 39458/1/5/38
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText544)
+    GO TO NOTE REFERENCE IN TEXT
 34. ‘The Bolshevik press . . .’, S. Lubodziecki, ‘Polacy na Syberji w latach 1917–1920. Wspomnienia II’, *Sybirak*, 3–4 (1934), pp. 5–18
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText545)
+    GO TO NOTE REFERENCE IN TEXT
 35. The Polish Army in Siberia, Situation report by Józef Targowski, High Commissioner of the Republic of Poland in Siberia, PIA 701-002-024-337
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText546)
+    GO TO NOTE REFERENCE IN TEXT
 36. ‘last met as a captain . . .’, Janin Diary, HIA YY239
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText547)
+    GO TO NOTE REFERENCE IN TEXT
 37. ‘All those unlawfully . . .’, Serebrennikov, p. 183
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText548)
+    GO TO NOTE REFERENCE IN TEXT
 38. ‘Horse manure and goat . . .’, Janin diary, 26–31/12/1918, HIA YY239
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText549)
+    GO TO NOTE REFERENCE IN TEXT
 39. ‘A Chinese rifle platoon . . .’, Fyodor Shipitsyn, ‘V Odnom Stroyu’, pp. 498–513
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText550)
+    GO TO NOTE REFERENCE IN TEXT
 40. ‘frostbite and disease’, Military commissar of the 5th Brigade Zonov, RGASPI 67/1/99/44
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText551)
+    GO TO NOTE REFERENCE IN TEXT
 41. ‘The White Guards’ artillery . . .’, Fyodor Shipitsyn, ‘V Odnom Stroyu’, p. 513
 
-    [GO TO NOTE REFERENCE IN TEXT](031_19_From_the_Volga_to.xhtml#EndnotePhraseInText552)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 20: The Central Powers Depart
 
 1. ‘It is obvious today . . .’, 7/11/1918, TNA FO 371/3337/9829
 
-   [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText553)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘They disappeared in the night . . .’, Kulik, *Kubansky Sbornik*, 6 (22/9/2015), ASF-ARML
 
-   [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText554)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘One morning . . .’, N. Dubakina, BA-CU 4077480
 
-   [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText555)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘Well, we went with the captain . . .’, Maksim Kulik, *Kubansky sbornik,* 6 (22/9/2015)
 
-   [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText556)
+   GO TO NOTE REFERENCE IN TEXT
 5. Skoropadsky, Svechin, BA-CU 4078130/63
 
-   [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#page_256)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘Suddenly we saw . . .’, Lakier, BA-CU 4077740
 
-   [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText558)
+   GO TO NOTE REFERENCE IN TEXT
 7. Grishin Almazov in Odessa, Globachev, BA-CU 4077547/149
 
-   [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#page_257)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘The French occupation . . .’, ibid., p. 150
 
-   [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText560)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘monstrous proportions’, ‘the economic dictators . . .’, ibid*.*
 
-   [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText561)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘The headquarters personnel . . .’, Dune, BA-CU 4077481/101
 
-    [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText562)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘The unit was marching . . .’, ibid., p. 103
 
-    [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText563)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘Trotsky found . . .’, ibid., p. 107
 
-    [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText564)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘plum-like nose’, Erast Chevdar, BA-CU 4077432
 
-    [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText565)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘Makhno’s men bolted . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText566)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘Makhno always turned up . . .’, Makarov, Pavel, *Adjutant generala Mai-Maevskogo* (*Aide-de-Camp of General Mai-Maevsky*), p. 28
 
-    [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText567)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘I could see the laughing . . .’, Paustovsky, p. 640
 
-    [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText568)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘Red Army soldiers . . .’, DASBU 6/68112/FP
 
-    [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText569)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘the whole population . . .’, S.I. Mamontov, BA-CU 4077797
 
-    [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText570)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘Nobody’s . . .’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText571)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘a fine-looking . . . ’, Teague-Jones, p. 104
 
-    [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText572)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘a hazy recollection’, ibid., p. 120
 
-    [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText573)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘I remained strictly . . .’, ibid., p. 121
 
-    [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText574)
+    GO TO NOTE REFERENCE IN TEXT
 23. For Teague-Jones and executions, see Taline Ter Minassian, *Reginald Teague-Jones: Au service secret de l’empire britannique*; Teague-Jones, pp. 204–216; Richard H. Ullman *Anglo-Soviet Relations 1917*–*21*, Vol 1*.*, *Intervention and the War* Princeton, p. 324; TNA FO 371 8204/8205/9357
 
-    [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#page_264)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘Your orders have been . . .’, *The Naval Review*, 8, p. 219
 
-    [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText576)
+    GO TO NOTE REFERENCE IN TEXT
 25. ‘tip and run’, Teague-Jones, p. 195
 
-    [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText577)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘had no illusions . . .’, ibid., p. 200
 
-    [GO TO NOTE REFERENCE IN TEXT](032_20_The_Central_Power.xhtml#EndnotePhraseInText578)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 21: The Baltic and Northern Russia
 
 1. ‘tantamount to a declaration . . .’, Brüggemann, ‘National and Social Revolution in the Empire’s West’, in Badcock (et al. eds), p. 155
 
-   [GO TO NOTE REFERENCE IN TEXT](033_21_The_Baltic_and_No.xhtml#EndnotePhraseInText579)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘due to their poor . . .’, Raskolnikov, *Rasskazy Michmana Ilina* (*Stories by Midshipman Ilin*), p. 14
 
-   [GO TO NOTE REFERENCE IN TEXT](033_21_The_Baltic_and_No.xhtml#EndnotePhraseInText580)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘Such outrageous lack of order . . .’, ibid*.*
 
-   [GO TO NOTE REFERENCE IN TEXT](033_21_The_Baltic_and_No.xhtml#EndnotePhraseInText581)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘Everyone knows . . .’, Raskolnikov, *Ilin*, p. 18
 
-   [GO TO NOTE REFERENCE IN TEXT](033_21_The_Baltic_and_No.xhtml#EndnotePhraseInText582)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘to hurt our . . .’, ibid*.*
 
-   [GO TO NOTE REFERENCE IN TEXT](033_21_The_Baltic_and_No.xhtml#EndnotePhraseInText583)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘It was so cold . . .’, Shklovsky, p. 195
 
-   [GO TO NOTE REFERENCE IN TEXT](033_21_The_Baltic_and_No.xhtml#EndnotePhraseInText584)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘threw off allegiance . . .’, CIGS to Cabinet, 23/7/1919, CAC-CHAR 16/19/38
 
-   [GO TO NOTE REFERENCE IN TEXT](033_21_The_Baltic_and_No.xhtml#EndnotePhraseInText585)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘of which a sufficient . . .’, RGAVMF R-96/1/13/195
 
-   [GO TO NOTE REFERENCE IN TEXT](033_21_The_Baltic_and_No.xhtml#EndnotePhraseInText586)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘Much to our surprise . . .’, Captain William Serby Diary, KCLMA
 
-   [GO TO NOTE REFERENCE IN TEXT](033_21_The_Baltic_and_No.xhtml#EndnotePhraseInText587)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘With the defeat of Germany . . .’, Sir Robert Hamilton Bruce Lockhart, 1/11/1918, TNA FO 371/3332/9748
 
-    [GO TO NOTE REFERENCE IN TEXT](033_21_The_Baltic_and_No.xhtml#EndnotePhraseInText588)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘Without the active support . . .’, TNA FO 371/3337/9829
 
-    [GO TO NOTE REFERENCE IN TEXT](033_21_The_Baltic_and_No.xhtml#EndnotePhraseInText589)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘By restoring . . .’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](033_21_The_Baltic_and_No.xhtml#EndnotePhraseInText590)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘a state of general . . .’, CAC-CHAR 16/11/4
 
-    [GO TO NOTE REFERENCE IN TEXT](033_21_The_Baltic_and_No.xhtml#EndnotePhraseInText591)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘The foundations of British society . . .’, CAC-CHAR 2/106/178–9
 
-    [GO TO NOTE REFERENCE IN TEXT](033_21_The_Baltic_and_No.xhtml#EndnotePhraseInText592)
+    GO TO NOTE REFERENCE IN TEXT
 
 ## Part Three: 1919
 
@@ -7159,1156 +7159,1156 @@ NB In the case of most Russian archives the format indicates the reference given
 
 1. ‘I have spilt . . .’, quoted George Leggett, *The Cheka: Lenin’s Political Police*, p. 252
 
-   [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText593)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘I recognized the smell . . .’, Vladimir Alexandrov, *To Break Russia’s Chains*, p. 535
 
-   [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText594)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘Wilson’s last words . . .’, WSC to DLG, CAC-CHAR 16/20/7
 
-   [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText595)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘I do not see . . .’, WSC in Paris to DLG, ibid*.*
 
-   [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText596)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘Following from Prime Minister . . .’, DLG to WSC, CAC-CHAR 16/20/19–20
 
-   [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText597)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘His ducal blood . . .’, quoted Macmillan, *Peacemakers*, p. 75
 
-   [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText598)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘There is no “will to win” . . .’, 27/2/1919, WSC to DLG, CAC-CHAR 16/21/34–5
 
-   [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText599)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘Anselme was very polite . . .’, Sannikov, BA-CU 4078022
 
-   [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText600)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘little Napoleon’, Teffi, *Memories*, p. 161
 
-   [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText601)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘organized a professional pogrom . . .’, Nazhivin, Ivan, *Zapiski o revolyutsii, 1917*–*1921*, pp. 216–17
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText602)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘Bunin, who was one . . .’, ibid., p. 223
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText603)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘not much faith . . .’, CAC-CHAR 16/5/7
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText604)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘The French are becoming . . .’, CAC-CHAR 16/5/5
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText605)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘Yalta is being evacuated . . .’, Commander M.L. Goldsmith, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText606)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘The delegates looked . . .’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText607)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘During the afternoon . . .’, Webb-Bowen, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText608)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘hoisted the red flag . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText609)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘A tumultuous evacuation . . .’, Nabokov, p. 194
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText610)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘I called on . . .’, Goldsmith, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText611)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘For the first time . . .’, Sergei Mamontov, BA-CU 4077797
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText612)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘Thank you, my eagles!’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText613)
+    GO TO NOTE REFERENCE IN TEXT
 22. Special Army, CAC-CHAR 16/19/12
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#page_286)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘way of life . . .’, RGVA 33987/1/142/149
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText614)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘In the name of the Revolution . . .’, RGVA 192/6/1/13
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText615)
+    GO TO NOTE REFERENCE IN TEXT
 25. ‘The relentless struggle . . .’, RGASPI 17/4/7/5
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText616)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘so that Field Headquarters and I . . .’, RGVA 33987/1/ 174/5
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText617)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘The most drastic . . .’, RGVA 100/3/100/17–18
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText618)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘A great famine . . .’, Goldsmith, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText619)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘Dozens of workers . . .’, V. Tikhomirov, *Istoricheskaya Pravda*, <http://www.istpravda.ru/research/5598/>; see also Nicolas Werth, ‘Crimes and Mass Violence of the Russian Civil Wars, 1918–1921’, Sciences Po; and Melgunov, *Red Terror*, pp. 58–60
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText620)
+    GO TO NOTE REFERENCE IN TEXT
 30. ‘Deal with mercilessly,’ Melgunov, pp. 58–60
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#00_New_16)
+    GO TO NOTE REFERENCE IN TEXT
 31. ‘thorough cleansing of all . . .’, 17/12/1917, RGASPI 67/1/78/114
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText621)
+    GO TO NOTE REFERENCE IN TEXT
 32. ‘the cavalry detachment . . .’, 15/2/1919, RGASPI 67/1/100/25
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText622)
+    GO TO NOTE REFERENCE IN TEXT
 33. ‘The Kulak-White Guard . . .’, RGASPI 67/1/50/247
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText623)
+    GO TO NOTE REFERENCE IN TEXT
 34. ‘to fight the predatory . . .’, Voskov to Comrade Stasova, 1/2/1919, RGASPI 67/1/99/80
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText624)
+    GO TO NOTE REFERENCE IN TEXT
 35. ‘many cases of Red Army . . .’, 19/2/1919, RGASPI 67/1/99/81
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText625)
+    GO TO NOTE REFERENCE IN TEXT
 36. ‘I have had a long . . .’, DLG to WSC, 6/5/1919, CAC-CHAR 16/7
 
-    [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#EndnotePhraseInText626)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 23: Siberia
 
 1. Gajda and Czechoslovak Army, Harris, HIA XX072 Box 1
 
-   [GO TO NOTE REFERENCE IN TEXT](035_22_The_Fatal_Comprom.xhtml#page_292)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘staff trains . . .’, McCullagh, *Prisoner of the Reds*, p. 108
 
-   [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#EndnotePhraseInText628)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘brought their *Yoshewara. . .*’, Captain William S. Barrett, HIA YY029
 
-   [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#EndnotePhraseInText629)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘luckless citizen who . . .’, ibid*.*
 
-   [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#EndnotePhraseInText630)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘the Japanese had shot down . . .’, US Army AEF, HIA XX546–9.13
 
-   [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#EndnotePhraseInText631)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘frigidity and dissatisfaction’, 7/6/1919, US Army AEF, HIA XX546–9.13
 
-   [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#EndnotePhraseInText632)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘The military are now confident . . .’, transcript of telephone conversation on 23/1/1919, Vologodsky to Yakovlev, GARF 193/1/6/45
 
-   [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#00_New_21)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘What a lot of energy . . .’, GARF 193/1/6/43
 
-   [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#EndnotePhraseInText633)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘firmly decided . . .’, US Army AEF, HIA XX546–9.13
 
-   [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#EndnotePhraseInText634)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘fractured skulls . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#EndnotePhraseInText635)
+    GO TO NOTE REFERENCE IN TEXT
 11. Adrianovka killing ground, Captain William S. Barrett, HIA YY029
 
-    [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#page_296)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘unwilling to leave . . .’, Viktor Pepelyayev diary, GARF 195/1/27/25
 
-    [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#EndnotePhraseInText637)
+    GO TO NOTE REFERENCE IN TEXT
 13. Semenov and independent state, Kuras, L.V., ‘Ataman Semenov and the National Military Formations of Buriat’, in *The Journal of Slavic Military Studies*, x, December 1997, No.4, 83, AFSB-RB d.85273, l.185
 
-    [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#page_296)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘a Caliph for an hour . . .’, Intelligence section AEF, Siberia 2/6/1919 US Army AEF, HIA XX546–9.13
 
-    [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#EndnotePhraseInText639)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘sweeping arrests . . .’, Cheremnykh, HIA 92068, 6
 
-    [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#EndnotePhraseInText640)
+    GO TO NOTE REFERENCE IN TEXT
 16. Massacre of prisoners in Ufa, see Werth, ‘Crimes and Mass Violence of the Russian Civil Wars, 1918-1921’, Sciences Po
 
-    [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#page_297)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘Karlovich’, RGASPI 70/3/669
 
-    [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#EndnotePhraseInText642)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘fried’, Cheremnykh, HIA 92068, 7–8
 
-    [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#EndnotePhraseInText643)
+    GO TO NOTE REFERENCE IN TEXT
 19. Khanzin, Harris, HIA XX072 Box 1
 
-    [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#page_297)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘Some new recruits . . .’, 21/2/1919, RGVA 39458/1/5/42
 
-    [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#EndnotePhraseInText645)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘Young, recently . . .’, 14/5/1919, RGVA 5182/1/10/22
 
-    [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#EndnotePhraseInText646)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘Sabotage in almost all . . .’, letter of 10/2/1919, RGASPI 67/1/96/186
 
-    [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#EndnotePhraseInText647)
+    GO TO NOTE REFERENCE IN TEXT
 23. forced labour camps, April 1919, RGVA 39458/1/6
 
-    [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#EndnotePhraseInText648)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘The army will be reformed . . .’, RGVA 5182/1/11/4
 
-    [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#EndnotePhraseInText649)
+    GO TO NOTE REFERENCE IN TEXT
 25. ‘Although we are now suffering . . .’, RGVA 5182/1/11/5
 
-    [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#EndnotePhraseInText650)
+    GO TO NOTE REFERENCE IN TEXT
 26. Retreat to Guryev, 10/3/1919, RGVA 5182/1/11/108
 
-    [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#page_299)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘provided they are satisfied . . .’, Kolchak correspondence 1919, HIA YY268
 
-    [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#EndnotePhraseInText652)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘A commission is now at work . . .’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#EndnotePhraseInText653)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘the Russian Government’, Curzon to WSC, 2/5/1919, CAC-CHAR 2/105/73–4
 
-    [GO TO NOTE REFERENCE IN TEXT](036_23_Siberia.xhtml#EndnotePhraseInText654)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 24: Don and Ukraine
 
 1. ‘highly popular with the troops . . .’, Kennedy Diary, 2/2, KCLMA
 
-   [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText655)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘Here, go visit the whores!’, Makarov, 127
 
-   [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText656)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘Shkuro’s train . . .’, Nazhivin, Ivan, *Zapiski o revolyutsii, 1917*–*1921*
 
-   [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText657)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘Girls and ladies pinned . . .’, Chevdar, BA-CU 4077432, 13
 
-   [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText658)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘The faces of Communists . . .’, V.I. Lekhno, BA-CU, 4077745
 
-   [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText659)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘The name of Preobrazhensky . . .’, ibid*.*
 
-   [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText660)
+   GO TO NOTE REFERENCE IN TEXT
 7. Saenko, Melgunov, *Red Terror*, pp. 121–3
 
-   [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#page_304)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘We examined the scene . . .’, Lekhno, BA-CU, 4077745
 
-   [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText662)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘Traders returned . . .’, ibid*.*
 
-   [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText663)
+   GO TO NOTE REFERENCE IN TEXT
 10. 15th Don Cossack Regiment, GARF 4919/1/3/25
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText664)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘Cossacks armed . . .’, RGASPI 17/6/83/1–10
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText665)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘We would like to draw . . .’, TsA FSB RF S/d N-217 T.D S. 135
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText666)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘We have defeated . . .’, RGVA, 24380/7/168/213
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText667)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘Makhno is a dangerous . . .’, S.I. Syrtsov, 12th Army commissar, RGASPI 2/1/23678/1–4
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#00_New_25)
+    GO TO NOTE REFERENCE IN TEXT
 15. Vatsetis, TsA FSB RF S/d N-217. T.8. S. 127
 
-    [GO TO NOTE REFERENCE IN TEXT](096_Footnote.xhtml#EndnotePhraseInText668)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘made the decision . . .’, RGASPI 17/6/81/18
 
-    [GO TO NOTE REFERENCE IN TEXT](096_Footnote.xhtml#EndnotePhraseInText669)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘This 10th Army . . .’, Dune, BA-CU 4077481/113
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText670)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘the Headquarters of the 9th Army . . .’, TsA FSB RF S/d N-217, T.4, S. 80–4
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText671)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘the 10th Army was scared . . .’, Dune, BA-CU 4077481/113
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText672)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘Soldiers talked about him . . .’, Boyarchikov, p. 52
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText673)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘The battered remains . . .’, GARF 4919/1/3/49
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText674)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘Moaning Red Army soldiers . . .’, TsA FSB RF S/d N-217, T.4, S. 80–4
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText675)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘The streets were empty . . .’, Heiden, HIA 75009, 6–9
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText676)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘General Wrangel had not . . .’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText677)
+    GO TO NOTE REFERENCE IN TEXT
 25. ‘The troops were looking . . .’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText678)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘apathetic and lazy’, Goldsmith, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText679)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘Anton Ivanovich . . .’, Makarov, Pavel, *Aide de Camp*, p. 129
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText680)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘Vladimir Zenonovich . . .’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText681)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘to gain our final goal . . .’, Peter Kenez, *Red Advance, White Defeat*, p. 39
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText682)
+    GO TO NOTE REFERENCE IN TEXT
 30. For the Red Army *Stavka* assessment of the Moscow Directive, see RACO, p. 196–8
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#page_313)
+    GO TO NOTE REFERENCE IN TEXT
 31. ‘Such a moment . . .’, *Naval Review*, 8, p. 220
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText684)
+    GO TO NOTE REFERENCE IN TEXT
 32. ‘Nine craft . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText685)
+    GO TO NOTE REFERENCE IN TEXT
 33. ‘avoided combat . . .’, RACO, p. 115
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#EndnotePhraseInText686)
+    GO TO NOTE REFERENCE IN TEXT
 34. Churchill plea to Admiralty, CAC-CHAR 16/12/41–2
 
-    [GO TO NOTE REFERENCE IN TEXT](037_24_Don_and_Ukraine.xhtml#page_315)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 25: Murmansk and Arkhangel
 
 1. ‘There was resentment . . .’, RGASPI 67/1/99/27
 
-   [GO TO NOTE REFERENCE IN TEXT](038_25_Murmansk_and_Arkh.xhtml#EndnotePhraseInText688)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘And we have had . . .’, WSC to DLG, 6/4/1919, CAC-CHAR 16/6
 
-   [GO TO NOTE REFERENCE IN TEXT](038_25_Murmansk_and_Arkh.xhtml#EndnotePhraseInText689)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘consist of volunteers . . .’, CAC-CHAR 16/5/32
 
-   [GO TO NOTE REFERENCE IN TEXT](038_25_Murmansk_and_Arkh.xhtml#EndnotePhraseInText690)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘As regards Gajda’s move . . .’, Wilson to WSC, 2/5/1919, CAC-CHAR 16/10/4
 
-   [GO TO NOTE REFERENCE IN TEXT](038_25_Murmansk_and_Arkh.xhtml#EndnotePhraseInText691)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘encouraged by the Entente . . .’, Harris, HIA XX072 Box 1
 
-   [GO TO NOTE REFERENCE IN TEXT](038_25_Murmansk_and_Arkh.xhtml#EndnotePhraseInText692)
+   GO TO NOTE REFERENCE IN TEXT
 6. Junction on River Pechora, Lund, KCLMA
 
-   [GO TO NOTE REFERENCE IN TEXT](038_25_Murmansk_and_Arkh.xhtml#page_317)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘In view of the . . .’, CIGS, British Government, *The Evacuation of North Russia 1919*, Blue Book, HMSO, 1920, 24/2/1919, CAC-CHAR 16/19/24
 
-   [GO TO NOTE REFERENCE IN TEXT](038_25_Murmansk_and_Arkh.xhtml#EndnotePhraseInText694)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘hopes were entertained . . .’, Lund, KCLMA
 
-   [GO TO NOTE REFERENCE IN TEXT](038_25_Murmansk_and_Arkh.xhtml#EndnotePhraseInText695)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘embroiled in the south . . .’, Wilson to Ironside, 16/6/1919, CAC-CHAR 16/8
 
-   [GO TO NOTE REFERENCE IN TEXT](038_25_Murmansk_and_Arkh.xhtml#EndnotePhraseInText696)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘The enemy who was . . .’, Lund, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](038_25_Murmansk_and_Arkh.xhtml#EndnotePhraseInText697)
+    GO TO NOTE REFERENCE IN TEXT
 11. Evacuation plans, *The Evacuation of North Russia 1919*
 
-    [GO TO NOTE REFERENCE IN TEXT](038_25_Murmansk_and_Arkh.xhtml#page_320)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘to hold Arkhangelsk . . .’, Lund, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](038_25_Murmansk_and_Arkh.xhtml#EndnotePhraseInText699)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘Cold and windy . . .’, Lund, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](038_25_Murmansk_and_Arkh.xhtml#EndnotePhraseInText700)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘he has really neither . . .’, CAC-CHAR 16/11/87–8
 
-    [GO TO NOTE REFERENCE IN TEXT](038_25_Murmansk_and_Arkh.xhtml#EndnotePhraseInText701)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘In no Allied country . . .’, *The Evacuation of North Russia 1919*
 
-    [GO TO NOTE REFERENCE IN TEXT](038_25_Murmansk_and_Arkh.xhtml#EndnotePhraseInText702)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 26: Siberia
 
 1. Numerical superiority, RACO, 165
 
-   [GO TO NOTE REFERENCE IN TEXT](038_25_Murmansk_and_Arkh.xhtml#page_322)
+   GO TO NOTE REFERENCE IN TEXT
 2. Southern Group’s figures, RACO, 164
 
-   [GO TO NOTE REFERENCE IN TEXT](038_25_Murmansk_and_Arkh.xhtml#page_322)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘Here they have such a desire . . .’, Viktor Pepelyayev diaries, GARF 195/1/27/25
 
-   [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText703)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘having democratic . . .’, Janin diary, 12/7/1919, HIA YY239
 
-   [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText704)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘The troops abandoned . . .’, Viktor Pepelyayev diaries, GARF 195/1/27/25
 
-   [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText705)
+   GO TO NOTE REFERENCE IN TEXT
 6. Chinese regiment, Shipitsyn, Fyodor, ‘V Odnom Stroyu’, in *V Boyakh I Pokhodakh*, p. 504
 
-   [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText706)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘The front is disintegrating . . .’, Janin diary, HIA YY239
 
-   [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText707)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘Czech issue’, Viktor Pepelyayev diaries, GARF 195/1/27/25
 
-   [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText708)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘It is much better . . .’, quoted US Army AEF, 1/7/1919, HIA XX546–9.13
 
-   [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText709)
+   GO TO NOTE REFERENCE IN TEXT
 10. Japanese strength, US Army AEF, HIA XX546–9.13
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#page_325)
+    GO TO NOTE REFERENCE IN TEXT
 11. Polish 5th Division, Col. Jan Skorobohaty-Jakubowski, ‘Kapitulacja V-ej Syberyjskiej dywizji w świetle prawdy historycznej’, *Sybirak*, 1(13) (1937), 3–8
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText711)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘all the sins of Israel’, Janin diary, HIA YY239
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText712)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘The Ruler . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText713)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘It’s an exhausting waste . . .’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText714)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘The incompetence . . .’, CAC-CHAR 16/19/40
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText715)
+    GO TO NOTE REFERENCE IN TEXT
 16. Red 5th Army Chelyabinsk, RACO, 169
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#page_327)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘former White officers . . .’, Ural exhibition, 22/8/1919, ASF-ARLM
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText717)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘There are masses . . .’, RGVA 39458/1/2/2
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText718)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘rolling stock for . . .’, US Army AEF, HIA XX546–9.13
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText719)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘the Russian Government headed . . .’, US Army AEF, 27/5/1919, HIA XX546–9.13
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText720)
+    GO TO NOTE REFERENCE IN TEXT
 21. Rozonov and hostages, GARF 193/1/11/8
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#page_329)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘the seat of the Supreme Ruler . . .’, US Army AEF, HIA XX546–9.13
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText722)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘but their presence . . .’, WSC to DLG, 21/5/1919, CAC-CHAR 16/7
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText723)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘Ordinary soldiers . . .’, A. Astafiev, *Zapiski izgoya (Notes of an Exile),*Omsk, 1998, p. 61
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText724)
+    GO TO NOTE REFERENCE IN TEXT
 25. ‘A number of shameful . . .’, Kappel Papers, 9/6/1919, RGVA 39548/1/1/9
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText725)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘They shoot themselves . . .’, Captain William S. Barrett, 4/9/1919, HIA YY029
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText726)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘The corrupting effects . . .’, 27/5/1919, RGVA 39458/1/2/1
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText727)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘All those voluntarily . . .’, 16/5/1919, RGVA 39458/1/9/11
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText728)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘Our armies have been . . .’, US Army AEF, HIA XX546–9.13
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText729)
+    GO TO NOTE REFERENCE IN TEXT
 30. ‘A small group of soldiers . . .’, Astafiev, p. 61
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText730)
+    GO TO NOTE REFERENCE IN TEXT
 31. ‘Most of the prisoners . . .’, Captain William S. Barrett, 4/8/1919, HIA YY029
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText731)
+    GO TO NOTE REFERENCE IN TEXT
 32. ‘Horses, camels, livestock . . .’, ‘Civil war in Central Asia’, Hitoon, HIA ZZ070
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText732)
+    GO TO NOTE REFERENCE IN TEXT
 33. ‘The hasty retreat . . .’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText733)
+    GO TO NOTE REFERENCE IN TEXT
 34. ‘The role of . . .’, RACO, p. 175
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText734)
+    GO TO NOTE REFERENCE IN TEXT
 35. Tobol and Petropavlovsk operations, RACO, 174–7
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#page_333)
+    GO TO NOTE REFERENCE IN TEXT
 36. ‘I rejoice beyond words . . .’, WSC to Knox, 5/10/1919, CAC-CHAR 16/18A–B/153
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText735)
+    GO TO NOTE REFERENCE IN TEXT
 37. ‘The Cossack general . . .’, V.V. Fedulenko, HIA 2001C59
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText736)
+    GO TO NOTE REFERENCE IN TEXT
 38. ‘America’s conduct . . .’, Viktor Pepelyayev Diary GARF 195/1/27/25
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText737)
+    GO TO NOTE REFERENCE IN TEXT
 39. Knox complaint to Janin, 29/7/1919, HIA YY239
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#page_334)
+    GO TO NOTE REFERENCE IN TEXT
 40. ‘Owing to the congestion . . .’, US Army AEF, HIA XX546–9.13
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText739)
+    GO TO NOTE REFERENCE IN TEXT
 41. ‘Dollar Scrapers’, etc., ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText740)
+    GO TO NOTE REFERENCE IN TEXT
 42. ‘could not treat as friends . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText741)
+    GO TO NOTE REFERENCE IN TEXT
 43. ‘When the fighting . . .’, Lyon papers, US Red Cross, HIA 74096
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText742)
+    GO TO NOTE REFERENCE IN TEXT
 44. ‘Kolchak has poor discipline . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](039_26_Siberia.xhtml#EndnotePhraseInText743)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 27: Baltic Summer
 
 1. ‘God Save the Tsar’, Karsten Brüggemann, in Badcock (et al. eds), iii, 1, p. 161
 
-   [GO TO NOTE REFERENCE IN TEXT](040_27_Baltic_Summer.xhtml#EndnotePhraseInText744)
+   GO TO NOTE REFERENCE IN TEXT
 2. Stalin and Peters in Petrograd, Rayfield, p. 70
 
-   [GO TO NOTE REFERENCE IN TEXT](040_27_Baltic_Summer.xhtml#page_338)
+   GO TO NOTE REFERENCE IN TEXT
 3. Shklovsky in Lakhta, Shklovsky, p. 186
 
-   [GO TO NOTE REFERENCE IN TEXT](040_27_Baltic_Summer.xhtml#page_339)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘At 8.50 Krasnaya . . .’, Polozov, RGAVMF R-34/2/53/80
 
-   [GO TO NOTE REFERENCE IN TEXT](040_27_Baltic_Summer.xhtml#EndnotePhraseInText747)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘We are attaching for . . .’, RGAVMF R-34/2/53/82
 
-   [GO TO NOTE REFERENCE IN TEXT](040_27_Baltic_Summer.xhtml#EndnotePhraseInText748)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘The Finns . . . demand . . .’, Viktor Pepelyayev diaries, GARF 195/1/27/25
 
-   [GO TO NOTE REFERENCE IN TEXT](040_27_Baltic_Summer.xhtml#EndnotePhraseInText749)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘completely unacceptable’, Wilson to WSC, 2/5/1919, CAC-CHAR 16/7
 
-   [GO TO NOTE REFERENCE IN TEXT](040_27_Baltic_Summer.xhtml#EndnotePhraseInText750)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘Ruritanian experiment’, quoted Lincoln, *Red Victory*, p. 293
 
-   [GO TO NOTE REFERENCE IN TEXT](040_27_Baltic_Summer.xhtml#EndnotePhraseInText751)
+   GO TO NOTE REFERENCE IN TEXT
 9. Gough on Mannerheim, Wilson to WSC, 14/6/1919, CAC-CHAR 16/8
 
-   [GO TO NOTE REFERENCE IN TEXT](040_27_Baltic_Summer.xhtml#page_343)
+   GO TO NOTE REFERENCE IN TEXT
 10. Lloyd George on Petrograd, DLG to WSC, 6/5/1919, CAC-CHAR 16/7
 
-    [GO TO NOTE REFERENCE IN TEXT](040_27_Baltic_Summer.xhtml#page_343)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘We should close down our . . .’, CIGS to WSC, 23/7/1919, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](040_27_Baltic_Summer.xhtml#EndnotePhraseInText754)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘Russia does not want . . .’, DLG to Cabinet 30/8/1919, re WSC’s memorandum on Northwestern Russian position 24/8/1919, CAC-CHAR 16/10/133
 
-    [GO TO NOTE REFERENCE IN TEXT](040_27_Baltic_Summer.xhtml#EndnotePhraseInText755)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘skimmers’, by far the best account is in Ferguson, *Operation Kronstadt*, 229–56
 
-    [GO TO NOTE REFERENCE IN TEXT](040_27_Baltic_Summer.xhtml#EndnotePhraseInText756)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘sat bobbing . . .’, ibid., 239–40
 
-    [GO TO NOTE REFERENCE IN TEXT](040_27_Baltic_Summer.xhtml#EndnotePhraseInText757)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 28: The March on Moscow
 
 1. Information to Don Bureau from Tsaritsyn, RGVIA 7789/2/30
 
-   [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#page_348)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘Our failures on . . .’, Documents of the Don Bureau, RGASPI 554/1/3/86
 
-   [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText759)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘the exposure of agents . . .’, signed Blokhin and Ikonnikov, 17/8/1919, RGASPI 554/1/3/41, and GARO R-97/1/123/482-483
 
-   [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText760)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘We would like . . .’, ibid*.*
 
-   [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText761)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘The first unpleasant surprise . . .’, Heiden, BA-CU 75009
 
-   [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText762)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘They rev the engines . . .’, Lakier, 22/7/1919, BA-CU 4077740
 
-   [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText763)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘*Urrrrraaa!* There is not . . .’, ibid*.*
 
-   [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText764)
+   GO TO NOTE REFERENCE IN TEXT
 8. Southern Front headquarters, ROCA, p. 211
 
-   [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#page_351)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘There was no one . . .’, A.A. Maksimova-Kulaev, HIA YY323
 
-   [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText766)
+   GO TO NOTE REFERENCE IN TEXT
 10. 101 Jews killed, Landis, Eric-C, ‘A Civil War Episode – General Mamontov in Tambov, August 1919’, in Carl Beck Papers, Russian and East European Studies
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#page_352)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘crude demagogy . . .’, RACO, p. 208
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText768)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘Rank and file Cossacks . . .’, GARF 4919/1/3/61
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText769)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘The Cossacks are back!’, Maksimova-Kulaev, HIA YY323
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText770)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘Denikin is doing better . . .’, 17/9/1919, CAC-CHAR 16/11/113
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText771)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘Denikin would fail . . .’, Carton de Wiart, p. 118
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText772)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘considered that we had . . .’, Lt Gen Tom Bridges to WSC, 30/9/1919 CAC-CHAR 16/12/34
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText773)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘Is there not a great danger . . .’, WSC to Curzon 10/9/1919, CAC-CHAR 16/11/80
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText774)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘Bolshevism may over-run . . .’, 10/9/1919, CAC-CHAR 16/11/81
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText775)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘People of Kiev . . .’, Makarov, p. 39
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText776)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘Many of the heads . . .’, General Reberg’s commission, quoted Melgunov, pp. 125–6
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText777)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘after three engagements . . .’, CAC-CHAR 16/19/30
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText778)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘Valorous Kuban and Terek . . .’, Makarov, p. 43
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText779)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘I consider it inadvisable . . .’, CAC-CHAR 16/18A-B/103
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText780)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘Wire me your . . .’, 22/9/1919, CAC-CHAR 16/18A-B/116
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText781)
+    GO TO NOTE REFERENCE IN TEXT
 25. ‘Pale as paper . . .’, Zakharov, quoted Melgunov, p. 28
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText782)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘cavalry nightmare’, ROCA, p. 216
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText783)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘We caught members . . .’, M.Alp, ASF-ARLM E-100, 1/1/7 (A-63), p. 9
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText784)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘You fought side by side . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText785)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘I was not able to change . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText786)
+    GO TO NOTE REFERENCE IN TEXT
 30. ‘their self-sacrificing struggle . . .’, Chevdar, BA-CU 4077432
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText787)
+    GO TO NOTE REFERENCE IN TEXT
 31. ‘A country of great rolling plains . . .’, Kennedy diary, 6/9/1919, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText788)
+    GO TO NOTE REFERENCE IN TEXT
 32. ‘the officers of the Mission . . .’, Kennedy diary, 7/9/1919, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText789)
+    GO TO NOTE REFERENCE IN TEXT
 33. ‘who rather reminded me . . .’, Kennedy diary, 21/9/1919, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText790)
+    GO TO NOTE REFERENCE IN TEXT
 34. ‘Mai-Maevsky had a special . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText791)
+    GO TO NOTE REFERENCE IN TEXT
 35. ‘All the troops . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText792)
+    GO TO NOTE REFERENCE IN TEXT
 36. ‘out of action . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText793)
+    GO TO NOTE REFERENCE IN TEXT
 37. ‘some hundred disinterred . . .’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText794)
+    GO TO NOTE REFERENCE IN TEXT
 38. ‘They gallop forward . . .’, Kennedy Diary, 10/10/1919, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText795)
+    GO TO NOTE REFERENCE IN TEXT
 39. ‘The Bolsheviks are falling . . .’, WSC to Curzon, 5/10/1919, CAC-CHAR 16/12/34
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText796)
+    GO TO NOTE REFERENCE IN TEXT
 40. ‘The proceedings commenced . . .’, Kennedy Diary, 14/10/1919, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText797)
+    GO TO NOTE REFERENCE IN TEXT
 41. ‘the abolition of the . . .’, *Volya* 16/10/1919; and Swedish press, *Voenny viestik*, US Army AEF, 18/10/1919, HIA XX546–9.13 Box 2
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText798)
+    GO TO NOTE REFERENCE IN TEXT
 42. ‘Orel to the Eagles!’, Makarov, p. 162
 
-    [GO TO NOTE REFERENCE IN TEXT](041_28_The_March_on_Mosc.xhtml#EndnotePhraseInText799)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 29: Baltic Surprise
 
 1. ‘to try to make . . .’, 1/9/1919, CAC-CHAR 16/11/15
 
-   [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#EndnotePhraseInText800)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘after Petrograd they would . . .’, Col Tallents to WSC, CAC-CHAR 16/14/68
 
-   [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#EndnotePhraseInText801)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘The besieged city . . .’, Shklovsky, p. 187
 
-   [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#EndnotePhraseInText802)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘On his way home . . .’, Makhonin, BA-CU 4077787/23
 
-   [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#EndnotePhraseInText803)
+   GO TO NOTE REFERENCE IN TEXT
 5. Eating pigeon in Petrograd, Makhonin, BA-CU 4077787/20
 
-   [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#page_364)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘due to the difficult . . .’, GARF 6385/2/3/17
 
-   [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#EndnotePhraseInText805)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘the moment his troops . . .’, GARF 6381/2/1/14/3–4
 
-   [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#EndnotePhraseInText806)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘a jolly man . . .’, etc., ‘Situation of the North-Western Army by the Start of the Autumn Advance on Petrograd’, Grimm, HIA 77002, Box 3
 
-   [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#EndnotePhraseInText807)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘Is it not . . .’, 2/10/1919, CAC-CHAR 16/18A–B/145
 
-   [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#EndnotePhraseInText808)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘shell bursts hung . . .’, Shklovsky, p. 187
 
-    [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#EndnotePhraseInText809)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘If the offensive . . .’, quoted Service, *Lenin*, p. 395
 
-    [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#EndnotePhraseInText810)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘stone labyrinth’, quoted Mawdsley, p. 276
 
-    [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#EndnotePhraseInText811)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘on the very remarkable . . .’, 17/10/1919, CAC-CHAR 16/18A-B/293
 
-    [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#EndnotePhraseInText812)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘our officers here . . .’, WSC to Curzon, 21/10/1919, CAC-CHAR 16/12/202
 
-    [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#EndnotePhraseInText813)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘Ice may form . . .’, CAC-CHAR 16/18A–B/258
 
-    [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#EndnotePhraseInText814)
+    GO TO NOTE REFERENCE IN TEXT
 16. Yudenich’s refusal of funds for refugees, GARF 6385/2/3/77
 
-    [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#page_367)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘took two or three railway wagons . . .’, GARF 6381/2/1/14/14
 
-    [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#EndnotePhraseInText816)
+    GO TO NOTE REFERENCE IN TEXT
 18. Yudenich’s government attendance, GARF 6385/2/3/66
 
-    [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#page_367)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘the Estonians clearly desire . . .’, GARF 6385/2/3/68
 
-    [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#EndnotePhraseInText818)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘carrying out a policy . . .’, ‘Either General Yudenich . . .’, GARF 6381/2/1/14/8
 
-    [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#EndnotePhraseInText819)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘the former Army . . .’, Yudenich, HIA XX048 Box 4
 
-    [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#EndnotePhraseInText820)
+    GO TO NOTE REFERENCE IN TEXT
 22. Treaty of Tartu and ‘Russia One and Indivisible’, Karsten Brüggemann, Badcock (et al. eds.), iii, 1, 143–74
 
-    [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#page_368)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 30: Siberian Retreat
 
 1. ‘opened the road to Turkestan . . .’, WSC to CAS, 17/9/1919, CAC-CHAR 16/18A–B/74–5
 
-   [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText822)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘Some Japanese openly . . .’, Harris, HIA XX072 Box 1
 
-   [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText823)
+   GO TO NOTE REFERENCE IN TEXT
 3. Japanese interest in eastern Siberia, *Volya*, US Army AEF, 18/10/1919, HIA XX546–9.13
 
-   [GO TO NOTE REFERENCE IN TEXT](042_29_Baltic_Surprise.xhtml#page_369)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘It is generally known . . .’, *Golos Rodini*, US Army AEF, 20/11/1919, HIA XX546–9.13
 
-   [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText825)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘Japan has no other . . .’, *Dalnevostochnoe Obozrenie*, US Army AEF, 19/10/1919, HIA XX546–9.13
 
-   [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText826)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘Release Lieutenant Ryan’s . . .’, Captain William S. Barrett, HIA YY029
 
-   [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText827)
+   GO TO NOTE REFERENCE IN TEXT
 7. Annenkov, National archives of Kazakhstan, Arkhiv.kvo.kz
 
-   [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText828)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘an acquaintance of mine . . .’, Steveni Papers, KCLMA
 
-   [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText829)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘If we lose Omsk, we lose all!’ Fedulenko, HIA 2001C59, p. 27
 
-   [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText830)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘was living out . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText831)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘against its own conscience . . .’, B. Pavlu and Dr Girsa, 13/11/1919, Harris, HIA XX072 Box 1; and Janin Diary, HIA YY239
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText832)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘the overt sympathies . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText833)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘Soldiers and their families . . .’, quoted Pipes, *Russia under the Bolshevik Regime*, p. 114
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText834)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘the Day of the People’s . . .’, *Dalnevostochnoe Obozrenie*, 8/11/1919
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText835)
+    GO TO NOTE REFERENCE IN TEXT
 15. Knox and military mission, Steveni, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#page_372)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘thin, with a haggard look . . .’, Janin Diary, HIA YY239
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText837)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘The evacuation of Omsk . . .’, Fedulenko, HIA 2001C59
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText838)
+    GO TO NOTE REFERENCE IN TEXT
 18. Fall of Omsk, Kappel Papers, RGVA, 39458/1/8/4
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#page_373)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘covered 600 kilometres . . .’, RACO, p. 177
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText840)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘The stranger then . . .’, RGVA 39458/1/8/4
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText841)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘Half the officers refused . . .’, RGVA 39458/1/8/5
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#00_New_17)
+    GO TO NOTE REFERENCE IN TEXT
 22. 5th Army and transfer of forces to Southern Front, RACO, p. 177–8
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#page_374)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘advised never to go . . .’, Horrocks, *Full Life*, p. 39
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText844)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘freedom and power . . .’, Fedulenko, HIA 2001C59
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText845)
+    GO TO NOTE REFERENCE IN TEXT
 25. For Vladivostok uprising, see J.R. Ullman, *Anglo-Soviet Relations, 1917*–*1921*, Vol. 2, 242–51
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#page_374)
+    GO TO NOTE REFERENCE IN TEXT
 26. Casualties in Vladivostok, Capt William S. Barrett, HIA YY029
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#page_375)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘Major Johnson ordered . . .’, US Army AEF, HIA XX546–9.13
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText848)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘down to women’s . . .’, Janin Diary, HIA YY239
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText849)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘Please clarify . . .’, Col. Jan Skorobohaty-Jakubowski, ‘Kapitulacja V-ej Syberyjskiej dywizji w świetle prawdy historycznej’, *Sybirak*, 1(13) (1937), pp. 3–8
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText850)
+    GO TO NOTE REFERENCE IN TEXT
 30. Poles at Novo-Nikolaevsk, RGVA 39458/1/8/5
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#page_376)
+    GO TO NOTE REFERENCE IN TEXT
 31. ‘Polish Army in Siberia’, Situation report by Józef Targowski, High Commissioner of the Republic of Poland in Siberia, PIA 701-002-024-337
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText852)
+    GO TO NOTE REFERENCE IN TEXT
 32. Poles in Orenburg, A. Zab., ‘Orenburg – złe miasto’, *Sybirak*, 1(5) (1935), pp. 47–52
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#page_376)
+    GO TO NOTE REFERENCE IN TEXT
 33. Repatriation of Polish troops, 5/10/1919, PIA 701-002-005-416
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#page_376)
+    GO TO NOTE REFERENCE IN TEXT
 34. Czech–Polish railway dispute, US Army AEF, HIA XX546–9.13 Box 2
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#page_376)
+    GO TO NOTE REFERENCE IN TEXT
 35. Polish 5th Division in Novo-Nikolaevsk, Col. Jan Skorobohaty-Jakubowski, ‘Kapitulacja V-ej Syberyjskiej dywizji w świetle prawdy historycznej’, *Sybirak*, 1 (13)/1937, pp. 3–8
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#page_376)
+    GO TO NOTE REFERENCE IN TEXT
 36. *‘paralysie générale,’* Janin Diary, HIA YY 239
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#00_New_18)
+    GO TO NOTE REFERENCE IN TEXT
 37. ‘A mass retreat. . .’, Horrocks, *A Full Life*, p. 37
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText857)
+    GO TO NOTE REFERENCE IN TEXT
 38. ‘The Czechs treated the Poles. . .,’ Vice Consul Trygve R. Hansen, Harris, HIA XX072 Box 2
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText858)
+    GO TO NOTE REFERENCE IN TEXT
 39. ‘On 22 December 1919 . . .’, Col. Jan Skorobohaty-Jakubowski, ‘Cieniom towarzyszy broni pod Tajgą’, *Sybirak*, 4(8) (1935), pp. 53–5
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText859)
+    GO TO NOTE REFERENCE IN TEXT
 40. ‘If the situation seems to warrant it’, Horrocks, p. 52
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText860)
+    GO TO NOTE REFERENCE IN TEXT
 41. ‘The Czechs have . . .’, Harris, HIA, XX072, Box 1
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText861)
+    GO TO NOTE REFERENCE IN TEXT
 42. ‘The main reason for the shortage of coal . . .’, GARF 195/1/27/12
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText862)
+    GO TO NOTE REFERENCE IN TEXT
 43. ‘A revolt happened . . .’, 23/12/1919, GARF 195/1/27/25
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText863)
+    GO TO NOTE REFERENCE IN TEXT
 44. ‘Russian women! Do you want . . .’, *Dalny Vostok*, 4/12/1919, Harris, HIA XX072 Box 2
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText864)
+    GO TO NOTE REFERENCE IN TEXT
 45. ‘at the bigger stations . . .’, Lt JRJ Mesheraups, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#EndnotePhraseInText865)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 31: The Turning Point
 
 1. ‘His Cossacks closed . . .’, RGVA 6/10/131/12
 
-   [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText866)
+   GO TO NOTE REFERENCE IN TEXT
 2. Saransk, RACO, p. 212
 
-   [GO TO NOTE REFERENCE IN TEXT](043_30_Siberian_Retreat.xhtml#page_380)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘he had been sent . . .’, Bulatkin to Budyonny, 21/8/1919, TsA FSB RF S/d N-217, T. 8, S. 158
 
-   [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText867)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘Can you please . . .’, RGVA 24406/3/1/28
 
-   [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText868)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘Immediately send . . .’, Kamenev to Goldberg, 23/8/1919, RGVA 6/10/131/14–15
 
-   [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText869)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘I have declared . . .’, RGVA 24406/3/1/28
 
-   [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText870)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘to join up with . . .’, RGVA 33987/3/25/1–2
 
-   [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText871)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘The first shot . . .’, TsA FSB RF S/d N-217. T.8. S.99
 
-   [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText872)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘Mironov is a rebel . . .’, RGVA 246/6/1/1
 
-   [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText873)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘Red Eagles . . .’, RGVA 192/6/5/130–1
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText874)
+    GO TO NOTE REFERENCE IN TEXT
 11. Saratov Cheka Special Department, 7/9/1919, TsA FSB RF 1/4/478/3
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#page_382)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘Mironov has been proclaimed . . .’, 12/9/1919, RGVA 33987/2/3/69
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText876)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘Units were taken . . .’, RACO, p. 212
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText877)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘with an escort . . .’, RGVA 245/3/99/64
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText878)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘810 Kuban Cossacks’, Kuznetsov, TsA FSB RF S/d N-217. T. 8. S. 262
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText879)
+    GO TO NOTE REFERENCE IN TEXT
 16. Smilga to Trifonov, 7/10/1919, RGVA 246/6/1/38
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#page_382)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘5,000 men . . .’, ROCA, p. 212
 
-    [GO TO NOTE REFERENCE IN TEXT](102_Footnote.xhtml#EndnotePhraseInText881)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘changing the policy . . .’, RGVA 33988/2/44/277
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText882)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘I suggest that . . .’, RGVA 33987/3/52/469
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText883)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘Mamontov and Shkuro . . .’, RACO, p. 216
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText884)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘Unless [Denikin] . . .’, 8/7/1919, CAC-CHAR 19/19/40
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText885)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘When the Volunteer Army . . .’, Globachev, BA-CU 4077547/159 ff.
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText886)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘The disinterested fulfilment . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText887)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘as a typical . . .’, M.V. Rodzyanko, HIA 27003, Box 1
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText888)
+    GO TO NOTE REFERENCE IN TEXT
 25. ‘Local counter-intelligence . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText889)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘General Revishin commanded the troops . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText890)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘Evil tongues . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText891)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘However hard we tried . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText892)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘The Governor with . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText893)
+    GO TO NOTE REFERENCE IN TEXT
 30. Makhno’s forces in October, RACO, p. 229
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#page_387)
+    GO TO NOTE REFERENCE IN TEXT
 31. ‘for an entire month’, ibid., p. 218
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText895)
+    GO TO NOTE REFERENCE IN TEXT
 32. ‘did much to split the Volunteer Army . . .’, ibid., p. 231
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText896)
+    GO TO NOTE REFERENCE IN TEXT
 33. ‘Down with the Commissars!’, for Tula, see Figes, *A People’s Tragedy*, pp. 666–8
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText897)
+    GO TO NOTE REFERENCE IN TEXT
 34. 21st Division, ROCA, p. 210
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#page_388)
+    GO TO NOTE REFERENCE IN TEXT
 35. ‘double envelopment’, RACO, p. 216
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText898)
+    GO TO NOTE REFERENCE IN TEXT
 36. ‘withstood seven bayonet . . .’, Makarov, *Aide-de-Camp*, p. 156
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText899)
+    GO TO NOTE REFERENCE IN TEXT
 37. ‘The streets of Orel . . .’, Gubarev, BA-CU 4077582
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText900)
+    GO TO NOTE REFERENCE IN TEXT
 38. ‘During September and October . . .’, 19/11/1919, CAC-CHAR 16/18A–B/211
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText901)
+    GO TO NOTE REFERENCE IN TEXT
 39. Units at Orel, RACO, pp. 220–3
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#page_388)
+    GO TO NOTE REFERENCE IN TEXT
 40. ‘To General Denikin, My duty . . .’, Erast Chevdar, BA-CU 4077432/33
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText902)
+    GO TO NOTE REFERENCE IN TEXT
 41. ‘I could not sleep . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText903)
+    GO TO NOTE REFERENCE IN TEXT
 42. ‘In advancing on Moscow . . .’, Makhonin papers, BA-CU 4077787/41–2
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText904)
+    GO TO NOTE REFERENCE IN TEXT
 43. ‘scored a brilliant . . .’, Boyarchikov, *Vospominaniya*, p. 53
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText905)
+    GO TO NOTE REFERENCE IN TEXT
 44. Kharkov conference, Rakovsky, *V stane belykh*, <http://www.dk1868.ru/history/rakovskiy_plan.htm>
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#page_390)
+    GO TO NOTE REFERENCE IN TEXT
 45. ‘He also spoke . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText907)
+    GO TO NOTE REFERENCE IN TEXT
 46. Better news . . .’, Kennedy Diaries, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText908)
+    GO TO NOTE REFERENCE IN TEXT
 47. ‘Men and women accused . . .’, Kennedy Diary 29/12/1919, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText909)
+    GO TO NOTE REFERENCE IN TEXT
 48. ‘In one house . . .’, Shulgin, p. 147
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText910)
+    GO TO NOTE REFERENCE IN TEXT
 49. 50,000 to 60,000 Jews killed, Ian Kershaw, *To Hell and Back, Europe 1914*–*1949*, p. 106
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText911)
+    GO TO NOTE REFERENCE IN TEXT
 50. Pogroms in Belarus, see Elissa Bemporod, *Becoming Soviet Jews*, p. 30
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText912)
+    GO TO NOTE REFERENCE IN TEXT
 51. Soviet report of 1920, Figes, *A People’s Tragedy*, p. 679
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText913)
+    GO TO NOTE REFERENCE IN TEXT
 52. ‘It had been quiet . . .’, Paustovsky, p. 623
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText914)
+    GO TO NOTE REFERENCE IN TEXT
 53. ‘It is of the very highest . . .’, 18/9/1919, CAC-CHAR 16/18A–B/83
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText915)
+    GO TO NOTE REFERENCE IN TEXT
 54. ‘I know the efforts you have already made . . .’, CAC-CHAR 9/10/1919, 16/18A–B/175
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText916)
+    GO TO NOTE REFERENCE IN TEXT
 55. ‘the kind of military . . .’, CAC-CHAR 16/18A–B/210
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText917)
+    GO TO NOTE REFERENCE IN TEXT
 56. ‘You can have no idea . . .’, Williams to Leeper and WSC, CAC-CHAR 16/12/126
 
-    [GO TO NOTE REFERENCE IN TEXT](044_31_The_Turning_Point.xhtml#EndnotePhraseInText918)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 32: Retreat in the South
 
 1. ‘extraordinary habit . . .’, Kennedy Diary, KCLMA
 
-   [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText919)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘In his ranting speech . . .’, ibid.
 
-   [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText920)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘In a time of disaster . . .’, Chevdar, BA-CU 4077432
 
-   [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText921)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘This was a hard decision . . .’, Makarov, 68–74
 
-   [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText922)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘It turned out that . . .’, Rakovsky, <http://www.dk1868.ru/history/rakovskiy_plan.htm>
 
-   [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText923)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘I too can see this . . .’, ibid*.*
 
-   [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText924)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘Well, Vladimir Ilich . . .’, ibid*.*
 
-   [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText925)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘corrupted to the . . .’, ibid*.*
 
-   [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText926)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘Moustache freezes . . .’, Kennedy Diary, KCLMA
 
-   [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText927)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘whilst delving . . .’, G.H. Lever, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText928)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘Along the way . . .’, Chevdar, BA-CU 4077432/35
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText929)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘Mamontov, stroking his . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText930)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘important decisive battle’, 11/12/1919, CAC-CHAR 16/18A-B/179
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText931)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘absorb them . . .’, 5/12/1919, CAC-CHAR 16/14/23
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText932)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘encourage the Poles to join . . .’, 29/11/1919, CAC-CHAR 16/13/130
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText933)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘keep us informed’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText934)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘most satisfactory . . .’, Carton de Wiart, 13/12/1919, CAC-CHAR 16/14/66
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText935)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘the inactivity of the Poles . . .’, 15/12/1919, CAC-CHAR 16/19/88
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText936)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘secret aims’, RACO, p. 233
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText937)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘officers’ group hostile . . .’, 27/1/1920, GARF 6396/1/7/7
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText938)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘It enabled Slashchov’s . . .’, RACO, p. 235
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText939)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘in the event of . . .’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText940)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘A retreat to the Caucasus . . .’, Kennedy Diary, 26/12/1919, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText941)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘The crew of my . . .’, Gubarev, BA-CU 4077582
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText942)
+    GO TO NOTE REFERENCE IN TEXT
 25. ‘Orderlies gallop past . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText943)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘As for the refugee carts . . .’, Moiseev, BA-CU 4077851/12
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText944)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘The crucial battle . . .’, Rakovsky, <http://www.dk1868.ru/history/rakovskiy_plan.htm>
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText945)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘They say the whole army . . .’, Kennedy Diary, 29/12/1919, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText946)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘Complete capitulation . . .’, Lever, 28/12/1919, IV/1, 114 KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText947)
+    GO TO NOTE REFERENCE IN TEXT
 30. ‘Wrangel’s train . . .’, Kennedy Diary,30/12/1919, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText948)
+    GO TO NOTE REFERENCE IN TEXT
 31. ‘A mass of carts . . .’, Chevdar, BA-CU 4077432/35
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText949)
+    GO TO NOTE REFERENCE IN TEXT
 32. ‘South of Rostov . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText950)
+    GO TO NOTE REFERENCE IN TEXT
 33. ‘There seems to be . . .’, WSC to CIGS, 31/12/1919, CAC-CHAR 16/19/110
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText951)
+    GO TO NOTE REFERENCE IN TEXT
 34. ‘There were ten or twelve . . .’, Vertinsky, *Dorogoi dlinnoyu*, p. 147
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText952)
+    GO TO NOTE REFERENCE IN TEXT
 35. ‘Thank you for coming . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText953)
+    GO TO NOTE REFERENCE IN TEXT
 36. ‘crossed that fragile boundary . . .’, Lincoln, *Red Victory*, p. 436
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText954)
+    GO TO NOTE REFERENCE IN TEXT
 37. ‘The two of us were sitting . . .’, Shulgin, p. 168
 
-    [GO TO NOTE REFERENCE IN TEXT](045_32_Retreat_in_the_So.xhtml#EndnotePhraseInText955)
+    GO TO NOTE REFERENCE IN TEXT
 
 ## Part Four: 1920
 
@@ -8316,835 +8316,835 @@ NB In the case of most Russian archives the format indicates the reference given
 
 1. ‘Our horses slid . . .’, Harris, HIA XX 072–9.23 Box 5
 
-   [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#EndnotePhraseInText956)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘There were so many . . .’, ibid*.*
 
-   [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#EndnotePhraseInText957)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘Siberia was completely wrecked . . .’, Piotr Paweł Tyszka, ‘Z tragicznych przeżyć w V-ej Syberyjskiej Dywizji i w niewoli (1918–1921)’, *Sybirak*, 4(12) (1936), p. 21
 
-   [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#EndnotePhraseInText958)
+   GO TO NOTE REFERENCE IN TEXT
 4. Encirclement battle of Krasnoyarsk, RACO, pp. 177–8
 
-   [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#page_410)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘The snow was not . . .’, ibid*.*
 
-   [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#EndnotePhraseInText960)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘Only small remnants . . .’, RACO, p. 178
 
-   [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#EndnotePhraseInText961)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘Every Russian was . . .’, Harris, HIA XX072 Box 2
 
-   [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#EndnotePhraseInText962)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘Polish troops became disgruntled . . .’, GARF 195/1/27/28
 
-   [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#EndnotePhraseInText963)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘To be the rearguard . . .’, Col. Jan Skorobohaty-Jakubowski, ‘Kapitulacja V-ej Syberyjskiej dywizji w świetle prawdy historycznej’, *Sybirak*, 1(13) (1937), pp. 3–8
 
-   [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#EndnotePhraseInText964)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘extreme exhaustion . . .’, GARF 195/1/27/28*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#EndnotePhraseInText965)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘To Commander of . . .’, Skorobohaty-Jakubowski, pp. 3–8
 
-    [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#EndnotePhraseInText966)
+    GO TO NOTE REFERENCE IN TEXT
 12. National minorities under Janin, Lt Comte Kapnist, HIA YY252
 
-    [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#page_412)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘On the night of 9 January . . .’, GARF 195/1/27/28
 
-    [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#EndnotePhraseInText968)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘Grief over our losses . . .’, Piotr Paweł Tyszka, *Sybirak*, 4(12) (1936), p. 21
 
-    [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#EndnotePhraseInText969)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘like fallen leaves . . .’, McCullagh, p. 22
 
-    [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#EndnotePhraseInText970)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘with as little ceremony . . .’, McCullagh, p. 31
 
-    [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#EndnotePhraseInText971)
+    GO TO NOTE REFERENCE IN TEXT
 17. Ambassador Morris, *Dalnevostochnoe Obozrenie*, 24/2/1920
 
-    [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#page_414)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘Everyone moaned and raved . . .’, Tyszka, *Sybirak*, 4(12) (1936), p. 22
 
-    [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#EndnotePhraseInText973)
+    GO TO NOTE REFERENCE IN TEXT
 19. Smallpox and diptheria, *Voennyi vestnik*, 5/1/1920; US Army AEF, HIA XX546–9.13 Box 2
 
-    [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#page_414)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘covered with dirty furs . . .’, McCullagh, p. 21
 
-    [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#EndnotePhraseInText975)
+    GO TO NOTE REFERENCE IN TEXT
 21. Chita and frostbite, Capt William S. Barrett, HIA YY029
 
-    [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#page_415)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘seeing that the present . . .’, GARF 195/1/27/25; *Golos Rodini*, 2/1/1919, US Army AEF HIA XX546–9.13 Box 2
 
-    [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#EndnotePhraseInText977)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘that all freights . . .’, US Army AEF, HIA XX546–9.13 Box 2
 
-    [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#EndnotePhraseInText978)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘is each day becoming . . .’, *Dalny Vostok*, 5/1/1920
 
-    [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#EndnotePhraseInText979)
+    GO TO NOTE REFERENCE IN TEXT
 25. Patients thrown from hospital windows, Barrett, HIA YY029
 
-    [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#page_416)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘The Czechs have intentionally . . .’, Reports of 21 and 22/2/1920, Harris, HIA XX072 Box 1
 
-    [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#EndnotePhraseInText981)
+    GO TO NOTE REFERENCE IN TEXT
 27. Kappel’s death, Andrei Svertsev, ‘Tragedy of a Russian Bonaparte’, 16/4/2013, *Russkiy Mir*
 
-    [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#page_417)
+    GO TO NOTE REFERENCE IN TEXT
 28. Engagement near Zima, US Army AEF, HIA XX546–9.13 Box 2
 
-    [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#page_417)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘wanted to share’, Steveni, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](047_33_The_Great_Siberia.xhtml#EndnotePhraseInText984)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 34: The Fall of Odessa
 
 1. ‘British and Italian warships . . .’, Lakier, BA-CU 4077740
 
-   [GO TO NOTE REFERENCE IN TEXT](048_34_The_Fall_of_Odess.xhtml#EndnotePhraseInText985)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘tastefully furnished . . .’, Vera Muromtseva-Bunina, letter, 4/12/1918, in Bunin, *Cursed Days*, p. 10
 
-   [GO TO NOTE REFERENCE IN TEXT](048_34_The_Fall_of_Odess.xhtml#EndnotePhraseInText986)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘lordly rooms’, Valentin Kataev, quoted Thomas Gaiton Marullo, *Cursed Days*, p. 11
 
-   [GO TO NOTE REFERENCE IN TEXT](048_34_The_Fall_of_Odess.xhtml#EndnotePhraseInText987)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘Everything has turned unpleasant . . .’, Paustovsky, p. 657
 
-   [GO TO NOTE REFERENCE IN TEXT](048_34_The_Fall_of_Odess.xhtml#EndnotePhraseInText988)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘The most valuable furs . . .’, Webb-Bowen diary, 26/1/1920, KCLMA
 
-   [GO TO NOTE REFERENCE IN TEXT](048_34_The_Fall_of_Odess.xhtml#EndnotePhraseInText989)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘nobody wanted to fight’, Globachev, BA-CU 4077547/170
 
-   [GO TO NOTE REFERENCE IN TEXT](048_34_The_Fall_of_Odess.xhtml#EndnotePhraseInText990)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘a reward for . . .’, Shulgin, p. 169
 
-   [GO TO NOTE REFERENCE IN TEXT](048_34_The_Fall_of_Odess.xhtml#EndnotePhraseInText991)
+   GO TO NOTE REFERENCE IN TEXT
 8. British and French pressure on Denikin to hold Odessa, see Kenez, *Red Advance, White Defeat*, p. 237
 
-   [GO TO NOTE REFERENCE IN TEXT](048_34_The_Fall_of_Odess.xhtml#page_419)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘the situation could . . .’, Shulgin, p. 170
 
-   [GO TO NOTE REFERENCE IN TEXT](048_34_The_Fall_of_Odess.xhtml#EndnotePhraseInText993)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘Decisions in those days . . .’, Paustovsky, p. 659
 
-    [GO TO NOTE REFERENCE IN TEXT](048_34_The_Fall_of_Odess.xhtml#EndnotePhraseInText994)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘Shilling was still ashore . . .’, Shulgin, p. 170
 
-    [GO TO NOTE REFERENCE IN TEXT](048_34_The_Fall_of_Odess.xhtml#EndnotePhraseInText995)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘Bulging suitcases . . .’, Paustovsky, p. 660
 
-    [GO TO NOTE REFERENCE IN TEXT](048_34_The_Fall_of_Odess.xhtml#EndnotePhraseInText996)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘It was extremely dangerous . . .’, Globachev, BA-CU 4077547/173
 
-    [GO TO NOTE REFERENCE IN TEXT](048_34_The_Fall_of_Odess.xhtml#EndnotePhraseInText997)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘Bolsheviks were not good . . .’, Shulgin, p. 172
 
-    [GO TO NOTE REFERENCE IN TEXT](048_34_The_Fall_of_Odess.xhtml#EndnotePhraseInText998)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘the Homeric flight’, Paustovsky, pp. 659–60
 
-    [GO TO NOTE REFERENCE IN TEXT](048_34_The_Fall_of_Odess.xhtml#EndnotePhraseInText999)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘A mounted detachment . . .’, Paustovsky, p. 661
 
-    [GO TO NOTE REFERENCE IN TEXT](048_34_The_Fall_of_Odess.xhtml#EndnotePhraseInText1000)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘One of the ships . . .’, ibid.
 
-    [GO TO NOTE REFERENCE IN TEXT](048_34_The_Fall_of_Odess.xhtml#EndnotePhraseInText1001)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 35: The Last Hurrah of the White Cavalry
 
 1. ‘He should be at headquarters . . .’, Kennedy Diary, 1/1/20, KCLMA
 
-   [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1002)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘bombed. With his own hand . . .’, Kennedy Diary, 2/1/20, KCLMA
 
-   [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1003)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘Cragg saw Holman . . .’, Kennedy Diary, 14/2/20, KCLMA
 
-   [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1004)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘greatcoats frozen stiff . . .’, Chevdar, BA-CU 4077432/16
 
-   [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1005)
+   GO TO NOTE REFERENCE IN TEXT
 5. Blowing up equipment, Captain G.H. Lever RE, KCLMA IV/1, p. 129
 
-   [GO TO NOTE REFERENCE IN TEXT](048_34_The_Fall_of_Odess.xhtml#page_424)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘the completely unsuitable terrain . . .’, RACO, p. 238
 
-   [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1007)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘manifesting an extreme lack . . .’, ibid*.*
 
-   [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1008)
+   GO TO NOTE REFERENCE IN TEXT
 8. Voroshilov, Budyonny and Dumenko, RACO, pp. 238–9
 
-   [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#page_426)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘the strength of the enemy’s . . .’, RACO, p. 242
 
-   [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#00_New_27)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘the least political . . .’, RACO, p. 243
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1010)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘the role of a . . .’, RACO, p. 244
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1011)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘In the grey dawn . . .’, Rakovsky, <http://www.dk1868.ru/history/rakovskiy_plan.htm>
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1012)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘My dear, beloved . . .’, 26/2/1920, Cherkassky, HIA 75105
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1013)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘lost half of his horses . . .’, RACO, p. 245
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1014)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘We left behind . . .’, Rakovsky, <http://www.dk1868.ru/history/rakovskiy_plan.htm>
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1015)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘The dry, compact ground . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1016)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘There was mad shouting . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1017)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘dubious friends’, Chevdar, BA-CU 407743/48
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1018)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘pounding the anvil . . .’, Babel, *Red Cavalry*, p. 133
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1019)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘Ekaterinodar in those days . . .’, Rakovsky, G.N., <http://www.dk1868.ru/history/rakovskiy_plan.htm>
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1020)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘Soldiers and civilians . . .’, Chevdar, BA-CU 4077432/48
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1021)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘A girl was rushing . . .’, Rakovsky, <http://www.dk1868.ru/history/rakovskiy_plan.htm>
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1022)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘It is a gloomy . . .’, Glasse, 19/3/1920, BA-CU 4077552
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1023)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘The last of Denikin’s trains . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#page_431)
+    GO TO NOTE REFERENCE IN TEXT
 25. ‘At dusk there is . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1025)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘More Red detachments . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1026)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘An acquaintance . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1027)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘In the main square . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1028)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘spending the whole of his time . . .’, Lever, 16/1/1920, Lever IV/1, 154, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1029)
+    GO TO NOTE REFERENCE IN TEXT
 30. ‘breeding a moral . . .’, Lever IV/1, 162, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1030)
+    GO TO NOTE REFERENCE IN TEXT
 31. ‘I had to spend . . .’, Shvetzoff, HIA 72039–10.
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1031)
+    GO TO NOTE REFERENCE IN TEXT
 32. ‘whose foredecks . . .’, Lever IV/1, 156, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1032)
+    GO TO NOTE REFERENCE IN TEXT
 33. 177 refugees freezing to death, Lt Col F. Hamilton-Lister, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#00_New_29)
+    GO TO NOTE REFERENCE IN TEXT
 34. ‘two British officers . . .’, Kennedy, 14/2/20, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1034)
+    GO TO NOTE REFERENCE IN TEXT
 35. ‘Russian wounded . . .’, Lever IV/1, 178, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1035)
+    GO TO NOTE REFERENCE IN TEXT
 36. ‘created an enormous . . .’, Kennedy, 17/2/1920, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1036)
+    GO TO NOTE REFERENCE IN TEXT
 37. ‘The accepted rule . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1037)
+    GO TO NOTE REFERENCE IN TEXT
 38. ‘a large hole there’, Lever IV/1, 160, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1038)
+    GO TO NOTE REFERENCE IN TEXT
 39. ‘These people had fled . . .’, A.P. Kapustiansky, HIA 2010C21
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1039)
+    GO TO NOTE REFERENCE IN TEXT
 40. ‘he thought he would . . .’, Kennedy Diary, 1/4/1920, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1040)
+    GO TO NOTE REFERENCE IN TEXT
 41. ‘Many of the guards . . .’, Chevdar, BA-CU 4077432/54
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1041)
+    GO TO NOTE REFERENCE IN TEXT
 42. ‘I saw a captain . . .’, Moiseev BA-CU, 4077851/15
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1042)
+    GO TO NOTE REFERENCE IN TEXT
 43. ‘a veritable masterpiece . . .’, Lever, 191–3, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1043)
+    GO TO NOTE REFERENCE IN TEXT
 44. 22,000 prisoners in Novorossiisk, RACO, p. 248
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#00_New_30)
+    GO TO NOTE REFERENCE IN TEXT
 45. ‘They then started shooting . . .’, Moiseev, BA-CU 4077851/16
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1045)
+    GO TO NOTE REFERENCE IN TEXT
 46. ‘They led us away . . .’, Moiseev, BA-CU 4077851
 
-    [GO TO NOTE REFERENCE IN TEXT](049_35_The_Last_Hurrah_o.xhtml#EndnotePhraseInText1046)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 36: Wrangel Takes Command and the Poles Take Kiev
 
 1. ‘the political results . . .’, RACO, p. 249
 
-   [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1047)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘The destroyer *Karl Liebknecht*. . .’, RGAVMF R-1/2/25/99–100
 
-   [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1048)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘The steam-winches. . .,’ Raskolnikov, *Ilyin*, <https://www.marxists.org/history/ussr/government/red-army/1918/raskolnikov/ilyin/ch05.htm>
 
-   [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1049)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘swarthy Gurkhas . . .’, ibid*.*
 
-   [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1050)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘purpose was to recover . . .’, ibid.
 
-   [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1051)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘General Holman has been . . . ’, Kennedy Diary, 2/4/1920, KCLMA
 
-   [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#00_New_022)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘Prevailing conditions . . .’, Lever IV/1, 229, KCLMA
 
-   [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1053)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘At Batum before . . .’, Kennedy Diary, 18/9/20, KCLMA
 
-   [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1054)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘You know, we had already . . .’, Shulgin, p. 187
 
-   [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1055)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘Soldiers and officers! . . .’, Makarov, p. 183
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1056)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘rampant corruption . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1057)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘And forty-three . . .’, Globachev, BA-CU 4077547
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1058)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘There are five branches . . .’, RGASPI 554/1/8/26
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1059)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘The cottages are . . .’, Kennedy Diary 19/4/1920, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1060)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘occasional Tartar villages . . .’, Kennedy Diary, 25/4/20, KCLMA
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1061)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘lady orderly’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1062)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘scuffle’, Norman Davies, *White Eagle, Red Star*, p. 22
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1063)
+    GO TO NOTE REFERENCE IN TEXT
 18. Piłsudski negotiations with Lenin, Adam Zamoyski, *Warsaw 1920*, p. 11
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#page_447)
+    GO TO NOTE REFERENCE IN TEXT
 19. Lenin and plans, ibid., pp. 32–3
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#page_447)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘Prepare for war with Poland’, quoted Davies, p. 95
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1065)
+    GO TO NOTE REFERENCE IN TEXT
 21. Haller’s ‘Blue Army’, Halik Kochanski, *The Eagle Unbowed*, p. 16
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1066)
+    GO TO NOTE REFERENCE IN TEXT
 22. Kościuszko Squadron, Zamoyski, p. 23
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#page_448)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘The Commandant’, Lt. Col. Włodzimierz Scholtze-Srokowski, ‘Geneza Wojska Polskiego na Syberji’, *Sybirak*, 1(9) (1936), pp. 6–13
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1067)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘All colonels . . .’, ‘Losy byłej 5 Dywizji WP po poddaniu się pod Krasnojarskiem 2 stycznia 1920 r.’ – in Teofil Lachowicz (ed.), *Echa z nieludzkiej ziemi*, Warsaw, 2011, pp. 15–19
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1068)
+    GO TO NOTE REFERENCE IN TEXT
 25. For the fate of the 5th Division surrendered in Siberia, see Lt. Col. Włodzimierz Scholtze-Srokowski, ‘Geneza Wojska Polskiego na Syberji’, *Sybirak*, 1(9) (1936), pp. 6–13; Piotr Paweł Tyszka, ‘Z tragicznych przeżyć w V-ej Syberyjskiej Dywizji i w niewoli (1918–1921)’, *Sybirak*, 4(12) (1936), pp. 15–31
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#page_448)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘This agreement . . .’, RACO, p. 269
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1070)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘Take decisive . . .’, quoted, Nikolai Karpenko, *Kitaiskii legion: uchastie kitaitsev v revoliutsionnykh sobytiiakh na territorii Ukrainy, 1917*–*1921*, p. 143
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1071)
+    GO TO NOTE REFERENCE IN TEXT
 28. Vladivostok legion, S. Lubodziecki, ‘Polacy na Syberji w latach 1917–1920. Wspomnienia III’, *Sybirak*, 1(5) (1935), p. 44
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#page_448)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘mutinous kulak movement’, etc., RACO, p. 273
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1073)
+    GO TO NOTE REFERENCE IN TEXT
 30. ‘Makhno is popular . . .’, RGASPI 554/1/8/17
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1074)
+    GO TO NOTE REFERENCE IN TEXT
 31. ‘The entire rear of . . .’, RACO, p. 274
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1075)
+    GO TO NOTE REFERENCE IN TEXT
 32. Malin and Polish casualties, Davies, pp. 108–110
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#page_450)
+    GO TO NOTE REFERENCE IN TEXT
 33. ‘Piłsudski was a very . . .’, Carton de Wiart, p. 96
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#00_New_26)
+    GO TO NOTE REFERENCE IN TEXT
 34. ‘Wrangel has thoroughly . . .’, Petr B. Struve, HIA 79083, p. 17
 
-    [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#EndnotePhraseInText1077)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 37: Poles in the West, Wrangel in the South
 
 1. Parade through Feodosia, Capt Istomin ASF-ARML E-127
 
-   [GO TO NOTE REFERENCE IN TEXT](050_36_Wrangel_Takes_Com.xhtml#page_452)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘morally broken down’, RACO, p. 397
 
-   [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1079)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘*kulak* counter-revolution’, RACO, p. 275
 
-   [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1080)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘with orders to shoot . . .’, Boyarchikov, p. 56
 
-   [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1081)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘During the time . . .’, TsA FSB RF S/d N-217. T.2. S.27
 
-   [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1082)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘the weakened 52nd . . .’, RACO, p. 401
 
-   [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1083)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘The seizure of . . .’, RACO, p. 402
 
-   [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1084)
+   GO TO NOTE REFERENCE IN TEXT
 8. Budyonny’s 1st Cavalry Army, RACO, p. 289
 
-   [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1085)
+   GO TO NOTE REFERENCE IN TEXT
 9. Battle of the Berezina, Zamoyski, pp. 40–2
 
-   [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#page_454)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘the enemy managed . . .’, RACO, p. 287
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1087)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘We moved off . . .’, J. Fudakowski, quoted Zamoyski, 46
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1088)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘The situation is . . .’, 9/6/1920, Broniewski, Władysław, *Pamiętnik*, p. 260
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1089)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘At first, we thought . . .’, Mieczysław Lepecki, *W blaskach wojny. Wspomnienia z wojny polsko-bolszewickiej*, p. 143–4
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1090)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘For the first time . . .’, Broniewski, p. 264
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1091)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘The atmosphere was . . .’, Lepicki, p. 145
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1092)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘120 assorted proletarians . . .’, Moiseev, BA-CU 4077851/36
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1093)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘A terrible truth . . .’, Isaac Babel, *1920 Diary*, p. 41
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1094)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘What sort of person . . .’, ibid., p. 28
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1095)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘A whole volume . . .’, ibid., 18/8/1920, *1920 Diary*, p. 69
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1096)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘It was only . . .’, Lepicki, 150–1
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1097)
+    GO TO NOTE REFERENCE IN TEXT
 21. Hospital in Berdichev, Davies, 125
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#page_458)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘The time of reckoning . . .’, *Direktivy*, No. 643, quoted Zamoyski, p. 53
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1098)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘Golden horde . . .’, Davies, p. 144
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1099)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘Miserable, I walk through . . .’, TsNANANB 72/1/4/67, quoted Elissa Bemporad, *Becoming Soviet Jews*, p. 28
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1100)
+    GO TO NOTE REFERENCE IN TEXT
 25. ‘The Bolsheviks have broken . . .’, Broniewski, p. 271
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1101)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘moving closer and closer . . .’, Lepicki, p. 173
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1102)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘Warsaw is on the eve . . .’, Zinaida Hippius, *Between Paris and St Petersburg*, p. 181
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1103)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘At the indicated time . . .’, Boyarchikov, pp. 63–4
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1104)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘to carry out a night raid’, RACO, p. 405
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1105)
+    GO TO NOTE REFERENCE IN TEXT
 30. ‘Many people were . . .’, Boyarchikov, p. 65
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1106)
+    GO TO NOTE REFERENCE IN TEXT
 31. ‘Two Guards officers from . . .’, KCLMA Lever IV/1, p. 244
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1107)
+    GO TO NOTE REFERENCE IN TEXT
 32. ‘burst into the city . . .’, Boyarchikov, p. 68
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1108)
+    GO TO NOTE REFERENCE IN TEXT
 33. ‘even hanged the delegates’, RACO, p. 408
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1109)
+    GO TO NOTE REFERENCE IN TEXT
 34. ‘the completely passive . . .’, ibid*.*; see also report to Don Bureau by E. Minayev, 20/7/1920, RGASPI 554/1/8/13
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1110)
+    GO TO NOTE REFERENCE IN TEXT
 35. Konstantinovskaya, Moieseev BA-CU 4077851
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1111)
+    GO TO NOTE REFERENCE IN TEXT
 36. ‘When asked to define . . .’, Struve, HIA 79083/17
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#00_New_28)
+    GO TO NOTE REFERENCE IN TEXT
 37. ‘Their black work started . . .’, Glasse, 24/3/1920, BA-CU 4077552
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1112)
+    GO TO NOTE REFERENCE IN TEXT
 38. ‘His apartment is . . .’, Glasse, 21/4/1920, BA-CU 4077552
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1113)
+    GO TO NOTE REFERENCE IN TEXT
 39. ‘A person with his hands bound . . .’, Glasse, 22/4/2019, BA-CU 4077552
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1114)
+    GO TO NOTE REFERENCE IN TEXT
 40. ‘A court investigator . . .’, Glasse, 3/5/1920, BA-CU 4077552
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1115)
+    GO TO NOTE REFERENCE IN TEXT
 41. ‘The Cheka is executing . . .’, Glasse, 19/4/1920, BA-CU 4077552
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1116)
+    GO TO NOTE REFERENCE IN TEXT
 42. ‘The food situation . . .’, Glasse, 24/4/2019, BA-CU 4077552
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1117)
+    GO TO NOTE REFERENCE IN TEXT
 43. ‘In the area . . .’, 26/6/1920, RGASPI 554/1/10/3
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1118)
+    GO TO NOTE REFERENCE IN TEXT
 44. ‘White-Green detachments . . .’, RACO, p. 418
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#EndnotePhraseInText1119)
+    GO TO NOTE REFERENCE IN TEXT
 45. Communist agents report to Don Bureau, RGASPI 554/1/10/53
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#page_466)
+    GO TO NOTE REFERENCE IN TEXT
 46. Atarbekov, Moiseev, BA-CU 4077851
 
-    [GO TO NOTE REFERENCE IN TEXT](051_37_Poles_in_the_West.xhtml#page_466)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 38: The Miracle on the Vistula
 
 1. ‘The delegates stood . . .’, quoted Carr, *The Bolshevik Revolution 1917*–*1923*, Vol. 3, p. 192
 
-   [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#EndnotePhraseInText1120)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘Lenin, jacketed . . .’, Serge, *Memoirs of a Revolutionary*, pp. 108–9
 
-   [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#EndnotePhraseInText1121)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘peak-headed dogs’, Lepicki, p. 181
 
-   [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#EndnotePhraseInText1122)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘kaleidescope of chaos’, quoted Davies, p. 149
 
-   [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#EndnotePhraseInText1123)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘A few days ago . . .’, Broniewski, p. 287
 
-   [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#EndnotePhraseInText1124)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘The exhaustion . . .’, 31/07/1920, II Bureau, CAW-WBH, I.301.8.402
 
-   [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#EndnotePhraseInText1125)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘We shall advance into . . .’, Babel, *Diary 1920*, p. 60
 
-   [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#EndnotePhraseInText1126)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘Union of Soviet Republics . . .’, Robert Service, *Stalin*, p. 189
 
-   [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#EndnotePhraseInText1127)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘Poles thrive . . .’, Carton de Wiart, p. 99
 
-   [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#EndnotePhraseInText1128)
+   GO TO NOTE REFERENCE IN TEXT
 10. 164,615 volunteers, Zamoyski, pp. 74–5
 
-    [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#page_471)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘The city . . .’, Lepicki, p. 176
 
-    [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#EndnotePhraseInText1129)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘The morning . . .’, Lepicki, p. 177
 
-    [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#EndnotePhraseInText1130)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘Should we allow . . .’, J. Kowalewski, ‘Szyfry kluczem zwycięstwa w 1920 r.’, *Na Tropie*, 1969, Issue XXII/7–8, reprinted in *Komunikat*, 2001
 
-    [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#EndnotePhraseInText1131)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘We transmitted over . . .’, Nowik, Grzegorz, *Zanim złamano „Enigmę” . . . Rozszyfrowano rewolucję. Polski radiowywiad podczas wojny z bolszewicką Rosją 1918*–*1920*, Vol. 2, p. 899
 
-    [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#EndnotePhraseInText1132)
+    GO TO NOTE REFERENCE IN TEXT
 15. For Piłsudski’s counter-attack, the best account is Zamoyski, pp. 97–102
 
-    [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#page_473)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘Our Poles have . . .’, De Gaulle, ‘Carnet d’un officier français en Pologne’, *La Revue de Paris*, November 1920, pp. 49–50, quoted Zamoyski, p. 101
 
-    [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#EndnotePhraseInText1133)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘First we hit . . .’, Broniewski, p. 290
 
-    [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#EndnotePhraseInText1134)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘broken down . . .’, Władysław Kocot, *Pamiętniki i korespondencja z lat 1920, 1939*–*1945*, p. 98
 
-    [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#EndnotePhraseInText1135)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘The battlefield . . .’, quoted Lucjan Żeligowski, *Wojna 1920 roku. Wspomnienia i rozważania*, p. 186
 
-    [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#EndnotePhraseInText1136)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘The loveliest thing . . .’, Broniewski, p. 291
 
-    [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#EndnotePhraseInText1137)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘That brief moment . . .’, Lepicki, p. 184
 
-    [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#EndnotePhraseInText1138)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘Right next to . . .’, Lepicki, pp. 181–2
 
-    [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#00_New_23)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘Beginning of the end . . .’, Babel, *Diary 1920*, 1/9/1920, p. 90
 
-    [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#EndnotePhraseInText1140)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘Sovietization of Poland’, Service, *Stalin*, p. 193
 
-    [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#00_New_24)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 39: The Riviera of Hades
 
 1. 2nd Cavalry Army, RACO, p. 411; Boyarchikov, p. 71
 
-   [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1142)
+   GO TO NOTE REFERENCE IN TEXT
 2. Makhno and agreement with Reds, SBU 6/75131FP/Zadov
 
-   [GO TO NOTE REFERENCE IN TEXT](052_38_The_Miracle_on_th.xhtml#page_479)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘temporary ally’, RACO, p. 431
 
-   [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1144)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘Makhno broke into . . .’, SBU 6/68112/FP
 
-   [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1145)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘daring insanity’, RACO, p. 417
 
-   [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1146)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘operational freedom’, RACO, p. 421
 
-   [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1147)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘The headquarters communicate with Wrangel . . .’, 28/10/1920, RGASPI 554/1/8/74
 
-   [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1148)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘sent emissaries . . .’, RGASPI 554/1/10/53
 
-   [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1149)
+   GO TO NOTE REFERENCE IN TEXT
 9. ‘I managed to make friends . . .’, 29/6/1920, RGASPI 554/1/5/10–11
 
-   [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1150)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘We are dying of hunger . . .’, quoted Lincoln, p. 442
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1151)
+    GO TO NOTE REFERENCE IN TEXT
 11. ‘Noble ladies and maidens . . .’, Vertinsky, p. 153
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1152)
+    GO TO NOTE REFERENCE IN TEXT
 12. ‘had occupied a bridgehead . . .’, RACO, p. 425
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1153)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘concentrating a powerful . . .’, ibid., pp. 426–7
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1154)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘started a decisive . . .’, RGVA 33987/2/139/295–6
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1155)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘marked the beginning . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1156)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘The autumn of 1920 . . .’, Boyarchikov, p. 73
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1157)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘The impassable . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1158)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘sabres gleaming’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1159)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘They had been robbed . . .’, Recollections of Nurse Anna Ivanovna Egorova, *Russky put* (Russian Way) project. <http://www.rp-net.ru/book/archival_materials/egorova.php>
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1160)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘Wrangel’s forces could not . . .’, B.T. Pash, HIA 72033 Box 4
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1161)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘P signal in cypher’, Clayton I Stafford, HIA 77018
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1162)
+    GO TO NOTE REFERENCE IN TEXT
 22. ‘It was rumoured . . .’, Pash, HIA 72033 Box 4
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1163)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘Cossacks with grim . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1164)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘glowing white façades . . .’, Stafford, HIA 77018
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1165)
+    GO TO NOTE REFERENCE IN TEXT
 25. ‘The hills! Look . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1166)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘He was trying . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1167)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘the last salute . . .’, quoted Mungo Melvin, *Sevastopol’s Wars*, p. 418
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1168)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘When our cavalry . . .’, Boyarchikov, p. 75
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1169)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘a large number . . .’, RACO, p. 455
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1170)
+    GO TO NOTE REFERENCE IN TEXT
 30. Figures on those left behind, Melvin, p. 427
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#page_488)
+    GO TO NOTE REFERENCE IN TEXT
 31. ‘From now on . . .’, ibid*.*
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1172)
+    GO TO NOTE REFERENCE IN TEXT
 32. ‘full pardon . . .’, quoted ibid., p. 415
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1173)
+    GO TO NOTE REFERENCE IN TEXT
 33. ‘a lava-like mass of cavalry . . .’, Makarov, p. 112
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1174)
+    GO TO NOTE REFERENCE IN TEXT
 34. ‘to concentrate them . . .’, Pipes, *Russia under the Bolshevik Regime*, p. 386
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1175)
+    GO TO NOTE REFERENCE IN TEXT
 35. ‘Comrade Trotsky . . .’, Melgunov, *Red Terror*, p. 66
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1176)
+    GO TO NOTE REFERENCE IN TEXT
 36. Demidov, Ignaty Voevoda, HIA 200C84
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#page_489)
+    GO TO NOTE REFERENCE IN TEXT
 37. Estimates and Sevastopol, Melgunov, p. 68
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#page_489)
+    GO TO NOTE REFERENCE IN TEXT
 38. ‘landings in Kuban’, ibid., p. 67
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1179)
+    GO TO NOTE REFERENCE IN TEXT
 39. ‘the slaughter continued . . .’, quoted ibid., pp. 66–7
 
-    [GO TO NOTE REFERENCE IN TEXT](053_39_The_Riviera_of_Ha.xhtml#EndnotePhraseInText1180)
+    GO TO NOTE REFERENCE IN TEXT
 
 ### Chapter 40: The Death of Hope
 
 1. ‘The vengeful hand . . .’, Melgunov, *Red Terror*, p. 71
 
-   [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1181)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘Our group reached . . .’, Lev Zadov interrogation files, DASBU 6/75131FP/48
 
-   [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1182)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘There are reasons . . .’, TsA FSB S/d N-217 T.2. S. 121
 
-   [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1183)
+   GO TO NOTE REFERENCE IN TEXT
 4. ‘You have been . . .’, Chief of General Staff Pugachev, TsA FSB RF S/d N-217. T.2. S.29
 
-   [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1184)
+   GO TO NOTE REFERENCE IN TEXT
 5. ‘Everyone confessed . . .’, TsA FSB RF S/d N-217. T. 2. S. 452
 
-   [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1185)
+   GO TO NOTE REFERENCE IN TEXT
 6. ‘The Tula Food Detachment . . .’, Georgy Borel, Borel Collection, BA-CU 4078202, 20–1
 
-   [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1186)
+   GO TO NOTE REFERENCE IN TEXT
 7. ‘It was so cold . . .’, Boyarchikov, p. 76
 
-   [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1187)
+   GO TO NOTE REFERENCE IN TEXT
 8. ‘Cities were sending . . .’, Lidin, BA-CU 4077753
 
-   [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1188)
+   GO TO NOTE REFERENCE IN TEXT
 9. Western Siberia and Tambov, Figes, *A People’s Tragedy*, pp. 753–7
 
-   [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#page_493)
+   GO TO NOTE REFERENCE IN TEXT
 10. ‘Units sent against . . .’, Georgy Borel, BA-CU 4078202/20–1
 
-    [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1190)
+    GO TO NOTE REFERENCE IN TEXT
 11. Tomsk and Ufa, Melgunov, p. 85
 
-    [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#page_494)
+    GO TO NOTE REFERENCE IN TEXT
 12. Belarus, ibid., p. 101
 
-    [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#page_494)
+    GO TO NOTE REFERENCE IN TEXT
 13. ‘Following its “pacification”. . .’, Lidin, BA-CU 4077753
 
-    [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1191)
+    GO TO NOTE REFERENCE IN TEXT
 14. ‘Silent people . . .’, Glasse Diary, BA-CU 4077552
 
-    [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1192)
+    GO TO NOTE REFERENCE IN TEXT
 15. ‘far more dangerous than . . .’, quoted Figes, *A People’sTragedy*, p. 758
 
-    [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1193)
+    GO TO NOTE REFERENCE IN TEXT
 16. ‘A paradox of Soviet life . . .’, David Grimm, HIA 77002 Box 4
 
-    [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1194)
+    GO TO NOTE REFERENCE IN TEXT
 17. ‘In the dead factories . . .’, Serge, *Memoirs of a Revolutionary*, pp. 115–16
 
-    [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1195)
+    GO TO NOTE REFERENCE IN TEXT
 18. ‘Kronstadt is in the . . .’, ibid., pp. 124–5
 
-    [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1196)
+    GO TO NOTE REFERENCE IN TEXT
 19. ‘The truth seeped out . . .’, ibid.*,* p. 126
 
-    [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1197)
+    GO TO NOTE REFERENCE IN TEXT
 20. ‘the numbers of arrested . . .’, Grimm, HIA 77002 Box 4
 
-    [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1198)
+    GO TO NOTE REFERENCE IN TEXT
 21. ‘All of Soviet Russia . . .’, quoted Lincoln, *Red Victory*, p. 511
 
-    [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1199)
+    GO TO NOTE REFERENCE IN TEXT
 22. Bashkir Brigade etc., RGAVMF R-52/1/58/1
 
-    [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#page_498)
+    GO TO NOTE REFERENCE IN TEXT
 23. ‘Well, it’s not very nice . . .’, RGAVMF R-52/1/87/10
 
-    [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1201)
+    GO TO NOTE REFERENCE IN TEXT
 24. ‘with heavy fire’, RGAVMF R-52/1/87/2
 
-    [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1202)
+    GO TO NOTE REFERENCE IN TEXT
 25. ‘We received 77 Communists . . .’, RGAVMF R-52/1/87/9
 
-    [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1203)
+    GO TO NOTE REFERENCE IN TEXT
 26. ‘At the regular session . . .’, RGAVMF R-52/1/87/14
 
-    [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1204)
+    GO TO NOTE REFERENCE IN TEXT
 27. ‘Kronstadt has been taken . . .’, RGAVMF R52/1/58/1
 
-    [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1205)
+    GO TO NOTE REFERENCE IN TEXT
 28. ‘Within a few hours . . .’, RGAVMF R-52/1/87/14
 
-    [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1206)
+    GO TO NOTE REFERENCE IN TEXT
 29. ‘Part of the Kronstadt rebels . . .’, Order for the units of 7th Army, RGAVMF R52/1/58/14
 
-    [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1207)
+    GO TO NOTE REFERENCE IN TEXT
 30. ‘On the morning of 18 March . . .’, RGAVMF R-52/1/87/14
 
-    [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1208)
+    GO TO NOTE REFERENCE IN TEXT
 31. ‘executions are being carried out . . .’, Melgunov, p. 76
 
-    [GO TO NOTE REFERENCE IN TEXT](054_40_The_Death_of_Hope.xhtml#EndnotePhraseInText1209)
+    GO TO NOTE REFERENCE IN TEXT
 
 ## Conclusion: The Devil’s Apprentice
 
 1. ‘a world war condensed’, Jonathan Smele, *The ‘Russian’ Civil Wars, 1916*–*1926*, London, 2016, p. 3
 
-   [GO TO NOTE REFERENCE IN TEXT](055_Conclusion_The_Devil.xhtml#EndnotePhraseInText1210)
+   GO TO NOTE REFERENCE IN TEXT
 2. ‘The idyllic aspect . . .’, Paustovsky, p. 487
 
-   [GO TO NOTE REFERENCE IN TEXT](055_Conclusion_The_Devil.xhtml#EndnotePhraseInText1211)
+   GO TO NOTE REFERENCE IN TEXT
 3. ‘moral collapse’, Shulgin, p. xviii
 
-   [GO TO NOTE REFERENCE IN TEXT](055_Conclusion_The_Devil.xhtml#EndnotePhraseInText1212)
+   GO TO NOTE REFERENCE IN TEXT
 
 ---
 
@@ -9740,580 +9740,580 @@ The page numbers in this index refer to the printed version of the book. Each li
 
 *Page numbers in italics refer to illustrations.*
 
-[A](062_Index.xhtml#A "index heading") [B](062_Index.xhtml#B "index heading") [C](062_Index.xhtml#C "index heading") [D](062_Index.xhtml#D "index heading") [E](062_Index.xhtml#E "index heading") [F](062_Index.xhtml#F "index heading") [G](062_Index.xhtml#G "index heading") [H](062_Index.xhtml#H "index heading") [I](062_Index.xhtml#I "index heading") [J](062_Index.xhtml#J "index heading") [K](062_Index.xhtml#K "index heading") [L](062_Index.xhtml#L "index heading") [M](062_Index.xhtml#M "index heading") [N](062_Index.xhtml#N "index heading") [O](062_Index.xhtml#O "index heading") [P](062_Index.xhtml#P "index heading") Q [R](062_Index.xhtml#R "index heading") [S](062_Index.xhtml#S "index heading") [T](062_Index.xhtml#T "index heading") [U](062_Index.xhtml#U "index heading") [V](062_Index.xhtml#V "index heading") [W](062_Index.xhtml#W "index heading") X [Y](062_Index.xhtml#Y "index heading") [Z](062_Index.xhtml#Z "index heading")
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
 ## A
 
-* Agar, Lt Augustus RN, [339](040_27_Baltic_Summer.xhtml#page_339), [344–6](040_27_Baltic_Summer.xhtml#page_344)
-* Alekseev, Gen. Mikhail V., [14](013_2_The_February_Revol.xhtml#page_14), [17](013_2_The_February_Revol.xhtml#page_17), [29](014_3_The_Fall_of_the_Do.xhtml#page_29), [33](014_3_The_Fall_of_the_Do.xhtml#page_33), [39](015_4_From_Autocracy_to_.xhtml#page_39), [42](015_4_From_Autocracy_to_.xhtml#page_42); and Kornilov affair, [87](018_7_Kornilov.xhtml#page_87), [89–90](018_7_Kornilov.xhtml#page_89); [98](019_8_The_October_Coup.xhtml#page_98), [116](020_9_The_Boys_Crusade_R.xhtml#page_116), [141](023_11_Breaking_the_Moul.xhtml#page_141), [159](025_13_The_Volunteer_Arm.xhtml#page_159), [*160*](025_13_The_Volunteer_Arm.xhtml#page_160), [164](025_13_The_Volunteer_Arm.xhtml#page_164), [165](025_13_The_Volunteer_Arm.xhtml#page_165), [167](025_13_The_Volunteer_Arm.xhtml#page_167), [170](025_13_The_Volunteer_Arm.xhtml#page_170), [191](027_15_Enemies_on_the_Pe.xhtml#page_191), [193](027_15_Enemies_on_the_Pe.xhtml#page_193)
-* Allied Supreme War Council, [273](033_21_The_Baltic_and_No.xhtml#page_273), [280–1](035_22_The_Fatal_Comprom.xhtml#page_280), [292](035_22_The_Fatal_Comprom.xhtml#page_292), [299](036_23_Siberia.xhtml#page_299), [340](040_27_Baltic_Summer.xhtml#page_340), [341](040_27_Baltic_Summer.xhtml#page_341), [375](043_30_Siberian_Retreat.xhtml#page_375), [446](050_36_Wrangel_Takes_Com.xhtml#page_446)
-* American Red Cross, [293](036_23_Siberia.xhtml#page_293), [335](039_26_Siberia.xhtml#page_335), [413](047_33_The_Great_Siberia.xhtml#page_413), [486](053_39_The_Riviera_of_Ha.xhtml#page_486), [499](054_40_The_Death_of_Hope.xhtml#page_499)
-* Amur province, [292](035_22_The_Fatal_Comprom.xhtml#page_292), [295](036_23_Siberia.xhtml#page_295), [369](042_29_Baltic_Surprise.xhtml#page_369)
-* Anarchists, [37](015_4_From_Autocracy_to_.xhtml#page_37), [45](015_4_From_Autocracy_to_.xhtml#page_45), [356–7](041_28_The_March_on_Mosc.xhtml#page_356); *see also* [Makhno](062_Index.xhtml#makhno)
-* Annenkov, Ataman Boris V., [112](020_9_The_Boys_Crusade_R.xhtml#page_112), [244](031_19_From_the_Volga_to.xhtml#page_244), [245](031_19_From_the_Volga_to.xhtml#page_245), [252](031_19_From_the_Volga_to.xhtml#page_252), [295](036_23_Siberia.xhtml#page_295), [329](039_26_Siberia.xhtml#page_329), [370](043_30_Siberian_Retreat.xhtml#page_370)
-* anti-semitism, [20](013_2_The_February_Revol.xhtml#page_20), [38](015_4_From_Autocracy_to_.xhtml#page_38), [40](015_4_From_Autocracy_to_.xhtml#page_40), [42–3](015_4_From_Autocracy_to_.xhtml#page_42), [66](017_6_The_Kerensky_Offen.xhtml#page_66), [67](017_6_The_Kerensky_Offen.xhtml#page_67), [124](021_10_The_Infanticide_o.xhtml#page_124), [204](028_16_The_Czechs_and_Le.xhtml#page_204), [246](031_19_From_the_Volga_to.xhtml#page_246), [282](035_22_The_Fatal_Comprom.xhtml#page_282), [304](037_24_Don_and_Ukraine.xhtml#page_304), [312](037_24_Don_and_Ukraine.xhtml#page_312); Ekaterinburg massacre, [329](039_26_Siberia.xhtml#page_329); [337](040_27_Baltic_Summer.xhtml#page_337), [352](041_28_The_March_on_Mosc.xhtml#page_352), [391–3](044_31_The_Turning_Point.xhtml#page_391), [421](048_34_The_Fall_of_Odess.xhtml#page_421)n; Minsk, [458](051_37_Poles_in_the_West.xhtml#page_458)
-* Antonov-Ovseenko, Vladimir, A., [75](018_7_Kornilov.xhtml#page_75), [102](019_8_The_October_Coup.xhtml#page_102); Commissar for War, [104](019_8_The_October_Coup.xhtml#page_104), [107](020_9_The_Boys_Crusade_R.xhtml#page_107), [108](020_9_The_Boys_Crusade_R.xhtml#page_108), [141](023_11_Breaking_the_Moul.xhtml#page_141), [161](025_13_The_Volunteer_Arm.xhtml#page_161), [179](026_14_The_Germans_March.xhtml#page_179), [239](031_19_From_the_Volga_to.xhtml#page_239), [493](054_40_The_Death_of_Hope.xhtml#page_493)
-* Arkhangel, [187](027_15_Enemies_on_the_Pe.xhtml#page_187), [188](027_15_Enemies_on_the_Pe.xhtml#page_188), [208](028_16_The_Czechs_and_Le.xhtml#page_208), [272](033_21_The_Baltic_and_No.xhtml#page_272), [273](033_21_The_Baltic_and_No.xhtml#page_273), [295](036_23_Siberia.xhtml#page_295), [316](037_24_Don_and_Ukraine.xhtml#page_316); mutinies, [319](038_25_Murmansk_and_Arkh.xhtml#page_319), [320–1](038_25_Murmansk_and_Arkh.xhtml#page_320); evacuation, [321–2](038_25_Murmansk_and_Arkh.xhtml#page_321)
-* Armand, Inessa F., [48](016_5_The_Pregnant_Widow.xhtml#page_48), [183](026_14_The_Germans_March.xhtml#page_183)
-* Armavir, [194](027_15_Enemies_on_the_Pe.xhtml#page_194)
-* Askhabad, [162](025_13_The_Volunteer_Arm.xhtml#page_162); Askhabad Committee, [263](032_20_The_Central_Power.xhtml#page_263)
-* Astoria Hotel, Petrograd, [27–8](014_3_The_Fall_of_the_Do.xhtml#page_27), [34](015_4_From_Autocracy_to_.xhtml#page_34), [107](020_9_The_Boys_Crusade_R.xhtml#page_107)
-* Astrakhan, [201](027_15_Enemies_on_the_Pe.xhtml#page_201), [263](032_20_The_Central_Power.xhtml#page_263), [285](035_22_The_Fatal_Comprom.xhtml#page_285); revolt, [287–8](035_22_The_Fatal_Comprom.xhtml#page_287); [313](037_24_Don_and_Ukraine.xhtml#page_313)
+* Agar, Lt Augustus RN, 339, 344–6
+* Alekseev, Gen. Mikhail V., 14, 17, 29, 33, 39, 42; and Kornilov affair, 87, 89–90; 98, 116, 141, 159, *160*, 164, 165, 167, 170, 191, 193
+* Allied Supreme War Council, 273, 280–1, 292, 299, 340, 341, 375, 446
+* American Red Cross, 293, 335, 413, 486, 499
+* Amur province, 292, 295, 369
+* Anarchists, 37, 45, 356–7; *see also* Makhno
+* Annenkov, Ataman Boris V., 112, 244, 245, 252, 295, 329, 370
+* anti-semitism, 20, 38, 40, 42–3, 66, 67, 124, 204, 246, 282, 304, 312; Ekaterinburg massacre, 329; 337, 352, 391–3, 421n; Minsk, 458
+* Antonov-Ovseenko, Vladimir, A., 75, 102; Commissar for War, 104, 107, 108, 141, 161, 179, 239, 493
+* Arkhangel, 187, 188, 208, 272, 273, 295, 316; mutinies, 319, 320–1; evacuation, 321–2
+* Armand, Inessa F., 48, 183
+* Armavir, 194
+* Askhabad, 162; Askhabad Committee, 263
+* Astoria Hotel, Petrograd, 27–8, 34, 107
+* Astrakhan, 201, 263, 285; revolt, 287–8; 313
 
 ## B
 
-* Babel, Isaac, [227](030_18_Fighting_on_the_V.xhtml#page_227), [430](049_35_The_Last_Hurrah_o.xhtml#page_430), [457](051_37_Poles_in_the_West.xhtml#page_457)
-* Baku, [127](021_10_The_Infanticide_o.xhtml#page_127), [128](021_10_The_Infanticide_o.xhtml#page_128), [129](021_10_The_Infanticide_o.xhtml#page_129), [196](027_15_Enemies_on_the_Pe.xhtml#page_196), [197](027_15_Enemies_on_the_Pe.xhtml#page_197); battle, [197–200](027_15_Enemies_on_the_Pe.xhtml#page_197), [265](032_20_The_Central_Power.xhtml#page_265), [442](050_36_Wrangel_Takes_Com.xhtml#page_442)
-* Balashov, [257](032_20_The_Central_Power.xhtml#page_257)
-* Balfour, Arthur, [274–5](033_21_The_Baltic_and_No.xhtml#page_274)
-* Baltic provinces/states, [74](017_6_The_Kerensky_Offen.xhtml#page_74), [340–1](040_27_Baltic_Summer.xhtml#page_340), [346](040_27_Baltic_Summer.xhtml#page_346), [353](041_28_The_March_on_Mosc.xhtml#page_353), [363](042_29_Baltic_Surprise.xhtml#page_363), [367–8](042_29_Baltic_Surprise.xhtml#page_367), [398](045_32_Retreat_in_the_So.xhtml#page_398)
-* Baltic Germans, [268](033_21_The_Baltic_and_No.xhtml#page_268), [340](040_27_Baltic_Summer.xhtml#page_340), [342](040_27_Baltic_Summer.xhtml#page_342), [363](042_29_Baltic_Surprise.xhtml#page_363)
-* Barrett, Capt. William S., [292–3](035_22_The_Fatal_Comprom.xhtml#page_292), [330](039_26_Siberia.xhtml#page_330), [331](039_26_Siberia.xhtml#page_331), [375](043_30_Siberian_Retreat.xhtml#page_375)
-* Berdichev, [282](035_22_The_Fatal_Comprom.xhtml#page_282), [449](050_36_Wrangel_Takes_Com.xhtml#page_449), [457](051_37_Poles_in_the_West.xhtml#page_457)
-* Berdyansk, [459](051_37_Poles_in_the_West.xhtml#page_459)
-* Berezovka, [282](035_22_The_Fatal_Comprom.xhtml#page_282)
-* Bermondt-Avalov, Count Pavel, [271](033_21_The_Baltic_and_No.xhtml#page_271), [341](040_27_Baltic_Summer.xhtml#page_341), [363](042_29_Baltic_Surprise.xhtml#page_363)
-* Berthelot, Gen. Henri, [281](035_22_The_Fatal_Comprom.xhtml#page_281)
-* Berzin, Reingold I., [233](030_18_Fighting_on_the_V.xhtml#page_233), [234](030_18_Fighting_on_the_V.xhtml#page_234), [238](030_18_Fighting_on_the_V.xhtml#page_238), [239](031_19_From_the_Volga_to.xhtml#page_239), [253](031_19_From_the_Volga_to.xhtml#page_253), [254](031_19_From_the_Volga_to.xhtml#page_254)
-* Bessarabia, [115](020_9_The_Boys_Crusade_R.xhtml#page_115)
-* Bicherakhov, Col Lazar F., [196](027_15_Enemies_on_the_Pe.xhtml#page_196), [198](027_15_Enemies_on_the_Pe.xhtml#page_198), [199](027_15_Enemies_on_the_Pe.xhtml#page_199)
-* Bitsenko, Anastasia A., [144](024_12_Brest-Litovsk.xhtml#page_144), [146](024_12_Brest-Litovsk.xhtml#page_146)
-* Black Hundreds, [12](012_1_The_Suicide_of_Eur.xhtml#page_12), [124](021_10_The_Infanticide_o.xhtml#page_124), [242](031_19_From_the_Volga_to.xhtml#page_242)n, [433](049_35_The_Last_Hurrah_o.xhtml#page_433)
-* Blyukher, Vasily, K., [253–4](031_19_From_the_Volga_to.xhtml#page_253), [479](052_38_The_Miracle_on_th.xhtml#page_479), [483](053_39_The_Riviera_of_Ha.xhtml#page_483)
-* Bogaevsky, Gen, Afrikan P., [165](025_13_The_Volunteer_Arm.xhtml#page_165), [168](025_13_The_Volunteer_Arm.xhtml#page_168), [301](037_24_Don_and_Ukraine.xhtml#page_301)
-* Boldyrev, Gen. Vasily G., [244](031_19_From_the_Volga_to.xhtml#page_244)
-* Bolsheviks/Communist Party, [31](014_3_The_Fall_of_the_Do.xhtml#page_31), [41](015_4_From_Autocracy_to_.xhtml#page_41), [45](015_4_From_Autocracy_to_.xhtml#page_45), [47–8](016_5_The_Pregnant_Widow.xhtml#page_47), [54](016_5_The_Pregnant_Widow.xhtml#page_54); April Days, [55–6](016_5_The_Pregnant_Widow.xhtml#page_55); and *Soldatskaya Pravda*, [62](017_6_The_Kerensky_Offen.xhtml#page_62); Military Organisation, [63](017_6_The_Kerensky_Offen.xhtml#page_63), [68](017_6_The_Kerensky_Offen.xhtml#page_68), [69](017_6_The_Kerensky_Offen.xhtml#page_69), [70](017_6_The_Kerensky_Offen.xhtml#page_70); and July Days and repression, [67–80](017_6_The_Kerensky_Offen.xhtml#page_67); Sixth Congress, [80](018_7_Kornilov.xhtml#page_80); [93–4](019_8_The_October_Coup.xhtml#page_93); October coup, [98–102](019_8_The_October_Coup.xhtml#page_98); and sabotage of the Constituent Assembly, [133–5](023_11_Breaking_the_Moul.xhtml#page_133); move from Petrograd to Moscow, [156](024_12_Brest-Litovsk.xhtml#page_156); becomes Communist Party, [156](024_12_Brest-Litovsk.xhtml#page_156); Second Congress Communist It, [468](051_37_Poles_in_the_West.xhtml#page_468), [469](052_38_The_Miracle_on_th.xhtml#page_469); Central Committee, [48](016_5_The_Pregnant_Widow.xhtml#page_48), [69](017_6_The_Kerensky_Offen.xhtml#page_69), [70](017_6_The_Kerensky_Offen.xhtml#page_70), [72](017_6_The_Kerensky_Offen.xhtml#page_72), [91](018_7_Kornilov.xhtml#page_91), [94](019_8_The_October_Coup.xhtml#page_94), [95](019_8_The_October_Coup.xhtml#page_95), [96](019_8_The_October_Coup.xhtml#page_96), [119](021_10_The_Infanticide_o.xhtml#page_119), [147](024_12_Brest-Litovsk.xhtml#page_147), [286](035_22_The_Fatal_Comprom.xhtml#page_286), [290](035_22_The_Fatal_Comprom.xhtml#page_290), [383](044_31_The_Turning_Point.xhtml#page_383); Commissars, [119](021_10_The_Infanticide_o.xhtml#page_119), [182](026_14_The_Germans_March.xhtml#page_182), [193](027_15_Enemies_on_the_Pe.xhtml#page_193), [196](027_15_Enemies_on_the_Pe.xhtml#page_196), [197](027_15_Enemies_on_the_Pe.xhtml#page_197); ‘Baku Commissars’, [199](027_15_Enemies_on_the_Pe.xhtml#page_199); Don Bureau, [348–9](041_28_The_March_on_Mosc.xhtml#page_348), [465](051_37_Poles_in_the_West.xhtml#page_465), [466](051_37_Poles_in_the_West.xhtml#page_466), [480–1](053_39_The_Riviera_of_Ha.xhtml#page_480)
-* Bonch-Bruevich, Vladimir, [212](028_16_The_Czechs_and_Le.xhtml#page_212)
-* Brest, [178](026_14_The_Germans_March.xhtml#page_178), [459](051_37_Poles_in_the_West.xhtml#page_459), [469](052_38_The_Miracle_on_th.xhtml#page_469), [474](052_38_The_Miracle_on_th.xhtml#page_474)
-* Brest-Litovsk, negotiations and Treaty, [144–50](024_12_Brest-Litovsk.xhtml#page_144), [155](024_12_Brest-Litovsk.xhtml#page_155), [156](024_12_Brest-Litovsk.xhtml#page_156), [175](026_14_The_Germans_March.xhtml#page_175), [176](026_14_The_Germans_March.xhtml#page_176), [178](026_14_The_Germans_March.xhtml#page_178), [183](026_14_The_Germans_March.xhtml#page_183), [188](027_15_Enemies_on_the_Pe.xhtml#page_188), [196](027_15_Enemies_on_the_Pe.xhtml#page_196), [197](027_15_Enemies_on_the_Pe.xhtml#page_197), [202](028_16_The_Czechs_and_Le.xhtml#page_202), [227](030_18_Fighting_on_the_V.xhtml#page_227), [255](031_19_From_the_Volga_to.xhtml#page_255), [279](035_22_The_Fatal_Comprom.xhtml#page_279)
-* British Army; Dunsterforce, [196](027_15_Enemies_on_the_Pe.xhtml#page_196), [197](027_15_Enemies_on_the_Pe.xhtml#page_197), [262](032_20_The_Central_Power.xhtml#page_262); North Russian Expeditionary Force, [273–4](033_21_The_Baltic_and_No.xhtml#page_273); 9th Bn, Hampshire Rgt, [206](028_16_The_Czechs_and_Le.xhtml#page_206), [292](035_22_The_Fatal_Comprom.xhtml#page_292), [329](039_26_Siberia.xhtml#page_329); 25th Bn, Middlesex Rgt, [206](028_16_The_Czechs_and_Le.xhtml#page_206), [292](035_22_The_Fatal_Comprom.xhtml#page_292); 2/10th Royal Scots, [273](033_21_The_Baltic_and_No.xhtml#page_273)
-* Broniewski, Władysław, [455](051_37_Poles_in_the_West.xhtml#page_455), [456](051_37_Poles_in_the_West.xhtml#page_456), [458](051_37_Poles_in_the_West.xhtml#page_458), [469](052_38_The_Miracle_on_th.xhtml#page_469), [474](052_38_The_Miracle_on_th.xhtml#page_474), [476](052_38_The_Miracle_on_th.xhtml#page_476)
-* Brusilov, Gen. Aleksei A., [29](014_3_The_Fall_of_the_Do.xhtml#page_29), [51](016_5_The_Pregnant_Widow.xhtml#page_51), [61](016_5_The_Pregnant_Widow.xhtml#page_61), [79](018_7_Kornilov.xhtml#page_79), [80](018_7_Kornilov.xhtml#page_80)
-* Buchanan, Sir George, [15–16](013_2_The_February_Revol.xhtml#page_15), [81](018_7_Kornilov.xhtml#page_81), [97](019_8_The_October_Coup.xhtml#page_97)
-* Budyonny, Semyon, [227](030_18_Fighting_on_the_V.xhtml#page_227), [307](037_24_Don_and_Ukraine.xhtml#page_307), [352–3](041_28_The_March_on_Mosc.xhtml#page_352), [380](043_30_Siberian_Retreat.xhtml#page_380), [382](044_31_The_Turning_Point.xhtml#page_382), [389](044_31_The_Turning_Point.xhtml#page_389), [391](044_31_The_Turning_Point.xhtml#page_391), [396](045_32_Retreat_in_the_So.xhtml#page_396), [398](045_32_Retreat_in_the_So.xhtml#page_398), [424](048_34_The_Fall_of_Odess.xhtml#page_424), [427](049_35_The_Last_Hurrah_o.xhtml#page_427), [452–3](050_36_Wrangel_Takes_Com.xhtml#page_452), [454](051_37_Poles_in_the_West.xhtml#page_454), [455](051_37_Poles_in_the_West.xhtml#page_455), [457](051_37_Poles_in_the_West.xhtml#page_457), [469](052_38_The_Miracle_on_th.xhtml#page_469), [470](052_38_The_Miracle_on_th.xhtml#page_470); and Lwów, [476](052_38_The_Miracle_on_th.xhtml#page_476), [485](053_39_The_Riviera_of_Ha.xhtml#page_485)
-* Bukharin, Nikolai I., [147](024_12_Brest-Litovsk.xhtml#page_147), [148](024_12_Brest-Litovsk.xhtml#page_148), [150](024_12_Brest-Litovsk.xhtml#page_150), [209](028_16_The_Czechs_and_Le.xhtml#page_209), [227](030_18_Fighting_on_the_V.xhtml#page_227)
-* Bulak-Balakhovich. Stanislaw, [289–90](035_22_The_Fatal_Comprom.xhtml#page_289), [290](035_22_The_Fatal_Comprom.xhtml#page_290)n, [337](040_27_Baltic_Summer.xhtml#page_337), [*338*](040_27_Baltic_Summer.xhtml#page_338)
-* Bunin, Ivan A., [109](020_9_The_Boys_Crusade_R.xhtml#page_109), [137](023_11_Breaking_the_Moul.xhtml#page_137), [139](023_11_Breaking_the_Moul.xhtml#page_139), [282](035_22_The_Fatal_Comprom.xhtml#page_282), [418](047_33_The_Great_Siberia.xhtml#page_418)
-* Bykhov monastery, [89](018_7_Kornilov.xhtml#page_89), [116](020_9_The_Boys_Crusade_R.xhtml#page_116), [125](021_10_The_Infanticide_o.xhtml#page_125)
+* Babel, Isaac, 227, 430, 457
+* Baku, 127, 128, 129, 196, 197; battle, 197–200, 265, 442
+* Balashov, 257
+* Balfour, Arthur, 274–5
+* Baltic provinces/states, 74, 340–1, 346, 353, 363, 367–8, 398
+* Baltic Germans, 268, 340, 342, 363
+* Barrett, Capt. William S., 292–3, 330, 331, 375
+* Berdichev, 282, 449, 457
+* Berdyansk, 459
+* Berezovka, 282
+* Bermondt-Avalov, Count Pavel, 271, 341, 363
+* Berthelot, Gen. Henri, 281
+* Berzin, Reingold I., 233, 234, 238, 239, 253, 254
+* Bessarabia, 115
+* Bicherakhov, Col Lazar F., 196, 198, 199
+* Bitsenko, Anastasia A., 144, 146
+* Black Hundreds, 12, 124, 242n, 433
+* Blyukher, Vasily, K., 253–4, 479, 483
+* Bogaevsky, Gen, Afrikan P., 165, 168, 301
+* Boldyrev, Gen. Vasily G., 244
+* Bolsheviks/Communist Party, 31, 41, 45, 47–8, 54; April Days, 55–6; and *Soldatskaya Pravda*, 62; Military Organisation, 63, 68, 69, 70; and July Days and repression, 67–80; Sixth Congress, 80; 93–4; October coup, 98–102; and sabotage of the Constituent Assembly, 133–5; move from Petrograd to Moscow, 156; becomes Communist Party, 156; Second Congress Communist It, 468, 469; Central Committee, 48, 69, 70, 72, 91, 94, 95, 96, 119, 147, 286, 290, 383; Commissars, 119, 182, 193, 196, 197; ‘Baku Commissars’, 199; Don Bureau, 348–9, 465, 466, 480–1
+* Bonch-Bruevich, Vladimir, 212
+* Brest, 178, 459, 469, 474
+* Brest-Litovsk, negotiations and Treaty, 144–50, 155, 156, 175, 176, 178, 183, 188, 196, 197, 202, 227, 255, 279
+* British Army; Dunsterforce, 196, 197, 262; North Russian Expeditionary Force, 273–4; 9th Bn, Hampshire Rgt, 206, 292, 329; 25th Bn, Middlesex Rgt, 206, 292; 2/10th Royal Scots, 273
+* Broniewski, Władysław, 455, 456, 458, 469, 474, 476
+* Brusilov, Gen. Aleksei A., 29, 51, 61, 79, 80
+* Buchanan, Sir George, 15–16, 81, 97
+* Budyonny, Semyon, 227, 307, 352–3, 380, 382, 389, 391, 396, 398, 424, 427, 452–3, 454, 455, 457, 469, 470; and Lwów, 476, 485
+* Bukharin, Nikolai I., 147, 148, 150, 209, 227
+* Bulak-Balakhovich. Stanislaw, 289–90, 290n, 337, *338*
+* Bunin, Ivan A., 109, 137, 139, 282, 418
+* Bykhov monastery, 89, 116, 125
 
 ## C
 
-* Canadian troops, [292](035_22_The_Fatal_Comprom.xhtml#page_292), [317](038_25_Murmansk_and_Arkh.xhtml#page_317)
-* Carton de Wiart, Brig-Gen. Adrian, [353](041_28_The_March_on_Mosc.xhtml#page_353), [398](045_32_Retreat_in_the_So.xhtml#page_398), [450](050_36_Wrangel_Takes_Com.xhtml#page_450), [471](052_38_The_Miracle_on_th.xhtml#page_471)
-* Central Powers; occupation, [149–50](024_12_Brest-Litovsk.xhtml#page_149), [156](024_12_Brest-Litovsk.xhtml#page_156), [175–7](026_14_The_Germans_March.xhtml#page_175), [187](027_15_Enemies_on_the_Pe.xhtml#page_187), [192](027_15_Enemies_on_the_Pe.xhtml#page_192), [255](031_19_From_the_Volga_to.xhtml#page_255); prisoners of war, [206–7](028_16_The_Czechs_and_Le.xhtml#page_206), [212](028_16_The_Czechs_and_Le.xhtml#page_212), [216](028_16_The_Czechs_and_Le.xhtml#page_216), [229](030_18_Fighting_on_the_V.xhtml#page_229), [230](030_18_Fighting_on_the_V.xhtml#page_230), [245](031_19_From_the_Volga_to.xhtml#page_245), [263](032_20_The_Central_Power.xhtml#page_263)
-* Chaikovsky, Nikolai V., [272–3](033_21_The_Baltic_and_No.xhtml#page_272), [290](035_22_The_Fatal_Comprom.xhtml#page_290), [291](035_22_The_Fatal_Comprom.xhtml#page_291), [425](049_35_The_Last_Hurrah_o.xhtml#page_425)
-* Chapaev, Vasily I., [298](036_23_Siberia.xhtml#page_298)
-* Cheka, [121–5](021_10_The_Infanticide_o.xhtml#page_121), [136](023_11_Breaking_the_Moul.xhtml#page_136), [138](023_11_Breaking_the_Moul.xhtml#page_138), [139](023_11_Breaking_the_Moul.xhtml#page_139), [158](024_12_Brest-Litovsk.xhtml#page_158), [182](026_14_The_Germans_March.xhtml#page_182), [196](027_15_Enemies_on_the_Pe.xhtml#page_196), [209–15](028_16_The_Czechs_and_Le.xhtml#page_209), [217–22](029_17_Red_Terror.xhtml#page_217), [228](030_18_Fighting_on_the_V.xhtml#page_228), [231–2](030_18_Fighting_on_the_V.xhtml#page_231); Kazan, [231](030_18_Fighting_on_the_V.xhtml#page_231); Kiev, [232](030_18_Fighting_on_the_V.xhtml#page_232); [235](030_18_Fighting_on_the_V.xhtml#page_235), [257](032_20_The_Central_Power.xhtml#page_257), [279](035_22_The_Fatal_Comprom.xhtml#page_279), [287](035_22_The_Fatal_Comprom.xhtml#page_287), [288](035_22_The_Fatal_Comprom.xhtml#page_288), [289](035_22_The_Fatal_Comprom.xhtml#page_289), [290](035_22_The_Fatal_Comprom.xhtml#page_290), [356–7](041_28_The_March_on_Mosc.xhtml#page_356); Tula, [387](044_31_The_Turning_Point.xhtml#page_387), [489](053_39_The_Riviera_of_Ha.xhtml#page_489)n, [490](053_39_The_Riviera_of_Ha.xhtml#page_490), [491](053_39_The_Riviera_of_Ha.xhtml#page_491), [494](054_40_The_Death_of_Hope.xhtml#page_494)
-* Chekhov, Anton P., [40](015_4_From_Autocracy_to_.xhtml#page_40), [126](021_10_The_Infanticide_o.xhtml#page_126), [138](023_11_Breaking_the_Moul.xhtml#page_138), [502](055_Conclusion_The_Devil.xhtml#page_502)
-* Chelyabinsk, [202](028_16_The_Czechs_and_Le.xhtml#page_202), [243](031_19_From_the_Volga_to.xhtml#page_243); eka, [121](021_10_The_Infanticide_o.xhtml#page_121), [136](023_11_Breaking_the_Moul.xhtml#page_136), [138](023_11_Breaking_the_Moul.xhtml#page_138), [139](023_11_Breaking_the_Moul.xhtml#page_139), [158](024_12_Brest-Litovsk.xhtml#page_158), [196](027_15_Enemies_on_the_Pe.xhtml#page_196), [209](028_16_The_Czechs_and_Le.xhtml#page_209); and Left SRs, [209–13](028_16_The_Czechs_and_Le.xhtml#page_209); [217](029_17_Red_Terror.xhtml#page_217), [219–23](029_17_Red_Terror.xhtml#page_219); [292](035_22_The_Fatal_Comprom.xhtml#page_292), [296](036_23_Siberia.xhtml#page_296), [322](038_25_Murmansk_and_Arkh.xhtml#page_322), [326](039_26_Siberia.xhtml#page_326), [327](039_26_Siberia.xhtml#page_327)
-* Chernov, Viktor M., [71](017_6_The_Kerensky_Offen.xhtml#page_71), [72](017_6_The_Kerensky_Offen.xhtml#page_72), [134](023_11_Breaking_the_Moul.xhtml#page_134), [135](023_11_Breaking_the_Moul.xhtml#page_135)
-* Chicherin, Georgy V., [184](026_14_The_Germans_March.xhtml#page_184), [192](027_15_Enemies_on_the_Pe.xhtml#page_192), [212](028_16_The_Czechs_and_Le.xhtml#page_212), [362](041_28_The_March_on_Mosc.xhtml#page_362)
-* Chinese Eastern Railway, [206](028_16_The_Czechs_and_Le.xhtml#page_206), [372](043_30_Siberian_Retreat.xhtml#page_372)
-* Chinese internationalists, [172](025_13_The_Volunteer_Arm.xhtml#page_172), [231](030_18_Fighting_on_the_V.xhtml#page_231), [232](030_18_Fighting_on_the_V.xhtml#page_232); Kiev Cheka, [232](030_18_Fighting_on_the_V.xhtml#page_232); [239](031_19_From_the_Volga_to.xhtml#page_239), [253](031_19_From_the_Volga_to.xhtml#page_253), [254](031_19_From_the_Volga_to.xhtml#page_254), [286](035_22_The_Fatal_Comprom.xhtml#page_286); Astrakhan Cheka, [287](035_22_The_Fatal_Comprom.xhtml#page_287); [324](039_26_Siberia.xhtml#page_324), [459](051_37_Poles_in_the_West.xhtml#page_459)n
-* Chita, [111](020_9_The_Boys_Crusade_R.xhtml#page_111), [207](028_16_The_Czechs_and_Le.xhtml#page_207), [245](031_19_From_the_Volga_to.xhtml#page_245), [249](031_19_From_the_Volga_to.xhtml#page_249), [253](031_19_From_the_Volga_to.xhtml#page_253), [292](035_22_The_Fatal_Comprom.xhtml#page_292), [295](036_23_Siberia.xhtml#page_295), [296](036_23_Siberia.xhtml#page_296), [331](039_26_Siberia.xhtml#page_331), [370](043_30_Siberian_Retreat.xhtml#page_370), [415](047_33_The_Great_Siberia.xhtml#page_415)
-* Chkheidze, Nikoloz, [28](014_3_The_Fall_of_the_Do.xhtml#page_28), [36–7](015_4_From_Autocracy_to_.xhtml#page_36)
-* Churchill, Winston S., [1](010_Foreword.xhtml#page_1), [275](033_21_The_Baltic_and_No.xhtml#page_275), [279](035_22_The_Fatal_Comprom.xhtml#page_279), [280](035_22_The_Fatal_Comprom.xhtml#page_280), [281](035_22_The_Fatal_Comprom.xhtml#page_281), [290](035_22_The_Fatal_Comprom.xhtml#page_290), [295](036_23_Siberia.xhtml#page_295), [300](036_23_Siberia.xhtml#page_300), [315](037_24_Don_and_Ukraine.xhtml#page_315), [316–17](037_24_Don_and_Ukraine.xhtml#page_316), [329](039_26_Siberia.xhtml#page_329), [333](039_26_Siberia.xhtml#page_333), [342](040_27_Baltic_Summer.xhtml#page_342), [343](040_27_Baltic_Summer.xhtml#page_343), [353–4](041_28_The_March_on_Mosc.xhtml#page_353); and fear of threat to India, [354](041_28_The_March_on_Mosc.xhtml#page_354), [369](042_29_Baltic_Surprise.xhtml#page_369); [356](041_28_The_March_on_Mosc.xhtml#page_356), [362](041_28_The_March_on_Mosc.xhtml#page_362), [366](042_29_Baltic_Surprise.xhtml#page_366), [367](042_29_Baltic_Surprise.xhtml#page_367), [388](044_31_The_Turning_Point.xhtml#page_388), [392](044_31_The_Turning_Point.xhtml#page_392), [393](044_31_The_Turning_Point.xhtml#page_393), [394](044_31_The_Turning_Point.xhtml#page_394), [398–9](045_32_Retreat_in_the_So.xhtml#page_398), [403](045_32_Retreat_in_the_So.xhtml#page_403), [447](050_36_Wrangel_Takes_Com.xhtml#page_447), [450](050_36_Wrangel_Takes_Com.xhtml#page_450)
-* Clemenceau, Georges, [8](012_1_The_Suicide_of_Eur.xhtml#page_8), [279](035_22_The_Fatal_Comprom.xhtml#page_279), [282](035_22_The_Fatal_Comprom.xhtml#page_282), [283](035_22_The_Fatal_Comprom.xhtml#page_283), [299](036_23_Siberia.xhtml#page_299)
-* Communist International, [156](024_12_Brest-Litovsk.xhtml#page_156)
-* Constituent Assembly, [32](014_3_The_Fall_of_the_Do.xhtml#page_32), [33](014_3_The_Fall_of_the_Do.xhtml#page_33), [38](015_4_From_Autocracy_to_.xhtml#page_38), [46](015_4_From_Autocracy_to_.xhtml#page_46), [51](016_5_The_Pregnant_Widow.xhtml#page_51), [71](017_6_The_Kerensky_Offen.xhtml#page_71), [75](018_7_Kornilov.xhtml#page_75), [84](018_7_Kornilov.xhtml#page_84), [92](019_8_The_October_Coup.xhtml#page_92), [96](019_8_The_October_Coup.xhtml#page_96), [104](019_8_The_October_Coup.xhtml#page_104), [111](020_9_The_Boys_Crusade_R.xhtml#page_111), [118](021_10_The_Infanticide_o.xhtml#page_118); elections, [119–20](021_10_The_Infanticide_o.xhtml#page_119), [121](021_10_The_Infanticide_o.xhtml#page_121); Bolshevik sabotage, [133–5](023_11_Breaking_the_Moul.xhtml#page_133), [140–1](023_11_Breaking_the_Moul.xhtml#page_140), [147](024_12_Brest-Litovsk.xhtml#page_147), [164](025_13_The_Volunteer_Arm.xhtml#page_164), [202](028_16_The_Czechs_and_Le.xhtml#page_202), [205](028_16_The_Czechs_and_Le.xhtml#page_205), [238](030_18_Fighting_on_the_V.xhtml#page_238), [240](031_19_From_the_Volga_to.xhtml#page_240), [246](031_19_From_the_Volga_to.xhtml#page_246), [299](036_23_Siberia.xhtml#page_299), [343](040_27_Baltic_Summer.xhtml#page_343), [425](049_35_The_Last_Hurrah_o.xhtml#page_425)
-* corruption and looting, [311](037_24_Don_and_Ukraine.xhtml#page_311), [327–8](039_26_Siberia.xhtml#page_327), [364](042_29_Baltic_Surprise.xhtml#page_364), [367](042_29_Baltic_Surprise.xhtml#page_367), [385–6](044_31_The_Turning_Point.xhtml#page_385), [396](045_32_Retreat_in_the_So.xhtml#page_396), [402](045_32_Retreat_in_the_So.xhtml#page_402), [445](050_36_Wrangel_Takes_Com.xhtml#page_445), [456](051_37_Poles_in_the_West.xhtml#page_456), [482](053_39_The_Riviera_of_Ha.xhtml#page_482)
-* Cossacks, Don, [10](012_1_The_Suicide_of_Eur.xhtml#page_10), [105](020_9_The_Boys_Crusade_R.xhtml#page_105), [106](020_9_The_Boys_Crusade_R.xhtml#page_106), [112–14](020_9_The_Boys_Crusade_R.xhtml#page_112), [120](021_10_The_Infanticide_o.xhtml#page_120), [168](025_13_The_Volunteer_Arm.xhtml#page_168), [171](025_13_The_Volunteer_Arm.xhtml#page_171), [179](026_14_The_Germans_March.xhtml#page_179); and Red Terror, [220](029_17_Red_Terror.xhtml#page_220), [221](029_17_Red_Terror.xhtml#page_221), [286–7](035_22_The_Fatal_Comprom.xhtml#page_286), [306](037_24_Don_and_Ukraine.xhtml#page_306); [300](036_23_Siberia.xhtml#page_300), [306](037_24_Don_and_Ukraine.xhtml#page_306); uprisings, [306](037_24_Don_and_Ukraine.xhtml#page_306), [307–8](037_24_Don_and_Ukraine.xhtml#page_307); Don Army, [312](037_24_Don_and_Ukraine.xhtml#page_312); [353](041_28_The_March_on_Mosc.xhtml#page_353), [354](041_28_The_March_on_Mosc.xhtml#page_354)
-* Cossacks; Astrakhan, [243](031_19_From_the_Volga_to.xhtml#page_243), [310–11](037_24_Don_and_Ukraine.xhtml#page_310); Enisei, [243](031_19_From_the_Volga_to.xhtml#page_243); Irkutsk, [243](031_19_From_the_Volga_to.xhtml#page_243); Kuban, [166](025_13_The_Volunteer_Arm.xhtml#page_166), [169](025_13_The_Volunteer_Arm.xhtml#page_169), [170](025_13_The_Volunteer_Arm.xhtml#page_170), [171](025_13_The_Volunteer_Arm.xhtml#page_171), [194](027_15_Enemies_on_the_Pe.xhtml#page_194), [285](035_22_The_Fatal_Comprom.xhtml#page_285), [308](037_24_Don_and_Ukraine.xhtml#page_308), [309](037_24_Don_and_Ukraine.xhtml#page_309), [313](037_24_Don_and_Ukraine.xhtml#page_313), [350](041_28_The_March_on_Mosc.xhtml#page_350), [353](041_28_The_March_on_Mosc.xhtml#page_353), [356](041_28_The_March_on_Mosc.xhtml#page_356), [390](044_31_The_Turning_Point.xhtml#page_390), [395](045_32_Retreat_in_the_So.xhtml#page_395), [426](049_35_The_Last_Hurrah_o.xhtml#page_426), [441](050_36_Wrangel_Takes_Com.xhtml#page_441), [466](051_37_Poles_in_the_West.xhtml#page_466), [481](053_39_The_Riviera_of_Ha.xhtml#page_481), [484](053_39_The_Riviera_of_Ha.xhtml#page_484); Orenburg, [110–11](020_9_The_Boys_Crusade_R.xhtml#page_110), [205](028_16_The_Czechs_and_Le.xhtml#page_205), [242](031_19_From_the_Volga_to.xhtml#page_242), [243](031_19_From_the_Volga_to.xhtml#page_243), [244](031_19_From_the_Volga_to.xhtml#page_244), [297](036_23_Siberia.xhtml#page_297), [300](036_23_Siberia.xhtml#page_300), [372](043_30_Siberian_Retreat.xhtml#page_372); Semirechensk, [112](020_9_The_Boys_Crusade_R.xhtml#page_112), [244](031_19_From_the_Volga_to.xhtml#page_244), [245](031_19_From_the_Volga_to.xhtml#page_245), [252](031_19_From_the_Volga_to.xhtml#page_252), [295](036_23_Siberia.xhtml#page_295), [329](039_26_Siberia.xhtml#page_329), [370](043_30_Siberian_Retreat.xhtml#page_370); Siberian, [112](020_9_The_Boys_Crusade_R.xhtml#page_112), [243](031_19_From_the_Volga_to.xhtml#page_243), [244](031_19_From_the_Volga_to.xhtml#page_244), [245](031_19_From_the_Volga_to.xhtml#page_245), [248](031_19_From_the_Volga_to.xhtml#page_248), [252](031_19_From_the_Volga_to.xhtml#page_252); Terek, [285–6](035_22_The_Fatal_Comprom.xhtml#page_285), [350](041_28_The_March_on_Mosc.xhtml#page_350), [356](041_28_The_March_on_Mosc.xhtml#page_356), [389](044_31_The_Turning_Point.xhtml#page_389), [401](045_32_Retreat_in_the_So.xhtml#page_401), [429](049_35_The_Last_Hurrah_o.xhtml#page_429), [441](050_36_Wrangel_Takes_Com.xhtml#page_441), [480](053_39_The_Riviera_of_Ha.xhtml#page_480); Transbaikal, [111](020_9_The_Boys_Crusade_R.xhtml#page_111), [127](021_10_The_Infanticide_o.xhtml#page_127); Uralsk, [243](031_19_From_the_Volga_to.xhtml#page_243), [298](036_23_Siberia.xhtml#page_298), [299](036_23_Siberia.xhtml#page_299), [331–2](039_26_Siberia.xhtml#page_331), [442](050_36_Wrangel_Takes_Com.xhtml#page_442); Ussuri, [206](028_16_The_Czechs_and_Le.xhtml#page_206), [250](031_19_From_the_Volga_to.xhtml#page_250)
-* Cossack Federation, [179](026_14_The_Germans_March.xhtml#page_179)
-* Cowan, Rear-Adm. Walter, [289](035_22_The_Fatal_Comprom.xhtml#page_289), [339](040_27_Baltic_Summer.xhtml#page_339), [342](040_27_Baltic_Summer.xhtml#page_342), [344–6](040_27_Baltic_Summer.xhtml#page_344), [363](042_29_Baltic_Surprise.xhtml#page_363)
-* Crimea, [256](032_20_The_Central_Power.xhtml#page_256); Red occupation 1918, [283](035_22_The_Fatal_Comprom.xhtml#page_283), [308](037_24_Don_and_Ukraine.xhtml#page_308); defence of, [403–4](045_32_Retreat_in_the_So.xhtml#page_403)
-* Curzon, Earl (George) of Kedleston, [300](036_23_Siberia.xhtml#page_300), [341–2](040_27_Baltic_Summer.xhtml#page_341), [343](040_27_Baltic_Summer.xhtml#page_343), [353](041_28_The_March_on_Mosc.xhtml#page_353), [354](041_28_The_March_on_Mosc.xhtml#page_354), [360](041_28_The_March_on_Mosc.xhtml#page_360), [367](042_29_Baltic_Surprise.xhtml#page_367), [450](050_36_Wrangel_Takes_Com.xhtml#page_450), [460](051_37_Poles_in_the_West.xhtml#page_460); Curzon Line, [469](052_38_The_Miracle_on_th.xhtml#page_469)
-* Czechoslovak Legion; origins, [65](017_6_The_Kerensky_Offen.xhtml#page_65), [191](027_15_Enemies_on_the_Pe.xhtml#page_191), [192](027_15_Enemies_on_the_Pe.xhtml#page_192); revolt, [193](027_15_Enemies_on_the_Pe.xhtml#page_193), [202](028_16_The_Czechs_and_Le.xhtml#page_202), [203](028_16_The_Czechs_and_Le.xhtml#page_203), [205](028_16_The_Czechs_and_Le.xhtml#page_205); advance on Ekaterinburg, [215](028_16_The_Czechs_and_Le.xhtml#page_215); and Kazan, [226](030_18_Fighting_on_the_V.xhtml#page_226), [236](030_18_Fighting_on_the_V.xhtml#page_236), [238](030_18_Fighting_on_the_V.xhtml#page_238); [243](031_19_From_the_Volga_to.xhtml#page_243); and Trans-Siberian Railway, [248](031_19_From_the_Volga_to.xhtml#page_248), [252–3](031_19_From_the_Volga_to.xhtml#page_252); and Vologda link-up, [273](033_21_The_Baltic_and_No.xhtml#page_273), [295](036_23_Siberia.xhtml#page_295), [317](038_25_Murmansk_and_Arkh.xhtml#page_317); [292](035_22_The_Fatal_Comprom.xhtml#page_292); Whites turn on Gajda, [323](039_26_Siberia.xhtml#page_323); Czech anger with White Russians, [371](043_30_Siberian_Retreat.xhtml#page_371); and Poles, [375](043_30_Siberian_Retreat.xhtml#page_375), [376–7](043_30_Siberian_Retreat.xhtml#page_376); [412](047_33_The_Great_Siberia.xhtml#page_412); hand Kolchak to Left Socialist Revolutionaries, [416](047_33_The_Great_Siberia.xhtml#page_416)
-* Czernin, Ottakar Graf v. u. zu Chudenitz, [145–6](024_12_Brest-Litovsk.xhtml#page_145), [147](024_12_Brest-Litovsk.xhtml#page_147)
+* Canadian troops, 292, 317
+* Carton de Wiart, Brig-Gen. Adrian, 353, 398, 450, 471
+* Central Powers; occupation, 149–50, 156, 175–7, 187, 192, 255; prisoners of war, 206–7, 212, 216, 229, 230, 245, 263
+* Chaikovsky, Nikolai V., 272–3, 290, 291, 425
+* Chapaev, Vasily I., 298
+* Cheka, 121–5, 136, 138, 139, 158, 182, 196, 209–15, 217–22, 228, 231–2; Kazan, 231; Kiev, 232; 235, 257, 279, 287, 288, 289, 290, 356–7; Tula, 387, 489n, 490, 491, 494
+* Chekhov, Anton P., 40, 126, 138, 502
+* Chelyabinsk, 202, 243; eka, 121, 136, 138, 139, 158, 196, 209; and Left SRs, 209–13; 217, 219–23; 292, 296, 322, 326, 327
+* Chernov, Viktor M., 71, 72, 134, 135
+* Chicherin, Georgy V., 184, 192, 212, 362
+* Chinese Eastern Railway, 206, 372
+* Chinese internationalists, 172, 231, 232; Kiev Cheka, 232; 239, 253, 254, 286; Astrakhan Cheka, 287; 324, 459n
+* Chita, 111, 207, 245, 249, 253, 292, 295, 296, 331, 370, 415
+* Chkheidze, Nikoloz, 28, 36–7
+* Churchill, Winston S., 1, 275, 279, 280, 281, 290, 295, 300, 315, 316–17, 329, 333, 342, 343, 353–4; and fear of threat to India, 354, 369; 356, 362, 366, 367, 388, 392, 393, 394, 398–9, 403, 447, 450
+* Clemenceau, Georges, 8, 279, 282, 283, 299
+* Communist International, 156
+* Constituent Assembly, 32, 33, 38, 46, 51, 71, 75, 84, 92, 96, 104, 111, 118; elections, 119–20, 121; Bolshevik sabotage, 133–5, 140–1, 147, 164, 202, 205, 238, 240, 246, 299, 343, 425
+* corruption and looting, 311, 327–8, 364, 367, 385–6, 396, 402, 445, 456, 482
+* Cossacks, Don, 10, 105, 106, 112–14, 120, 168, 171, 179; and Red Terror, 220, 221, 286–7, 306; 300, 306; uprisings, 306, 307–8; Don Army, 312; 353, 354
+* Cossacks; Astrakhan, 243, 310–11; Enisei, 243; Irkutsk, 243; Kuban, 166, 169, 170, 171, 194, 285, 308, 309, 313, 350, 353, 356, 390, 395, 426, 441, 466, 481, 484; Orenburg, 110–11, 205, 242, 243, 244, 297, 300, 372; Semirechensk, 112, 244, 245, 252, 295, 329, 370; Siberian, 112, 243, 244, 245, 248, 252; Terek, 285–6, 350, 356, 389, 401, 429, 441, 480; Transbaikal, 111, 127; Uralsk, 243, 298, 299, 331–2, 442; Ussuri, 206, 250
+* Cossack Federation, 179
+* Cowan, Rear-Adm. Walter, 289, 339, 342, 344–6, 363
+* Crimea, 256; Red occupation 1918, 283, 308; defence of, 403–4
+* Curzon, Earl (George) of Kedleston, 300, 341–2, 343, 353, 354, 360, 367, 450, 460; Curzon Line, 469
+* Czechoslovak Legion; origins, 65, 191, 192; revolt, 193, 202, 203, 205; advance on Ekaterinburg, 215; and Kazan, 226, 236, 238; 243; and Trans-Siberian Railway, 248, 252–3; and Vologda link-up, 273, 295, 317; 292; Whites turn on Gajda, 323; Czech anger with White Russians, 371; and Poles, 375, 376–7; 412; hand Kolchak to Left Socialist Revolutionaries, 416
+* Czernin, Ottakar Graf v. u. zu Chudenitz, 145–6, 147
 
 ## D
 
-* Dan, Fyodor I., [101](019_8_The_October_Coup.xhtml#page_101)
-* D’Anselme, Gen. Philippe, [257](032_20_The_Central_Power.xhtml#page_257), [281](035_22_The_Fatal_Comprom.xhtml#page_281)
-* Denikin, Gen. Anton I., [79](018_7_Kornilov.xhtml#page_79), [80](018_7_Kornilov.xhtml#page_80), [89](018_7_Kornilov.xhtml#page_89), [116](020_9_The_Boys_Crusade_R.xhtml#page_116), [126](021_10_The_Infanticide_o.xhtml#page_126), [170](025_13_The_Volunteer_Arm.xhtml#page_170); takes over on death of Kornilov, [171](025_13_The_Volunteer_Arm.xhtml#page_171); 2nd Kuban campaign, [193](027_15_Enemies_on_the_Pe.xhtml#page_193); and strategy clash with Wrangel, [193–4](027_15_Enemies_on_the_Pe.xhtml#page_193), [285](035_22_The_Fatal_Comprom.xhtml#page_285), [311](037_24_Don_and_Ukraine.xhtml#page_311), [394–5](044_31_The_Turning_Point.xhtml#page_394); [290–1](035_22_The_Fatal_Comprom.xhtml#page_290), [302](037_24_Don_and_Ukraine.xhtml#page_302), [310](037_24_Don_and_Ukraine.xhtml#page_310), [*312*](037_24_Don_and_Ukraine.xhtml#page_312), [312](037_24_Don_and_Ukraine.xhtml#page_312), [327–8](039_26_Siberia.xhtml#page_327), [353](041_28_The_March_on_Mosc.xhtml#page_353), [380](043_30_Siberian_Retreat.xhtml#page_380), [381](044_31_The_Turning_Point.xhtml#page_381), [390](044_31_The_Turning_Point.xhtml#page_390), [391](044_31_The_Turning_Point.xhtml#page_391), [415](047_33_The_Great_Siberia.xhtml#page_415), [418](047_33_The_Great_Siberia.xhtml#page_418); political reform attempt, [425](049_35_The_Last_Hurrah_o.xhtml#page_425); [440](049_35_The_Last_Hurrah_o.xhtml#page_440), [443](050_36_Wrangel_Takes_Com.xhtml#page_443)
-* Directorate, Omsk, [246](031_19_From_the_Volga_to.xhtml#page_246), [247](031_19_From_the_Volga_to.xhtml#page_247), [248](031_19_From_the_Volga_to.xhtml#page_248), [252](031_19_From_the_Volga_to.xhtml#page_252)
-* disease, [334](039_26_Siberia.xhtml#page_334), [376](043_30_Siberian_Retreat.xhtml#page_376), [378–9](043_30_Siberian_Retreat.xhtml#page_378), [409](046_Part_Four_1920.xhtml#page_409), [414](047_33_The_Great_Siberia.xhtml#page_414), [425](049_35_The_Last_Hurrah_o.xhtml#page_425), [433](049_35_The_Last_Hurrah_o.xhtml#page_433)
-* Diterikhs, Gen. Mikhail K., [205](028_16_The_Czechs_and_Le.xhtml#page_205), [206](028_16_The_Czechs_and_Le.xhtml#page_206), [326](039_26_Siberia.xhtml#page_326), [333](039_26_Siberia.xhtml#page_333), [371](043_30_Siberian_Retreat.xhtml#page_371), [376](043_30_Siberian_Retreat.xhtml#page_376)
-* Donbas/Donets, [161](025_13_The_Volunteer_Arm.xhtml#page_161), [179](026_14_The_Germans_March.xhtml#page_179), [258–9](032_20_The_Central_Power.xhtml#page_258), [301](037_24_Don_and_Ukraine.xhtml#page_301), [302](037_24_Don_and_Ukraine.xhtml#page_302), [308](037_24_Don_and_Ukraine.xhtml#page_308), [347](040_27_Baltic_Summer.xhtml#page_347), [353](041_28_The_March_on_Mosc.xhtml#page_353), [480](053_39_The_Riviera_of_Ha.xhtml#page_480)
-* Donovan, Col William J., [369](042_29_Baltic_Surprise.xhtml#page_369)
-* Dragomirov, Gen. Abram M., [360](041_28_The_March_on_Mosc.xhtml#page_360), [392–3](044_31_The_Turning_Point.xhtml#page_392), [405](045_32_Retreat_in_the_So.xhtml#page_405), [421](048_34_The_Fall_of_Odess.xhtml#page_421), [445](050_36_Wrangel_Takes_Com.xhtml#page_445)
-* Dreier, Col Vladimir v., [43](015_4_From_Autocracy_to_.xhtml#page_43), [78](018_7_Kornilov.xhtml#page_78), [176](026_14_The_Germans_March.xhtml#page_176)
-* Drozdovsky, Gen. Mikhail G, [174](025_13_The_Volunteer_Arm.xhtml#page_174), [262](032_20_The_Central_Power.xhtml#page_262)n, [356](041_28_The_March_on_Mosc.xhtml#page_356)
-* Dukhonin, Gen. Nikolai N., [115–16](020_9_The_Boys_Crusade_R.xhtml#page_115), [117](020_9_The_Boys_Crusade_R.xhtml#page_117)
-* Dumenko, Boris M., [307](037_24_Don_and_Ukraine.xhtml#page_307), [390](044_31_The_Turning_Point.xhtml#page_390), [401](045_32_Retreat_in_the_So.xhtml#page_401), [426](049_35_The_Last_Hurrah_o.xhtml#page_426), [452](050_36_Wrangel_Takes_Com.xhtml#page_452), [453](051_37_Poles_in_the_West.xhtml#page_453)
-* Dune, Edward, [161](025_13_The_Volunteer_Arm.xhtml#page_161), [162–3](025_13_The_Volunteer_Arm.xhtml#page_162), [181](026_14_The_Germans_March.xhtml#page_181), [257](032_20_The_Central_Power.xhtml#page_257), [307](037_24_Don_and_Ukraine.xhtml#page_307)
-* Dunsterville, Maj. Gen. Lionel, [128–9](021_10_The_Infanticide_o.xhtml#page_128), [196](027_15_Enemies_on_the_Pe.xhtml#page_196), [197](027_15_Enemies_on_the_Pe.xhtml#page_197), [199](027_15_Enemies_on_the_Pe.xhtml#page_199), [200](027_15_Enemies_on_the_Pe.xhtml#page_200)
-* Dutov, Ataman Aleksandr I., [110–11](020_9_The_Boys_Crusade_R.xhtml#page_110), [116](020_9_The_Boys_Crusade_R.xhtml#page_116), [205](028_16_The_Czechs_and_Le.xhtml#page_205), [242](031_19_From_the_Volga_to.xhtml#page_242), [297](036_23_Siberia.xhtml#page_297), [300](036_23_Siberia.xhtml#page_300), [372](043_30_Siberian_Retreat.xhtml#page_372)
-* Dybenko, Pavel E., [106](020_9_The_Boys_Crusade_R.xhtml#page_106)
-* Dvinsk, [149](024_12_Brest-Litovsk.xhtml#page_149)
-* Dvorzhets, Yakov, [203](028_16_The_Czechs_and_Le.xhtml#page_203), [204](028_16_The_Czechs_and_Le.xhtml#page_204), [227](030_18_Fighting_on_the_V.xhtml#page_227), [242](031_19_From_the_Volga_to.xhtml#page_242)
-* Dzerzhinsky, Feliks, [95](019_8_The_October_Coup.xhtml#page_95), [121–13](021_10_The_Infanticide_o.xhtml#page_121), [209](028_16_The_Czechs_and_Le.xhtml#page_209), [211](028_16_The_Czechs_and_Le.xhtml#page_211), [216](028_16_The_Czechs_and_Le.xhtml#page_216), [221](029_17_Red_Terror.xhtml#page_221), [228](030_18_Fighting_on_the_V.xhtml#page_228), [279](035_22_The_Fatal_Comprom.xhtml#page_279), [356–7](041_28_The_March_on_Mosc.xhtml#page_356), [387](044_31_The_Turning_Point.xhtml#page_387), [468](051_37_Poles_in_the_West.xhtml#page_468), [488](053_39_The_Riviera_of_Ha.xhtml#page_488)
+* Dan, Fyodor I., 101
+* D’Anselme, Gen. Philippe, 257, 281
+* Denikin, Gen. Anton I., 79, 80, 89, 116, 126, 170; takes over on death of Kornilov, 171; 2nd Kuban campaign, 193; and strategy clash with Wrangel, 193–4, 285, 311, 394–5; 290–1, 302, 310, *312*, 312, 327–8, 353, 380, 381, 390, 391, 415, 418; political reform attempt, 425; 440, 443
+* Directorate, Omsk, 246, 247, 248, 252
+* disease, 334, 376, 378–9, 409, 414, 425, 433
+* Diterikhs, Gen. Mikhail K., 205, 206, 326, 333, 371, 376
+* Donbas/Donets, 161, 179, 258–9, 301, 302, 308, 347, 353, 480
+* Donovan, Col William J., 369
+* Dragomirov, Gen. Abram M., 360, 392–3, 405, 421, 445
+* Dreier, Col Vladimir v., 43, 78, 176
+* Drozdovsky, Gen. Mikhail G, 174, 262n, 356
+* Dukhonin, Gen. Nikolai N., 115–16, 117
+* Dumenko, Boris M., 307, 390, 401, 426, 452, 453
+* Dune, Edward, 161, 162–3, 181, 257, 307
+* Dunsterville, Maj. Gen. Lionel, 128–9, 196, 197, 199, 200
+* Dutov, Ataman Aleksandr I., 110–11, 116, 205, 242, 297, 300, 372
+* Dybenko, Pavel E., 106
+* Dvinsk, 149
+* Dvorzhets, Yakov, 203, 204, 227, 242
+* Dzerzhinsky, Feliks, 95, 121–13, 209, 211, 216, 221, 228, 279, 356–7, 387, 468, 488
 
 ## E
 
-* Eichorn, Gfm Hermann v., [214](028_16_The_Czechs_and_Le.xhtml#page_214), [233](030_18_Fighting_on_the_V.xhtml#page_233)
-* Ekaterinburg, [214](028_16_The_Czechs_and_Le.xhtml#page_214), [233](030_18_Fighting_on_the_V.xhtml#page_233), [292](035_22_The_Fatal_Comprom.xhtml#page_292), [296](036_23_Siberia.xhtml#page_296), [326](039_26_Siberia.xhtml#page_326), [329](039_26_Siberia.xhtml#page_329), [330](039_26_Siberia.xhtml#page_330), [391](044_31_The_Turning_Point.xhtml#page_391)
-* Ekaterinodar (later Krasnodar), [168](025_13_The_Volunteer_Arm.xhtml#page_168), [169](025_13_The_Volunteer_Arm.xhtml#page_169), [170](025_13_The_Volunteer_Arm.xhtml#page_170), [193](027_15_Enemies_on_the_Pe.xhtml#page_193), [194](027_15_Enemies_on_the_Pe.xhtml#page_194), [314](037_24_Don_and_Ukraine.xhtml#page_314), [385](044_31_The_Turning_Point.xhtml#page_385), [429–33](049_35_The_Last_Hurrah_o.xhtml#page_429); Krasnodar, [433](049_35_The_Last_Hurrah_o.xhtml#page_433), [462–5](051_37_Poles_in_the_West.xhtml#page_462), [466](051_37_Poles_in_the_West.xhtml#page_466)
-* Ekaterinoslav (Dnipro), [260](032_20_The_Central_Power.xhtml#page_260), [261](032_20_The_Central_Power.xhtml#page_261), [308](037_24_Don_and_Ukraine.xhtml#page_308), [350](041_28_The_March_on_Mosc.xhtml#page_350), [386](044_31_The_Turning_Point.xhtml#page_386), [399](045_32_Retreat_in_the_So.xhtml#page_399), [461](051_37_Poles_in_the_West.xhtml#page_461)
-* Enzeli, [128](021_10_The_Infanticide_o.xhtml#page_128), [196](027_15_Enemies_on_the_Pe.xhtml#page_196), [197](027_15_Enemies_on_the_Pe.xhtml#page_197), [199](027_15_Enemies_on_the_Pe.xhtml#page_199), [265](032_20_The_Central_Power.xhtml#page_265), [442](050_36_Wrangel_Takes_Com.xhtml#page_442)
-* Estonia, [74](017_6_The_Kerensky_Offen.xhtml#page_74), [123](021_10_The_Infanticide_o.xhtml#page_123), [190–2](027_15_Enemies_on_the_Pe.xhtml#page_190), [267](032_20_The_Central_Power.xhtml#page_267), [268](033_21_The_Baltic_and_No.xhtml#page_268); British support [268–9](033_21_The_Baltic_and_No.xhtml#page_268); [288](035_22_The_Fatal_Comprom.xhtml#page_288); [340](040_27_Baltic_Summer.xhtml#page_340), [342](040_27_Baltic_Summer.xhtml#page_342); Soviet peace fellers, [362](041_28_The_March_on_Mosc.xhtml#page_362), [366](042_29_Baltic_Surprise.xhtml#page_366), [367](042_29_Baltic_Surprise.xhtml#page_367), [368](042_29_Baltic_Surprise.xhtml#page_368)
-* Evpatoria, [137](023_11_Breaking_the_Moul.xhtml#page_137), [485](053_39_The_Riviera_of_Ha.xhtml#page_485)
+* Eichorn, Gfm Hermann v., 214, 233
+* Ekaterinburg, 214, 233, 292, 296, 326, 329, 330, 391
+* Ekaterinodar (later Krasnodar), 168, 169, 170, 193, 194, 314, 385, 429–33; Krasnodar, 433, 462–5, 466
+* Ekaterinoslav (Dnipro), 260, 261, 308, 350, 386, 399, 461
+* Enzeli, 128, 196, 197, 199, 265, 442
+* Estonia, 74, 123, 190–2, 267, 268; British support 268–9; 288; 340, 342; Soviet peace fellers, 362, 366, 367, 368
+* Evpatoria, 137, 485
 
 ## F
 
-* Fedulenko, V.V., [247](031_19_From_the_Volga_to.xhtml#page_247), [333](039_26_Siberia.xhtml#page_333)
-* Filonenko, Maksimilian M., [79](018_7_Kornilov.xhtml#page_79), [80](018_7_Kornilov.xhtml#page_80), [84](018_7_Kornilov.xhtml#page_84), [89](018_7_Kornilov.xhtml#page_89)
-* Finland, Grand Duchy, [74](017_6_The_Kerensky_Offen.xhtml#page_74), [75](018_7_Kornilov.xhtml#page_75), [151](024_12_Brest-Litovsk.xhtml#page_151); and independence, [76](018_7_Kornilov.xhtml#page_76), [88–9](018_7_Kornilov.xhtml#page_88), [113](020_9_The_Boys_Crusade_R.xhtml#page_113), [150–1](024_12_Brest-Litovsk.xhtml#page_150); and civil war, [151–5](024_12_Brest-Litovsk.xhtml#page_151); and Germany, [190](027_15_Enemies_on_the_Pe.xhtml#page_190); [342](040_27_Baltic_Summer.xhtml#page_342), [353](041_28_The_March_on_Mosc.xhtml#page_353), [368](042_29_Baltic_Surprise.xhtml#page_368)
-* Finland Station, [48–9](016_5_The_Pregnant_Widow.xhtml#page_48), [69](017_6_The_Kerensky_Offen.xhtml#page_69), [153](024_12_Brest-Litovsk.xhtml#page_153)
+* Fedulenko, V.V., 247, 333
+* Filonenko, Maksimilian M., 79, 80, 84, 89
+* Finland, Grand Duchy, 74, 75, 151; and independence, 76, 88–9, 113, 150–1; and civil war, 151–5; and Germany, 190; 342, 353, 368
+* Finland Station, 48–9, 69, 153
 * Fleet, Red
 
-  + Baltic, [44](015_4_From_Autocracy_to_.xhtml#page_44), [45](015_4_From_Autocracy_to_.xhtml#page_45), [48](016_5_The_Pregnant_Widow.xhtml#page_48), [55](016_5_The_Pregnant_Widow.xhtml#page_55); and July Days, [70–3](017_6_The_Kerensky_Offen.xhtml#page_70); and Finland, [75](018_7_Kornilov.xhtml#page_75); and Kornilov affair, [87–9](018_7_Kornilov.xhtml#page_87); [98](019_8_The_October_Coup.xhtml#page_98), [101](019_8_The_October_Coup.xhtml#page_101); [105](020_9_The_Boys_Crusade_R.xhtml#page_105), [107](020_9_The_Boys_Crusade_R.xhtml#page_107); [116](020_9_The_Boys_Crusade_R.xhtml#page_116), [133](023_11_Breaking_the_Moul.xhtml#page_133), [137](023_11_Breaking_the_Moul.xhtml#page_137); [155–6](024_12_Brest-Litovsk.xhtml#page_155); [215](028_16_The_Czechs_and_Le.xhtml#page_215), [233](030_18_Fighting_on_the_V.xhtml#page_233), [234](030_18_Fighting_on_the_V.xhtml#page_234), [235](030_18_Fighting_on_the_V.xhtml#page_235), [239](031_19_From_the_Volga_to.xhtml#page_239), [273](033_21_The_Baltic_and_No.xhtml#page_273), [339](040_27_Baltic_Summer.xhtml#page_339), [344–6](040_27_Baltic_Summer.xhtml#page_344), [400](045_32_Retreat_in_the_So.xhtml#page_400); and Kronstadt uprising, [495](054_40_The_Death_of_Hope.xhtml#page_495)
-  + Black Sea, [45](015_4_From_Autocracy_to_.xhtml#page_45), [87](018_7_Kornilov.xhtml#page_87), [137](023_11_Breaking_the_Moul.xhtml#page_137), [161](025_13_The_Volunteer_Arm.xhtml#page_161), [240](031_19_From_the_Volga_to.xhtml#page_240)
-  + Caspian Flotilla, [201](027_15_Enemies_on_the_Pe.xhtml#page_201), [287](035_22_The_Fatal_Comprom.xhtml#page_287), [310](037_24_Don_and_Ukraine.xhtml#page_310), [442](050_36_Wrangel_Takes_Com.xhtml#page_442)
-  + Volga Flotilla, [225](030_18_Fighting_on_the_V.xhtml#page_225), [234](030_18_Fighting_on_the_V.xhtml#page_234), [235](030_18_Fighting_on_the_V.xhtml#page_235), [237](030_18_Fighting_on_the_V.xhtml#page_237), [269](033_21_The_Baltic_and_No.xhtml#page_269), [310](037_24_Don_and_Ukraine.xhtml#page_310), [313](037_24_Don_and_Ukraine.xhtml#page_313), [356](041_28_The_March_on_Mosc.xhtml#page_356)
-  + warships: *Almaz,*, [137](023_11_Breaking_the_Moul.xhtml#page_137), [175](026_14_The_Germans_March.xhtml#page_175); *Andrei Pervozvanny*, [339](040_27_Baltic_Summer.xhtml#page_339), [344](040_27_Baltic_Summer.xhtml#page_344), [345](040_27_Baltic_Summer.xhtml#page_345); *Aurora,*[99](019_8_The_October_Coup.xhtml#page_99), [101](019_8_The_October_Coup.xhtml#page_101), [110](020_9_The_Boys_Crusade_R.xhtml#page_110), [339](040_27_Baltic_Summer.xhtml#page_339); *Oleg*, [105](020_9_The_Boys_Crusade_R.xhtml#page_105), [269](033_21_The_Baltic_and_No.xhtml#page_269), [339](040_27_Baltic_Summer.xhtml#page_339), [344](040_27_Baltic_Summer.xhtml#page_344); *Petropavlovsk,*[45](015_4_From_Autocracy_to_.xhtml#page_45), [89](018_7_Kornilov.xhtml#page_89), [339](040_27_Baltic_Summer.xhtml#page_339), [344](040_27_Baltic_Summer.xhtml#page_344), [345](040_27_Baltic_Summer.xhtml#page_345), [495](054_40_The_Death_of_Hope.xhtml#page_495), [499](054_40_The_Death_of_Hope.xhtml#page_499); *Pobeditel*, [105](020_9_The_Boys_Crusade_R.xhtml#page_105)
-* Franchet d’Esperey, Gen. Louis, [282](035_22_The_Fatal_Comprom.xhtml#page_282), [283](035_22_The_Fatal_Comprom.xhtml#page_283)
-* French Army, [281–2](035_22_The_Fatal_Comprom.xhtml#page_281)
-* French intervention; and Petliura, [257](032_20_The_Central_Power.xhtml#page_257), [281](035_22_The_Fatal_Comprom.xhtml#page_281); Odessa, [256–7](032_20_The_Central_Power.xhtml#page_256); unrest and mutiny, [257](032_20_The_Central_Power.xhtml#page_257), [281](035_22_The_Fatal_Comprom.xhtml#page_281); [281](035_22_The_Fatal_Comprom.xhtml#page_281), [282](035_22_The_Fatal_Comprom.xhtml#page_282), [284](035_22_The_Fatal_Comprom.xhtml#page_284); [350](041_28_The_March_on_Mosc.xhtml#page_350)
-* French Navy, [281](035_22_The_Fatal_Comprom.xhtml#page_281), [284](035_22_The_Fatal_Comprom.xhtml#page_284), [321](038_25_Murmansk_and_Arkh.xhtml#page_321), [486](053_39_The_Riviera_of_Ha.xhtml#page_486), [487](053_39_The_Riviera_of_Ha.xhtml#page_487)
-* Frunze, Mikhail V., [322](038_25_Murmansk_and_Arkh.xhtml#page_322), [479](052_38_The_Miracle_on_th.xhtml#page_479), [480](053_39_The_Riviera_of_Ha.xhtml#page_480), [488](053_39_The_Riviera_of_Ha.xhtml#page_488)
+  + Baltic, 44, 45, 48, 55; and July Days, 70–3; and Finland, 75; and Kornilov affair, 87–9; 98, 101; 105, 107; 116, 133, 137; 155–6; 215, 233, 234, 235, 239, 273, 339, 344–6, 400; and Kronstadt uprising, 495
+  + Black Sea, 45, 87, 137, 161, 240
+  + Caspian Flotilla, 201, 287, 310, 442
+  + Volga Flotilla, 225, 234, 235, 237, 269, 310, 313, 356
+  + warships: *Almaz,*, 137, 175; *Andrei Pervozvanny*, 339, 344, 345; *Aurora,*99, 101, 110, 339; *Oleg*, 105, 269, 339, 344; *Petropavlovsk,*45, 89, 339, 344, 345, 495, 499; *Pobeditel*, 105
+* Franchet d’Esperey, Gen. Louis, 282, 283
+* French Army, 281–2
+* French intervention; and Petliura, 257, 281; Odessa, 256–7; unrest and mutiny, 257, 281; 281, 282, 284; 350
+* French Navy, 281, 284, 321, 486, 487
+* Frunze, Mikhail V., 322, 479, 480, 488
 
 ## G
 
-* Gajda, Gen. Radola, [205–6](028_16_The_Czechs_and_Le.xhtml#page_205), [207–8](028_16_The_Czechs_and_Le.xhtml#page_207), [*208*](028_16_The_Czechs_and_Le.xhtml#page_208), [246](031_19_From_the_Volga_to.xhtml#page_246), [249](031_19_From_the_Volga_to.xhtml#page_249), [252–3](031_19_From_the_Volga_to.xhtml#page_252), [292](035_22_The_Fatal_Comprom.xhtml#page_292), [295](036_23_Siberia.xhtml#page_295), [300](036_23_Siberia.xhtml#page_300); and evacuation via Arkhangel, [316–17](037_24_Don_and_Ukraine.xhtml#page_316); [322](038_25_Murmansk_and_Arkh.xhtml#page_322), [323](039_26_Siberia.xhtml#page_323), [327](039_26_Siberia.xhtml#page_327), [329](039_26_Siberia.xhtml#page_329), [330](039_26_Siberia.xhtml#page_330)
-* Gapon, Father Georgy, [2](010_Foreword.xhtml#page_2), [17](013_2_The_February_Revol.xhtml#page_17), [113](020_9_The_Boys_Crusade_R.xhtml#page_113), [133](023_11_Breaking_the_Moul.xhtml#page_133)
-* Gatchina, [28](014_3_The_Fall_of_the_Do.xhtml#page_28), [105](020_9_The_Boys_Crusade_R.xhtml#page_105), [340](040_27_Baltic_Summer.xhtml#page_340), [362](041_28_The_March_on_Mosc.xhtml#page_362), [365](042_29_Baltic_Surprise.xhtml#page_365), [367](042_29_Baltic_Surprise.xhtml#page_367)
-* George V, King, [15](013_2_The_February_Revol.xhtml#page_15), [283](035_22_The_Fatal_Comprom.xhtml#page_283)
-* Georgia, [28](014_3_The_Fall_of_the_Do.xhtml#page_28), [57](016_5_The_Pregnant_Widow.xhtml#page_57), [123](021_10_The_Infanticide_o.xhtml#page_123), [126](021_10_The_Infanticide_o.xhtml#page_126), [354](041_28_The_March_on_Mosc.xhtml#page_354), [390](044_31_The_Turning_Point.xhtml#page_390), [400](045_32_Retreat_in_the_So.xhtml#page_400), [441](050_36_Wrangel_Takes_Com.xhtml#page_441), [481](053_39_The_Riviera_of_Ha.xhtml#page_481)
-* Globachev, Maj. Gen. Konstantin I., [16](013_2_The_February_Revol.xhtml#page_16), [17](013_2_The_February_Revol.xhtml#page_17), [19](013_2_The_February_Revol.xhtml#page_19), [22](013_2_The_February_Revol.xhtml#page_22), [24](013_2_The_February_Revol.xhtml#page_24), [25](013_2_The_February_Revol.xhtml#page_25), [72](017_6_The_Kerensky_Offen.xhtml#page_72), [121](021_10_The_Infanticide_o.xhtml#page_121), [179](026_14_The_Germans_March.xhtml#page_179), [257](032_20_The_Central_Power.xhtml#page_257), [385](044_31_The_Turning_Point.xhtml#page_385), [419](048_34_The_Fall_of_Odess.xhtml#page_419), [420](048_34_The_Fall_of_Odess.xhtml#page_420), [421](048_34_The_Fall_of_Odess.xhtml#page_421), [445](050_36_Wrangel_Takes_Com.xhtml#page_445)
-* Gogol, Nikolai, V., [3](010_Foreword.xhtml#page_3), [141](023_11_Breaking_the_Moul.xhtml#page_141)
-* gold reserves, [227](030_18_Fighting_on_the_V.xhtml#page_227), [227](030_18_Fighting_on_the_V.xhtml#page_227)n, [243](031_19_From_the_Volga_to.xhtml#page_243), [328](039_26_Siberia.xhtml#page_328), [373](043_30_Siberian_Retreat.xhtml#page_373), [377](043_30_Siberian_Retreat.xhtml#page_377), [412](047_33_The_Great_Siberia.xhtml#page_412), [416](047_33_The_Great_Siberia.xhtml#page_416)
-* Goldman, Emma, [139](023_11_Breaking_the_Moul.xhtml#page_139), [497](054_40_The_Death_of_Hope.xhtml#page_497)
-* Goldsmith, Cdr M.L., [283–5](035_22_The_Fatal_Comprom.xhtml#page_283), [287](035_22_The_Fatal_Comprom.xhtml#page_287), [311](037_24_Don_and_Ukraine.xhtml#page_311)
-* Golitsyn, Prince Nikolai D., [22](013_2_The_February_Revol.xhtml#page_22), [25](013_2_The_February_Revol.xhtml#page_25), [28](014_3_The_Fall_of_the_Do.xhtml#page_28)
-* Goltz, Gen. Rüdiger v.d., [154](024_12_Brest-Litovsk.xhtml#page_154), [190](027_15_Enemies_on_the_Pe.xhtml#page_190), [363](042_29_Baltic_Surprise.xhtml#page_363)
-* Gorky, Maksim (Aleksei Maksimovich Peshkov), [2](010_Foreword.xhtml#page_2), [4](010_Foreword.xhtml#page_4), [8](012_1_The_Suicide_of_Eur.xhtml#page_8), [24](013_2_The_February_Revol.xhtml#page_24), [46](015_4_From_Autocracy_to_.xhtml#page_46), [71](017_6_The_Kerensky_Offen.xhtml#page_71), [97](019_8_The_October_Coup.xhtml#page_97), [103](019_8_The_October_Coup.xhtml#page_103), [119](021_10_The_Infanticide_o.xhtml#page_119), [128](021_10_The_Infanticide_o.xhtml#page_128), [133](023_11_Breaking_the_Moul.xhtml#page_133)
-* Gough, Gen. Hubert, [340–2](040_27_Baltic_Summer.xhtml#page_340), [343](040_27_Baltic_Summer.xhtml#page_343), [363](042_29_Baltic_Surprise.xhtml#page_363), [364](042_29_Baltic_Surprise.xhtml#page_364)
-* Grain Producers’ Association, [261](032_20_The_Central_Power.xhtml#page_261), [177](026_14_The_Germans_March.xhtml#page_177), [178](026_14_The_Germans_March.xhtml#page_178)
-* Graves, Maj. Gen. William S., [248](031_19_From_the_Volga_to.xhtml#page_248), [*250*](031_19_From_the_Volga_to.xhtml#page_250), [292](035_22_The_Fatal_Comprom.xhtml#page_292), [294](036_23_Siberia.xhtml#page_294), [333](039_26_Siberia.xhtml#page_333)
-* Greek forces in intervention, [257](032_20_The_Central_Power.xhtml#page_257), [281](035_22_The_Fatal_Comprom.xhtml#page_281), [282](035_22_The_Fatal_Comprom.xhtml#page_282), [283](035_22_The_Fatal_Comprom.xhtml#page_283), [284](035_22_The_Fatal_Comprom.xhtml#page_284)
-* green resistance groups, [349](041_28_The_March_on_Mosc.xhtml#page_349), [465](051_37_Poles_in_the_West.xhtml#page_465)
-* Grigoriev, Ataman Nikfor A, [281](035_22_The_Fatal_Comprom.xhtml#page_281), [282](035_22_The_Fatal_Comprom.xhtml#page_282), [304](037_24_Don_and_Ukraine.xhtml#page_304), [308](037_24_Don_and_Ukraine.xhtml#page_308), [393](044_31_The_Turning_Point.xhtml#page_393)
-* Grishin-Almazov, Gen. Aleksei N., [243](031_19_From_the_Volga_to.xhtml#page_243), [257](032_20_The_Central_Power.xhtml#page_257), [281](035_22_The_Fatal_Comprom.xhtml#page_281)
-* Guchkov, Aleksandr I., [30–1](014_3_The_Fall_of_the_Do.xhtml#page_30), [55](016_5_The_Pregnant_Widow.xhtml#page_55), [56](016_5_The_Pregnant_Widow.xhtml#page_56)
-* Gulyai-Polye, [260–1](032_20_The_Central_Power.xhtml#page_260), [480](053_39_The_Riviera_of_Ha.xhtml#page_480)
-* Guryev, [299](036_23_Siberia.xhtml#page_299), [314](037_24_Don_and_Ukraine.xhtml#page_314), [331](039_26_Siberia.xhtml#page_331)
-* Gusev, Sergei I., [133](023_11_Breaking_the_Moul.xhtml#page_133), [134](023_11_Breaking_the_Moul.xhtml#page_134), [381](044_31_The_Turning_Point.xhtml#page_381)
-* Gutor, Gen. Aleksei Y., [61](016_5_The_Pregnant_Widow.xhtml#page_61), [65](017_6_The_Kerensky_Offen.xhtml#page_65)
+* Gajda, Gen. Radola, 205–6, 207–8, *208*, 246, 249, 252–3, 292, 295, 300; and evacuation via Arkhangel, 316–17; 322, 323, 327, 329, 330
+* Gapon, Father Georgy, 2, 17, 113, 133
+* Gatchina, 28, 105, 340, 362, 365, 367
+* George V, King, 15, 283
+* Georgia, 28, 57, 123, 126, 354, 390, 400, 441, 481
+* Globachev, Maj. Gen. Konstantin I., 16, 17, 19, 22, 24, 25, 72, 121, 179, 257, 385, 419, 420, 421, 445
+* Gogol, Nikolai, V., 3, 141
+* gold reserves, 227, 227n, 243, 328, 373, 377, 412, 416
+* Goldman, Emma, 139, 497
+* Goldsmith, Cdr M.L., 283–5, 287, 311
+* Golitsyn, Prince Nikolai D., 22, 25, 28
+* Goltz, Gen. Rüdiger v.d., 154, 190, 363
+* Gorky, Maksim (Aleksei Maksimovich Peshkov), 2, 4, 8, 24, 46, 71, 97, 103, 119, 128, 133
+* Gough, Gen. Hubert, 340–2, 343, 363, 364
+* Grain Producers’ Association, 261, 177, 178
+* Graves, Maj. Gen. William S., 248, *250*, 292, 294, 333
+* Greek forces in intervention, 257, 281, 282, 283, 284
+* green resistance groups, 349, 465
+* Grigoriev, Ataman Nikfor A, 281, 282, 304, 308, 393
+* Grishin-Almazov, Gen. Aleksei N., 243, 257, 281
+* Guchkov, Aleksandr I., 30–1, 55, 56
+* Gulyai-Polye, 260–1, 480
+* Guryev, 299, 314, 331
+* Gusev, Sergei I., 133, 134, 381
+* Gutor, Gen. Aleksei Y., 61, 65
 
 ## H
 
-* Harbin, [206](028_16_The_Czechs_and_Le.xhtml#page_206), [292](035_22_The_Fatal_Comprom.xhtml#page_292), [334](039_26_Siberia.xhtml#page_334), [372](043_30_Siberian_Retreat.xhtml#page_372)
-* Harris, US Consul-Gen. Irkutsk, [192](027_15_Enemies_on_the_Pe.xhtml#page_192), [197](027_15_Enemies_on_the_Pe.xhtml#page_197), [248](031_19_From_the_Volga_to.xhtml#page_248), [317](038_25_Murmansk_and_Arkh.xhtml#page_317), [369](042_29_Baltic_Surprise.xhtml#page_369), [371](043_30_Siberian_Retreat.xhtml#page_371), [412](047_33_The_Great_Siberia.xhtml#page_412), [416](047_33_The_Great_Siberia.xhtml#page_416)
-* Heiden, Graf Dmitry, [94](019_8_The_October_Coup.xhtml#page_94), [141](023_11_Breaking_the_Moul.xhtml#page_141), [143](023_11_Breaking_the_Moul.xhtml#page_143), [176](026_14_The_Germans_March.xhtml#page_176), [309–10](037_24_Don_and_Ukraine.xhtml#page_309), [349](041_28_The_March_on_Mosc.xhtml#page_349)
-* Helsingfors, *see* [Helsinki](062_Index.xhtml#helsinki)
-* Helsinki, [44](015_4_From_Autocracy_to_.xhtml#page_44), [75](018_7_Kornilov.xhtml#page_75), [92](019_8_The_October_Coup.xhtml#page_92), [95](019_8_The_October_Coup.xhtml#page_95), [105](020_9_The_Boys_Crusade_R.xhtml#page_105), [152](024_12_Brest-Litovsk.xhtml#page_152), [153](024_12_Brest-Litovsk.xhtml#page_153), [154](024_12_Brest-Litovsk.xhtml#page_154), [155](024_12_Brest-Litovsk.xhtml#page_155), [337](040_27_Baltic_Summer.xhtml#page_337), [343](040_27_Baltic_Summer.xhtml#page_343), [366](042_29_Baltic_Surprise.xhtml#page_366)
-* Herzen, Aleksandr I., [46](015_4_From_Autocracy_to_.xhtml#page_46), [502](055_Conclusion_The_Devil.xhtml#page_502)
-* Hoffmann, Maj. Gen. Max, [145](024_12_Brest-Litovsk.xhtml#page_145), [148](024_12_Brest-Litovsk.xhtml#page_148), [149](024_12_Brest-Litovsk.xhtml#page_149), [178–9](026_14_The_Germans_March.xhtml#page_178)
-* Holman, Maj. Gen. Herbert, [356](041_28_The_March_on_Mosc.xhtml#page_356), [383](044_31_The_Turning_Point.xhtml#page_383), [385](044_31_The_Turning_Point.xhtml#page_385), [392](044_31_The_Turning_Point.xhtml#page_392), [394](044_31_The_Turning_Point.xhtml#page_394), [424](048_34_The_Fall_of_Odess.xhtml#page_424), [433](049_35_The_Last_Hurrah_o.xhtml#page_433), [441](050_36_Wrangel_Takes_Com.xhtml#page_441), [443](050_36_Wrangel_Takes_Com.xhtml#page_443)
-* Horrocks, Capt. Brian, [329](039_26_Siberia.xhtml#page_329), [372](043_30_Siberian_Retreat.xhtml#page_372), [376](043_30_Siberian_Retreat.xhtml#page_376), [433](049_35_The_Last_Hurrah_o.xhtml#page_433)
-* Hrushevsky, Mykhailo, [76](018_7_Kornilov.xhtml#page_76), [141](023_11_Breaking_the_Moul.xhtml#page_141), [142](023_11_Breaking_the_Moul.xhtml#page_142)
+* Harbin, 206, 292, 334, 372
+* Harris, US Consul-Gen. Irkutsk, 192, 197, 248, 317, 369, 371, 412, 416
+* Heiden, Graf Dmitry, 94, 141, 143, 176, 309–10, 349
+* Helsingfors, *see* Helsinki
+* Helsinki, 44, 75, 92, 95, 105, 152, 153, 154, 155, 337, 343, 366
+* Herzen, Aleksandr I., 46, 502
+* Hoffmann, Maj. Gen. Max, 145, 148, 149, 178–9
+* Holman, Maj. Gen. Herbert, 356, 383, 385, 392, 394, 424, 433, 441, 443
+* Horrocks, Capt. Brian, 329, 372, 376, 433
+* Hrushevsky, Mykhailo, 76, 141, 142
 
 ## I
 
-* Indian Army; 27th Indian Division, [265](032_20_The_Central_Power.xhtml#page_265); 19th Punjabis, [263](032_20_The_Central_Power.xhtml#page_263); 28th Lancers, [263](032_20_The_Central_Power.xhtml#page_263)
-* *Inogorodnye* (non-Cossacks), [113](020_9_The_Boys_Crusade_R.xhtml#page_113), [161](025_13_The_Volunteer_Arm.xhtml#page_161), [169](025_13_The_Volunteer_Arm.xhtml#page_169), [229](030_18_Fighting_on_the_V.xhtml#page_229)
-* Internationalists, [216](028_16_The_Czechs_and_Le.xhtml#page_216), [230](030_18_Fighting_on_the_V.xhtml#page_230), [231](030_18_Fighting_on_the_V.xhtml#page_231), [263](032_20_The_Central_Power.xhtml#page_263), [381](044_31_The_Turning_Point.xhtml#page_381); *see also* [Central Powers, PoWs](062_Index.xhtml#centralpowerspows)
-* Irbit, [115](020_9_The_Boys_Crusade_R.xhtml#page_115), [215](028_16_The_Czechs_and_Le.xhtml#page_215)
-* Irkutsk, [114](020_9_The_Boys_Crusade_R.xhtml#page_114), [191](027_15_Enemies_on_the_Pe.xhtml#page_191), [206](028_16_The_Czechs_and_Le.xhtml#page_206), [207](028_16_The_Czechs_and_Le.xhtml#page_207), [229](030_18_Fighting_on_the_V.xhtml#page_229), [370](043_30_Siberian_Retreat.xhtml#page_370), [371](043_30_Siberian_Retreat.xhtml#page_371), [377](043_30_Siberian_Retreat.xhtml#page_377), [415](047_33_The_Great_Siberia.xhtml#page_415)
-* Ironside, Maj. Gen. Edmund, [318–19](038_25_Murmansk_and_Arkh.xhtml#page_318), [320](038_25_Murmansk_and_Arkh.xhtml#page_320), [321](038_25_Murmansk_and_Arkh.xhtml#page_321)
-* Italian troops, [292](035_22_The_Fatal_Comprom.xhtml#page_292), [319](038_25_Murmansk_and_Arkh.xhtml#page_319)
-* Ivanov, Gen. N.I., [25](013_2_The_February_Revol.xhtml#page_25), [26](013_2_The_February_Revol.xhtml#page_26), [28](014_3_The_Fall_of_the_Do.xhtml#page_28), [29](014_3_The_Fall_of_the_Do.xhtml#page_29)
-* Ivanov-Rinov, Gen. Pavel P., [244](031_19_From_the_Volga_to.xhtml#page_244), [329](039_26_Siberia.xhtml#page_329), [333](039_26_Siberia.xhtml#page_333)
-* Izhevsk revolt, [238](030_18_Fighting_on_the_V.xhtml#page_238), [239](031_19_From_the_Volga_to.xhtml#page_239)
+* Indian Army; 27th Indian Division, 265; 19th Punjabis, 263; 28th Lancers, 263
+* *Inogorodnye* (non-Cossacks), 113, 161, 169, 229
+* Internationalists, 216, 230, 231, 263, 381; *see also* Central Powers, PoWs
+* Irbit, 115, 215
+* Irkutsk, 114, 191, 206, 207, 229, 370, 371, 377, 415
+* Ironside, Maj. Gen. Edmund, 318–19, 320, 321
+* Italian troops, 292, 319
+* Ivanov, Gen. N.I., 25, 26, 28, 29
+* Ivanov-Rinov, Gen. Pavel P., 244, 329, 333
+* Izhevsk revolt, 238, 239
 
 ## J
 
-* Janin, Gen. Pierre, [191](027_15_Enemies_on_the_Pe.xhtml#page_191), [248](031_19_From_the_Volga_to.xhtml#page_248), [252–3](031_19_From_the_Volga_to.xhtml#page_252), [292](035_22_The_Fatal_Comprom.xhtml#page_292), [295](036_23_Siberia.xhtml#page_295), [323](039_26_Siberia.xhtml#page_323), [324](039_26_Siberia.xhtml#page_324), [325–6](039_26_Siberia.xhtml#page_325), [334](039_26_Siberia.xhtml#page_334), [371](043_30_Siberian_Retreat.xhtml#page_371), [375](043_30_Siberian_Retreat.xhtml#page_375), [376](043_30_Siberian_Retreat.xhtml#page_376), [377](043_30_Siberian_Retreat.xhtml#page_377), [412](047_33_The_Great_Siberia.xhtml#page_412)
-* Japanese intervention, [191](027_15_Enemies_on_the_Pe.xhtml#page_191), [206](028_16_The_Czechs_and_Le.xhtml#page_206), [246](031_19_From_the_Volga_to.xhtml#page_246), [249](031_19_From_the_Volga_to.xhtml#page_249); and Chinese Eastern Railway, [292](035_22_The_Fatal_Comprom.xhtml#page_292), [293](036_23_Siberia.xhtml#page_293), [294](036_23_Siberia.xhtml#page_294), [295](036_23_Siberia.xhtml#page_295), [325](039_26_Siberia.xhtml#page_325), [369](042_29_Baltic_Surprise.xhtml#page_369), [370](043_30_Siberian_Retreat.xhtml#page_370)
-* July Days, [67–72](017_6_The_Kerensky_Offen.xhtml#page_67); [80](018_7_Kornilov.xhtml#page_80), [84](018_7_Kornilov.xhtml#page_84), [88](018_7_Kornilov.xhtml#page_88), [117](020_9_The_Boys_Crusade_R.xhtml#page_117)
-* Junker officer cadets, [72](017_6_The_Kerensky_Offen.xhtml#page_72), [99](019_8_The_October_Coup.xhtml#page_99), [100](019_8_The_October_Coup.xhtml#page_100), [101](019_8_The_October_Coup.xhtml#page_101), [106–8](020_9_The_Boys_Crusade_R.xhtml#page_106); Taganrog, [113](020_9_The_Boys_Crusade_R.xhtml#page_113); Irkutsk, [114](020_9_The_Boys_Crusade_R.xhtml#page_114); Odessa, [137](023_11_Breaking_the_Moul.xhtml#page_137); Poltava, [141](023_11_Breaking_the_Moul.xhtml#page_141); Taganrog, [163](025_13_The_Volunteer_Arm.xhtml#page_163); Ice March, [168](025_13_The_Volunteer_Arm.xhtml#page_168); Odessa, [420](048_34_The_Fall_of_Odess.xhtml#page_420), [435](049_35_The_Last_Hurrah_o.xhtml#page_435)
+* Janin, Gen. Pierre, 191, 248, 252–3, 292, 295, 323, 324, 325–6, 334, 371, 375, 376, 377, 412
+* Japanese intervention, 191, 206, 246, 249; and Chinese Eastern Railway, 292, 293, 294, 295, 325, 369, 370
+* July Days, 67–72; 80, 84, 88, 117
+* Junker officer cadets, 72, 99, 100, 101, 106–8; Taganrog, 113; Irkutsk, 114; Odessa, 137; Poltava, 141; Taganrog, 163; Ice March, 168; Odessa, 420, 435
 
 ## K
 
-* Kadet (KD) Party, [7](012_1_The_Suicide_of_Eur.xhtml#page_7), [31](014_3_The_Fall_of_the_Do.xhtml#page_31), [49](016_5_The_Pregnant_Widow.xhtml#page_49), [54](016_5_The_Pregnant_Widow.xhtml#page_54), [56](016_5_The_Pregnant_Widow.xhtml#page_56); resignation of Kadet ministers, [74](017_6_The_Kerensky_Offen.xhtml#page_74), [76](018_7_Kornilov.xhtml#page_76); [93](019_8_The_October_Coup.xhtml#page_93), [112](020_9_The_Boys_Crusade_R.xhtml#page_112), [120–1](021_10_The_Infanticide_o.xhtml#page_120), [134](023_11_Breaking_the_Moul.xhtml#page_134), [135](023_11_Breaking_the_Moul.xhtml#page_135), [140–1](023_11_Breaking_the_Moul.xhtml#page_140), [164](025_13_The_Volunteer_Arm.xhtml#page_164), [356–7](041_28_The_March_on_Mosc.xhtml#page_356)
-* Kaledin, Ataman Aleksei M., [112](020_9_The_Boys_Crusade_R.xhtml#page_112), [113](020_9_The_Boys_Crusade_R.xhtml#page_113), [116](020_9_The_Boys_Crusade_R.xhtml#page_116), [120](021_10_The_Infanticide_o.xhtml#page_120), [125](021_10_The_Infanticide_o.xhtml#page_125), [141](023_11_Breaking_the_Moul.xhtml#page_141), [159–60](025_13_The_Volunteer_Arm.xhtml#page_159), [164](025_13_The_Volunteer_Arm.xhtml#page_164), [165](025_13_The_Volunteer_Arm.xhtml#page_165)
-* Kalinin, Mikhail I., [496](054_40_The_Death_of_Hope.xhtml#page_496)
-* Kalmykov, Ataman Ivan P., [206](028_16_The_Czechs_and_Le.xhtml#page_206), [250](031_19_From_the_Volga_to.xhtml#page_250), [293](036_23_Siberia.xhtml#page_293), [328](039_26_Siberia.xhtml#page_328), [333](039_26_Siberia.xhtml#page_333), [335](039_26_Siberia.xhtml#page_335), [369](042_29_Baltic_Surprise.xhtml#page_369), [375](043_30_Siberian_Retreat.xhtml#page_375)
-* Kamenev, Lev B., [47](016_5_The_Pregnant_Widow.xhtml#page_47), [48](016_5_The_Pregnant_Widow.xhtml#page_48), [56](016_5_The_Pregnant_Widow.xhtml#page_56), [68](017_6_The_Kerensky_Offen.xhtml#page_68), [69](017_6_The_Kerensky_Offen.xhtml#page_69), [72](017_6_The_Kerensky_Offen.xhtml#page_72), [95](019_8_The_October_Coup.xhtml#page_95), [96](019_8_The_October_Coup.xhtml#page_96), [104](019_8_The_October_Coup.xhtml#page_104), [108](020_9_The_Boys_Crusade_R.xhtml#page_108); in Moscow, [108](020_9_The_Boys_Crusade_R.xhtml#page_108), [119](021_10_The_Infanticide_o.xhtml#page_119), [144](024_12_Brest-Litovsk.xhtml#page_144), [279](035_22_The_Fatal_Comprom.xhtml#page_279), [347](040_27_Baltic_Summer.xhtml#page_347)n, [380](043_30_Siberian_Retreat.xhtml#page_380), [381](044_31_The_Turning_Point.xhtml#page_381), [399](045_32_Retreat_in_the_So.xhtml#page_399), [427](049_35_The_Last_Hurrah_o.xhtml#page_427), [457](051_37_Poles_in_the_West.xhtml#page_457), [461](051_37_Poles_in_the_West.xhtml#page_461), [470](052_38_The_Miracle_on_th.xhtml#page_470), [476](052_38_The_Miracle_on_th.xhtml#page_476), [477](052_38_The_Miracle_on_th.xhtml#page_477), [479](052_38_The_Miracle_on_th.xhtml#page_479), [487](053_39_The_Riviera_of_Ha.xhtml#page_487)
-* Kamenev, Sergei S., [323](039_26_Siberia.xhtml#page_323), [347](040_27_Baltic_Summer.xhtml#page_347), [353](041_28_The_March_on_Mosc.xhtml#page_353), [366](042_29_Baltic_Surprise.xhtml#page_366), [402](045_32_Retreat_in_the_So.xhtml#page_402)
-* Kaplan, Fanya, [218](029_17_Red_Terror.xhtml#page_218), [219](029_17_Red_Terror.xhtml#page_219)
-* Kappel, Gen. Vladimir O., [205](028_16_The_Czechs_and_Le.xhtml#page_205), [225](030_18_Fighting_on_the_V.xhtml#page_225), [226–7](030_18_Fighting_on_the_V.xhtml#page_226), [234](030_18_Fighting_on_the_V.xhtml#page_234), [235](030_18_Fighting_on_the_V.xhtml#page_235), [236](030_18_Fighting_on_the_V.xhtml#page_236), [238](030_18_Fighting_on_the_V.xhtml#page_238), [242](031_19_From_the_Volga_to.xhtml#page_242), [244](031_19_From_the_Volga_to.xhtml#page_244), [300](036_23_Siberia.xhtml#page_300), [322](038_25_Murmansk_and_Arkh.xhtml#page_322), [328](039_26_Siberia.xhtml#page_328), [330](039_26_Siberia.xhtml#page_330), [373](043_30_Siberian_Retreat.xhtml#page_373), [377](043_30_Siberian_Retreat.xhtml#page_377), [378](043_30_Siberian_Retreat.xhtml#page_378), [410](047_33_The_Great_Siberia.xhtml#page_410), [412](047_33_The_Great_Siberia.xhtml#page_412), [416](047_33_The_Great_Siberia.xhtml#page_416)
-* Kazan, [213](028_16_The_Czechs_and_Le.xhtml#page_213), [233](030_18_Fighting_on_the_V.xhtml#page_233), [239](031_19_From_the_Volga_to.xhtml#page_239), [295](036_23_Siberia.xhtml#page_295), [328](039_26_Siberia.xhtml#page_328)
-* Kennedy, Capt. John, [358–60](041_28_The_March_on_Mosc.xhtml#page_358), [361](041_28_The_March_on_Mosc.xhtml#page_361), [391](044_31_The_Turning_Point.xhtml#page_391), [393](044_31_The_Turning_Point.xhtml#page_393), [424](048_34_The_Fall_of_Odess.xhtml#page_424), [443](050_36_Wrangel_Takes_Com.xhtml#page_443), [444](050_36_Wrangel_Takes_Com.xhtml#page_444)
-* Kerch, [284](035_22_The_Fatal_Comprom.xhtml#page_284), [445](050_36_Wrangel_Takes_Com.xhtml#page_445), [452](050_36_Wrangel_Takes_Com.xhtml#page_452), [485](053_39_The_Riviera_of_Ha.xhtml#page_485), [487](053_39_The_Riviera_of_Ha.xhtml#page_487), [490](053_39_The_Riviera_of_Ha.xhtml#page_490)
-* Kerensky, Aleksandr F., [28](014_3_The_Fall_of_the_Do.xhtml#page_28), [32](014_3_The_Fall_of_the_Do.xhtml#page_32), [35](015_4_From_Autocracy_to_.xhtml#page_35), [36](015_4_From_Autocracy_to_.xhtml#page_36), [37](015_4_From_Autocracy_to_.xhtml#page_37), [49](016_5_The_Pregnant_Widow.xhtml#page_49), [55](016_5_The_Pregnant_Widow.xhtml#page_55); becomes minister of war, [56–7](016_5_The_Pregnant_Widow.xhtml#page_56), [59–60](016_5_The_Pregnant_Widow.xhtml#page_59); and ‘Kerensky Offensive’, [61](016_5_The_Pregnant_Widow.xhtml#page_61), [65–7](017_6_The_Kerensky_Offen.xhtml#page_65); replaces Lvov, [74](017_6_The_Kerensky_Offen.xhtml#page_74); [75](018_7_Kornilov.xhtml#page_75), [76](018_7_Kornilov.xhtml#page_76); [79](018_7_Kornilov.xhtml#page_79), [80](018_7_Kornilov.xhtml#page_80); and Kornilov affair, [81](018_7_Kornilov.xhtml#page_81), [82](018_7_Kornilov.xhtml#page_82), [83–92](018_7_Kornilov.xhtml#page_83); [97](019_8_The_October_Coup.xhtml#page_97); leaves Petrograd, [100](019_8_The_October_Coup.xhtml#page_100); [101](019_8_The_October_Coup.xhtml#page_101), [104](019_8_The_October_Coup.xhtml#page_104), [105](020_9_The_Boys_Crusade_R.xhtml#page_105), [106](020_9_The_Boys_Crusade_R.xhtml#page_106)
-* Khabalov, Gen. Sergei S., [17](013_2_The_February_Revol.xhtml#page_17), [21](013_2_The_February_Revol.xhtml#page_21), [25](013_2_The_February_Revol.xhtml#page_25), [27](014_3_The_Fall_of_the_Do.xhtml#page_27)
-* Khabarovsk, [230](030_18_Fighting_on_the_V.xhtml#page_230), [250](031_19_From_the_Volga_to.xhtml#page_250)
-* Khanzin, Gen. Mikhail, [297](036_23_Siberia.xhtml#page_297), [300](036_23_Siberia.xhtml#page_300), [323](039_26_Siberia.xhtml#page_323)
-* Kharkov, [115](020_9_The_Boys_Crusade_R.xhtml#page_115), [141](023_11_Breaking_the_Moul.xhtml#page_141); White capture, [304–5](037_24_Don_and_Ukraine.xhtml#page_304); Red Terror, [304–5](037_24_Don_and_Ukraine.xhtml#page_304); [308](037_24_Don_and_Ukraine.xhtml#page_308), [347](040_27_Baltic_Summer.xhtml#page_347); [349](041_28_The_March_on_Mosc.xhtml#page_349), [350](041_28_The_March_on_Mosc.xhtml#page_350), [390](044_31_The_Turning_Point.xhtml#page_390), [391](044_31_The_Turning_Point.xhtml#page_391), [398](045_32_Retreat_in_the_So.xhtml#page_398), [470](052_38_The_Miracle_on_th.xhtml#page_470), [479](052_38_The_Miracle_on_th.xhtml#page_479)
-* Kherson, [281](035_22_The_Fatal_Comprom.xhtml#page_281), [349](041_28_The_March_on_Mosc.xhtml#page_349), [350](041_28_The_March_on_Mosc.xhtml#page_350)
-* Kiev, [57](016_5_The_Pregnant_Widow.xhtml#page_57), [76](018_7_Kornilov.xhtml#page_76), [86](018_7_Kornilov.xhtml#page_86), [141](023_11_Breaking_the_Moul.xhtml#page_141), [142](023_11_Breaking_the_Moul.xhtml#page_142), [143](023_11_Breaking_the_Moul.xhtml#page_143), [147](024_12_Brest-Litovsk.xhtml#page_147), [148](024_12_Brest-Litovsk.xhtml#page_148); German occupation, [176–9](026_14_The_Germans_March.xhtml#page_176); Cheka, [222](029_17_Red_Terror.xhtml#page_222); Germans leave, [256](032_20_The_Central_Power.xhtml#page_256); [349](041_28_The_March_on_Mosc.xhtml#page_349), [354](041_28_The_March_on_Mosc.xhtml#page_354); Cheka atrocities, [355](041_28_The_March_on_Mosc.xhtml#page_355); Polish capture, [446](050_36_Wrangel_Takes_Com.xhtml#page_446), [450](050_36_Wrangel_Takes_Com.xhtml#page_450); retreat from, [454](051_37_Poles_in_the_West.xhtml#page_454), [455](051_37_Poles_in_the_West.xhtml#page_455), [457](051_37_Poles_in_the_West.xhtml#page_457)
-* Kirov, Sergei, [287](035_22_The_Fatal_Comprom.xhtml#page_287)
-* Knox, Maj. Gen. Alfred, [102](019_8_The_October_Coup.xhtml#page_102), [107–8](020_9_The_Boys_Crusade_R.xhtml#page_107), [248](031_19_From_the_Volga_to.xhtml#page_248), [249](031_19_From_the_Volga_to.xhtml#page_249), [326](039_26_Siberia.xhtml#page_326), [329](039_26_Siberia.xhtml#page_329), [333](039_26_Siberia.xhtml#page_333), [334](039_26_Siberia.xhtml#page_334), [370–1](043_30_Siberian_Retreat.xhtml#page_370), [372](043_30_Siberian_Retreat.xhtml#page_372)
-* Kolchak, Admiral Aleksandr V., [30](014_3_The_Fall_of_the_Do.xhtml#page_30)n, [45](015_4_From_Autocracy_to_.xhtml#page_45), [246](031_19_From_the_Volga_to.xhtml#page_246); Supreme Ruler, [248](031_19_From_the_Volga_to.xhtml#page_248), [249](031_19_From_the_Volga_to.xhtml#page_249), [252](031_19_From_the_Volga_to.xhtml#page_252), [271](033_21_The_Baltic_and_No.xhtml#page_271), [290–1](035_22_The_Fatal_Comprom.xhtml#page_290), [294](036_23_Siberia.xhtml#page_294), [295](036_23_Siberia.xhtml#page_295), [373](043_30_Siberian_Retreat.xhtml#page_373), [377](043_30_Siberian_Retreat.xhtml#page_377); misleading Allied powers, [299–300](036_23_Siberia.xhtml#page_299), [343](040_27_Baltic_Summer.xhtml#page_343); loss of Ufa, [322](038_25_Murmansk_and_Arkh.xhtml#page_322); and Gajda clash, [323](039_26_Siberia.xhtml#page_323), [324](039_26_Siberia.xhtml#page_324); [326](039_26_Siberia.xhtml#page_326), [*326*](039_26_Siberia.xhtml#page_326); and gold, [328](039_26_Siberia.xhtml#page_328); [333](039_26_Siberia.xhtml#page_333), [334](039_26_Siberia.xhtml#page_334), [342](040_27_Baltic_Summer.xhtml#page_342), [343](040_27_Baltic_Summer.xhtml#page_343), [370](043_30_Siberian_Retreat.xhtml#page_370), [372](043_30_Siberian_Retreat.xhtml#page_372), [375](043_30_Siberian_Retreat.xhtml#page_375), [376](043_30_Siberian_Retreat.xhtml#page_376); fall and death, [415](047_33_The_Great_Siberia.xhtml#page_415), [416–17](047_33_The_Great_Siberia.xhtml#page_416)
-* Kollontai, Aleksandra M., [47](016_5_The_Pregnant_Widow.xhtml#page_47), [95](019_8_The_October_Coup.xhtml#page_95), [104](019_8_The_October_Coup.xhtml#page_104), [106](020_9_The_Boys_Crusade_R.xhtml#page_106)
-* Komuch, [204](028_16_The_Czechs_and_Le.xhtml#page_204), [205](028_16_The_Czechs_and_Le.xhtml#page_205), [227](030_18_Fighting_on_the_V.xhtml#page_227), [236](030_18_Fighting_on_the_V.xhtml#page_236), [237](030_18_Fighting_on_the_V.xhtml#page_237), [238](030_18_Fighting_on_the_V.xhtml#page_238), [239](031_19_From_the_Volga_to.xhtml#page_239), [240](031_19_From_the_Volga_to.xhtml#page_240), [242](031_19_From_the_Volga_to.xhtml#page_242), [248](031_19_From_the_Volga_to.xhtml#page_248)
-* Konev, Ivan S., [227](030_18_Fighting_on_the_V.xhtml#page_227)
-* Kornilov, Gen. Lavr G., [42](015_4_From_Autocracy_to_.xhtml#page_42), [55](016_5_The_Pregnant_Widow.xhtml#page_55), [61](016_5_The_Pregnant_Widow.xhtml#page_61), [62](017_6_The_Kerensky_Offen.xhtml#page_62), [66](017_6_The_Kerensky_Offen.xhtml#page_66), [67](017_6_The_Kerensky_Offen.xhtml#page_67), [79](018_7_Kornilov.xhtml#page_79); as c-in-c, [80](018_7_Kornilov.xhtml#page_80), [*81*](018_7_Kornilov.xhtml#page_81), [*82*](018_7_Kornilov.xhtml#page_82), [83](018_7_Kornilov.xhtml#page_83), [84](018_7_Kornilov.xhtml#page_84), [89](018_7_Kornilov.xhtml#page_89), [92](019_8_The_October_Coup.xhtml#page_92), [116](020_9_The_Boys_Crusade_R.xhtml#page_116), [117](020_9_The_Boys_Crusade_R.xhtml#page_117), [125–6](021_10_The_Infanticide_o.xhtml#page_125), [141](023_11_Breaking_the_Moul.xhtml#page_141), [159](025_13_The_Volunteer_Arm.xhtml#page_159), [164](025_13_The_Volunteer_Arm.xhtml#page_164), [165](025_13_The_Volunteer_Arm.xhtml#page_165), [169](025_13_The_Volunteer_Arm.xhtml#page_169), [170](025_13_The_Volunteer_Arm.xhtml#page_170); death, [171](025_13_The_Volunteer_Arm.xhtml#page_171), [194](027_15_Enemies_on_the_Pe.xhtml#page_194); [234](030_18_Fighting_on_the_V.xhtml#page_234)
-* Kotlas, [295](036_23_Siberia.xhtml#page_295), [317](038_25_Murmansk_and_Arkh.xhtml#page_317), [318](038_25_Murmansk_and_Arkh.xhtml#page_318), [319](038_25_Murmansk_and_Arkh.xhtml#page_319)
-* Kozlov, [351](041_28_The_March_on_Mosc.xhtml#page_351), [352](041_28_The_March_on_Mosc.xhtml#page_352), [353](041_28_The_March_on_Mosc.xhtml#page_353)
-* Krasilnikov, Ivan N., [246](031_19_From_the_Volga_to.xhtml#page_246), [248](031_19_From_the_Volga_to.xhtml#page_248), [328](039_26_Siberia.xhtml#page_328), [375](043_30_Siberian_Retreat.xhtml#page_375)
-* Krasnaya Gorka, [339](040_27_Baltic_Summer.xhtml#page_339), [364](042_29_Baltic_Surprise.xhtml#page_364), [365](042_29_Baltic_Surprise.xhtml#page_365), [498](054_40_The_Death_of_Hope.xhtml#page_498)
-* Krasnov, Ataman Pyotr N., [100](019_8_The_October_Coup.xhtml#page_100), [104–5](019_8_The_October_Coup.xhtml#page_104), [106](020_9_The_Boys_Crusade_R.xhtml#page_106), [173](025_13_The_Volunteer_Arm.xhtml#page_173), [179–80](026_14_The_Germans_March.xhtml#page_179), [181](026_14_The_Germans_March.xhtml#page_181), [192](027_15_Enemies_on_the_Pe.xhtml#page_192), [285](035_22_The_Fatal_Comprom.xhtml#page_285), [300](036_23_Siberia.xhtml#page_300)
-* Krasnovodsk, [197](027_15_Enemies_on_the_Pe.xhtml#page_197), [199](027_15_Enemies_on_the_Pe.xhtml#page_199), [263](032_20_The_Central_Power.xhtml#page_263), [264](032_20_The_Central_Power.xhtml#page_264)
-* Krasnoyarsk, [114](020_9_The_Boys_Crusade_R.xhtml#page_114), [231](030_18_Fighting_on_the_V.xhtml#page_231), [253](031_19_From_the_Volga_to.xhtml#page_253), [292](035_22_The_Fatal_Comprom.xhtml#page_292), [375](043_30_Siberian_Retreat.xhtml#page_375), [378](043_30_Siberian_Retreat.xhtml#page_378), [410](047_33_The_Great_Siberia.xhtml#page_410), [411](047_33_The_Great_Siberia.xhtml#page_411), [413](047_33_The_Great_Siberia.xhtml#page_413)
-* Kravkov, Dr Vasily P., [8](012_1_The_Suicide_of_Eur.xhtml#page_8), [9](012_1_The_Suicide_of_Eur.xhtml#page_9), [10](012_1_The_Suicide_of_Eur.xhtml#page_10), [12](012_1_The_Suicide_of_Eur.xhtml#page_12), [13](012_1_The_Suicide_of_Eur.xhtml#page_13), [38](015_4_From_Autocracy_to_.xhtml#page_38), [42](015_4_From_Autocracy_to_.xhtml#page_42), [51](016_5_The_Pregnant_Widow.xhtml#page_51), [54](016_5_The_Pregnant_Widow.xhtml#page_54), [57](016_5_The_Pregnant_Widow.xhtml#page_57), [58](016_5_The_Pregnant_Widow.xhtml#page_58), [59](016_5_The_Pregnant_Widow.xhtml#page_59), [77](018_7_Kornilov.xhtml#page_77)
-* Kronstadt naval base, [43](015_4_From_Autocracy_to_.xhtml#page_43), [44](015_4_From_Autocracy_to_.xhtml#page_44), [70](017_6_The_Kerensky_Offen.xhtml#page_70), [71](017_6_The_Kerensky_Offen.xhtml#page_71), [84](018_7_Kornilov.xhtml#page_84), [88](018_7_Kornilov.xhtml#page_88), [98](019_8_The_October_Coup.xhtml#page_98), [99](019_8_The_October_Coup.xhtml#page_99), [105](020_9_The_Boys_Crusade_R.xhtml#page_105), [107](020_9_The_Boys_Crusade_R.xhtml#page_107), [108](020_9_The_Boys_Crusade_R.xhtml#page_108), [110](020_9_The_Boys_Crusade_R.xhtml#page_110), [116](020_9_The_Boys_Crusade_R.xhtml#page_116), [137](023_11_Breaking_the_Moul.xhtml#page_137), [155](024_12_Brest-Litovsk.xhtml#page_155), [158](024_12_Brest-Litovsk.xhtml#page_158), [215](028_16_The_Czechs_and_Le.xhtml#page_215), [220](029_17_Red_Terror.xhtml#page_220), [235](030_18_Fighting_on_the_V.xhtml#page_235), [269](033_21_The_Baltic_and_No.xhtml#page_269), [273](033_21_The_Baltic_and_No.xhtml#page_273), [289](035_22_The_Fatal_Comprom.xhtml#page_289), [338](040_27_Baltic_Summer.xhtml#page_338), [339](040_27_Baltic_Summer.xhtml#page_339), [340](040_27_Baltic_Summer.xhtml#page_340), [344–6](040_27_Baltic_Summer.xhtml#page_344); uprising, [495–500](054_40_The_Death_of_Hope.xhtml#page_495)
-* Krupskaya, Nadhezda K., [47](016_5_The_Pregnant_Widow.xhtml#page_47), [48](016_5_The_Pregnant_Widow.xhtml#page_48), [218](029_17_Red_Terror.xhtml#page_218)
-* Krylenko, Ensign Nikolai V., [115–16](020_9_The_Boys_Crusade_R.xhtml#page_115)
-* Krymov, Gen. Aleksandr M., [84](018_7_Kornilov.xhtml#page_84), [87](018_7_Kornilov.xhtml#page_87), [89](018_7_Kornilov.xhtml#page_89)
-* Kuban, [165](025_13_The_Volunteer_Arm.xhtml#page_165), [169](025_13_The_Volunteer_Arm.xhtml#page_169), [171](025_13_The_Volunteer_Arm.xhtml#page_171), [179](026_14_The_Germans_March.xhtml#page_179), [193](027_15_Enemies_on_the_Pe.xhtml#page_193), [285](035_22_The_Fatal_Comprom.xhtml#page_285), [390–1](044_31_The_Turning_Point.xhtml#page_390), [429](049_35_The_Last_Hurrah_o.xhtml#page_429), [430](049_35_The_Last_Hurrah_o.xhtml#page_430), [461](051_37_Poles_in_the_West.xhtml#page_461); Wrangel’s Kuban expedition, [465–7](051_37_Poles_in_the_West.xhtml#page_465)
-* Kühlmann, Baron Richard v., [145](024_12_Brest-Litovsk.xhtml#page_145), [149](024_12_Brest-Litovsk.xhtml#page_149)
-* Kun, Béla, [212](028_16_The_Czechs_and_Le.xhtml#page_212), [336–7](040_27_Baltic_Summer.xhtml#page_336), [488](053_39_The_Riviera_of_Ha.xhtml#page_488)
-* Kursk, [185–6](026_14_The_Germans_March.xhtml#page_185); Cheka, [221–2](029_17_Red_Terror.xhtml#page_221); [349](041_28_The_March_on_Mosc.xhtml#page_349), [356](041_28_The_March_on_Mosc.xhtml#page_356), [358](041_28_The_March_on_Mosc.xhtml#page_358), [391](044_31_The_Turning_Point.xhtml#page_391)
-* Kutepov, Gen. Aleksandr P., [349](041_28_The_March_on_Mosc.xhtml#page_349), [356](041_28_The_March_on_Mosc.xhtml#page_356), [359](041_28_The_March_on_Mosc.xhtml#page_359), [361](041_28_The_March_on_Mosc.xhtml#page_361), [388](044_31_The_Turning_Point.xhtml#page_388), [395](045_32_Retreat_in_the_So.xhtml#page_395), [400](045_32_Retreat_in_the_So.xhtml#page_400), [402](045_32_Retreat_in_the_So.xhtml#page_402), [403](045_32_Retreat_in_the_So.xhtml#page_403), [436](049_35_The_Last_Hurrah_o.xhtml#page_436), [447](050_36_Wrangel_Takes_Com.xhtml#page_447), [453](051_37_Poles_in_the_West.xhtml#page_453), [481](053_39_The_Riviera_of_Ha.xhtml#page_481), [483](053_39_The_Riviera_of_Ha.xhtml#page_483)
+* Kadet (KD) Party, 7, 31, 49, 54, 56; resignation of Kadet ministers, 74, 76; 93, 112, 120–1, 134, 135, 140–1, 164, 356–7
+* Kaledin, Ataman Aleksei M., 112, 113, 116, 120, 125, 141, 159–60, 164, 165
+* Kalinin, Mikhail I., 496
+* Kalmykov, Ataman Ivan P., 206, 250, 293, 328, 333, 335, 369, 375
+* Kamenev, Lev B., 47, 48, 56, 68, 69, 72, 95, 96, 104, 108; in Moscow, 108, 119, 144, 279, 347n, 380, 381, 399, 427, 457, 461, 470, 476, 477, 479, 487
+* Kamenev, Sergei S., 323, 347, 353, 366, 402
+* Kaplan, Fanya, 218, 219
+* Kappel, Gen. Vladimir O., 205, 225, 226–7, 234, 235, 236, 238, 242, 244, 300, 322, 328, 330, 373, 377, 378, 410, 412, 416
+* Kazan, 213, 233, 239, 295, 328
+* Kennedy, Capt. John, 358–60, 361, 391, 393, 424, 443, 444
+* Kerch, 284, 445, 452, 485, 487, 490
+* Kerensky, Aleksandr F., 28, 32, 35, 36, 37, 49, 55; becomes minister of war, 56–7, 59–60; and ‘Kerensky Offensive’, 61, 65–7; replaces Lvov, 74; 75, 76; 79, 80; and Kornilov affair, 81, 82, 83–92; 97; leaves Petrograd, 100; 101, 104, 105, 106
+* Khabalov, Gen. Sergei S., 17, 21, 25, 27
+* Khabarovsk, 230, 250
+* Khanzin, Gen. Mikhail, 297, 300, 323
+* Kharkov, 115, 141; White capture, 304–5; Red Terror, 304–5; 308, 347; 349, 350, 390, 391, 398, 470, 479
+* Kherson, 281, 349, 350
+* Kiev, 57, 76, 86, 141, 142, 143, 147, 148; German occupation, 176–9; Cheka, 222; Germans leave, 256; 349, 354; Cheka atrocities, 355; Polish capture, 446, 450; retreat from, 454, 455, 457
+* Kirov, Sergei, 287
+* Knox, Maj. Gen. Alfred, 102, 107–8, 248, 249, 326, 329, 333, 334, 370–1, 372
+* Kolchak, Admiral Aleksandr V., 30n, 45, 246; Supreme Ruler, 248, 249, 252, 271, 290–1, 294, 295, 373, 377; misleading Allied powers, 299–300, 343; loss of Ufa, 322; and Gajda clash, 323, 324; 326, *326*; and gold, 328; 333, 334, 342, 343, 370, 372, 375, 376; fall and death, 415, 416–17
+* Kollontai, Aleksandra M., 47, 95, 104, 106
+* Komuch, 204, 205, 227, 236, 237, 238, 239, 240, 242, 248
+* Konev, Ivan S., 227
+* Kornilov, Gen. Lavr G., 42, 55, 61, 62, 66, 67, 79; as c-in-c, 80, *81*, *82*, 83, 84, 89, 92, 116, 117, 125–6, 141, 159, 164, 165, 169, 170; death, 171, 194; 234
+* Kotlas, 295, 317, 318, 319
+* Kozlov, 351, 352, 353
+* Krasilnikov, Ivan N., 246, 248, 328, 375
+* Krasnaya Gorka, 339, 364, 365, 498
+* Krasnov, Ataman Pyotr N., 100, 104–5, 106, 173, 179–80, 181, 192, 285, 300
+* Krasnovodsk, 197, 199, 263, 264
+* Krasnoyarsk, 114, 231, 253, 292, 375, 378, 410, 411, 413
+* Kravkov, Dr Vasily P., 8, 9, 10, 12, 13, 38, 42, 51, 54, 57, 58, 59, 77
+* Kronstadt naval base, 43, 44, 70, 71, 84, 88, 98, 99, 105, 107, 108, 110, 116, 137, 155, 158, 215, 220, 235, 269, 273, 289, 338, 339, 340, 344–6; uprising, 495–500
+* Krupskaya, Nadhezda K., 47, 48, 218
+* Krylenko, Ensign Nikolai V., 115–16
+* Krymov, Gen. Aleksandr M., 84, 87, 89
+* Kuban, 165, 169, 171, 179, 193, 285, 390–1, 429, 430, 461; Wrangel’s Kuban expedition, 465–7
+* Kühlmann, Baron Richard v., 145, 149
+* Kun, Béla, 212, 336–7, 488
+* Kursk, 185–6; Cheka, 221–2; 349, 356, 358, 391
+* Kutepov, Gen. Aleksandr P., 349, 356, 359, 361, 388, 395, 400, 402, 403, 436, 447, 453, 481, 483
 
 ## L
 
-* Laidoner, Gen. Johan, [268](033_21_The_Baltic_and_No.xhtml#page_268), [270](033_21_The_Baltic_and_No.xhtml#page_270), [288](035_22_The_Fatal_Comprom.xhtml#page_288), [337](040_27_Baltic_Summer.xhtml#page_337), [*338*](040_27_Baltic_Summer.xhtml#page_338), [342](040_27_Baltic_Summer.xhtml#page_342)
-* Lakier, Yelena, [45](015_4_From_Autocracy_to_.xhtml#page_45), [77](018_7_Kornilov.xhtml#page_77), [97](019_8_The_October_Coup.xhtml#page_97), [115](020_9_The_Boys_Crusade_R.xhtml#page_115), [120](021_10_The_Infanticide_o.xhtml#page_120), [121](021_10_The_Infanticide_o.xhtml#page_121), [139](023_11_Breaking_the_Moul.xhtml#page_139), [172](025_13_The_Volunteer_Arm.xhtml#page_172), [256–7](032_20_The_Central_Power.xhtml#page_256), [283](035_22_The_Fatal_Comprom.xhtml#page_283), [350](041_28_The_March_on_Mosc.xhtml#page_350), [418](047_33_The_Great_Siberia.xhtml#page_418)
-* Lansing, Robert, [187–8](027_15_Enemies_on_the_Pe.xhtml#page_187), [203](028_16_The_Czechs_and_Le.xhtml#page_203)n
-* Latsis, Martin, [209](028_16_The_Czechs_and_Le.xhtml#page_209), [222](029_17_Red_Terror.xhtml#page_222), [223](029_17_Red_Terror.xhtml#page_223)
-* Latvia, [123](021_10_The_Infanticide_o.xhtml#page_123), [270](033_21_The_Baltic_and_No.xhtml#page_270), [289](035_22_The_Fatal_Comprom.xhtml#page_289), [340](040_27_Baltic_Summer.xhtml#page_340), [341](040_27_Baltic_Summer.xhtml#page_341), [368](042_29_Baltic_Surprise.xhtml#page_368)
-* Left Opposition, [210](028_16_The_Czechs_and_Le.xhtml#page_210), [227](030_18_Fighting_on_the_V.xhtml#page_227)
-* Left Socialist Revolutionaries (SRs), [96](019_8_The_October_Coup.xhtml#page_96), [107](020_9_The_Boys_Crusade_R.xhtml#page_107), [120](021_10_The_Infanticide_o.xhtml#page_120), [124–5](021_10_The_Infanticide_o.xhtml#page_124), [135](023_11_Breaking_the_Moul.xhtml#page_135), [144](024_12_Brest-Litovsk.xhtml#page_144), [147](024_12_Brest-Litovsk.xhtml#page_147), [150](024_12_Brest-Litovsk.xhtml#page_150), [181](026_14_The_Germans_March.xhtml#page_181), [182](026_14_The_Germans_March.xhtml#page_182); revolt, [209–14](028_16_The_Czechs_and_Le.xhtml#page_209), [374](043_30_Siberian_Retreat.xhtml#page_374), [380](043_30_Siberian_Retreat.xhtml#page_380), [415](047_33_The_Great_Siberia.xhtml#page_415), [495](054_40_The_Death_of_Hope.xhtml#page_495)
-* Lenin, Vladimir I., [3](010_Foreword.xhtml#page_3), [47](016_5_The_Pregnant_Widow.xhtml#page_47), [48–9](016_5_The_Pregnant_Widow.xhtml#page_48); *April Theses*, [49](016_5_The_Pregnant_Widow.xhtml#page_49); [56](016_5_The_Pregnant_Widow.xhtml#page_56); [62–3](017_6_The_Kerensky_Offen.xhtml#page_62); and Kerensky Offensive, [67](017_6_The_Kerensky_Offen.xhtml#page_67); and July Days, [69–73](017_6_The_Kerensky_Offen.xhtml#page_69); and ‘German Gold’, [72](017_6_The_Kerensky_Offen.xhtml#page_72); in hiding, [73](017_6_The_Kerensky_Offen.xhtml#page_73), [80](018_7_Kornilov.xhtml#page_80), [91](018_7_Kornilov.xhtml#page_91), [93](019_8_The_October_Coup.xhtml#page_93), [95](019_8_The_October_Coup.xhtml#page_95); *State and Revolution*, [80](018_7_Kornilov.xhtml#page_80); [93–4](019_8_The_October_Coup.xhtml#page_93); returns to Petrograd, [95](019_8_The_October_Coup.xhtml#page_95); and insurrection, [96](019_8_The_October_Coup.xhtml#page_96), [99–101](019_8_The_October_Coup.xhtml#page_99), [102](019_8_The_October_Coup.xhtml#page_102); as Chairman Sovnarkom, [104](019_8_The_October_Coup.xhtml#page_104); sacks Dukhonin, [115–16](020_9_The_Boys_Crusade_R.xhtml#page_115); negotiations with Germans, [117](020_9_The_Boys_Crusade_R.xhtml#page_117); on civil war, [117–18](020_9_The_Boys_Crusade_R.xhtml#page_117); [119](021_10_The_Infanticide_o.xhtml#page_119); [121–4](021_10_The_Infanticide_o.xhtml#page_121); and assassination attempts, [133](023_11_Breaking_the_Moul.xhtml#page_133), [218](029_17_Red_Terror.xhtml#page_218); and Brest-Litovsk, [146](024_12_Brest-Litovsk.xhtml#page_146), [147–8](024_12_Brest-Litovsk.xhtml#page_147), [149–50](024_12_Brest-Litovsk.xhtml#page_149); and self-determination, [151–2](024_12_Brest-Litovsk.xhtml#page_151); in Moscow, [182–3](026_14_The_Germans_March.xhtml#page_182); [187](027_15_Enemies_on_the_Pe.xhtml#page_187); and Germany, [189–90](027_15_Enemies_on_the_Pe.xhtml#page_189), [336](040_27_Baltic_Summer.xhtml#page_336); and murder of imperial family, [216](028_16_The_Czechs_and_Le.xhtml#page_216); cult of personality, [219](029_17_Red_Terror.xhtml#page_219); [279](035_22_The_Fatal_Comprom.xhtml#page_279); [336](040_27_Baltic_Summer.xhtml#page_336), [338](040_27_Baltic_Summer.xhtml#page_338); [365](042_29_Baltic_Surprise.xhtml#page_365), [380](043_30_Siberian_Retreat.xhtml#page_380), [394](044_31_The_Turning_Point.xhtml#page_394); plan to attack Poland, [446](050_36_Wrangel_Takes_Com.xhtml#page_446), [468](051_37_Poles_in_the_West.xhtml#page_468), [470](052_38_The_Miracle_on_th.xhtml#page_470), [477](052_38_The_Miracle_on_th.xhtml#page_477); [487](053_39_The_Riviera_of_Ha.xhtml#page_487)
-* Linde, Lt Theodore, [55](016_5_The_Pregnant_Widow.xhtml#page_55)
-* Lithuania, [123](021_10_The_Infanticide_o.xhtml#page_123), [255](031_19_From_the_Volga_to.xhtml#page_255), [270](033_21_The_Baltic_and_No.xhtml#page_270), [368](042_29_Baltic_Surprise.xhtml#page_368), [447](050_36_Wrangel_Takes_Com.xhtml#page_447)n, [458](051_37_Poles_in_the_West.xhtml#page_458), [469](052_38_The_Miracle_on_th.xhtml#page_469)
-* Lloyd George, David, [280](035_22_The_Fatal_Comprom.xhtml#page_280); and French, [282–3](035_22_The_Fatal_Comprom.xhtml#page_282); [290](035_22_The_Fatal_Comprom.xhtml#page_290), [299](036_23_Siberia.xhtml#page_299), [317](038_25_Murmansk_and_Arkh.xhtml#page_317), [319](038_25_Murmansk_and_Arkh.xhtml#page_319), [329](039_26_Siberia.xhtml#page_329), [343–4](040_27_Baltic_Summer.xhtml#page_343), [353](041_28_The_March_on_Mosc.xhtml#page_353), [363](042_29_Baltic_Surprise.xhtml#page_363); Mansion House speech, [394](044_31_The_Turning_Point.xhtml#page_394), [399](045_32_Retreat_in_the_So.xhtml#page_399); [447](050_36_Wrangel_Takes_Com.xhtml#page_447), [450](050_36_Wrangel_Takes_Com.xhtml#page_450)
-* Locker-Lampson, Cdr Oliver, [41](015_4_From_Autocracy_to_.xhtml#page_41), [43](015_4_From_Autocracy_to_.xhtml#page_43), [61](016_5_The_Pregnant_Widow.xhtml#page_61), [63–4](017_6_The_Kerensky_Offen.xhtml#page_63), [65](017_6_The_Kerensky_Offen.xhtml#page_65), [66](017_6_The_Kerensky_Offen.xhtml#page_66), [67](017_6_The_Kerensky_Offen.xhtml#page_67), [86](018_7_Kornilov.xhtml#page_86)
-* Lockhart, Robert Bruce, [181](026_14_The_Germans_March.xhtml#page_181), [208–9](028_16_The_Czechs_and_Le.xhtml#page_208), [219](029_17_Red_Terror.xhtml#page_219), [274–5](033_21_The_Baltic_and_No.xhtml#page_274)
-* Lublin, [471](052_38_The_Miracle_on_th.xhtml#page_471), [476](052_38_The_Miracle_on_th.xhtml#page_476)
-* Luga, [289–90](035_22_The_Fatal_Comprom.xhtml#page_289), [367](042_29_Baltic_Surprise.xhtml#page_367)
-* Lugansk, [286](035_22_The_Fatal_Comprom.xhtml#page_286)
-* Lukomsky, Gen. Aleksandr S., [25](013_2_The_February_Revol.xhtml#page_25), [29](014_3_The_Fall_of_the_Do.xhtml#page_29), [42](015_4_From_Autocracy_to_.xhtml#page_42), [84](018_7_Kornilov.xhtml#page_84), [85](018_7_Kornilov.xhtml#page_85), [89](018_7_Kornilov.xhtml#page_89), [116](020_9_The_Boys_Crusade_R.xhtml#page_116), [126](021_10_The_Infanticide_o.xhtml#page_126), [168](025_13_The_Volunteer_Arm.xhtml#page_168), [495](054_40_The_Death_of_Hope.xhtml#page_495)
-* Lunacharsky, Anatoly V., [72](017_6_The_Kerensky_Offen.xhtml#page_72), [104](019_8_The_October_Coup.xhtml#page_104)
-* Lvov, Prince Georgy, [25](013_2_The_February_Revol.xhtml#page_25), [32](014_3_The_Fall_of_the_Do.xhtml#page_32), [46](015_4_From_Autocracy_to_.xhtml#page_46), [55](016_5_The_Pregnant_Widow.xhtml#page_55), [56](016_5_The_Pregnant_Widow.xhtml#page_56), [69](017_6_The_Kerensky_Offen.xhtml#page_69), [74](017_6_The_Kerensky_Offen.xhtml#page_74), [190](027_15_Enemies_on_the_Pe.xhtml#page_190), [191](027_15_Enemies_on_the_Pe.xhtml#page_191)
-* Lvov, V.N., [85](018_7_Kornilov.xhtml#page_85)
-* Lwów, [469](052_38_The_Miracle_on_th.xhtml#page_469), [470](052_38_The_Miracle_on_th.xhtml#page_470), [476](052_38_The_Miracle_on_th.xhtml#page_476)
+* Laidoner, Gen. Johan, 268, 270, 288, 337, *338*, 342
+* Lakier, Yelena, 45, 77, 97, 115, 120, 121, 139, 172, 256–7, 283, 350, 418
+* Lansing, Robert, 187–8, 203n
+* Latsis, Martin, 209, 222, 223
+* Latvia, 123, 270, 289, 340, 341, 368
+* Left Opposition, 210, 227
+* Left Socialist Revolutionaries (SRs), 96, 107, 120, 124–5, 135, 144, 147, 150, 181, 182; revolt, 209–14, 374, 380, 415, 495
+* Lenin, Vladimir I., 3, 47, 48–9; *April Theses*, 49; 56; 62–3; and Kerensky Offensive, 67; and July Days, 69–73; and ‘German Gold’, 72; in hiding, 73, 80, 91, 93, 95; *State and Revolution*, 80; 93–4; returns to Petrograd, 95; and insurrection, 96, 99–101, 102; as Chairman Sovnarkom, 104; sacks Dukhonin, 115–16; negotiations with Germans, 117; on civil war, 117–18; 119; 121–4; and assassination attempts, 133, 218; and Brest-Litovsk, 146, 147–8, 149–50; and self-determination, 151–2; in Moscow, 182–3; 187; and Germany, 189–90, 336; and murder of imperial family, 216; cult of personality, 219; 279; 336, 338; 365, 380, 394; plan to attack Poland, 446, 468, 470, 477; 487
+* Linde, Lt Theodore, 55
+* Lithuania, 123, 255, 270, 368, 447n, 458, 469
+* Lloyd George, David, 280; and French, 282–3; 290, 299, 317, 319, 329, 343–4, 353, 363; Mansion House speech, 394, 399; 447, 450
+* Locker-Lampson, Cdr Oliver, 41, 43, 61, 63–4, 65, 66, 67, 86
+* Lockhart, Robert Bruce, 181, 208–9, 219, 274–5
+* Lublin, 471, 476
+* Luga, 289–90, 367
+* Lugansk, 286
+* Lukomsky, Gen. Aleksandr S., 25, 29, 42, 84, 85, 89, 116, 126, 168, 495
+* Lunacharsky, Anatoly V., 72, 104
+* Lvov, Prince Georgy, 25, 32, 46, 55, 56, 69, 74, 190, 191
+* Lvov, V.N., 85
+* Lwów, 469, 470, 476
 
 ## M
 
-* Mai-Maevsky, Vladimir Z., [257–9](032_20_The_Central_Power.xhtml#page_257), [*259*](032_20_The_Central_Power.xhtml#page_259), [301](037_24_Don_and_Ukraine.xhtml#page_301), [302](037_24_Don_and_Ukraine.xhtml#page_302), [304](037_24_Don_and_Ukraine.xhtml#page_304), [305](037_24_Don_and_Ukraine.xhtml#page_305), [308](037_24_Don_and_Ukraine.xhtml#page_308), [312](037_24_Don_and_Ukraine.xhtml#page_312), [347](040_27_Baltic_Summer.xhtml#page_347), [349](041_28_The_March_on_Mosc.xhtml#page_349), [355](041_28_The_March_on_Mosc.xhtml#page_355), [356](041_28_The_March_on_Mosc.xhtml#page_356), [358–9](041_28_The_March_on_Mosc.xhtml#page_358), [361](041_28_The_March_on_Mosc.xhtml#page_361), [390](044_31_The_Turning_Point.xhtml#page_390), [394–5](044_31_The_Turning_Point.xhtml#page_394), [396](045_32_Retreat_in_the_So.xhtml#page_396)
-* Makhno, Nestor I., [259–62](032_20_The_Central_Power.xhtml#page_259), [304](037_24_Don_and_Ukraine.xhtml#page_304), [306](037_24_Don_and_Ukraine.xhtml#page_306), [348](041_28_The_March_on_Mosc.xhtml#page_348), [385](044_31_The_Turning_Point.xhtml#page_385); captures Ekaterinoslav and Berdyansk, [386–7](044_31_The_Turning_Point.xhtml#page_386), [390](044_31_The_Turning_Point.xhtml#page_390), [393](044_31_The_Turning_Point.xhtml#page_393); splits retreating White army, [399](045_32_Retreat_in_the_So.xhtml#page_399); attacks Red Army, [440](049_35_The_Last_Hurrah_o.xhtml#page_440), [449](050_36_Wrangel_Takes_Com.xhtml#page_449), [452](050_36_Wrangel_Takes_Com.xhtml#page_452); rejects overture from Wrangel, [461](051_37_Poles_in_the_West.xhtml#page_461); [479–80](052_38_The_Miracle_on_th.xhtml#page_479), [481](053_39_The_Riviera_of_Ha.xhtml#page_481), [491](053_39_The_Riviera_of_Ha.xhtml#page_491)
-* Malleson, Maj. Gen. Wilfred, [144](024_12_Brest-Litovsk.xhtml#page_144), [265](032_20_The_Central_Power.xhtml#page_265), [279](035_22_The_Fatal_Comprom.xhtml#page_279)
-* Mamontov, Gen. Konstantin K., [192](027_15_Enemies_on_the_Pe.xhtml#page_192); Raid, [350–1](041_28_The_March_on_Mosc.xhtml#page_350), [352](041_28_The_March_on_Mosc.xhtml#page_352), [357](041_28_The_March_on_Mosc.xhtml#page_357), [380](043_30_Siberian_Retreat.xhtml#page_380), [381](044_31_The_Turning_Point.xhtml#page_381), [396](045_32_Retreat_in_the_So.xhtml#page_396), [397](045_32_Retreat_in_the_So.xhtml#page_397), [426](049_35_The_Last_Hurrah_o.xhtml#page_426)
-* Mannerheim, Gen. Gustaf, Baron., [78](018_7_Kornilov.xhtml#page_78), [87](018_7_Kornilov.xhtml#page_87), [152](024_12_Brest-Litovsk.xhtml#page_152), [153](024_12_Brest-Litovsk.xhtml#page_153), [154](024_12_Brest-Litovsk.xhtml#page_154), [178](026_14_The_Germans_March.xhtml#page_178), [342](040_27_Baltic_Summer.xhtml#page_342), [398](045_32_Retreat_in_the_So.xhtml#page_398), [399](045_32_Retreat_in_the_So.xhtml#page_399)
-* Manuilsky, Dmitri Z., [183](026_14_The_Germans_March.xhtml#page_183), [184](026_14_The_Germans_March.xhtml#page_184), [185–6](026_14_The_Germans_March.xhtml#page_185)
-* Mariupol, [282](035_22_The_Fatal_Comprom.xhtml#page_282), [387](044_31_The_Turning_Point.xhtml#page_387), [461](051_37_Poles_in_the_West.xhtml#page_461)
-* Markov, Gen. Sergei L., [89](018_7_Kornilov.xhtml#page_89), [126](021_10_The_Infanticide_o.xhtml#page_126), [168](025_13_The_Volunteer_Arm.xhtml#page_168), [170](025_13_The_Volunteer_Arm.xhtml#page_170)
-* Martov, Julius O., [48](016_5_The_Pregnant_Widow.xhtml#page_48), [103](019_8_The_October_Coup.xhtml#page_103), [156](024_12_Brest-Litovsk.xhtml#page_156), [504](056_Glossary.xhtml#page_504)
-* Marx, Karl, [3](010_Foreword.xhtml#page_3), [47](016_5_The_Pregnant_Widow.xhtml#page_47), [49](016_5_The_Pregnant_Widow.xhtml#page_49), [119](021_10_The_Infanticide_o.xhtml#page_119)
-* Melitopol, [399](045_32_Retreat_in_the_So.xhtml#page_399), [450](050_36_Wrangel_Takes_Com.xhtml#page_450), [452](050_36_Wrangel_Takes_Com.xhtml#page_452), [453](051_37_Poles_in_the_West.xhtml#page_453), [459](051_37_Poles_in_the_West.xhtml#page_459), [491](053_39_The_Riviera_of_Ha.xhtml#page_491)
-* Meshed, [265](032_20_The_Central_Power.xhtml#page_265)
-* Mensheviks, [24](013_2_The_February_Revol.xhtml#page_24), [28](014_3_The_Fall_of_the_Do.xhtml#page_28), [36](015_4_From_Autocracy_to_.xhtml#page_36), [48](016_5_The_Pregnant_Widow.xhtml#page_48), [49](016_5_The_Pregnant_Widow.xhtml#page_49), [57](016_5_The_Pregnant_Widow.xhtml#page_57), [71](017_6_The_Kerensky_Offen.xhtml#page_71), [80](018_7_Kornilov.xhtml#page_80), [93](019_8_The_October_Coup.xhtml#page_93), [105](020_9_The_Boys_Crusade_R.xhtml#page_105), [120](021_10_The_Infanticide_o.xhtml#page_120), [124](021_10_The_Infanticide_o.xhtml#page_124), [134](023_11_Breaking_the_Moul.xhtml#page_134), [156](024_12_Brest-Litovsk.xhtml#page_156), [238](030_18_Fighting_on_the_V.xhtml#page_238), [415](047_33_The_Great_Siberia.xhtml#page_415), [495](054_40_The_Death_of_Hope.xhtml#page_495)
-* Mikoyan, Anastas I., [196](027_15_Enemies_on_the_Pe.xhtml#page_196), [199](027_15_Enemies_on_the_Pe.xhtml#page_199), [200](027_15_Enemies_on_the_Pe.xhtml#page_200), [263](032_20_The_Central_Power.xhtml#page_263), [264](032_20_The_Central_Power.xhtml#page_264)
-* Miliukov, Pavel N., [11](012_1_The_Suicide_of_Eur.xhtml#page_11), [11](012_1_The_Suicide_of_Eur.xhtml#page_11)n, [31](014_3_The_Fall_of_the_Do.xhtml#page_31), [32](014_3_The_Fall_of_the_Do.xhtml#page_32), [47](016_5_The_Pregnant_Widow.xhtml#page_47), [49](016_5_The_Pregnant_Widow.xhtml#page_49), [53](016_5_The_Pregnant_Widow.xhtml#page_53), [54–5](016_5_The_Pregnant_Widow.xhtml#page_54), [56](016_5_The_Pregnant_Widow.xhtml#page_56), [89](018_7_Kornilov.xhtml#page_89), [164](025_13_The_Volunteer_Arm.xhtml#page_164)
-* Milrevkom (Military Revolutionary Committee), *see under* [Soviets](062_Index.xhtml#soviets)
-* Minsk, [458](051_37_Poles_in_the_West.xhtml#page_458), [474](052_38_The_Miracle_on_th.xhtml#page_474), [477](052_38_The_Miracle_on_th.xhtml#page_477)
-* Mirbach-Haff, Wilhelm Graf v., [188](027_15_Enemies_on_the_Pe.xhtml#page_188), [203](028_16_The_Czechs_and_Le.xhtml#page_203)n, [210](028_16_The_Czechs_and_Le.xhtml#page_210); assassination, [211](028_16_The_Czechs_and_Le.xhtml#page_211), [212](028_16_The_Czechs_and_Le.xhtml#page_212), [214](028_16_The_Czechs_and_Le.xhtml#page_214), [233](030_18_Fighting_on_the_V.xhtml#page_233)
-* Mironov, Lt Col, Filipp K., [120](021_10_The_Infanticide_o.xhtml#page_120), [165](025_13_The_Volunteer_Arm.xhtml#page_165), [181–2](026_14_The_Germans_March.xhtml#page_181), [192](027_15_Enemies_on_the_Pe.xhtml#page_192), [286](035_22_The_Fatal_Comprom.xhtml#page_286), [306](037_24_Don_and_Ukraine.xhtml#page_306), [308](037_24_Don_and_Ukraine.xhtml#page_308), [348](041_28_The_March_on_Mosc.xhtml#page_348), [380–3](043_30_Siberian_Retreat.xhtml#page_380), [461](051_37_Poles_in_the_West.xhtml#page_461), [479](052_38_The_Miracle_on_th.xhtml#page_479), [483](053_39_The_Riviera_of_Ha.xhtml#page_483), [485](053_39_The_Riviera_of_Ha.xhtml#page_485), [492](054_40_The_Death_of_Hope.xhtml#page_492)
-* Muraviev, Mikhail A., [141–2](023_11_Breaking_the_Moul.xhtml#page_141), [143](023_11_Breaking_the_Moul.xhtml#page_143), [175](026_14_The_Germans_March.xhtml#page_175), [209](028_16_The_Czechs_and_Le.xhtml#page_209), [213](028_16_The_Czechs_and_Le.xhtml#page_213)
-* Murmansk, [152–3](024_12_Brest-Litovsk.xhtml#page_152), [187](027_15_Enemies_on_the_Pe.xhtml#page_187), [188](027_15_Enemies_on_the_Pe.xhtml#page_188), [273](033_21_The_Baltic_and_No.xhtml#page_273), [316](037_24_Don_and_Ukraine.xhtml#page_316); Allied mutinies, [316–17](037_24_Don_and_Ukraine.xhtml#page_316); evacuation, [321](038_25_Murmansk_and_Arkh.xhtml#page_321)
+* Mai-Maevsky, Vladimir Z., 257–9, *259*, 301, 302, 304, 305, 308, 312, 347, 349, 355, 356, 358–9, 361, 390, 394–5, 396
+* Makhno, Nestor I., 259–62, 304, 306, 348, 385; captures Ekaterinoslav and Berdyansk, 386–7, 390, 393; splits retreating White army, 399; attacks Red Army, 440, 449, 452; rejects overture from Wrangel, 461; 479–80, 481, 491
+* Malleson, Maj. Gen. Wilfred, 144, 265, 279
+* Mamontov, Gen. Konstantin K., 192; Raid, 350–1, 352, 357, 380, 381, 396, 397, 426
+* Mannerheim, Gen. Gustaf, Baron., 78, 87, 152, 153, 154, 178, 342, 398, 399
+* Manuilsky, Dmitri Z., 183, 184, 185–6
+* Mariupol, 282, 387, 461
+* Markov, Gen. Sergei L., 89, 126, 168, 170
+* Martov, Julius O., 48, 103, 156, 504
+* Marx, Karl, 3, 47, 49, 119
+* Melitopol, 399, 450, 452, 453, 459, 491
+* Meshed, 265
+* Mensheviks, 24, 28, 36, 48, 49, 57, 71, 80, 93, 105, 120, 124, 134, 156, 238, 415, 495
+* Mikoyan, Anastas I., 196, 199, 200, 263, 264
+* Miliukov, Pavel N., 11, 11n, 31, 32, 47, 49, 53, 54–5, 56, 89, 164
+* Milrevkom (Military Revolutionary Committee), *see under* Soviets
+* Minsk, 458, 474, 477
+* Mirbach-Haff, Wilhelm Graf v., 188, 203n, 210; assassination, 211, 212, 214, 233
+* Mironov, Lt Col, Filipp K., 120, 165, 181–2, 192, 286, 306, 308, 348, 380–3, 461, 479, 483, 485, 492
+* Muraviev, Mikhail A., 141–2, 143, 175, 209, 213
+* Murmansk, 152–3, 187, 188, 273, 316; Allied mutinies, 316–17; evacuation, 321
 
 ## N
 
-* Nabokov, Vladimir D. (minister), [32](014_3_The_Fall_of_the_Do.xhtml#page_32), [33](014_3_The_Fall_of_the_Do.xhtml#page_33), [97](019_8_The_October_Coup.xhtml#page_97), [135](023_11_Breaking_the_Moul.xhtml#page_135)
-* Nabokov, Vladimir V. (writer), [21](013_2_The_February_Revol.xhtml#page_21), [135–6](023_11_Breaking_the_Moul.xhtml#page_135), [176](026_14_The_Germans_March.xhtml#page_176), [284](035_22_The_Fatal_Comprom.xhtml#page_284)
-* Narva, [156](024_12_Brest-Litovsk.xhtml#page_156), [190](027_15_Enemies_on_the_Pe.xhtml#page_190), [267](032_20_The_Central_Power.xhtml#page_267), [288](035_22_The_Fatal_Comprom.xhtml#page_288), [367](042_29_Baltic_Surprise.xhtml#page_367)
-* Nazarov, Gen. Anatoly M., [165–6](025_13_The_Volunteer_Arm.xhtml#page_165), [166](025_13_The_Volunteer_Arm.xhtml#page_166)
-* Nazhivin, Ivan F., [51](016_5_The_Pregnant_Widow.xhtml#page_51), [172](025_13_The_Volunteer_Arm.xhtml#page_172), [282](035_22_The_Fatal_Comprom.xhtml#page_282), [302](037_24_Don_and_Ukraine.xhtml#page_302)
-* Nikolayev, [282](035_22_The_Fatal_Comprom.xhtml#page_282), [349](041_28_The_March_on_Mosc.xhtml#page_349), [350](041_28_The_March_on_Mosc.xhtml#page_350)
-* Nikopol, [459](051_37_Poles_in_the_West.xhtml#page_459), [482](053_39_The_Riviera_of_Ha.xhtml#page_482)
-* Nizhny Novgorod, [113](020_9_The_Boys_Crusade_R.xhtml#page_113), [220](029_17_Red_Terror.xhtml#page_220), [225](030_18_Fighting_on_the_V.xhtml#page_225), [313](037_24_Don_and_Ukraine.xhtml#page_313), [349](041_28_The_March_on_Mosc.xhtml#page_349)
-* Norris, Cdre David, [198](027_15_Enemies_on_the_Pe.xhtml#page_198), [265](032_20_The_Central_Power.xhtml#page_265), [314](037_24_Don_and_Ukraine.xhtml#page_314), [315](037_24_Don_and_Ukraine.xhtml#page_315), [442](050_36_Wrangel_Takes_Com.xhtml#page_442), [443](050_36_Wrangel_Takes_Com.xhtml#page_443)
-* Novocherkassk, [112](020_9_The_Boys_Crusade_R.xhtml#page_112), [125](021_10_The_Infanticide_o.xhtml#page_125), [126](021_10_The_Infanticide_o.xhtml#page_126), [159](025_13_The_Volunteer_Arm.xhtml#page_159), [160](025_13_The_Volunteer_Arm.xhtml#page_160), [165](025_13_The_Volunteer_Arm.xhtml#page_165), [166](025_13_The_Volunteer_Arm.xhtml#page_166), [167](025_13_The_Volunteer_Arm.xhtml#page_167), [173](025_13_The_Volunteer_Arm.xhtml#page_173), [307](037_24_Don_and_Ukraine.xhtml#page_307), [348](041_28_The_March_on_Mosc.xhtml#page_348), [401](045_32_Retreat_in_the_So.xhtml#page_401), [424](048_34_The_Fall_of_Odess.xhtml#page_424)
-* Novo-Nikolaevsk (Novosibirsk), [203](028_16_The_Czechs_and_Le.xhtml#page_203), [231](030_18_Fighting_on_the_V.xhtml#page_231), [292](035_22_The_Fatal_Comprom.xhtml#page_292), [376](043_30_Siberian_Retreat.xhtml#page_376), [409](046_Part_Four_1920.xhtml#page_409), [414](047_33_The_Great_Siberia.xhtml#page_414)
-* Novorossiisk, [311](037_24_Don_and_Ukraine.xhtml#page_311), [400](045_32_Retreat_in_the_So.xhtml#page_400), [430](049_35_The_Last_Hurrah_o.xhtml#page_430), [433–4](049_35_The_Last_Hurrah_o.xhtml#page_433), [436–9](049_35_The_Last_Hurrah_o.xhtml#page_436), [440](049_35_The_Last_Hurrah_o.xhtml#page_440), [456](051_37_Poles_in_the_West.xhtml#page_456), [466](051_37_Poles_in_the_West.xhtml#page_466), [484](053_39_The_Riviera_of_Ha.xhtml#page_484)
+* Nabokov, Vladimir D. (minister), 32, 33, 97, 135
+* Nabokov, Vladimir V. (writer), 21, 135–6, 176, 284
+* Narva, 156, 190, 267, 288, 367
+* Nazarov, Gen. Anatoly M., 165–6, 166
+* Nazhivin, Ivan F., 51, 172, 282, 302
+* Nikolayev, 282, 349, 350
+* Nikopol, 459, 482
+* Nizhny Novgorod, 113, 220, 225, 313, 349
+* Norris, Cdre David, 198, 265, 314, 315, 442, 443
+* Novocherkassk, 112, 125, 126, 159, 160, 165, 166, 167, 173, 307, 348, 401, 424
+* Novo-Nikolaevsk (Novosibirsk), 203, 231, 292, 376, 409, 414
+* Novorossiisk, 311, 400, 430, 433–4, 436–9, 440, 456, 466, 484
 
 ## O
 
-* Odessa (Odesa), [9–10](012_1_The_Suicide_of_Eur.xhtml#page_9), [59](016_5_The_Pregnant_Widow.xhtml#page_59), [77](018_7_Kornilov.xhtml#page_77), [97](019_8_The_October_Coup.xhtml#page_97), [115](020_9_The_Boys_Crusade_R.xhtml#page_115), [120](021_10_The_Infanticide_o.xhtml#page_120), [175](026_14_The_Germans_March.xhtml#page_175), [256](032_20_The_Central_Power.xhtml#page_256), [281](035_22_The_Fatal_Comprom.xhtml#page_281), [282](035_22_The_Fatal_Comprom.xhtml#page_282), [283](035_22_The_Fatal_Comprom.xhtml#page_283), [405](045_32_Retreat_in_the_So.xhtml#page_405), [418–23](047_33_The_Great_Siberia.xhtml#page_418)
-* Okhrana, [15](013_2_The_February_Revol.xhtml#page_15), [19](013_2_The_February_Revol.xhtml#page_19), [24](013_2_The_February_Revol.xhtml#page_24), [121](021_10_The_Infanticide_o.xhtml#page_121)
-* Omsk, [203](028_16_The_Czechs_and_Le.xhtml#page_203), [231](030_18_Fighting_on_the_V.xhtml#page_231), [245](031_19_From_the_Volga_to.xhtml#page_245), [246](031_19_From_the_Volga_to.xhtml#page_246), [248](031_19_From_the_Volga_to.xhtml#page_248), [252](031_19_From_the_Volga_to.xhtml#page_252), [292](035_22_The_Fatal_Comprom.xhtml#page_292), [294](036_23_Siberia.xhtml#page_294), [296](036_23_Siberia.xhtml#page_296), [324](039_26_Siberia.xhtml#page_324), [327](039_26_Siberia.xhtml#page_327), [329](039_26_Siberia.xhtml#page_329), [342](040_27_Baltic_Summer.xhtml#page_342), [371–4](043_30_Siberian_Retreat.xhtml#page_371)
-* Orel, [349](041_28_The_March_on_Mosc.xhtml#page_349), [351](041_28_The_March_on_Mosc.xhtml#page_351), [360](041_28_The_March_on_Mosc.xhtml#page_360), [361](041_28_The_March_on_Mosc.xhtml#page_361), [388](044_31_The_Turning_Point.xhtml#page_388), [447](050_36_Wrangel_Takes_Com.xhtml#page_447)
-* Orthodox Church, [3](010_Foreword.xhtml#page_3), [120](021_10_The_Infanticide_o.xhtml#page_120), [182](026_14_The_Germans_March.xhtml#page_182), [215](028_16_The_Czechs_and_Le.xhtml#page_215), [364](042_29_Baltic_Surprise.xhtml#page_364)
-* Ottoman Empire, [195](027_15_Enemies_on_the_Pe.xhtml#page_195), [262–3](032_20_The_Central_Power.xhtml#page_262)
+* Odessa (Odesa), 9–10, 59, 77, 97, 115, 120, 175, 256, 281, 282, 283, 405, 418–23
+* Okhrana, 15, 19, 24, 121
+* Omsk, 203, 231, 245, 246, 248, 252, 292, 294, 296, 324, 327, 329, 342, 371–4
+* Orel, 349, 351, 360, 361, 388, 447
+* Orthodox Church, 3, 120, 182, 215, 364
+* Ottoman Empire, 195, 262–3
 
 ## P
 
-* Paderewski, Ignacy, [290](035_22_The_Fatal_Comprom.xhtml#page_290)n, [291](035_22_The_Fatal_Comprom.xhtml#page_291)
-* Paléologue, Maurice, [14–15](013_2_The_February_Revol.xhtml#page_14), [16](013_2_The_February_Revol.xhtml#page_16), [20](013_2_The_February_Revol.xhtml#page_20)
-* Paustovsky, Konstantin G., [40](015_4_From_Autocracy_to_.xhtml#page_40), [51](016_5_The_Pregnant_Widow.xhtml#page_51), [59](016_5_The_Pregnant_Widow.xhtml#page_59), [110](020_9_The_Boys_Crusade_R.xhtml#page_110), [116](020_9_The_Boys_Crusade_R.xhtml#page_116), [138](023_11_Breaking_the_Moul.xhtml#page_138), [177](026_14_The_Germans_March.xhtml#page_177), [261](032_20_The_Central_Power.xhtml#page_261), [392](044_31_The_Turning_Point.xhtml#page_392), [418](047_33_The_Great_Siberia.xhtml#page_418), [420](048_34_The_Fall_of_Odess.xhtml#page_420), [502](055_Conclusion_The_Devil.xhtml#page_502)
-* Penza, [203](028_16_The_Czechs_and_Le.xhtml#page_203), [493](054_40_The_Death_of_Hope.xhtml#page_493)
-* People’s Army (Komuch), [204](028_16_The_Czechs_and_Le.xhtml#page_204), [226](030_18_Fighting_on_the_V.xhtml#page_226), [237](030_18_Fighting_on_the_V.xhtml#page_237), [240](031_19_From_the_Volga_to.xhtml#page_240), [242](031_19_From_the_Volga_to.xhtml#page_242)
-* Pepelayev, Anatoly N., [253](031_19_From_the_Volga_to.xhtml#page_253), [254](031_19_From_the_Volga_to.xhtml#page_254), [294](036_23_Siberia.xhtml#page_294), [323](039_26_Siberia.xhtml#page_323), [327](039_26_Siberia.xhtml#page_327), [332](039_26_Siberia.xhtml#page_332), [409–10](046_Part_Four_1920.xhtml#page_409)
-* Pepelayev, Viktor N., [253](031_19_From_the_Volga_to.xhtml#page_253), [323](039_26_Siberia.xhtml#page_323), [326](039_26_Siberia.xhtml#page_326), [327](039_26_Siberia.xhtml#page_327), [333](039_26_Siberia.xhtml#page_333), [334](039_26_Siberia.xhtml#page_334), [342](040_27_Baltic_Summer.xhtml#page_342), [378](043_30_Siberian_Retreat.xhtml#page_378), [409–10](046_Part_Four_1920.xhtml#page_409), [415](047_33_The_Great_Siberia.xhtml#page_415), [416](047_33_The_Great_Siberia.xhtml#page_416), [417](047_33_The_Great_Siberia.xhtml#page_417)
-* Perekop isthmus, [283](035_22_The_Fatal_Comprom.xhtml#page_283), [440](049_35_The_Last_Hurrah_o.xhtml#page_440), [446](050_36_Wrangel_Takes_Com.xhtml#page_446), [450](050_36_Wrangel_Takes_Com.xhtml#page_450), [453](051_37_Poles_in_the_West.xhtml#page_453), [480](053_39_The_Riviera_of_Ha.xhtml#page_480), [483](053_39_The_Riviera_of_Ha.xhtml#page_483)
-* Perm, [215](028_16_The_Czechs_and_Le.xhtml#page_215), [233](030_18_Fighting_on_the_V.xhtml#page_233), [237](030_18_Fighting_on_the_V.xhtml#page_237), [238](030_18_Fighting_on_the_V.xhtml#page_238), [253](031_19_From_the_Volga_to.xhtml#page_253), [294](036_23_Siberia.xhtml#page_294), [317](038_25_Murmansk_and_Arkh.xhtml#page_317)
-* Peter and Paul Fortress, [24](013_2_The_February_Revol.xhtml#page_24), [37](015_4_From_Autocracy_to_.xhtml#page_37), [72](017_6_The_Kerensky_Offen.xhtml#page_72), [99](019_8_The_October_Coup.xhtml#page_99), [101–2](019_8_The_October_Coup.xhtml#page_101), [108](020_9_The_Boys_Crusade_R.xhtml#page_108), [121](021_10_The_Infanticide_o.xhtml#page_121), [135](023_11_Breaking_the_Moul.xhtml#page_135), [220](029_17_Red_Terror.xhtml#page_220), [365](042_29_Baltic_Surprise.xhtml#page_365)
-* Péters, Yakov K., [222](029_17_Red_Terror.xhtml#page_222), [338–9](040_27_Baltic_Summer.xhtml#page_338)
-* Petliura, Symon, [76](018_7_Kornilov.xhtml#page_76), [177](026_14_The_Germans_March.xhtml#page_177), [178](026_14_The_Germans_March.xhtml#page_178), [186](026_14_The_Germans_March.xhtml#page_186), [256](032_20_The_Central_Power.xhtml#page_256), [257](032_20_The_Central_Power.xhtml#page_257), [261](032_20_The_Central_Power.xhtml#page_261), [282](035_22_The_Fatal_Comprom.xhtml#page_282), [354](041_28_The_March_on_Mosc.xhtml#page_354), [392](044_31_The_Turning_Point.xhtml#page_392), [448](050_36_Wrangel_Takes_Com.xhtml#page_448), [449](050_36_Wrangel_Takes_Com.xhtml#page_449)
-* Petropavlovsk, [296](036_23_Siberia.xhtml#page_296), [332](039_26_Siberia.xhtml#page_332), [333](039_26_Siberia.xhtml#page_333), [370](043_30_Siberian_Retreat.xhtml#page_370)
-* Piłsudski, Józef, [353](041_28_The_March_on_Mosc.xhtml#page_353), [363](042_29_Baltic_Surprise.xhtml#page_363), [398](045_32_Retreat_in_the_So.xhtml#page_398), [399](045_32_Retreat_in_the_So.xhtml#page_399), [446–7](050_36_Wrangel_Takes_Com.xhtml#page_446), [448](050_36_Wrangel_Takes_Com.xhtml#page_448), [449](050_36_Wrangel_Takes_Com.xhtml#page_449), [450](050_36_Wrangel_Takes_Com.xhtml#page_450), [453](051_37_Poles_in_the_West.xhtml#page_453), [458](051_37_Poles_in_the_West.xhtml#page_458), [468](051_37_Poles_in_the_West.xhtml#page_468), [469](052_38_The_Miracle_on_th.xhtml#page_469); redeploys army, [471](052_38_The_Miracle_on_th.xhtml#page_471), [*472*](052_38_The_Miracle_on_th.xhtml#page_472), [473](052_38_The_Miracle_on_th.xhtml#page_473), [478](052_38_The_Miracle_on_th.xhtml#page_478)
-* Plehve, Vyacheslav K, [59](016_5_The_Pregnant_Widow.xhtml#page_59)
-* Podvoisky, Nikolai I., [105](020_9_The_Boys_Crusade_R.xhtml#page_105), [185](026_14_The_Germans_March.xhtml#page_185)
-* Pokrovsky, Col Viktor L., [170](025_13_The_Volunteer_Arm.xhtml#page_170), [390](044_31_The_Turning_Point.xhtml#page_390), [391](044_31_The_Turning_Point.xhtml#page_391), [445](050_36_Wrangel_Takes_Com.xhtml#page_445)
-* Polish Army, [447](050_36_Wrangel_Takes_Com.xhtml#page_447), [448](050_36_Wrangel_Takes_Com.xhtml#page_448), [449](050_36_Wrangel_Takes_Com.xhtml#page_449), [454](051_37_Poles_in_the_West.xhtml#page_454), [458](051_37_Poles_in_the_West.xhtml#page_458), [459](051_37_Poles_in_the_West.xhtml#page_459), [469](052_38_The_Miracle_on_th.xhtml#page_469), [470](052_38_The_Miracle_on_th.xhtml#page_470), [471–5](052_38_The_Miracle_on_th.xhtml#page_471); battle of Zamość, [477](052_38_The_Miracle_on_th.xhtml#page_477)
-* Polish Legion, [250](031_19_From_the_Volga_to.xhtml#page_250), [256](032_20_The_Central_Power.xhtml#page_256), [319](038_25_Murmansk_and_Arkh.xhtml#page_319), [325–6](039_26_Siberia.xhtml#page_325); anger at Czechs, [376–7](043_30_Siberian_Retreat.xhtml#page_376), [412](047_33_The_Great_Siberia.xhtml#page_412), [413](047_33_The_Great_Siberia.xhtml#page_413), [448](050_36_Wrangel_Takes_Com.xhtml#page_448)
-* Poltava, [141](023_11_Breaking_the_Moul.xhtml#page_141), [308](037_24_Don_and_Ukraine.xhtml#page_308), [312](037_24_Don_and_Ukraine.xhtml#page_312), [350](041_28_The_March_on_Mosc.xhtml#page_350)
-* Poole, Maj. Gen. Frederick, [63–4](017_6_The_Kerensky_Offen.xhtml#page_63), [188](027_15_Enemies_on_the_Pe.xhtml#page_188), [273](033_21_The_Baltic_and_No.xhtml#page_273)
-* Popov, Gen, [167](025_13_The_Volunteer_Arm.xhtml#page_167), [168](025_13_The_Volunteer_Arm.xhtml#page_168), [173](025_13_The_Volunteer_Arm.xhtml#page_173)
-* Prikaz No. 1, [41](015_4_From_Autocracy_to_.xhtml#page_41), [42](015_4_From_Autocracy_to_.xhtml#page_42), [79](018_7_Kornilov.xhtml#page_79)
-* Prinkipo islands, [279](035_22_The_Fatal_Comprom.xhtml#page_279), [433](049_35_The_Last_Hurrah_o.xhtml#page_433), [487](053_39_The_Riviera_of_Ha.xhtml#page_487)
-* Prinkipo conference, [279](035_22_The_Fatal_Comprom.xhtml#page_279)
-* Progressive Bloc, [18](013_2_The_February_Revol.xhtml#page_18), [28](014_3_The_Fall_of_the_Do.xhtml#page_28)
-* Prokofiev, Sergei S., [19–20](013_2_The_February_Revol.xhtml#page_19), [24](013_2_The_February_Revol.xhtml#page_24), [27](014_3_The_Fall_of_the_Do.xhtml#page_27), [34](015_4_From_Autocracy_to_.xhtml#page_34), [66](017_6_The_Kerensky_Offen.xhtml#page_66), [69](017_6_The_Kerensky_Offen.xhtml#page_69), [77](018_7_Kornilov.xhtml#page_77), [227](030_18_Fighting_on_the_V.xhtml#page_227)
-* Protopopov, Aleksandr D., [15](013_2_The_February_Revol.xhtml#page_15), [16–17](013_2_The_February_Revol.xhtml#page_16), [19](013_2_The_February_Revol.xhtml#page_19), [21](013_2_The_February_Revol.xhtml#page_21), [22](013_2_The_February_Revol.xhtml#page_22), [25](013_2_The_February_Revol.xhtml#page_25)
-* Provisional Committee of Duma, [28–9](014_3_The_Fall_of_the_Do.xhtml#page_28), [31](014_3_The_Fall_of_the_Do.xhtml#page_31), [35](015_4_From_Autocracy_to_.xhtml#page_35), [41](015_4_From_Autocracy_to_.xhtml#page_41)
-* Provisional Government, [29](014_3_The_Fall_of_the_Do.xhtml#page_29), [32](014_3_The_Fall_of_the_Do.xhtml#page_32), [33](014_3_The_Fall_of_the_Do.xhtml#page_33), [35](015_4_From_Autocracy_to_.xhtml#page_35), [36](015_4_From_Autocracy_to_.xhtml#page_36), [41](015_4_From_Autocracy_to_.xhtml#page_41), [46](015_4_From_Autocracy_to_.xhtml#page_46), [48](016_5_The_Pregnant_Widow.xhtml#page_48), [49](016_5_The_Pregnant_Widow.xhtml#page_49), [51](016_5_The_Pregnant_Widow.xhtml#page_51), [54](016_5_The_Pregnant_Widow.xhtml#page_54), [55](016_5_The_Pregnant_Widow.xhtml#page_55), [67](017_6_The_Kerensky_Offen.xhtml#page_67), [69](017_6_The_Kerensky_Offen.xhtml#page_69); Kerensky takes over, [74](017_6_The_Kerensky_Offen.xhtml#page_74); and Finland, [75–6](018_7_Kornilov.xhtml#page_75); collapse in confidence, [77](018_7_Kornilov.xhtml#page_77); plotting against, [81](018_7_Kornilov.xhtml#page_81), [92](019_8_The_October_Coup.xhtml#page_92); collapse of [101](019_8_The_October_Coup.xhtml#page_101); Commissars, [58](016_5_The_Pregnant_Widow.xhtml#page_58), [66](017_6_The_Kerensky_Offen.xhtml#page_66), [78](018_7_Kornilov.xhtml#page_78), [79](018_7_Kornilov.xhtml#page_79), [80](018_7_Kornilov.xhtml#page_80)
-* Pskov, [28](014_3_The_Fall_of_the_Do.xhtml#page_28), [29](014_3_The_Fall_of_the_Do.xhtml#page_29), [30](014_3_The_Fall_of_the_Do.xhtml#page_30), [34](015_4_From_Autocracy_to_.xhtml#page_34), [100](019_8_The_October_Coup.xhtml#page_100), [105](020_9_The_Boys_Crusade_R.xhtml#page_105), [220](029_17_Red_Terror.xhtml#page_220), [267](032_20_The_Central_Power.xhtml#page_267), [289](035_22_The_Fatal_Comprom.xhtml#page_289), [337](040_27_Baltic_Summer.xhtml#page_337), [343](040_27_Baltic_Summer.xhtml#page_343)
-* Pugachev, Yemelyan, [3](010_Foreword.xhtml#page_3), [57](016_5_The_Pregnant_Widow.xhtml#page_57), [224](029_17_Red_Terror.xhtml#page_224)n
-* Pulkovo, [105](020_9_The_Boys_Crusade_R.xhtml#page_105), [106](020_9_The_Boys_Crusade_R.xhtml#page_106), [367](042_29_Baltic_Surprise.xhtml#page_367)
-* Purishkevich, Vladimir M., [12](012_1_The_Suicide_of_Eur.xhtml#page_12), [433](049_35_The_Last_Hurrah_o.xhtml#page_433)
-* Pushkin, Aleksandr S., [3](010_Foreword.xhtml#page_3), [47](016_5_The_Pregnant_Widow.xhtml#page_47), [97](019_8_The_October_Coup.xhtml#page_97), [224](029_17_Red_Terror.xhtml#page_224), [423](048_34_The_Fall_of_Odess.xhtml#page_423), [502](055_Conclusion_The_Devil.xhtml#page_502)
-* Putilov Works, [17](013_2_The_February_Revol.xhtml#page_17), [107](020_9_The_Boys_Crusade_R.xhtml#page_107), [142](023_11_Breaking_the_Moul.xhtml#page_142), [222](029_17_Red_Terror.xhtml#page_222), [288](035_22_The_Fatal_Comprom.xhtml#page_288), [366](042_29_Baltic_Surprise.xhtml#page_366)
-* Pyatigorsk, [195](027_15_Enemies_on_the_Pe.xhtml#page_195), [220](029_17_Red_Terror.xhtml#page_220)
+* Paderewski, Ignacy, 290n, 291
+* Paléologue, Maurice, 14–15, 16, 20
+* Paustovsky, Konstantin G., 40, 51, 59, 110, 116, 138, 177, 261, 392, 418, 420, 502
+* Penza, 203, 493
+* People’s Army (Komuch), 204, 226, 237, 240, 242
+* Pepelayev, Anatoly N., 253, 254, 294, 323, 327, 332, 409–10
+* Pepelayev, Viktor N., 253, 323, 326, 327, 333, 334, 342, 378, 409–10, 415, 416, 417
+* Perekop isthmus, 283, 440, 446, 450, 453, 480, 483
+* Perm, 215, 233, 237, 238, 253, 294, 317
+* Peter and Paul Fortress, 24, 37, 72, 99, 101–2, 108, 121, 135, 220, 365
+* Péters, Yakov K., 222, 338–9
+* Petliura, Symon, 76, 177, 178, 186, 256, 257, 261, 282, 354, 392, 448, 449
+* Petropavlovsk, 296, 332, 333, 370
+* Piłsudski, Józef, 353, 363, 398, 399, 446–7, 448, 449, 450, 453, 458, 468, 469; redeploys army, 471, *472*, 473, 478
+* Plehve, Vyacheslav K, 59
+* Podvoisky, Nikolai I., 105, 185
+* Pokrovsky, Col Viktor L., 170, 390, 391, 445
+* Polish Army, 447, 448, 449, 454, 458, 459, 469, 470, 471–5; battle of Zamość, 477
+* Polish Legion, 250, 256, 319, 325–6; anger at Czechs, 376–7, 412, 413, 448
+* Poltava, 141, 308, 312, 350
+* Poole, Maj. Gen. Frederick, 63–4, 188, 273
+* Popov, Gen, 167, 168, 173
+* Prikaz No. 1, 41, 42, 79
+* Prinkipo islands, 279, 433, 487
+* Prinkipo conference, 279
+* Progressive Bloc, 18, 28
+* Prokofiev, Sergei S., 19–20, 24, 27, 34, 66, 69, 77, 227
+* Protopopov, Aleksandr D., 15, 16–17, 19, 21, 22, 25
+* Provisional Committee of Duma, 28–9, 31, 35, 41
+* Provisional Government, 29, 32, 33, 35, 36, 41, 46, 48, 49, 51, 54, 55, 67, 69; Kerensky takes over, 74; and Finland, 75–6; collapse in confidence, 77; plotting against, 81, 92; collapse of 101; Commissars, 58, 66, 78, 79, 80
+* Pskov, 28, 29, 30, 34, 100, 105, 220, 267, 289, 337, 343
+* Pugachev, Yemelyan, 3, 57, 224n
+* Pulkovo, 105, 106, 367
+* Purishkevich, Vladimir M., 12, 433
+* Pushkin, Aleksandr S., 3, 47, 97, 224, 423, 502
+* Putilov Works, 17, 107, 142, 222, 288, 366
+* Pyatigorsk, 195, 220
 
 ## R
 
-* Radek, Karl B., [48](016_5_The_Pregnant_Widow.xhtml#page_48), [73](017_6_The_Kerensky_Offen.xhtml#page_73), [119](021_10_The_Infanticide_o.xhtml#page_119), [146](024_12_Brest-Litovsk.xhtml#page_146), [148](024_12_Brest-Litovsk.xhtml#page_148), [183](026_14_The_Germans_March.xhtml#page_183), [212](028_16_The_Czechs_and_Le.xhtml#page_212), [468](051_37_Poles_in_the_West.xhtml#page_468)
-* Rakovsky, Khristian G., [183](026_14_The_Germans_March.xhtml#page_183), [184](026_14_The_Germans_March.xhtml#page_184), [185](026_14_The_Germans_March.xhtml#page_185), [395](045_32_Retreat_in_the_So.xhtml#page_395)
-* Ransome, Arthur, [48](016_5_The_Pregnant_Widow.xhtml#page_48), [133](023_11_Breaking_the_Moul.xhtml#page_133), [134](023_11_Breaking_the_Moul.xhtml#page_134)
-* rape, [171](025_13_The_Volunteer_Arm.xhtml#page_171), [172](025_13_The_Volunteer_Arm.xhtml#page_172), [215](028_16_The_Czechs_and_Le.xhtml#page_215), [357–8](041_28_The_March_on_Mosc.xhtml#page_357), [456–7](051_37_Poles_in_the_West.xhtml#page_456), [485](053_39_The_Riviera_of_Ha.xhtml#page_485)
-* Raskolnikov, Fyodor F., [44](015_4_From_Autocracy_to_.xhtml#page_44), [70](017_6_The_Kerensky_Offen.xhtml#page_70), [71](017_6_The_Kerensky_Offen.xhtml#page_71), [72](017_6_The_Kerensky_Offen.xhtml#page_72), [105](020_9_The_Boys_Crusade_R.xhtml#page_105), [108](020_9_The_Boys_Crusade_R.xhtml#page_108), [225](030_18_Fighting_on_the_V.xhtml#page_225), [233](030_18_Fighting_on_the_V.xhtml#page_233), [235](030_18_Fighting_on_the_V.xhtml#page_235), [237](030_18_Fighting_on_the_V.xhtml#page_237), [269](033_21_The_Baltic_and_No.xhtml#page_269), [314](037_24_Don_and_Ukraine.xhtml#page_314), [338](040_27_Baltic_Summer.xhtml#page_338), [442–3](050_36_Wrangel_Takes_Com.xhtml#page_442)
-* Rasputin, Grigory, [7](012_1_The_Suicide_of_Eur.xhtml#page_7), [8](012_1_The_Suicide_of_Eur.xhtml#page_8), [12](012_1_The_Suicide_of_Eur.xhtml#page_12), [*13*](012_1_The_Suicide_of_Eur.xhtml#page_13), [214](028_16_The_Czechs_and_Le.xhtml#page_214), [433](049_35_The_Last_Hurrah_o.xhtml#page_433)
-* Red Army, origins, [227](030_18_Fighting_on_the_V.xhtml#page_227), [228](030_18_Fighting_on_the_V.xhtml#page_228)
+* Radek, Karl B., 48, 73, 119, 146, 148, 183, 212, 468
+* Rakovsky, Khristian G., 183, 184, 185, 395
+* Ransome, Arthur, 48, 133, 134
+* rape, 171, 172, 215, 357–8, 456–7, 485
+* Raskolnikov, Fyodor F., 44, 70, 71, 72, 105, 108, 225, 233, 235, 237, 269, 314, 338, 442–3
+* Rasputin, Grigory, 7, 8, 12, *13*, 214, 433
+* Red Army, origins, 227, 228
 
-  + 1st Army, [237](030_18_Fighting_on_the_V.xhtml#page_237), [297](036_23_Siberia.xhtml#page_297), [382](044_31_The_Turning_Point.xhtml#page_382), [472](052_38_The_Miracle_on_th.xhtml#page_472)
-  + 3rd Army, [233](030_18_Fighting_on_the_V.xhtml#page_233), [238](030_18_Fighting_on_the_V.xhtml#page_238), [253](031_19_From_the_Volga_to.xhtml#page_253), [254](031_19_From_the_Volga_to.xhtml#page_254), [316](037_24_Don_and_Ukraine.xhtml#page_316), [322](038_25_Murmansk_and_Arkh.xhtml#page_322)
-  + 4th Army, [322](038_25_Murmansk_and_Arkh.xhtml#page_322), [382](044_31_The_Turning_Point.xhtml#page_382), [473](052_38_The_Miracle_on_th.xhtml#page_473), [480](053_39_The_Riviera_of_Ha.xhtml#page_480), [484](053_39_The_Riviera_of_Ha.xhtml#page_484), [491](053_39_The_Riviera_of_Ha.xhtml#page_491)
-  + 5th Army, [235](030_18_Fighting_on_the_V.xhtml#page_235), [297](036_23_Siberia.xhtml#page_297), [322](038_25_Murmansk_and_Arkh.xhtml#page_322), [327](039_26_Siberia.xhtml#page_327), [332](039_26_Siberia.xhtml#page_332), [342](040_27_Baltic_Summer.xhtml#page_342), [373](043_30_Siberian_Retreat.xhtml#page_373), [374](043_30_Siberian_Retreat.xhtml#page_374), [410](047_33_The_Great_Siberia.xhtml#page_410)
-  + 6th Army, [272](033_21_The_Baltic_and_No.xhtml#page_272), [273](033_21_The_Baltic_and_No.xhtml#page_273), [480](053_39_The_Riviera_of_Ha.xhtml#page_480), [484](053_39_The_Riviera_of_Ha.xhtml#page_484)
-  + 7th Army, [267](032_20_The_Central_Power.xhtml#page_267), [269–70](033_21_The_Baltic_and_No.xhtml#page_269), [288](035_22_The_Fatal_Comprom.xhtml#page_288), [290](035_22_The_Fatal_Comprom.xhtml#page_290), [342](040_27_Baltic_Summer.xhtml#page_342), [364](042_29_Baltic_Surprise.xhtml#page_364), [365](042_29_Baltic_Surprise.xhtml#page_365), [499](054_40_The_Death_of_Hope.xhtml#page_499)
-  + 8th Army, [286](035_22_The_Fatal_Comprom.xhtml#page_286), [287](035_22_The_Fatal_Comprom.xhtml#page_287), [306](037_24_Don_and_Ukraine.xhtml#page_306), [425](049_35_The_Last_Hurrah_o.xhtml#page_425)
-  + 9th Army, [257–8](032_20_The_Central_Power.xhtml#page_257), [286](035_22_The_Fatal_Comprom.xhtml#page_286), [287](035_22_The_Fatal_Comprom.xhtml#page_287), [306](037_24_Don_and_Ukraine.xhtml#page_306), [307](037_24_Don_and_Ukraine.xhtml#page_307), [308](037_24_Don_and_Ukraine.xhtml#page_308), [353](041_28_The_March_on_Mosc.xhtml#page_353), [381](044_31_The_Turning_Point.xhtml#page_381), [382](044_31_The_Turning_Point.xhtml#page_382), [426](049_35_The_Last_Hurrah_o.xhtml#page_426), [441](050_36_Wrangel_Takes_Com.xhtml#page_441), [466](051_37_Poles_in_the_West.xhtml#page_466)
-  + 10th Army, [193](027_15_Enemies_on_the_Pe.xhtml#page_193), [286](035_22_The_Fatal_Comprom.xhtml#page_286), [287](035_22_The_Fatal_Comprom.xhtml#page_287), [307](037_24_Don_and_Ukraine.xhtml#page_307), [308](037_24_Don_and_Ukraine.xhtml#page_308), [353](041_28_The_March_on_Mosc.xhtml#page_353), [399](045_32_Retreat_in_the_So.xhtml#page_399), [424](048_34_The_Fall_of_Odess.xhtml#page_424), [426](049_35_The_Last_Hurrah_o.xhtml#page_426), [465](051_37_Poles_in_the_West.xhtml#page_465)
-  + 11th Army, [285](035_22_The_Fatal_Comprom.xhtml#page_285), [441](050_36_Wrangel_Takes_Com.xhtml#page_441)
-  + 12th Army, [285](035_22_The_Fatal_Comprom.xhtml#page_285), [306](037_24_Don_and_Ukraine.xhtml#page_306), [399](045_32_Retreat_in_the_So.xhtml#page_399), [448](050_36_Wrangel_Takes_Com.xhtml#page_448), [449](050_36_Wrangel_Takes_Com.xhtml#page_449), [453](051_37_Poles_in_the_West.xhtml#page_453), [455](051_37_Poles_in_the_West.xhtml#page_455), [459](051_37_Poles_in_the_West.xhtml#page_459)
-  + 13th Army, [306](037_24_Don_and_Ukraine.xhtml#page_306), [399](045_32_Retreat_in_the_So.xhtml#page_399), [452](050_36_Wrangel_Takes_Com.xhtml#page_452), [453](051_37_Poles_in_the_West.xhtml#page_453), [479](052_38_The_Miracle_on_th.xhtml#page_479)
-  + 14th Army, [347](040_27_Baltic_Summer.xhtml#page_347), [399](045_32_Retreat_in_the_So.xhtml#page_399), [418](047_33_The_Great_Siberia.xhtml#page_418), [449](050_36_Wrangel_Takes_Com.xhtml#page_449), [453](051_37_Poles_in_the_West.xhtml#page_453)
-  + 15th Army, [364](042_29_Baltic_Surprise.xhtml#page_364), [365](042_29_Baltic_Surprise.xhtml#page_365)
-  + 16th Army, [474](052_38_The_Miracle_on_th.xhtml#page_474), [475–6](052_38_The_Miracle_on_th.xhtml#page_475)
-  + 1st Cavalry Army (Konarmia), [352–3](041_28_The_March_on_Mosc.xhtml#page_352), [398](045_32_Retreat_in_the_So.xhtml#page_398), [401](045_32_Retreat_in_the_So.xhtml#page_401), [424](048_34_The_Fall_of_Odess.xhtml#page_424), [426](049_35_The_Last_Hurrah_o.xhtml#page_426), [453](051_37_Poles_in_the_West.xhtml#page_453), [455](051_37_Poles_in_the_West.xhtml#page_455), [476–8](052_38_The_Miracle_on_th.xhtml#page_476); battle of Zamość, [477](052_38_The_Miracle_on_th.xhtml#page_477), [485](053_39_The_Riviera_of_Ha.xhtml#page_485), [491](053_39_The_Riviera_of_Ha.xhtml#page_491)
-  + 2nd Cavalry Army, [383](044_31_The_Turning_Point.xhtml#page_383), [479](052_38_The_Miracle_on_th.xhtml#page_479), [482–3](053_39_The_Riviera_of_Ha.xhtml#page_482), [484–5](053_39_The_Riviera_of_Ha.xhtml#page_484), [491](053_39_The_Riviera_of_Ha.xhtml#page_491)
-  + Latvian Rifles, [100](019_8_The_October_Coup.xhtml#page_100), [121](021_10_The_Infanticide_o.xhtml#page_121), [123–4](021_10_The_Infanticide_o.xhtml#page_123), [133](023_11_Breaking_the_Moul.xhtml#page_133), [185](026_14_The_Germans_March.xhtml#page_185), [187](027_15_Enemies_on_the_Pe.xhtml#page_187), [213](028_16_The_Czechs_and_Le.xhtml#page_213), [388](044_31_The_Turning_Point.xhtml#page_388), [453](051_37_Poles_in_the_West.xhtml#page_453), [493](054_40_The_Death_of_Hope.xhtml#page_493)
-* Red Guards, [27](014_3_The_Fall_of_the_Do.xhtml#page_27), [88](018_7_Kornilov.xhtml#page_88), [94](019_8_The_October_Coup.xhtml#page_94)n, [97](019_8_The_October_Coup.xhtml#page_97), [99](019_8_The_October_Coup.xhtml#page_99), [101](019_8_The_October_Coup.xhtml#page_101), [102](019_8_The_October_Coup.xhtml#page_102), [105](020_9_The_Boys_Crusade_R.xhtml#page_105), [107](020_9_The_Boys_Crusade_R.xhtml#page_107); in Moscow, [109–10](020_9_The_Boys_Crusade_R.xhtml#page_109); Taganrog, [113](020_9_The_Boys_Crusade_R.xhtml#page_113); Irkutsk, [114](020_9_The_Boys_Crusade_R.xhtml#page_114); [133](023_11_Breaking_the_Moul.xhtml#page_133), [135](023_11_Breaking_the_Moul.xhtml#page_135), [138](023_11_Breaking_the_Moul.xhtml#page_138); in Kiev, [143](023_11_Breaking_the_Moul.xhtml#page_143); [161](025_13_The_Volunteer_Arm.xhtml#page_161), [*162*](025_13_The_Volunteer_Arm.xhtml#page_162); Armenian, [199](027_15_Enemies_on_the_Pe.xhtml#page_199)
-* Red *Stavka*, [226](030_18_Fighting_on_the_V.xhtml#page_226); priority to Siberia, [308](037_24_Don_and_Ukraine.xhtml#page_308); [314](037_24_Don_and_Ukraine.xhtml#page_314); reinforcement of Eastern Front and strategy, [322](038_25_Murmansk_and_Arkh.xhtml#page_322), [347](040_27_Baltic_Summer.xhtml#page_347), [351](041_28_The_March_on_Mosc.xhtml#page_351), [352](041_28_The_March_on_Mosc.xhtml#page_352), [388](044_31_The_Turning_Point.xhtml#page_388), [399](045_32_Retreat_in_the_So.xhtml#page_399), [427](049_35_The_Last_Hurrah_o.xhtml#page_427), [441](050_36_Wrangel_Takes_Com.xhtml#page_441), [448](050_36_Wrangel_Takes_Com.xhtml#page_448), [452](050_36_Wrangel_Takes_Com.xhtml#page_452), [455](051_37_Poles_in_the_West.xhtml#page_455), [461](051_37_Poles_in_the_West.xhtml#page_461), [476](052_38_The_Miracle_on_th.xhtml#page_476), [479](052_38_The_Miracle_on_th.xhtml#page_479), [480](053_39_The_Riviera_of_Ha.xhtml#page_480), [487](053_39_The_Riviera_of_Ha.xhtml#page_487)
-* Red Terror, [136](023_11_Breaking_the_Moul.xhtml#page_136), [137](023_11_Breaking_the_Moul.xhtml#page_137), [217–23](029_17_Red_Terror.xhtml#page_217); Kharkov, [304–5](037_24_Don_and_Ukraine.xhtml#page_304); Kiev, [355](041_28_The_March_on_Mosc.xhtml#page_355); [356–7](041_28_The_March_on_Mosc.xhtml#page_356); Crimea, [488–90](053_39_The_Riviera_of_Ha.xhtml#page_488)
-* Reisner, Larisa M., [225–6](030_18_Fighting_on_the_V.xhtml#page_225), [233](030_18_Fighting_on_the_V.xhtml#page_233); and Kazan, [234](030_18_Fighting_on_the_V.xhtml#page_234), [235](030_18_Fighting_on_the_V.xhtml#page_235), [237](030_18_Fighting_on_the_V.xhtml#page_237); [269](033_21_The_Baltic_and_No.xhtml#page_269), [314](037_24_Don_and_Ukraine.xhtml#page_314); [442](050_36_Wrangel_Takes_Com.xhtml#page_442)
-* Reval, *see*[Tallinn](062_Index.xhtml#tallinn)
-* Revishin, Gen. Aleksandr P., [260](032_20_The_Central_Power.xhtml#page_260)
-* Riezler, Kurt, [184](026_14_The_Germans_March.xhtml#page_184), [211](028_16_The_Czechs_and_Le.xhtml#page_211), [212](028_16_The_Czechs_and_Le.xhtml#page_212)
-* Riga, [77](018_7_Kornilov.xhtml#page_77), [84](018_7_Kornilov.xhtml#page_84), [123](021_10_The_Infanticide_o.xhtml#page_123), [149](024_12_Brest-Litovsk.xhtml#page_149), [267](032_20_The_Central_Power.xhtml#page_267), [270](033_21_The_Baltic_and_No.xhtml#page_270), [289](035_22_The_Fatal_Comprom.xhtml#page_289), [340](040_27_Baltic_Summer.xhtml#page_340), [341](040_27_Baltic_Summer.xhtml#page_341), [363](042_29_Baltic_Surprise.xhtml#page_363), [482](053_39_The_Riviera_of_Ha.xhtml#page_482)
-* Right SRs, [79](018_7_Kornilov.xhtml#page_79), [96](019_8_The_October_Coup.xhtml#page_96), [106](020_9_The_Boys_Crusade_R.xhtml#page_106), [133](023_11_Breaking_the_Moul.xhtml#page_133), [134](023_11_Breaking_the_Moul.xhtml#page_134), [202](028_16_The_Czechs_and_Le.xhtml#page_202), [203](028_16_The_Czechs_and_Le.xhtml#page_203), [272–3](033_21_The_Baltic_and_No.xhtml#page_272), [374](043_30_Siberian_Retreat.xhtml#page_374)
-* Robien, Cmte Louis de, [20](013_2_The_February_Revol.xhtml#page_20), [23](013_2_The_February_Revol.xhtml#page_23)
-* Rodzyanko, Gen. Aleksandr P., [267](032_20_The_Central_Power.xhtml#page_267), [*271*](033_21_The_Baltic_and_No.xhtml#page_271), [337](040_27_Baltic_Summer.xhtml#page_337), [342](040_27_Baltic_Summer.xhtml#page_342), [364](042_29_Baltic_Surprise.xhtml#page_364), [365](042_29_Baltic_Surprise.xhtml#page_365), [367](042_29_Baltic_Surprise.xhtml#page_367)
-* Rodzyanko, Mikhail V., [18](013_2_The_February_Revol.xhtml#page_18), [22](013_2_The_February_Revol.xhtml#page_22), [23](013_2_The_February_Revol.xhtml#page_23), [25](013_2_The_February_Revol.xhtml#page_25), [29](014_3_The_Fall_of_the_Do.xhtml#page_29), [31](014_3_The_Fall_of_the_Do.xhtml#page_31), [32](014_3_The_Fall_of_the_Do.xhtml#page_32), [42](015_4_From_Autocracy_to_.xhtml#page_42), [179](026_14_The_Germans_March.xhtml#page_179), [180–1](026_14_The_Germans_March.xhtml#page_180), [385](044_31_The_Turning_Point.xhtml#page_385)
-* Romanian troops, [292](035_22_The_Fatal_Comprom.xhtml#page_292)
-* Romanov, Aleksei N. (Tsarevich), [29](014_3_The_Fall_of_the_Do.xhtml#page_29), [30](014_3_The_Fall_of_the_Do.xhtml#page_30), [31](014_3_The_Fall_of_the_Do.xhtml#page_31), [38](015_4_From_Autocracy_to_.xhtml#page_38), [39](015_4_From_Autocracy_to_.xhtml#page_39)
-* Romanov, Gd Duke Mikhail A., [25](013_2_The_February_Revol.xhtml#page_25), [29](014_3_The_Fall_of_the_Do.xhtml#page_29), [30](014_3_The_Fall_of_the_Do.xhtml#page_30), [31–2](014_3_The_Fall_of_the_Do.xhtml#page_31), [33](014_3_The_Fall_of_the_Do.xhtml#page_33), [38](015_4_From_Autocracy_to_.xhtml#page_38), [39](015_4_From_Autocracy_to_.xhtml#page_39), [84](018_7_Kornilov.xhtml#page_84), [215](028_16_The_Czechs_and_Le.xhtml#page_215)
-* Romanov, Gd Duke Nikolai N., [11](012_1_The_Suicide_of_Eur.xhtml#page_11), [29](014_3_The_Fall_of_the_Do.xhtml#page_29), [30](014_3_The_Fall_of_the_Do.xhtml#page_30)n
-* Romanovsky, Gen. Ivan P., [89](018_7_Kornilov.xhtml#page_89), [168](025_13_The_Volunteer_Arm.xhtml#page_168), [312](037_24_Don_and_Ukraine.xhtml#page_312), [402](045_32_Retreat_in_the_So.xhtml#page_402), [443](050_36_Wrangel_Takes_Com.xhtml#page_443)
-* Rostov-on-Don, [113](020_9_The_Boys_Crusade_R.xhtml#page_113), [160](025_13_The_Volunteer_Arm.xhtml#page_160), [165](025_13_The_Volunteer_Arm.xhtml#page_165), [166](025_13_The_Volunteer_Arm.xhtml#page_166), [179](026_14_The_Germans_March.xhtml#page_179), [192](027_15_Enemies_on_the_Pe.xhtml#page_192), [285](035_22_The_Fatal_Comprom.xhtml#page_285), [300](036_23_Siberia.xhtml#page_300), [301](037_24_Don_and_Ukraine.xhtml#page_301), [348](041_28_The_March_on_Mosc.xhtml#page_348), [385](044_31_The_Turning_Point.xhtml#page_385), [400](045_32_Retreat_in_the_So.xhtml#page_400), [401](045_32_Retreat_in_the_So.xhtml#page_401), [402–3](045_32_Retreat_in_the_So.xhtml#page_402), [424](048_34_The_Fall_of_Odess.xhtml#page_424), [433](049_35_The_Last_Hurrah_o.xhtml#page_433), [453](051_37_Poles_in_the_West.xhtml#page_453)
-* Royal Air Force; 47 Squadron, [309](037_24_Don_and_Ukraine.xhtml#page_309), [348](041_28_The_March_on_Mosc.xhtml#page_348), [356](041_28_The_March_on_Mosc.xhtml#page_356), [402](045_32_Retreat_in_the_So.xhtml#page_402); Northern Dvina, [317](038_25_Murmansk_and_Arkh.xhtml#page_317), [318](038_25_Murmansk_and_Arkh.xhtml#page_318), [319](038_25_Murmansk_and_Arkh.xhtml#page_319); Baltic, [345](040_27_Baltic_Summer.xhtml#page_345)
-* Royal Marines, [152](024_12_Brest-Litovsk.xhtml#page_152), [187](027_15_Enemies_on_the_Pe.xhtml#page_187), [272](033_21_The_Baltic_and_No.xhtml#page_272), [319](038_25_Murmansk_and_Arkh.xhtml#page_319)
-* Royal Navy, [152](024_12_Brest-Litovsk.xhtml#page_152), [155](024_12_Brest-Litovsk.xhtml#page_155), [272](033_21_The_Baltic_and_No.xhtml#page_272), [339](040_27_Baltic_Summer.xhtml#page_339); attacks Kronstadt, [343–6](040_27_Baltic_Summer.xhtml#page_343)
+  + 1st Army, 237, 297, 382, 472
+  + 3rd Army, 233, 238, 253, 254, 316, 322
+  + 4th Army, 322, 382, 473, 480, 484, 491
+  + 5th Army, 235, 297, 322, 327, 332, 342, 373, 374, 410
+  + 6th Army, 272, 273, 480, 484
+  + 7th Army, 267, 269–70, 288, 290, 342, 364, 365, 499
+  + 8th Army, 286, 287, 306, 425
+  + 9th Army, 257–8, 286, 287, 306, 307, 308, 353, 381, 382, 426, 441, 466
+  + 10th Army, 193, 286, 287, 307, 308, 353, 399, 424, 426, 465
+  + 11th Army, 285, 441
+  + 12th Army, 285, 306, 399, 448, 449, 453, 455, 459
+  + 13th Army, 306, 399, 452, 453, 479
+  + 14th Army, 347, 399, 418, 449, 453
+  + 15th Army, 364, 365
+  + 16th Army, 474, 475–6
+  + 1st Cavalry Army (Konarmia), 352–3, 398, 401, 424, 426, 453, 455, 476–8; battle of Zamość, 477, 485, 491
+  + 2nd Cavalry Army, 383, 479, 482–3, 484–5, 491
+  + Latvian Rifles, 100, 121, 123–4, 133, 185, 187, 213, 388, 453, 493
+* Red Guards, 27, 88, 94n, 97, 99, 101, 102, 105, 107; in Moscow, 109–10; Taganrog, 113; Irkutsk, 114; 133, 135, 138; in Kiev, 143; 161, *162*; Armenian, 199
+* Red *Stavka*, 226; priority to Siberia, 308; 314; reinforcement of Eastern Front and strategy, 322, 347, 351, 352, 388, 399, 427, 441, 448, 452, 455, 461, 476, 479, 480, 487
+* Red Terror, 136, 137, 217–23; Kharkov, 304–5; Kiev, 355; 356–7; Crimea, 488–90
+* Reisner, Larisa M., 225–6, 233; and Kazan, 234, 235, 237; 269, 314; 442
+* Reval, *see*Tallinn
+* Revishin, Gen. Aleksandr P., 260
+* Riezler, Kurt, 184, 211, 212
+* Riga, 77, 84, 123, 149, 267, 270, 289, 340, 341, 363, 482
+* Right SRs, 79, 96, 106, 133, 134, 202, 203, 272–3, 374
+* Robien, Cmte Louis de, 20, 23
+* Rodzyanko, Gen. Aleksandr P., 267, *271*, 337, 342, 364, 365, 367
+* Rodzyanko, Mikhail V., 18, 22, 23, 25, 29, 31, 32, 42, 179, 180–1, 385
+* Romanian troops, 292
+* Romanov, Aleksei N. (Tsarevich), 29, 30, 31, 38, 39
+* Romanov, Gd Duke Mikhail A., 25, 29, 30, 31–2, 33, 38, 39, 84, 215
+* Romanov, Gd Duke Nikolai N., 11, 29, 30n
+* Romanovsky, Gen. Ivan P., 89, 168, 312, 402, 443
+* Rostov-on-Don, 113, 160, 165, 166, 179, 192, 285, 300, 301, 348, 385, 400, 401, 402–3, 424, 433, 453
+* Royal Air Force; 47 Squadron, 309, 348, 356, 402; Northern Dvina, 317, 318, 319; Baltic, 345
+* Royal Marines, 152, 187, 272, 319
+* Royal Navy, 152, 155, 272, 339; attacks Kronstadt, 343–6
 
-  + 1st Light Cruiser Squadron, [289](035_22_The_Fatal_Comprom.xhtml#page_289), [344–5](040_27_Baltic_Summer.xhtml#page_344)
-  + 6th Light Cruiser Squadron, [268–9](033_21_The_Baltic_and_No.xhtml#page_268), [289](035_22_The_Fatal_Comprom.xhtml#page_289)
-  + Coastal Motor Boat Flotilla Baltic, [339](040_27_Baltic_Summer.xhtml#page_339), [345–6](040_27_Baltic_Summer.xhtml#page_345)
-  + Caspian flotilla, attack on Fort Aleksandrov, [314](037_24_Don_and_Ukraine.xhtml#page_314), [315](037_24_Don_and_Ukraine.xhtml#page_315)
-  + Northern Dvina flotilla, [317](038_25_Murmansk_and_Arkh.xhtml#page_317), [318](038_25_Murmansk_and_Arkh.xhtml#page_318), [319](038_25_Murmansk_and_Arkh.xhtml#page_319), [320](038_25_Murmansk_and_Arkh.xhtml#page_320); HMS *Marlborough*, [283](035_22_The_Fatal_Comprom.xhtml#page_283); HMS *Montrose*, [283](035_22_The_Fatal_Comprom.xhtml#page_283), [284](035_22_The_Fatal_Comprom.xhtml#page_284), [311](037_24_Don_and_Ukraine.xhtml#page_311); HMS *Iron Duke*, [283](035_22_The_Fatal_Comprom.xhtml#page_283); HMS *Centaur*, [284](035_22_The_Fatal_Comprom.xhtml#page_284); HMS *Emperor of India*, [284](035_22_The_Fatal_Comprom.xhtml#page_284), [436](049_35_The_Last_Hurrah_o.xhtml#page_436); HMS *Suffolk*, [191](027_15_Enemies_on_the_Pe.xhtml#page_191); HMS *Benbow*, [435](049_35_The_Last_Hurrah_o.xhtml#page_435), [436](049_35_The_Last_Hurrah_o.xhtml#page_436), [486](053_39_The_Riviera_of_Ha.xhtml#page_486); Caspian flotilla, [197](027_15_Enemies_on_the_Pe.xhtml#page_197), [199](027_15_Enemies_on_the_Pe.xhtml#page_199), [201](027_15_Enemies_on_the_Pe.xhtml#page_201), [265–6](032_20_The_Central_Power.xhtml#page_265), [314](037_24_Don_and_Ukraine.xhtml#page_314), [442](050_36_Wrangel_Takes_Com.xhtml#page_442)
-* Rozanov, Gen. Sergei N., [329](039_26_Siberia.xhtml#page_329), [334](039_26_Siberia.xhtml#page_334), [374](043_30_Siberian_Retreat.xhtml#page_374)
-* Ruzsky, Gen. Nikolai V., [28](014_3_The_Fall_of_the_Do.xhtml#page_28), [29](014_3_The_Fall_of_the_Do.xhtml#page_29), [30](014_3_The_Fall_of_the_Do.xhtml#page_30), [79](018_7_Kornilov.xhtml#page_79)
+  + 1st Light Cruiser Squadron, 289, 344–5
+  + 6th Light Cruiser Squadron, 268–9, 289
+  + Coastal Motor Boat Flotilla Baltic, 339, 345–6
+  + Caspian flotilla, attack on Fort Aleksandrov, 314, 315
+  + Northern Dvina flotilla, 317, 318, 319, 320; HMS *Marlborough*, 283; HMS *Montrose*, 283, 284, 311; HMS *Iron Duke*, 283; HMS *Centaur*, 284; HMS *Emperor of India*, 284, 436; HMS *Suffolk*, 191; HMS *Benbow*, 435, 436, 486; Caspian flotilla, 197, 199, 201, 265–6, 314, 442
+* Rozanov, Gen. Sergei N., 329, 334, 374
+* Ruzsky, Gen. Nikolai V., 28, 29, 30, 79
 
 ## S
 
-* Sablin, Yuri V., [161](025_13_The_Volunteer_Arm.xhtml#page_161), [164](025_13_The_Volunteer_Arm.xhtml#page_164), [166](025_13_The_Volunteer_Arm.xhtml#page_166), [181](026_14_The_Germans_March.xhtml#page_181)
-* Sakharov, Gen. Vladimir V., [29](014_3_The_Fall_of_the_Do.xhtml#page_29), [30](014_3_The_Fall_of_the_Do.xhtml#page_30); [300](036_23_Siberia.xhtml#page_300); [327](039_26_Siberia.xhtml#page_327), [330](039_26_Siberia.xhtml#page_330), [376](043_30_Siberian_Retreat.xhtml#page_376), [410](047_33_The_Great_Siberia.xhtml#page_410), [411](047_33_The_Great_Siberia.xhtml#page_411)
-* Saltykov-Schedrin, Mikhail Y., [3](010_Foreword.xhtml#page_3), [215](028_16_The_Czechs_and_Le.xhtml#page_215)
-* Samara, [51](016_5_The_Pregnant_Widow.xhtml#page_51), [193](027_15_Enemies_on_the_Pe.xhtml#page_193), [203](028_16_The_Czechs_and_Le.xhtml#page_203), [204](028_16_The_Czechs_and_Le.xhtml#page_204), [225](030_18_Fighting_on_the_V.xhtml#page_225), [226](030_18_Fighting_on_the_V.xhtml#page_226), [227](030_18_Fighting_on_the_V.xhtml#page_227), [237](030_18_Fighting_on_the_V.xhtml#page_237), [239](031_19_From_the_Volga_to.xhtml#page_239), [242](031_19_From_the_Volga_to.xhtml#page_242), [243](031_19_From_the_Volga_to.xhtml#page_243), [244](031_19_From_the_Volga_to.xhtml#page_244), [382](044_31_The_Turning_Point.xhtml#page_382), [493](054_40_The_Death_of_Hope.xhtml#page_493)
-* Saratov, [136](023_11_Breaking_the_Moul.xhtml#page_136), [180](026_14_The_Germans_March.xhtml#page_180), [257](032_20_The_Central_Power.xhtml#page_257), [349](041_28_The_March_on_Mosc.xhtml#page_349), [382](044_31_The_Turning_Point.xhtml#page_382)
-* Savinkov, Boris V., [58](016_5_The_Pregnant_Widow.xhtml#page_58), [59](016_5_The_Pregnant_Widow.xhtml#page_59), [66](017_6_The_Kerensky_Offen.xhtml#page_66), [79](018_7_Kornilov.xhtml#page_79); deputy minister for war, [80](018_7_Kornilov.xhtml#page_80), [*81*](018_7_Kornilov.xhtml#page_81), [83](018_7_Kornilov.xhtml#page_83), [86](018_7_Kornilov.xhtml#page_86), [89](018_7_Kornilov.xhtml#page_89); and anti-Bolshevik resistance, [138](023_11_Breaking_the_Moul.xhtml#page_138), [164](025_13_The_Volunteer_Arm.xhtml#page_164); Yaroslavl revolt, [208](028_16_The_Czechs_and_Le.xhtml#page_208); [236](030_18_Fighting_on_the_V.xhtml#page_236), [246](031_19_From_the_Volga_to.xhtml#page_246), [279–80](035_22_The_Fatal_Comprom.xhtml#page_279)
-* Sazonov, Sergei D., [7](012_1_The_Suicide_of_Eur.xhtml#page_7), [279](035_22_The_Fatal_Comprom.xhtml#page_279), [294](036_23_Siberia.xhtml#page_294)
-* Semenov, Ataman Grigory, [111](020_9_The_Boys_Crusade_R.xhtml#page_111), [115](020_9_The_Boys_Crusade_R.xhtml#page_115), [207](028_16_The_Czechs_and_Le.xhtml#page_207), [245](031_19_From_the_Volga_to.xhtml#page_245), [249](031_19_From_the_Volga_to.xhtml#page_249), [295–6](036_23_Siberia.xhtml#page_295), [329](039_26_Siberia.xhtml#page_329), [331](039_26_Siberia.xhtml#page_331), [333](039_26_Siberia.xhtml#page_333), [369](042_29_Baltic_Surprise.xhtml#page_369), [377](043_30_Siberian_Retreat.xhtml#page_377), [415](047_33_The_Great_Siberia.xhtml#page_415)
-* Serebrennikov, Ivan I., [93](019_8_The_October_Coup.xhtml#page_93), [243](031_19_From_the_Volga_to.xhtml#page_243), [246](031_19_From_the_Volga_to.xhtml#page_246), [247](031_19_From_the_Volga_to.xhtml#page_247), [248](031_19_From_the_Volga_to.xhtml#page_248), [249](031_19_From_the_Volga_to.xhtml#page_249)
-* Serge, Victor, [158](024_12_Brest-Litovsk.xhtml#page_158), [234](030_18_Fighting_on_the_V.xhtml#page_234), [468](051_37_Poles_in_the_West.xhtml#page_468), [495](054_40_The_Death_of_Hope.xhtml#page_495), [496](054_40_The_Death_of_Hope.xhtml#page_496), [497](054_40_The_Death_of_Hope.xhtml#page_497)
-* Sevastopol, [30](014_3_The_Fall_of_the_Do.xhtml#page_30)n, [45](015_4_From_Autocracy_to_.xhtml#page_45), [138](023_11_Breaking_the_Moul.xhtml#page_138), [173](025_13_The_Volunteer_Arm.xhtml#page_173), [281](035_22_The_Fatal_Comprom.xhtml#page_281), [283](035_22_The_Fatal_Comprom.xhtml#page_283), [284](035_22_The_Fatal_Comprom.xhtml#page_284), [395](045_32_Retreat_in_the_So.xhtml#page_395), [419](048_34_The_Fall_of_Odess.xhtml#page_419), [443](050_36_Wrangel_Takes_Com.xhtml#page_443), [481](053_39_The_Riviera_of_Ha.xhtml#page_481), [485](053_39_The_Riviera_of_Ha.xhtml#page_485), [487](053_39_The_Riviera_of_Ha.xhtml#page_487), [489](053_39_The_Riviera_of_Ha.xhtml#page_489)
-* Shahumyan, Stepan G., [196](027_15_Enemies_on_the_Pe.xhtml#page_196), [199](027_15_Enemies_on_the_Pe.xhtml#page_199), [263](032_20_The_Central_Power.xhtml#page_263), [264](032_20_The_Central_Power.xhtml#page_264)
-* Shchastny, Capt. Aleksei M., [155](024_12_Brest-Litovsk.xhtml#page_155), [156](024_12_Brest-Litovsk.xhtml#page_156), [232](030_18_Fighting_on_the_V.xhtml#page_232)
-* Shklovsky, Viktor B., [17](013_2_The_February_Revol.xhtml#page_17), [24](013_2_The_February_Revol.xhtml#page_24), [54](016_5_The_Pregnant_Widow.xhtml#page_54)n, [58](016_5_The_Pregnant_Widow.xhtml#page_58), [62](017_6_The_Kerensky_Offen.xhtml#page_62), [66](017_6_The_Kerensky_Offen.xhtml#page_66), [79](018_7_Kornilov.xhtml#page_79), [80](018_7_Kornilov.xhtml#page_80), [126](021_10_The_Infanticide_o.xhtml#page_126), [127–8](021_10_The_Infanticide_o.xhtml#page_127), [169](025_13_The_Volunteer_Arm.xhtml#page_169), [272](033_21_The_Baltic_and_No.xhtml#page_272), [339](040_27_Baltic_Summer.xhtml#page_339), [363](042_29_Baltic_Surprise.xhtml#page_363), [365](042_29_Baltic_Surprise.xhtml#page_365), [502](055_Conclusion_The_Devil.xhtml#page_502)
-* Shkuro, Gen. Andrei G., [195](027_15_Enemies_on_the_Pe.xhtml#page_195), [*195*](027_15_Enemies_on_the_Pe.xhtml#page_195), [259](032_20_The_Central_Power.xhtml#page_259), [301–2](037_24_Don_and_Ukraine.xhtml#page_301), [304](037_24_Don_and_Ukraine.xhtml#page_304), [311](037_24_Don_and_Ukraine.xhtml#page_311), [349](041_28_The_March_on_Mosc.xhtml#page_349), [350](041_28_The_March_on_Mosc.xhtml#page_350), [356](041_28_The_March_on_Mosc.xhtml#page_356), [357–8](041_28_The_March_on_Mosc.xhtml#page_357), [380](043_30_Siberian_Retreat.xhtml#page_380), [383](044_31_The_Turning_Point.xhtml#page_383), [389](044_31_The_Turning_Point.xhtml#page_389), [390](044_31_The_Turning_Point.xhtml#page_390), [394](044_31_The_Turning_Point.xhtml#page_394), [396](045_32_Retreat_in_the_So.xhtml#page_396), [480](053_39_The_Riviera_of_Ha.xhtml#page_480)
-* Shulgin, Vasily V., [11](012_1_The_Suicide_of_Eur.xhtml#page_11), [29](014_3_The_Fall_of_the_Do.xhtml#page_29), [30](014_3_The_Fall_of_the_Do.xhtml#page_30), [31](014_3_The_Fall_of_the_Do.xhtml#page_31), [35](015_4_From_Autocracy_to_.xhtml#page_35), [37](015_4_From_Autocracy_to_.xhtml#page_37), [391](044_31_The_Turning_Point.xhtml#page_391), [405](045_32_Retreat_in_the_So.xhtml#page_405), [419](048_34_The_Fall_of_Odess.xhtml#page_419), [420](048_34_The_Fall_of_Odess.xhtml#page_420), [421](048_34_The_Fall_of_Odess.xhtml#page_421), [444](050_36_Wrangel_Takes_Com.xhtml#page_444), [502](055_Conclusion_The_Devil.xhtml#page_502)
-* Sidorin, Gen. Vladimir I., [312](037_24_Don_and_Ukraine.xhtml#page_312), [395](045_32_Retreat_in_the_So.xhtml#page_395), [396](045_32_Retreat_in_the_So.xhtml#page_396), [426](049_35_The_Last_Hurrah_o.xhtml#page_426), [430](049_35_The_Last_Hurrah_o.xhtml#page_430)
-* Sikorski, Gen. Władysław, [447](050_36_Wrangel_Takes_Com.xhtml#page_447), [472](052_38_The_Miracle_on_th.xhtml#page_472), [473](052_38_The_Miracle_on_th.xhtml#page_473), [477](052_38_The_Miracle_on_th.xhtml#page_477)
-* Simbirsk (Ulyanov), [213](028_16_The_Czechs_and_Le.xhtml#page_213), [225](030_18_Fighting_on_the_V.xhtml#page_225), [237](030_18_Fighting_on_the_V.xhtml#page_237), [239](031_19_From_the_Volga_to.xhtml#page_239), [242](031_19_From_the_Volga_to.xhtml#page_242)
-* Simferopol, [137](023_11_Breaking_the_Moul.xhtml#page_137), [256](032_20_The_Central_Power.xhtml#page_256), [440](049_35_The_Last_Hurrah_o.xhtml#page_440), [487](053_39_The_Riviera_of_Ha.xhtml#page_487), [489](053_39_The_Riviera_of_Ha.xhtml#page_489)
-* Sivers, Rudolf F., [161](025_13_The_Volunteer_Arm.xhtml#page_161), [163–4](025_13_The_Volunteer_Arm.xhtml#page_163), [166](025_13_The_Volunteer_Arm.xhtml#page_166), [167](025_13_The_Volunteer_Arm.xhtml#page_167)
-* Skoropadsky, Hetman Pavlo, [177](026_14_The_Germans_March.xhtml#page_177), [178](026_14_The_Germans_March.xhtml#page_178), [186](026_14_The_Germans_March.xhtml#page_186), [261](032_20_The_Central_Power.xhtml#page_261)
-* Slashchov, Gen. Yakov A., [399](045_32_Retreat_in_the_So.xhtml#page_399), [403–4](045_32_Retreat_in_the_So.xhtml#page_403), [*404*](045_32_Retreat_in_the_So.xhtml#page_404), [440](049_35_The_Last_Hurrah_o.xhtml#page_440), [441](050_36_Wrangel_Takes_Com.xhtml#page_441), [443](050_36_Wrangel_Takes_Com.xhtml#page_443), [446](050_36_Wrangel_Takes_Com.xhtml#page_446), [450](050_36_Wrangel_Takes_Com.xhtml#page_450), [452](050_36_Wrangel_Takes_Com.xhtml#page_452), [459](051_37_Poles_in_the_West.xhtml#page_459), [480](053_39_The_Riviera_of_Ha.xhtml#page_480)
-* Smolensk, [124](021_10_The_Infanticide_o.xhtml#page_124), [220](029_17_Red_Terror.xhtml#page_220)
-* Smolny Institute, [100](019_8_The_October_Coup.xhtml#page_100), [105](020_9_The_Boys_Crusade_R.xhtml#page_105), [107](020_9_The_Boys_Crusade_R.xhtml#page_107), [121](021_10_The_Infanticide_o.xhtml#page_121), [125](021_10_The_Infanticide_o.xhtml#page_125), [150](024_12_Brest-Litovsk.xhtml#page_150)
-* Socialist Revolutionaries, [35](015_4_From_Autocracy_to_.xhtml#page_35), [41](015_4_From_Autocracy_to_.xhtml#page_41), [49–50](016_5_The_Pregnant_Widow.xhtml#page_49), [51](016_5_The_Pregnant_Widow.xhtml#page_51), [63](017_6_The_Kerensky_Offen.xhtml#page_63), [71](017_6_The_Kerensky_Offen.xhtml#page_71), [80](018_7_Kornilov.xhtml#page_80), [93](019_8_The_October_Coup.xhtml#page_93), [96](019_8_The_October_Coup.xhtml#page_96), [100](019_8_The_October_Coup.xhtml#page_100), [105](020_9_The_Boys_Crusade_R.xhtml#page_105), [120](021_10_The_Infanticide_o.xhtml#page_120), [124](021_10_The_Infanticide_o.xhtml#page_124), [236](030_18_Fighting_on_the_V.xhtml#page_236), [238](030_18_Fighting_on_the_V.xhtml#page_238), [243](031_19_From_the_Volga_to.xhtml#page_243), [263](032_20_The_Central_Power.xhtml#page_263), [300](036_23_Siberia.xhtml#page_300), [323](039_26_Siberia.xhtml#page_323), [372](043_30_Siberian_Retreat.xhtml#page_372), [378](043_30_Siberian_Retreat.xhtml#page_378), [410](047_33_The_Great_Siberia.xhtml#page_410); *see also* [Left SRs and Right SRs](062_Index.xhtml#leftsrsandrightsrs)
+* Sablin, Yuri V., 161, 164, 166, 181
+* Sakharov, Gen. Vladimir V., 29, 30; 300; 327, 330, 376, 410, 411
+* Saltykov-Schedrin, Mikhail Y., 3, 215
+* Samara, 51, 193, 203, 204, 225, 226, 227, 237, 239, 242, 243, 244, 382, 493
+* Saratov, 136, 180, 257, 349, 382
+* Savinkov, Boris V., 58, 59, 66, 79; deputy minister for war, 80, *81*, 83, 86, 89; and anti-Bolshevik resistance, 138, 164; Yaroslavl revolt, 208; 236, 246, 279–80
+* Sazonov, Sergei D., 7, 279, 294
+* Semenov, Ataman Grigory, 111, 115, 207, 245, 249, 295–6, 329, 331, 333, 369, 377, 415
+* Serebrennikov, Ivan I., 93, 243, 246, 247, 248, 249
+* Serge, Victor, 158, 234, 468, 495, 496, 497
+* Sevastopol, 30n, 45, 138, 173, 281, 283, 284, 395, 419, 443, 481, 485, 487, 489
+* Shahumyan, Stepan G., 196, 199, 263, 264
+* Shchastny, Capt. Aleksei M., 155, 156, 232
+* Shklovsky, Viktor B., 17, 24, 54n, 58, 62, 66, 79, 80, 126, 127–8, 169, 272, 339, 363, 365, 502
+* Shkuro, Gen. Andrei G., 195, *195*, 259, 301–2, 304, 311, 349, 350, 356, 357–8, 380, 383, 389, 390, 394, 396, 480
+* Shulgin, Vasily V., 11, 29, 30, 31, 35, 37, 391, 405, 419, 420, 421, 444, 502
+* Sidorin, Gen. Vladimir I., 312, 395, 396, 426, 430
+* Sikorski, Gen. Władysław, 447, 472, 473, 477
+* Simbirsk (Ulyanov), 213, 225, 237, 239, 242
+* Simferopol, 137, 256, 440, 487, 489
+* Sivers, Rudolf F., 161, 163–4, 166, 167
+* Skoropadsky, Hetman Pavlo, 177, 178, 186, 261
+* Slashchov, Gen. Yakov A., 399, 403–4, *404*, 440, 441, 443, 446, 450, 452, 459, 480
+* Smolensk, 124, 220
+* Smolny Institute, 100, 105, 107, 121, 125, 150
+* Socialist Revolutionaries, 35, 41, 49–50, 51, 63, 71, 80, 93, 96, 100, 105, 120, 124, 236, 238, 243, 263, 300, 323, 372, 378, 410; *see also* Left SRs and Right SRs
 * Soviets
 
-  + Petrograd S., [29](014_3_The_Fall_of_the_Do.xhtml#page_29), [32](014_3_The_Fall_of_the_Do.xhtml#page_32), [35](015_4_From_Autocracy_to_.xhtml#page_35), [41](015_4_From_Autocracy_to_.xhtml#page_41), [54](016_5_The_Pregnant_Widow.xhtml#page_54), [81](018_7_Kornilov.xhtml#page_81)
-  + Executive Committee, Ispolkom, [29](014_3_The_Fall_of_the_Do.xhtml#page_29), [31](014_3_The_Fall_of_the_Do.xhtml#page_31), [35](015_4_From_Autocracy_to_.xhtml#page_35), [36](015_4_From_Autocracy_to_.xhtml#page_36), [41](015_4_From_Autocracy_to_.xhtml#page_41), [46](015_4_From_Autocracy_to_.xhtml#page_46), [54](016_5_The_Pregnant_Widow.xhtml#page_54), [55–6](016_5_The_Pregnant_Widow.xhtml#page_55), [57](016_5_The_Pregnant_Widow.xhtml#page_57), [63](017_6_The_Kerensky_Offen.xhtml#page_63), [68](017_6_The_Kerensky_Offen.xhtml#page_68), [69](017_6_The_Kerensky_Offen.xhtml#page_69), [87](018_7_Kornilov.xhtml#page_87)
-  + All-Russia S. of Workers’ and Soldiers’ Deputies, [42](015_4_From_Autocracy_to_.xhtml#page_42); First Congress, [62](017_6_The_Kerensky_Offen.xhtml#page_62); [76](018_7_Kornilov.xhtml#page_76), [87](018_7_Kornilov.xhtml#page_87), [91](018_7_Kornilov.xhtml#page_91), [95](019_8_The_October_Coup.xhtml#page_95), [100](019_8_The_October_Coup.xhtml#page_100); Second Congress, [102](019_8_The_October_Coup.xhtml#page_102), [104](019_8_The_October_Coup.xhtml#page_104)
-  + Tsentrobalt S., [87](018_7_Kornilov.xhtml#page_87), [88](018_7_Kornilov.xhtml#page_88), [92](019_8_The_October_Coup.xhtml#page_92), [105](020_9_The_Boys_Crusade_R.xhtml#page_105)
-  + Tsentroflot S., [87](018_7_Kornilov.xhtml#page_87), [89](018_7_Kornilov.xhtml#page_89), [89](018_7_Kornilov.xhtml#page_89)n
-  + Milrevkom, [96](019_8_The_October_Coup.xhtml#page_96), [97](019_8_The_October_Coup.xhtml#page_97), [98](019_8_The_October_Coup.xhtml#page_98), [99](019_8_The_October_Coup.xhtml#page_99), [100](019_8_The_October_Coup.xhtml#page_100), [101](019_8_The_October_Coup.xhtml#page_101), [105](020_9_The_Boys_Crusade_R.xhtml#page_105), [107](020_9_The_Boys_Crusade_R.xhtml#page_107), [121](021_10_The_Infanticide_o.xhtml#page_121), [323](039_26_Siberia.xhtml#page_323), [381](044_31_The_Turning_Point.xhtml#page_381)
-* Sovnarkom (Council of People’s Commissars), [104](019_8_The_October_Coup.xhtml#page_104), [112](020_9_The_Boys_Crusade_R.xhtml#page_112), [118](021_10_The_Infanticide_o.xhtml#page_118), [119](021_10_The_Infanticide_o.xhtml#page_119), [120](021_10_The_Infanticide_o.xhtml#page_120), [124](021_10_The_Infanticide_o.xhtml#page_124), [125](021_10_The_Infanticide_o.xhtml#page_125), [133](023_11_Breaking_the_Moul.xhtml#page_133), [150](024_12_Brest-Litovsk.xhtml#page_150), [155](024_12_Brest-Litovsk.xhtml#page_155), [156](024_12_Brest-Litovsk.xhtml#page_156), [178](026_14_The_Germans_March.xhtml#page_178), [182](026_14_The_Germans_March.xhtml#page_182), [183](026_14_The_Germans_March.xhtml#page_183), [184](026_14_The_Germans_March.xhtml#page_184), [187](027_15_Enemies_on_the_Pe.xhtml#page_187), [188](027_15_Enemies_on_the_Pe.xhtml#page_188), [209](028_16_The_Czechs_and_Le.xhtml#page_209), [279](035_22_The_Fatal_Comprom.xhtml#page_279), [495](054_40_The_Death_of_Hope.xhtml#page_495)
-* Spiridonova, Maria A., [147](024_12_Brest-Litovsk.xhtml#page_147), [209](028_16_The_Czechs_and_Le.xhtml#page_209), [*210*](028_16_The_Czechs_and_Le.xhtml#page_210), [211](028_16_The_Czechs_and_Le.xhtml#page_211), [212](028_16_The_Czechs_and_Le.xhtml#page_212), [213](028_16_The_Czechs_and_Le.xhtml#page_213), [214](028_16_The_Czechs_and_Le.xhtml#page_214), [218](029_17_Red_Terror.xhtml#page_218)
-* Stalin, Josef V., [47](016_5_The_Pregnant_Widow.xhtml#page_47), [48](016_5_The_Pregnant_Widow.xhtml#page_48), [73](017_6_The_Kerensky_Offen.xhtml#page_73), [95](019_8_The_October_Coup.xhtml#page_95); Commissar for Nationalities, [104](019_8_The_October_Coup.xhtml#page_104), [184](026_14_The_Germans_March.xhtml#page_184), [185–6](026_14_The_Germans_March.xhtml#page_185); and Tsaritsyn, [*193*](027_15_Enemies_on_the_Pe.xhtml#page_193), [227](030_18_Fighting_on_the_V.xhtml#page_227), [228](030_18_Fighting_on_the_V.xhtml#page_228), [287](035_22_The_Fatal_Comprom.xhtml#page_287), [307](037_24_Don_and_Ukraine.xhtml#page_307), [322](038_25_Murmansk_and_Arkh.xhtml#page_322); [264](032_20_The_Central_Power.xhtml#page_264); and Trotsky, [322–3](038_25_Murmansk_and_Arkh.xhtml#page_322), [347](040_27_Baltic_Summer.xhtml#page_347); and defence of Petrograd, [338–9](040_27_Baltic_Summer.xhtml#page_338); [365–6](042_29_Baltic_Surprise.xhtml#page_365), [381](044_31_The_Turning_Point.xhtml#page_381), [426](049_35_The_Last_Hurrah_o.xhtml#page_426), [452–3](050_36_Wrangel_Takes_Com.xhtml#page_452), [454](051_37_Poles_in_the_West.xhtml#page_454), [457](051_37_Poles_in_the_West.xhtml#page_457); and Poland, [470](052_38_The_Miracle_on_th.xhtml#page_470); resigns from RMC [477](052_38_The_Miracle_on_th.xhtml#page_477); [479](052_38_The_Miracle_on_th.xhtml#page_479)
-* Stasova, Yelena, [290](035_22_The_Fatal_Comprom.xhtml#page_290), [298](036_23_Siberia.xhtml#page_298)
-* Stavropol, [195](027_15_Enemies_on_the_Pe.xhtml#page_195), [429](049_35_The_Last_Hurrah_o.xhtml#page_429), [431](049_35_The_Last_Hurrah_o.xhtml#page_431), [436](049_35_The_Last_Hurrah_o.xhtml#page_436)
-* Stolypin, Pyotr A., [282](035_22_The_Fatal_Comprom.xhtml#page_282), [355](041_28_The_March_on_Mosc.xhtml#page_355)
-* Sukhanov, Nikolai N., [24](013_2_The_February_Revol.xhtml#page_24), [63](017_6_The_Kerensky_Offen.xhtml#page_63), [68](017_6_The_Kerensky_Offen.xhtml#page_68), [69](017_6_The_Kerensky_Offen.xhtml#page_69), [83](018_7_Kornilov.xhtml#page_83), [95](019_8_The_October_Coup.xhtml#page_95)
-* Svechin, Gen. Aleksandr A., [228](030_18_Fighting_on_the_V.xhtml#page_228)
-* Svechin, Gen. Mikhail A., [165](025_13_The_Volunteer_Arm.xhtml#page_165), [166](025_13_The_Volunteer_Arm.xhtml#page_166), [173](025_13_The_Volunteer_Arm.xhtml#page_173), [178](026_14_The_Germans_March.xhtml#page_178), [214](028_16_The_Czechs_and_Le.xhtml#page_214), [228](030_18_Fighting_on_the_V.xhtml#page_228)
-* Sverdlov, Yakov M., [95](019_8_The_October_Coup.xhtml#page_95), [119](021_10_The_Infanticide_o.xhtml#page_119), [134](023_11_Breaking_the_Moul.xhtml#page_134), [216](028_16_The_Czechs_and_Le.xhtml#page_216)
-* Sviazhsk, [234](030_18_Fighting_on_the_V.xhtml#page_234)
-* Sweden, [48](016_5_The_Pregnant_Widow.xhtml#page_48), [74](017_6_The_Kerensky_Offen.xhtml#page_74), [141](023_11_Breaking_the_Moul.xhtml#page_141), [268](033_21_The_Baltic_and_No.xhtml#page_268)
-* Syrzan, [203](028_16_The_Czechs_and_Le.xhtml#page_203)
+  + Petrograd S., 29, 32, 35, 41, 54, 81
+  + Executive Committee, Ispolkom, 29, 31, 35, 36, 41, 46, 54, 55–6, 57, 63, 68, 69, 87
+  + All-Russia S. of Workers’ and Soldiers’ Deputies, 42; First Congress, 62; 76, 87, 91, 95, 100; Second Congress, 102, 104
+  + Tsentrobalt S., 87, 88, 92, 105
+  + Tsentroflot S., 87, 89, 89n
+  + Milrevkom, 96, 97, 98, 99, 100, 101, 105, 107, 121, 323, 381
+* Sovnarkom (Council of People’s Commissars), 104, 112, 118, 119, 120, 124, 125, 133, 150, 155, 156, 178, 182, 183, 184, 187, 188, 209, 279, 495
+* Spiridonova, Maria A., 147, 209, *210*, 211, 212, 213, 214, 218
+* Stalin, Josef V., 47, 48, 73, 95; Commissar for Nationalities, 104, 184, 185–6; and Tsaritsyn, *193*, 227, 228, 287, 307, 322; 264; and Trotsky, 322–3, 347; and defence of Petrograd, 338–9; 365–6, 381, 426, 452–3, 454, 457; and Poland, 470; resigns from RMC 477; 479
+* Stasova, Yelena, 290, 298
+* Stavropol, 195, 429, 431, 436
+* Stolypin, Pyotr A., 282, 355
+* Sukhanov, Nikolai N., 24, 63, 68, 69, 83, 95
+* Svechin, Gen. Aleksandr A., 228
+* Svechin, Gen. Mikhail A., 165, 166, 173, 178, 214, 228
+* Sverdlov, Yakov M., 95, 119, 134, 216
+* Sviazhsk, 234
+* Sweden, 48, 74, 141, 268
+* Syrzan, 203
 
 ## T
 
-* Taganrog, [113](020_9_The_Boys_Crusade_R.xhtml#page_113), [163](025_13_The_Volunteer_Arm.xhtml#page_163), [358](041_28_The_March_on_Mosc.xhtml#page_358), [387](044_31_The_Turning_Point.xhtml#page_387), [389](044_31_The_Turning_Point.xhtml#page_389), [394](044_31_The_Turning_Point.xhtml#page_394), [396](045_32_Retreat_in_the_So.xhtml#page_396), [399](045_32_Retreat_in_the_So.xhtml#page_399), [424](048_34_The_Fall_of_Odess.xhtml#page_424), [461](051_37_Poles_in_the_West.xhtml#page_461)
-* Tambov, [350](041_28_The_March_on_Mosc.xhtml#page_350), [357](041_28_The_March_on_Mosc.xhtml#page_357), [492](054_40_The_Death_of_Hope.xhtml#page_492), [493](054_40_The_Death_of_Hope.xhtml#page_493), [494](054_40_The_Death_of_Hope.xhtml#page_494)
-* Tallinn (Reval), [190](027_15_Enemies_on_the_Pe.xhtml#page_190), [267–8](032_20_The_Central_Power.xhtml#page_267), [269](033_21_The_Baltic_and_No.xhtml#page_269), [270](033_21_The_Baltic_and_No.xhtml#page_270), [338](040_27_Baltic_Summer.xhtml#page_338), [362](041_28_The_March_on_Mosc.xhtml#page_362), [367](042_29_Baltic_Surprise.xhtml#page_367), [368](042_29_Baltic_Surprise.xhtml#page_368)
-* Tarnopol, [77](018_7_Kornilov.xhtml#page_77)
-* Tartu, [269](033_21_The_Baltic_and_No.xhtml#page_269), [289](035_22_The_Fatal_Comprom.xhtml#page_289), [368](042_29_Baltic_Surprise.xhtml#page_368)
-* Tashkent, [128](021_10_The_Infanticide_o.xhtml#page_128), [197](027_15_Enemies_on_the_Pe.xhtml#page_197)
-* Tauride (Tavrischesky) Palace, [24](013_2_The_February_Revol.xhtml#page_24), [28](014_3_The_Fall_of_the_Do.xhtml#page_28), [29](014_3_The_Fall_of_the_Do.xhtml#page_29), [31](014_3_The_Fall_of_the_Do.xhtml#page_31), [35](015_4_From_Autocracy_to_.xhtml#page_35), [49](016_5_The_Pregnant_Widow.xhtml#page_49), [68](017_6_The_Kerensky_Offen.xhtml#page_68), [71–2](017_6_The_Kerensky_Offen.xhtml#page_71), [100](019_8_The_October_Coup.xhtml#page_100), [121](021_10_The_Infanticide_o.xhtml#page_121), [133](023_11_Breaking_the_Moul.xhtml#page_133), [147](024_12_Brest-Litovsk.xhtml#page_147)
-* Teague-Jones, Capt Reginald, [197](027_15_Enemies_on_the_Pe.xhtml#page_197), [199](027_15_Enemies_on_the_Pe.xhtml#page_199), [200](027_15_Enemies_on_the_Pe.xhtml#page_200), [263–4](032_20_The_Central_Power.xhtml#page_263), [266](032_20_The_Central_Power.xhtml#page_266)
-* ‘Teffi’ (Nadezhda Lokhvitskaya), [2](010_Foreword.xhtml#page_2), [50](016_5_The_Pregnant_Widow.xhtml#page_50),[156](024_12_Brest-Litovsk.xhtml#page_156), [177](026_14_The_Germans_March.xhtml#page_177), [281](035_22_The_Fatal_Comprom.xhtml#page_281)
-* Tereschenko, Mikhail I., [79](018_7_Kornilov.xhtml#page_79), [80](018_7_Kornilov.xhtml#page_80)
-* Theodosia, [128](021_10_The_Infanticide_o.xhtml#page_128), [138](023_11_Breaking_the_Moul.xhtml#page_138), [486](053_39_The_Riviera_of_Ha.xhtml#page_486)
-* Tiflis (Tbilisi), [126](021_10_The_Infanticide_o.xhtml#page_126), [127](021_10_The_Infanticide_o.xhtml#page_127), [462](051_37_Poles_in_the_West.xhtml#page_462)
-* Timoshenko, Semyon K., [227](030_18_Fighting_on_the_V.xhtml#page_227)
-* Tobolsk, [76](018_7_Kornilov.xhtml#page_76), [106](020_9_The_Boys_Crusade_R.xhtml#page_106), [207](028_16_The_Czechs_and_Le.xhtml#page_207), [214](028_16_The_Czechs_and_Le.xhtml#page_214), [216](028_16_The_Czechs_and_Le.xhtml#page_216), [334](039_26_Siberia.xhtml#page_334)
-* Tolstoy, Count Lev, [53](016_5_The_Pregnant_Widow.xhtml#page_53), [172](025_13_The_Volunteer_Arm.xhtml#page_172), [423](048_34_The_Fall_of_Odess.xhtml#page_423), [491](053_39_The_Riviera_of_Ha.xhtml#page_491), [502](055_Conclusion_The_Devil.xhtml#page_502)
-* Tolstov, Gen. Vladimir S., [298](036_23_Siberia.xhtml#page_298), [299](036_23_Siberia.xhtml#page_299), [331](039_26_Siberia.xhtml#page_331), [332](039_26_Siberia.xhtml#page_332), [442](050_36_Wrangel_Takes_Com.xhtml#page_442)
-* Tomsk, [203](028_16_The_Czechs_and_Le.xhtml#page_203), [253](031_19_From_the_Volga_to.xhtml#page_253), [334](039_26_Siberia.xhtml#page_334), [493](054_40_The_Death_of_Hope.xhtml#page_493)
-* Trans-Siberian Railway, [115](020_9_The_Boys_Crusade_R.xhtml#page_115), [191](027_15_Enemies_on_the_Pe.xhtml#page_191), [192](027_15_Enemies_on_the_Pe.xhtml#page_192), [202](028_16_The_Czechs_and_Le.xhtml#page_202), [245](031_19_From_the_Volga_to.xhtml#page_245), [248–9](031_19_From_the_Volga_to.xhtml#page_248), [293](036_23_Siberia.xhtml#page_293), [295](036_23_Siberia.xhtml#page_295), [328](039_26_Siberia.xhtml#page_328), [332](039_26_Siberia.xhtml#page_332), [371](043_30_Siberian_Retreat.xhtml#page_371), [375](043_30_Siberian_Retreat.xhtml#page_375), [410](047_33_The_Great_Siberia.xhtml#page_410)
-* Trotsky, Leon D., [3](010_Foreword.xhtml#page_3), [47](016_5_The_Pregnant_Widow.xhtml#page_47), [71](017_6_The_Kerensky_Offen.xhtml#page_71), [72](017_6_The_Kerensky_Offen.xhtml#page_72); and Stalin, [73](017_6_The_Kerensky_Offen.xhtml#page_73); [92–3](019_8_The_October_Coup.xhtml#page_92); [94](019_8_The_October_Coup.xhtml#page_94), [95](019_8_The_October_Coup.xhtml#page_95), [96](019_8_The_October_Coup.xhtml#page_96); and Milrevkom, [96–9](019_8_The_October_Coup.xhtml#page_96), [101](019_8_The_October_Coup.xhtml#page_101), [103](019_8_The_October_Coup.xhtml#page_103), [117](020_9_The_Boys_Crusade_R.xhtml#page_117); as Commissar Foreign Affairs, [104](019_8_The_October_Coup.xhtml#page_104), [118](021_10_The_Infanticide_o.xhtml#page_118); and Brest-Litovsk, [144](024_12_Brest-Litovsk.xhtml#page_144), [146](024_12_Brest-Litovsk.xhtml#page_146), [147](024_12_Brest-Litovsk.xhtml#page_147), [148](024_12_Brest-Litovsk.xhtml#page_148), [149](024_12_Brest-Litovsk.xhtml#page_149), [150](024_12_Brest-Litovsk.xhtml#page_150); as Commissar for War, [155](024_12_Brest-Litovsk.xhtml#page_155), [156](024_12_Brest-Litovsk.xhtml#page_156), [181](026_14_The_Germans_March.xhtml#page_181), [182](026_14_The_Germans_March.xhtml#page_182), [187](027_15_Enemies_on_the_Pe.xhtml#page_187), [192](027_15_Enemies_on_the_Pe.xhtml#page_192); [202](028_16_The_Czechs_and_Le.xhtml#page_202), [211](028_16_The_Czechs_and_Le.xhtml#page_211); and Kazan, [225](030_18_Fighting_on_the_V.xhtml#page_225); clashes with Stalin, [228](030_18_Fighting_on_the_V.xhtml#page_228); [232](030_18_Fighting_on_the_V.xhtml#page_232), [233](030_18_Fighting_on_the_V.xhtml#page_233), [322–3](038_25_Murmansk_and_Arkh.xhtml#page_322); and Kazan, [234](030_18_Fighting_on_the_V.xhtml#page_234), [236](030_18_Fighting_on_the_V.xhtml#page_236); [258](032_20_The_Central_Power.xhtml#page_258); and 26 Commissars, [264](032_20_The_Central_Power.xhtml#page_264); [286](035_22_The_Fatal_Comprom.xhtml#page_286), [287](035_22_The_Fatal_Comprom.xhtml#page_287); [297](036_23_Siberia.xhtml#page_297), [306](037_24_Don_and_Ukraine.xhtml#page_306), [334](039_26_Siberia.xhtml#page_334); and defence of Petrograd, [366–7](042_29_Baltic_Surprise.xhtml#page_366); [380](043_30_Siberian_Retreat.xhtml#page_380), [382](044_31_The_Turning_Point.xhtml#page_382), [387](044_31_The_Turning_Point.xhtml#page_387), [394](044_31_The_Turning_Point.xhtml#page_394), [461](051_37_Poles_in_the_West.xhtml#page_461), [470–1](052_38_The_Miracle_on_th.xhtml#page_470), [476](052_38_The_Miracle_on_th.xhtml#page_476), [477](052_38_The_Miracle_on_th.xhtml#page_477), [479](052_38_The_Miracle_on_th.xhtml#page_479), [488](053_39_The_Riviera_of_Ha.xhtml#page_488), [496](054_40_The_Death_of_Hope.xhtml#page_496)
-* Tsar Nicholas II, [1](010_Foreword.xhtml#page_1), [7](012_1_The_Suicide_of_Eur.xhtml#page_7), [11](012_1_The_Suicide_of_Eur.xhtml#page_11), [12](012_1_The_Suicide_of_Eur.xhtml#page_12)n, [14](013_2_The_February_Revol.xhtml#page_14), [18](013_2_The_February_Revol.xhtml#page_18), [21](013_2_The_February_Revol.xhtml#page_21), [22](013_2_The_February_Revol.xhtml#page_22), [23](013_2_The_February_Revol.xhtml#page_23), [25](013_2_The_February_Revol.xhtml#page_25), [26](013_2_The_February_Revol.xhtml#page_26); and abdication, [29](014_3_The_Fall_of_the_Do.xhtml#page_29), [30](014_3_The_Fall_of_the_Do.xhtml#page_30), [31](014_3_The_Fall_of_the_Do.xhtml#page_31), [32](014_3_The_Fall_of_the_Do.xhtml#page_32), [33](014_3_The_Fall_of_the_Do.xhtml#page_33), [38](015_4_From_Autocracy_to_.xhtml#page_38), [39](015_4_From_Autocracy_to_.xhtml#page_39); and ‘russification’, [74](017_6_The_Kerensky_Offen.xhtml#page_74); [116](020_9_The_Boys_Crusade_R.xhtml#page_116); in Siberia, [76](018_7_Kornilov.xhtml#page_76), [214](028_16_The_Czechs_and_Le.xhtml#page_214)
-* Tsar Paul I, [1](010_Foreword.xhtml#page_1), [30](014_3_The_Fall_of_the_Do.xhtml#page_30), [107](020_9_The_Boys_Crusade_R.xhtml#page_107)
-* Tsarina Aleksandra Feodorovna (Alix), [7](012_1_The_Suicide_of_Eur.xhtml#page_7), [8](012_1_The_Suicide_of_Eur.xhtml#page_8), [12](012_1_The_Suicide_of_Eur.xhtml#page_12), [13](012_1_The_Suicide_of_Eur.xhtml#page_13), [15](013_2_The_February_Revol.xhtml#page_15), [16](013_2_The_February_Revol.xhtml#page_16), [20](013_2_The_February_Revol.xhtml#page_20), [21](013_2_The_February_Revol.xhtml#page_21), [22](013_2_The_February_Revol.xhtml#page_22), [25](013_2_The_February_Revol.xhtml#page_25), [28](014_3_The_Fall_of_the_Do.xhtml#page_28), [37](015_4_From_Autocracy_to_.xhtml#page_37), [38](015_4_From_Autocracy_to_.xhtml#page_38), [76](018_7_Kornilov.xhtml#page_76), [214](028_16_The_Czechs_and_Le.xhtml#page_214), [216](028_16_The_Czechs_and_Le.xhtml#page_216)
-* Tsarist Army, *Stavka* Mogilev, [11](012_1_The_Suicide_of_Eur.xhtml#page_11), [12](012_1_The_Suicide_of_Eur.xhtml#page_12), [17](013_2_The_February_Revol.xhtml#page_17), [18](013_2_The_February_Revol.xhtml#page_18), [21](013_2_The_February_Revol.xhtml#page_21), [22](013_2_The_February_Revol.xhtml#page_22), [25](013_2_The_February_Revol.xhtml#page_25), [27](014_3_The_Fall_of_the_Do.xhtml#page_27), [28](014_3_The_Fall_of_the_Do.xhtml#page_28), [30](014_3_The_Fall_of_the_Do.xhtml#page_30), [34](015_4_From_Autocracy_to_.xhtml#page_34), [38–9](015_4_From_Autocracy_to_.xhtml#page_38), [42](015_4_From_Autocracy_to_.xhtml#page_42); and Kerensky Offensive, [63](017_6_The_Kerensky_Offen.xhtml#page_63), [67](017_6_The_Kerensky_Offen.xhtml#page_67); [74](017_6_The_Kerensky_Offen.xhtml#page_74), [79](018_7_Kornilov.xhtml#page_79); and Kornilov affair, [84](018_7_Kornilov.xhtml#page_84), [85](018_7_Kornilov.xhtml#page_85), [89](018_7_Kornilov.xhtml#page_89); [94](019_8_The_October_Coup.xhtml#page_94), [112](020_9_The_Boys_Crusade_R.xhtml#page_112), [116](020_9_The_Boys_Crusade_R.xhtml#page_116)
+* Taganrog, 113, 163, 358, 387, 389, 394, 396, 399, 424, 461
+* Tambov, 350, 357, 492, 493, 494
+* Tallinn (Reval), 190, 267–8, 269, 270, 338, 362, 367, 368
+* Tarnopol, 77
+* Tartu, 269, 289, 368
+* Tashkent, 128, 197
+* Tauride (Tavrischesky) Palace, 24, 28, 29, 31, 35, 49, 68, 71–2, 100, 121, 133, 147
+* Teague-Jones, Capt Reginald, 197, 199, 200, 263–4, 266
+* ‘Teffi’ (Nadezhda Lokhvitskaya), 2, 50,156, 177, 281
+* Tereschenko, Mikhail I., 79, 80
+* Theodosia, 128, 138, 486
+* Tiflis (Tbilisi), 126, 127, 462
+* Timoshenko, Semyon K., 227
+* Tobolsk, 76, 106, 207, 214, 216, 334
+* Tolstoy, Count Lev, 53, 172, 423, 491, 502
+* Tolstov, Gen. Vladimir S., 298, 299, 331, 332, 442
+* Tomsk, 203, 253, 334, 493
+* Trans-Siberian Railway, 115, 191, 192, 202, 245, 248–9, 293, 295, 328, 332, 371, 375, 410
+* Trotsky, Leon D., 3, 47, 71, 72; and Stalin, 73; 92–3; 94, 95, 96; and Milrevkom, 96–9, 101, 103, 117; as Commissar Foreign Affairs, 104, 118; and Brest-Litovsk, 144, 146, 147, 148, 149, 150; as Commissar for War, 155, 156, 181, 182, 187, 192; 202, 211; and Kazan, 225; clashes with Stalin, 228; 232, 233, 322–3; and Kazan, 234, 236; 258; and 26 Commissars, 264; 286, 287; 297, 306, 334; and defence of Petrograd, 366–7; 380, 382, 387, 394, 461, 470–1, 476, 477, 479, 488, 496
+* Tsar Nicholas II, 1, 7, 11, 12n, 14, 18, 21, 22, 23, 25, 26; and abdication, 29, 30, 31, 32, 33, 38, 39; and ‘russification’, 74; 116; in Siberia, 76, 214
+* Tsar Paul I, 1, 30, 107
+* Tsarina Aleksandra Feodorovna (Alix), 7, 8, 12, 13, 15, 16, 20, 21, 22, 25, 28, 37, 38, 76, 214, 216
+* Tsarist Army, *Stavka* Mogilev, 11, 12, 17, 18, 21, 22, 25, 27, 28, 30, 34, 38–9, 42; and Kerensky Offensive, 63, 67; 74, 79; and Kornilov affair, 84, 85, 89; 94, 112, 116
 
-  + Second Army, [3](010_Foreword.xhtml#page_3)
-  + Fifth Army, [67](017_6_The_Kerensky_Offen.xhtml#page_67), [84](018_7_Kornilov.xhtml#page_84)
-  + Seventh Army, [11](012_1_The_Suicide_of_Eur.xhtml#page_11), [63](017_6_The_Kerensky_Offen.xhtml#page_63), [64](017_6_The_Kerensky_Offen.xhtml#page_64), [65](017_6_The_Kerensky_Offen.xhtml#page_65), [66](017_6_The_Kerensky_Offen.xhtml#page_66)
-  + Eighth Army, [61](016_5_The_Pregnant_Widow.xhtml#page_61), [62](017_6_The_Kerensky_Offen.xhtml#page_62), [66](017_6_The_Kerensky_Offen.xhtml#page_66), [78](018_7_Kornilov.xhtml#page_78), [87](018_7_Kornilov.xhtml#page_87)
-  + Ninth Army, [87](018_7_Kornilov.xhtml#page_87)
-  + Eleventh Army, [63](017_6_The_Kerensky_Offen.xhtml#page_63), [65](017_6_The_Kerensky_Offen.xhtml#page_65), [66](017_6_The_Kerensky_Offen.xhtml#page_66), [77](018_7_Kornilov.xhtml#page_77)
+  + Second Army, 3
+  + Fifth Army, 67, 84
+  + Seventh Army, 11, 63, 64, 65, 66
+  + Eighth Army, 61, 62, 66, 78, 87
+  + Ninth Army, 87
+  + Eleventh Army, 63, 65, 66, 77
 
-    - Siberian Corps, [43](015_4_From_Autocracy_to_.xhtml#page_43)
-    - III Cavalry Corps, [84](018_7_Kornilov.xhtml#page_84), [86](018_7_Kornilov.xhtml#page_86), [87](018_7_Kornilov.xhtml#page_87), [88](018_7_Kornilov.xhtml#page_88), [100](019_8_The_October_Coup.xhtml#page_100), [105](020_9_The_Boys_Crusade_R.xhtml#page_105), [173](025_13_The_Volunteer_Arm.xhtml#page_173)
-    - XLII Ind Corps, [75](018_7_Kornilov.xhtml#page_75), [88](018_7_Kornilov.xhtml#page_88)
+    - Siberian Corps, 43
+    - III Cavalry Corps, 84, 86, 87, 88, 100, 105, 173
+    - XLII Ind Corps, 75, 88
 
-      * 7th Cavalry Div, [78](018_7_Kornilov.xhtml#page_78)
-      * 3rd TransAmur Div, [65](017_6_The_Kerensky_Offen.xhtml#page_65)
-      * 5th Trans-Amur Div, [65](017_6_The_Kerensky_Offen.xhtml#page_65)
-    - 74th Div, [65](017_6_The_Kerensky_Offen.xhtml#page_65); Baltic Gds, [87](018_7_Kornilov.xhtml#page_87); Chevalier Gds, [16](013_2_The_February_Revol.xhtml#page_16), [78](018_7_Kornilov.xhtml#page_78), [178](026_14_The_Germans_March.xhtml#page_178), [267](032_20_The_Central_Power.xhtml#page_267); Ismailovsky Gds, [72](017_6_The_Kerensky_Offen.xhtml#page_72), [107](020_9_The_Boys_Crusade_R.xhtml#page_107); Finlandsky Gds, [55](016_5_The_Pregnant_Widow.xhtml#page_55), [113–14](020_9_The_Boys_Crusade_R.xhtml#page_113), [116](020_9_The_Boys_Crusade_R.xhtml#page_116); Litovsky Gds, [116](020_9_The_Boys_Crusade_R.xhtml#page_116); Pavlovsky Gds, [22](013_2_The_February_Revol.xhtml#page_22), [99](019_8_The_October_Coup.xhtml#page_99), [102](019_8_The_October_Coup.xhtml#page_102); Preobrazhensky Gds, [22](013_2_The_February_Revol.xhtml#page_22), [24](013_2_The_February_Revol.xhtml#page_24), [102](019_8_The_October_Coup.xhtml#page_102); Semenovsky Gds, [107](020_9_The_Boys_Crusade_R.xhtml#page_107), [427](049_35_The_Last_Hurrah_o.xhtml#page_427); Volynsky Gds, [21](013_2_The_February_Revol.xhtml#page_21), [22](013_2_The_February_Revol.xhtml#page_22), [23](013_2_The_February_Revol.xhtml#page_23), [24](013_2_The_February_Revol.xhtml#page_24), [105](020_9_The_Boys_Crusade_R.xhtml#page_105), [107](020_9_The_Boys_Crusade_R.xhtml#page_107); Gds Grenadier Regiment, [68](017_6_The_Kerensky_Offen.xhtml#page_68), [102](019_8_The_October_Coup.xhtml#page_102); 9th Cavalry, [21](013_2_The_February_Revol.xhtml#page_21), [22](013_2_The_February_Revol.xhtml#page_22); 1st Machinegun Rgt, [68](017_6_The_Kerensky_Offen.xhtml#page_68), [70](017_6_The_Kerensky_Offen.xhtml#page_70), [99](019_8_The_October_Coup.xhtml#page_99)
-* Tsaritsyn (Stalingrad, Volgograd), [181](026_14_The_Germans_March.xhtml#page_181), [192](027_15_Enemies_on_the_Pe.xhtml#page_192), [220](029_17_Red_Terror.xhtml#page_220), [229](030_18_Fighting_on_the_V.xhtml#page_229), [230](030_18_Fighting_on_the_V.xhtml#page_230), [285](035_22_The_Fatal_Comprom.xhtml#page_285), [287](035_22_The_Fatal_Comprom.xhtml#page_287), [300](036_23_Siberia.xhtml#page_300), [308](037_24_Don_and_Ukraine.xhtml#page_308); Wrangel takes, [309–10](037_24_Don_and_Ukraine.xhtml#page_309); [312–13](037_24_Don_and_Ukraine.xhtml#page_312), [347](040_27_Baltic_Summer.xhtml#page_347), [348](041_28_The_March_on_Mosc.xhtml#page_348), [353](041_28_The_March_on_Mosc.xhtml#page_353), [424](048_34_The_Fall_of_Odess.xhtml#page_424)
-* Tsarskoe Selo, [18](013_2_The_February_Revol.xhtml#page_18), [28](014_3_The_Fall_of_the_Do.xhtml#page_28), [39](015_4_From_Autocracy_to_.xhtml#page_39), [104](019_8_The_October_Coup.xhtml#page_104)
-* Tsereteli, Irakli, [57](016_5_The_Pregnant_Widow.xhtml#page_57), [62](017_6_The_Kerensky_Offen.xhtml#page_62), [76](018_7_Kornilov.xhtml#page_76), [134](023_11_Breaking_the_Moul.xhtml#page_134)
-* Tukhachevsky, Mikhail N., [228](030_18_Fighting_on_the_V.xhtml#page_228), [*229*](030_18_Fighting_on_the_V.xhtml#page_229), [237](030_18_Fighting_on_the_V.xhtml#page_237), [242](031_19_From_the_Volga_to.xhtml#page_242), [297](036_23_Siberia.xhtml#page_297), [322](038_25_Murmansk_and_Arkh.xhtml#page_322), [427](049_35_The_Last_Hurrah_o.xhtml#page_427), [454](051_37_Poles_in_the_West.xhtml#page_454), [458](051_37_Poles_in_the_West.xhtml#page_458), [459](051_37_Poles_in_the_West.xhtml#page_459), [468](051_37_Poles_in_the_West.xhtml#page_468); and Stalin, [470](052_38_The_Miracle_on_th.xhtml#page_470); [472](052_38_The_Miracle_on_th.xhtml#page_472), [474](052_38_The_Miracle_on_th.xhtml#page_474), [476](052_38_The_Miracle_on_th.xhtml#page_476), [477](052_38_The_Miracle_on_th.xhtml#page_477), [493](054_40_The_Death_of_Hope.xhtml#page_493), [497](054_40_The_Death_of_Hope.xhtml#page_497), [499](054_40_The_Death_of_Hope.xhtml#page_499)
-* Tula, [287](035_22_The_Fatal_Comprom.xhtml#page_287), [349](041_28_The_March_on_Mosc.xhtml#page_349), [381](044_31_The_Turning_Point.xhtml#page_381), [387](044_31_The_Turning_Point.xhtml#page_387), [492](054_40_The_Death_of_Hope.xhtml#page_492), [493](054_40_The_Death_of_Hope.xhtml#page_493)
+      * 7th Cavalry Div, 78
+      * 3rd TransAmur Div, 65
+      * 5th Trans-Amur Div, 65
+    - 74th Div, 65; Baltic Gds, 87; Chevalier Gds, 16, 78, 178, 267; Ismailovsky Gds, 72, 107; Finlandsky Gds, 55, 113–14, 116; Litovsky Gds, 116; Pavlovsky Gds, 22, 99, 102; Preobrazhensky Gds, 22, 24, 102; Semenovsky Gds, 107, 427; Volynsky Gds, 21, 22, 23, 24, 105, 107; Gds Grenadier Regiment, 68, 102; 9th Cavalry, 21, 22; 1st Machinegun Rgt, 68, 70, 99
+* Tsaritsyn (Stalingrad, Volgograd), 181, 192, 220, 229, 230, 285, 287, 300, 308; Wrangel takes, 309–10; 312–13, 347, 348, 353, 424
+* Tsarskoe Selo, 18, 28, 39, 104
+* Tsereteli, Irakli, 57, 62, 76, 134
+* Tukhachevsky, Mikhail N., 228, *229*, 237, 242, 297, 322, 427, 454, 458, 459, 468; and Stalin, 470; 472, 474, 476, 477, 493, 497, 499
+* Tula, 287, 349, 381, 387, 492, 493
 
 ## U
 
-* Ufa, State Conference, [242](031_19_From_the_Volga_to.xhtml#page_242), [243–4](031_19_From_the_Volga_to.xhtml#page_243); [246](031_19_From_the_Volga_to.xhtml#page_246), [296](036_23_Siberia.xhtml#page_296); Whites lose, [300](036_23_Siberia.xhtml#page_300), retake, [308](037_24_Don_and_Ukraine.xhtml#page_308), relost, [322](038_25_Murmansk_and_Arkh.xhtml#page_322); [493](054_40_The_Death_of_Hope.xhtml#page_493)
-* Ukrainian Central Rada, [76](018_7_Kornilov.xhtml#page_76), [112](020_9_The_Boys_Crusade_R.xhtml#page_112), [125](021_10_The_Infanticide_o.xhtml#page_125), [142](023_11_Breaking_the_Moul.xhtml#page_142); and Brest-Litovsk, [147](024_12_Brest-Litovsk.xhtml#page_147), [148](024_12_Brest-Litovsk.xhtml#page_148); treaty with Central Powers, [148](024_12_Brest-Litovsk.xhtml#page_148); German occupation of, [149](024_12_Brest-Litovsk.xhtml#page_149), [177](026_14_The_Germans_March.xhtml#page_177), [178–9](026_14_The_Germans_March.xhtml#page_178); Rada deposed, [177](026_14_The_Germans_March.xhtml#page_177); [184](026_14_The_Germans_March.xhtml#page_184), [186](026_14_The_Germans_March.xhtml#page_186); [256](032_20_The_Central_Power.xhtml#page_256), [275](033_21_The_Baltic_and_No.xhtml#page_275)
-* Ukrainian nationalism, [74](017_6_The_Kerensky_Offen.xhtml#page_74), [76](018_7_Kornilov.xhtml#page_76), [256](032_20_The_Central_Power.xhtml#page_256); and Russian scepticism, [141](023_11_Breaking_the_Moul.xhtml#page_141); Ukrainian Red Cross, [143](023_11_Breaking_the_Moul.xhtml#page_143); Ukrainian forces, [256](032_20_The_Central_Power.xhtml#page_256), [282](035_22_The_Fatal_Comprom.xhtml#page_282), [354–5](041_28_The_March_on_Mosc.xhtml#page_354)
-* Ungern-Sternberg, Baron Roman v., [111–12](020_9_The_Boys_Crusade_R.xhtml#page_111), [245](031_19_From_the_Volga_to.xhtml#page_245), [296](036_23_Siberia.xhtml#page_296), [328](039_26_Siberia.xhtml#page_328)
-* Uritsky, Moisei, [94](019_8_The_October_Coup.xhtml#page_94), [95](019_8_The_October_Coup.xhtml#page_95), [121](021_10_The_Infanticide_o.xhtml#page_121), [133](023_11_Breaking_the_Moul.xhtml#page_133), [138](023_11_Breaking_the_Moul.xhtml#page_138); assassination, [217](029_17_Red_Terror.xhtml#page_217), [219–20](029_17_Red_Terror.xhtml#page_219), [356](041_28_The_March_on_Mosc.xhtml#page_356)
-* US Army; AEF (American Expeditionary Force), [248](031_19_From_the_Volga_to.xhtml#page_248), [292](035_22_The_Fatal_Comprom.xhtml#page_292), [334–6](039_26_Siberia.xhtml#page_334); US Railway Service Corps, [191](027_15_Enemies_on_the_Pe.xhtml#page_191), [293](036_23_Siberia.xhtml#page_293), [413](047_33_The_Great_Siberia.xhtml#page_413); 27th Inf Rgt, [292](035_22_The_Fatal_Comprom.xhtml#page_292), [293](036_23_Siberia.xhtml#page_293), [294](036_23_Siberia.xhtml#page_294); 31st Inf Rgt, [293](036_23_Siberia.xhtml#page_293)
-* US Navy, [191](027_15_Enemies_on_the_Pe.xhtml#page_191); and Crimean evacuation, [485–6](053_39_The_Riviera_of_Ha.xhtml#page_485)
+* Ufa, State Conference, 242, 243–4; 246, 296; Whites lose, 300, retake, 308, relost, 322; 493
+* Ukrainian Central Rada, 76, 112, 125, 142; and Brest-Litovsk, 147, 148; treaty with Central Powers, 148; German occupation of, 149, 177, 178–9; Rada deposed, 177; 184, 186; 256, 275
+* Ukrainian nationalism, 74, 76, 256; and Russian scepticism, 141; Ukrainian Red Cross, 143; Ukrainian forces, 256, 282, 354–5
+* Ungern-Sternberg, Baron Roman v., 111–12, 245, 296, 328
+* Uritsky, Moisei, 94, 95, 121, 133, 138; assassination, 217, 219–20, 356
+* US Army; AEF (American Expeditionary Force), 248, 292, 334–6; US Railway Service Corps, 191, 293, 413; 27th Inf Rgt, 292, 293, 294; 31st Inf Rgt, 293
+* US Navy, 191; and Crimean evacuation, 485–6
 
 ## V
 
-* Vatsetis, Ioakim, [212](028_16_The_Czechs_and_Le.xhtml#page_212), [213](028_16_The_Czechs_and_Le.xhtml#page_213); and Volga Front, [213](028_16_The_Czechs_and_Le.xhtml#page_213), [226](030_18_Fighting_on_the_V.xhtml#page_226), [233](030_18_Fighting_on_the_V.xhtml#page_233), [236](030_18_Fighting_on_the_V.xhtml#page_236), [306](037_24_Don_and_Ukraine.xhtml#page_306)n, [323](039_26_Siberia.xhtml#page_323), [347](040_27_Baltic_Summer.xhtml#page_347)n
-* Verkhneudinsk, [111](020_9_The_Boys_Crusade_R.xhtml#page_111)
-* Vikzhel (railway union), [105](020_9_The_Boys_Crusade_R.xhtml#page_105), [106](020_9_The_Boys_Crusade_R.xhtml#page_106), [116](020_9_The_Boys_Crusade_R.xhtml#page_116), [119](021_10_The_Infanticide_o.xhtml#page_119), [124](021_10_The_Infanticide_o.xhtml#page_124)
-* Vinnichenko, Volodimir, [76](018_7_Kornilov.xhtml#page_76), [141](023_11_Breaking_the_Moul.xhtml#page_141), [177](026_14_The_Germans_March.xhtml#page_177)
-* Vladivostok, [190](027_15_Enemies_on_the_Pe.xhtml#page_190), [192](027_15_Enemies_on_the_Pe.xhtml#page_192), [205–6](028_16_The_Czechs_and_Le.xhtml#page_205), [246](031_19_From_the_Volga_to.xhtml#page_246), [248](031_19_From_the_Volga_to.xhtml#page_248), [292](035_22_The_Fatal_Comprom.xhtml#page_292), [334–5](039_26_Siberia.xhtml#page_334), [361](041_28_The_March_on_Mosc.xhtml#page_361); revolt, [374](043_30_Siberian_Retreat.xhtml#page_374)
-* Vologda, [188](027_15_Enemies_on_the_Pe.xhtml#page_188), [233](030_18_Fighting_on_the_V.xhtml#page_233), [316](037_24_Don_and_Ukraine.xhtml#page_316), [319](038_25_Murmansk_and_Arkh.xhtml#page_319), [493](054_40_The_Death_of_Hope.xhtml#page_493), [497](054_40_The_Death_of_Hope.xhtml#page_497)
-* Vologodsky, Pyotr V., [244](031_19_From_the_Volga_to.xhtml#page_244), [247](031_19_From_the_Volga_to.xhtml#page_247), [294](036_23_Siberia.xhtml#page_294), [295](036_23_Siberia.xhtml#page_295), [329](039_26_Siberia.xhtml#page_329)
-* Volunteer Army, *see under* [White Army](062_Index.xhtml#whitearmy)
-* Voronezh, [350](041_28_The_March_on_Mosc.xhtml#page_350), [357](041_28_The_March_on_Mosc.xhtml#page_357), [358](041_28_The_March_on_Mosc.xhtml#page_358), [383](044_31_The_Turning_Point.xhtml#page_383), [389](044_31_The_Turning_Point.xhtml#page_389), [391](044_31_The_Turning_Point.xhtml#page_391), [396](045_32_Retreat_in_the_So.xhtml#page_396), [493](054_40_The_Death_of_Hope.xhtml#page_493)
-* Voroshilov, Kliment Y., [227](030_18_Fighting_on_the_V.xhtml#page_227), [426](049_35_The_Last_Hurrah_o.xhtml#page_426), [452–3](050_36_Wrangel_Takes_Com.xhtml#page_452), [454](051_37_Poles_in_the_West.xhtml#page_454)
-* Vyatka, [254](031_19_From_the_Volga_to.xhtml#page_254), [361](041_28_The_March_on_Mosc.xhtml#page_361)
-* Vyazemsky, Prince & Princess Boris, [51–2](016_5_The_Pregnant_Widow.xhtml#page_51)
-* Vyborg (Viipuri), [44](015_4_From_Autocracy_to_.xhtml#page_44), [88](018_7_Kornilov.xhtml#page_88), [95](019_8_The_October_Coup.xhtml#page_95), [154](024_12_Brest-Litovsk.xhtml#page_154)
+* Vatsetis, Ioakim, 212, 213; and Volga Front, 213, 226, 233, 236, 306n, 323, 347n
+* Verkhneudinsk, 111
+* Vikzhel (railway union), 105, 106, 116, 119, 124
+* Vinnichenko, Volodimir, 76, 141, 177
+* Vladivostok, 190, 192, 205–6, 246, 248, 292, 334–5, 361; revolt, 374
+* Vologda, 188, 233, 316, 319, 493, 497
+* Vologodsky, Pyotr V., 244, 247, 294, 295, 329
+* Volunteer Army, *see under* White Army
+* Voronezh, 350, 357, 358, 383, 389, 391, 396, 493
+* Voroshilov, Kliment Y., 227, 426, 452–3, 454
+* Vyatka, 254, 361
+* Vyazemsky, Prince & Princess Boris, 51–2
+* Vyborg (Viipuri), 44, 88, 95, 154
 
 ## W
 
-* Warsaw, [375](043_30_Siberian_Retreat.xhtml#page_375), [398](045_32_Retreat_in_the_So.xhtml#page_398), [399](045_32_Retreat_in_the_So.xhtml#page_399), [447](050_36_Wrangel_Takes_Com.xhtml#page_447), [458](051_37_Poles_in_the_West.xhtml#page_458), [458](051_37_Poles_in_the_West.xhtml#page_458), [459](051_37_Poles_in_the_West.xhtml#page_459), [469](052_38_The_Miracle_on_th.xhtml#page_469), [470](052_38_The_Miracle_on_th.xhtml#page_470), [471](052_38_The_Miracle_on_th.xhtml#page_471), [472](052_38_The_Miracle_on_th.xhtml#page_472), [473](052_38_The_Miracle_on_th.xhtml#page_473), [474](052_38_The_Miracle_on_th.xhtml#page_474), [475](052_38_The_Miracle_on_th.xhtml#page_475), [477](052_38_The_Miracle_on_th.xhtml#page_477)
-* Wavell, Capt. A. (later FM), [1–2](010_Foreword.xhtml#page_1), [11](012_1_The_Suicide_of_Eur.xhtml#page_11), [42](015_4_From_Autocracy_to_.xhtml#page_42), [115](020_9_The_Boys_Crusade_R.xhtml#page_115), [228](030_18_Fighting_on_the_V.xhtml#page_228)n
+* Warsaw, 375, 398, 399, 447, 458, 458, 459, 469, 470, 471, 472, 473, 474, 475, 477
+* Wavell, Capt. A. (later FM), 1–2, 11, 42, 115, 228n
 * White Armies
 
-  + Volunteer Army/Corps, [141](023_11_Breaking_the_Moul.xhtml#page_141), [159](025_13_The_Volunteer_Arm.xhtml#page_159), [163](025_13_The_Volunteer_Arm.xhtml#page_163); and continuing war on Germany, [164](025_13_The_Volunteer_Arm.xhtml#page_164); Ice March, [166–74](025_13_The_Volunteer_Arm.xhtml#page_166); [181](026_14_The_Germans_March.xhtml#page_181), [195](027_15_Enemies_on_the_Pe.xhtml#page_195), [390](044_31_The_Turning_Point.xhtml#page_390); and Chinese, [232](030_18_Fighting_on_the_V.xhtml#page_232); [236](030_18_Fighting_on_the_V.xhtml#page_236), [286](035_22_The_Fatal_Comprom.xhtml#page_286); in Odessa, [281](035_22_The_Fatal_Comprom.xhtml#page_281), [282](035_22_The_Fatal_Comprom.xhtml#page_282), [283](035_22_The_Fatal_Comprom.xhtml#page_283); 2nd Kuban campaign, [285](035_22_The_Fatal_Comprom.xhtml#page_285); Lugansk, [286](035_22_The_Fatal_Comprom.xhtml#page_286); relations with Don Cossacks, [301](037_24_Don_and_Ukraine.xhtml#page_301), [302](037_24_Don_and_Ukraine.xhtml#page_302); advance on Kharkov, [304](037_24_Don_and_Ukraine.xhtml#page_304), [327–8](039_26_Siberia.xhtml#page_327), [349](041_28_The_March_on_Mosc.xhtml#page_349), [350](041_28_The_March_on_Mosc.xhtml#page_350), [353](041_28_The_March_on_Mosc.xhtml#page_353), [356](041_28_The_March_on_Mosc.xhtml#page_356), [385](044_31_The_Turning_Point.xhtml#page_385), [391](044_31_The_Turning_Point.xhtml#page_391), [394](044_31_The_Turning_Point.xhtml#page_394)
-  + Army of Caucasus, [310](037_24_Don_and_Ukraine.xhtml#page_310), [311](037_24_Don_and_Ukraine.xhtml#page_311), [312](037_24_Don_and_Ukraine.xhtml#page_312), [313](037_24_Don_and_Ukraine.xhtml#page_313), [349](041_28_The_March_on_Mosc.xhtml#page_349), [353](041_28_The_March_on_Mosc.xhtml#page_353)
-  + Don Army, [312–13](037_24_Don_and_Ukraine.xhtml#page_312), [349](041_28_The_March_on_Mosc.xhtml#page_349), [353](041_28_The_March_on_Mosc.xhtml#page_353), [391](044_31_The_Turning_Point.xhtml#page_391), [394](044_31_The_Turning_Point.xhtml#page_394), [395](045_32_Retreat_in_the_So.xhtml#page_395)
+  + Volunteer Army/Corps, 141, 159, 163; and continuing war on Germany, 164; Ice March, 166–74; 181, 195, 390; and Chinese, 232; 236, 286; in Odessa, 281, 282, 283; 2nd Kuban campaign, 285; Lugansk, 286; relations with Don Cossacks, 301, 302; advance on Kharkov, 304, 327–8, 349, 350, 353, 356, 385, 391, 394
+  + Army of Caucasus, 310, 311, 312, 313, 349, 353
+  + Don Army, 312–13, 349, 353, 391, 394, 395
 
-    - Northern Corps/Northwestern Army, [267](032_20_The_Central_Power.xhtml#page_267), [362](041_28_The_March_on_Mosc.xhtml#page_362), [364](042_29_Baltic_Surprise.xhtml#page_364), [367](042_29_Baltic_Surprise.xhtml#page_367), [368](042_29_Baltic_Surprise.xhtml#page_368)
-    - Siberia, [295](036_23_Siberia.xhtml#page_295), [300](036_23_Siberia.xhtml#page_300); counter-intelligence [296–7](036_23_Siberia.xhtml#page_296); [297](036_23_Siberia.xhtml#page_297), [300](036_23_Siberia.xhtml#page_300), [308](037_24_Don_and_Ukraine.xhtml#page_308); disintegration, [329–31](039_26_Siberia.xhtml#page_329)
-* White Terror, [296–7](036_23_Siberia.xhtml#page_296), [328–9](039_26_Siberia.xhtml#page_328), [330–1](039_26_Siberia.xhtml#page_330), [391](044_31_The_Turning_Point.xhtml#page_391)
-* Wilhelm II, Kaiser, [148](024_12_Brest-Litovsk.xhtml#page_148), [149](024_12_Brest-Litovsk.xhtml#page_149), [154](024_12_Brest-Litovsk.xhtml#page_154), [180](026_14_The_Germans_March.xhtml#page_180), [231](030_18_Fighting_on_the_V.xhtml#page_231)
-* Wilson, FM Sir Henry, [188](027_15_Enemies_on_the_Pe.xhtml#page_188), [275](033_21_The_Baltic_and_No.xhtml#page_275), [282](035_22_The_Fatal_Comprom.xhtml#page_282), [317–18](038_25_Murmansk_and_Arkh.xhtml#page_317), [320](038_25_Murmansk_and_Arkh.xhtml#page_320), [321](038_25_Murmansk_and_Arkh.xhtml#page_321), [326–7](039_26_Siberia.xhtml#page_326), [342](040_27_Baltic_Summer.xhtml#page_342), [343](040_27_Baltic_Summer.xhtml#page_343), [362](041_28_The_March_on_Mosc.xhtml#page_362), [403](045_32_Retreat_in_the_So.xhtml#page_403)
-* Wilson, President Woodrow, [187–8](027_15_Enemies_on_the_Pe.xhtml#page_187), [248](031_19_From_the_Volga_to.xhtml#page_248), [273](033_21_The_Baltic_and_No.xhtml#page_273); and Prinkipo conference, [279–80](035_22_The_Fatal_Comprom.xhtml#page_279); [293](036_23_Siberia.xhtml#page_293), [299](036_23_Siberia.xhtml#page_299)
-* Women’s Battalion, [63](017_6_The_Kerensky_Offen.xhtml#page_63), [99](019_8_The_October_Coup.xhtml#page_99), [101](019_8_The_October_Coup.xhtml#page_101), [102](019_8_The_October_Coup.xhtml#page_102)
-* women’s issues, [19](013_2_The_February_Revol.xhtml#page_19), [36–7](015_4_From_Autocracy_to_.xhtml#page_36); slave trade, [127–8](021_10_The_Infanticide_o.xhtml#page_127), [266](032_20_The_Central_Power.xhtml#page_266); vulnerability, [139](023_11_Breaking_the_Moul.xhtml#page_139), [245](031_19_From_the_Volga_to.xhtml#page_245)
-* world revolution, [95](019_8_The_October_Coup.xhtml#page_95), [96](019_8_The_October_Coup.xhtml#page_96), [255](031_19_From_the_Volga_to.xhtml#page_255), [336–7](040_27_Baltic_Summer.xhtml#page_336), [458](051_37_Poles_in_the_West.xhtml#page_458), [468](051_37_Poles_in_the_West.xhtml#page_468), [469](052_38_The_Miracle_on_th.xhtml#page_469), [470–1](052_38_The_Miracle_on_th.xhtml#page_470)
-* Wrangel, Gen. Baron Piotr, [78](018_7_Kornilov.xhtml#page_78), [87](018_7_Kornilov.xhtml#page_87), [89](018_7_Kornilov.xhtml#page_89), [308](037_24_Don_and_Ukraine.xhtml#page_308), [310](037_24_Don_and_Ukraine.xhtml#page_310); and strategy clash with Denikin, [311](037_24_Don_and_Ukraine.xhtml#page_311), [*312*](037_24_Don_and_Ukraine.xhtml#page_312), [313](037_24_Don_and_Ukraine.xhtml#page_313), [348](041_28_The_March_on_Mosc.xhtml#page_348), [349](041_28_The_March_on_Mosc.xhtml#page_349), [353](041_28_The_March_on_Mosc.xhtml#page_353), [380](043_30_Siberian_Retreat.xhtml#page_380), [391](044_31_The_Turning_Point.xhtml#page_391), [394](044_31_The_Turning_Point.xhtml#page_394), [395](045_32_Retreat_in_the_So.xhtml#page_395), [402](045_32_Retreat_in_the_So.xhtml#page_402), [440](049_35_The_Last_Hurrah_o.xhtml#page_440); attacks on Denikin, [441](050_36_Wrangel_Takes_Com.xhtml#page_441), [443](050_36_Wrangel_Takes_Com.xhtml#page_443); takes command, [444](050_36_Wrangel_Takes_Com.xhtml#page_444), [450](050_36_Wrangel_Takes_Com.xhtml#page_450); [459](051_37_Poles_in_the_West.xhtml#page_459), [461](051_37_Poles_in_the_West.xhtml#page_461), [477](052_38_The_Miracle_on_th.xhtml#page_477), [478](052_38_The_Miracle_on_th.xhtml#page_478); crosses Dnieper, [482](053_39_The_Riviera_of_Ha.xhtml#page_482); withdrawal into Crimea, [483](053_39_The_Riviera_of_Ha.xhtml#page_483); and evacuation, [484](053_39_The_Riviera_of_Ha.xhtml#page_484), [485](053_39_The_Riviera_of_Ha.xhtml#page_485), [487](053_39_The_Riviera_of_Ha.xhtml#page_487)
+    - Northern Corps/Northwestern Army, 267, 362, 364, 367, 368
+    - Siberia, 295, 300; counter-intelligence 296–7; 297, 300, 308; disintegration, 329–31
+* White Terror, 296–7, 328–9, 330–1, 391
+* Wilhelm II, Kaiser, 148, 149, 154, 180, 231
+* Wilson, FM Sir Henry, 188, 275, 282, 317–18, 320, 321, 326–7, 342, 343, 362, 403
+* Wilson, President Woodrow, 187–8, 248, 273; and Prinkipo conference, 279–80; 293, 299
+* Women’s Battalion, 63, 99, 101, 102
+* women’s issues, 19, 36–7; slave trade, 127–8, 266; vulnerability, 139, 245
+* world revolution, 95, 96, 255, 336–7, 458, 468, 469, 470–1
+* Wrangel, Gen. Baron Piotr, 78, 87, 89, 308, 310; and strategy clash with Denikin, 311, *312*, 313, 348, 349, 353, 380, 391, 394, 395, 402, 440; attacks on Denikin, 441, 443; takes command, 444, 450; 459, 461, 477, 478; crosses Dnieper, 482; withdrawal into Crimea, 483; and evacuation, 484, 485, 487
 
 ## Y
 
-* Yakir, Iona E., [172](025_13_The_Volunteer_Arm.xhtml#page_172), [232](030_18_Fighting_on_the_V.xhtml#page_232), [306](037_24_Don_and_Ukraine.xhtml#page_306), [459](051_37_Poles_in_the_West.xhtml#page_459)n
-* Yalta, [39](015_4_From_Autocracy_to_.xhtml#page_39)n, [138](023_11_Breaking_the_Moul.xhtml#page_138), [283](035_22_The_Fatal_Comprom.xhtml#page_283), [485](053_39_The_Riviera_of_Ha.xhtml#page_485), [486](053_39_The_Riviera_of_Ha.xhtml#page_486), [487](053_39_The_Riviera_of_Ha.xhtml#page_487), [489](053_39_The_Riviera_of_Ha.xhtml#page_489)
-* Yaroslavl, revolt, [208–9](028_16_The_Czechs_and_Le.xhtml#page_208), [220](029_17_Red_Terror.xhtml#page_220), [225](030_18_Fighting_on_the_V.xhtml#page_225)
-* Yoffe, Adolf, [144](024_12_Brest-Litovsk.xhtml#page_144), [145](024_12_Brest-Litovsk.xhtml#page_145), [146](024_12_Brest-Litovsk.xhtml#page_146), [188–9](027_15_Enemies_on_the_Pe.xhtml#page_188)
-* Yudenich, Nikolai N., [128](021_10_The_Infanticide_o.xhtml#page_128), [192](027_15_Enemies_on_the_Pe.xhtml#page_192), [271](033_21_The_Baltic_and_No.xhtml#page_271), [*271*](033_21_The_Baltic_and_No.xhtml#page_271), [322](038_25_Murmansk_and_Arkh.xhtml#page_322), [337](040_27_Baltic_Summer.xhtml#page_337), [342](040_27_Baltic_Summer.xhtml#page_342), [362](041_28_The_March_on_Mosc.xhtml#page_362), [363](042_29_Baltic_Surprise.xhtml#page_363), [364–5](042_29_Baltic_Surprise.xhtml#page_364), [367](042_29_Baltic_Surprise.xhtml#page_367), [368](042_29_Baltic_Surprise.xhtml#page_368)
-* Yusupov, Prince Feliks, [12](012_1_The_Suicide_of_Eur.xhtml#page_12), [*13*](012_1_The_Suicide_of_Eur.xhtml#page_13), [22](013_2_The_February_Revol.xhtml#page_22), [433](049_35_The_Last_Hurrah_o.xhtml#page_433)
+* Yakir, Iona E., 172, 232, 306, 459n
+* Yalta, 39n, 138, 283, 485, 486, 487, 489
+* Yaroslavl, revolt, 208–9, 220, 225
+* Yoffe, Adolf, 144, 145, 146, 188–9
+* Yudenich, Nikolai N., 128, 192, 271, *271*, 322, 337, 342, 362, 363, 364–5, 367, 368
+* Yusupov, Prince Feliks, 12, *13*, 22, 433
 
 ## Z
 
-* Zenzinov, Vladimir M., [21](013_2_The_February_Revol.xhtml#page_21), [102](019_8_The_October_Coup.xhtml#page_102), [133](023_11_Breaking_the_Moul.xhtml#page_133), [134](023_11_Breaking_the_Moul.xhtml#page_134), [226](030_18_Fighting_on_the_V.xhtml#page_226), [245](031_19_From_the_Volga_to.xhtml#page_245), [246](031_19_From_the_Volga_to.xhtml#page_246), [248](031_19_From_the_Volga_to.xhtml#page_248)
-* Zhitomir, [142](023_11_Breaking_the_Moul.xhtml#page_142), [282](035_22_The_Fatal_Comprom.xhtml#page_282), [449](050_36_Wrangel_Takes_Com.xhtml#page_449), [455](051_37_Poles_in_the_West.xhtml#page_455), [457](051_37_Poles_in_the_West.xhtml#page_457)
-* Zinoviev, Grigory Y., [70](017_6_The_Kerensky_Offen.xhtml#page_70), [72](017_6_The_Kerensky_Offen.xhtml#page_72), [95](019_8_The_October_Coup.xhtml#page_95), [96](019_8_The_October_Coup.xhtml#page_96), [108](020_9_The_Boys_Crusade_R.xhtml#page_108), [365](042_29_Baltic_Surprise.xhtml#page_365), [468](051_37_Poles_in_the_West.xhtml#page_468), [496](054_40_The_Death_of_Hope.xhtml#page_496), [497](054_40_The_Death_of_Hope.xhtml#page_497), [498](054_40_The_Death_of_Hope.xhtml#page_498)
+* Zenzinov, Vladimir M., 21, 102, 133, 134, 226, 245, 246, 248
+* Zhitomir, 142, 282, 449, 455, 457
+* Zinoviev, Grigory Y., 70, 72, 95, 96, 108, 365, 468, 496, 497, 498
 
-[A](062_Index.xhtml#A "index heading") [B](062_Index.xhtml#B "index heading") [C](062_Index.xhtml#C "index heading") [D](062_Index.xhtml#D "index heading") [E](062_Index.xhtml#E "index heading") [F](062_Index.xhtml#F "index heading") [G](062_Index.xhtml#G "index heading") [H](062_Index.xhtml#H "index heading") [I](062_Index.xhtml#I "index heading") [J](062_Index.xhtml#J "index heading") [K](062_Index.xhtml#K "index heading") [L](062_Index.xhtml#L "index heading") [M](062_Index.xhtml#M "index heading") [N](062_Index.xhtml#N "index heading") [O](062_Index.xhtml#O "index heading") [P](062_Index.xhtml#P "index heading") Q [R](062_Index.xhtml#R "index heading") [S](062_Index.xhtml#S "index heading") [T](062_Index.xhtml#T "index heading") [U](062_Index.xhtml#U "index heading") [V](062_Index.xhtml#V "index heading") [W](062_Index.xhtml#W "index heading") X [Y](062_Index.xhtml#Y "index heading") [Z](062_Index.xhtml#Z "index heading")
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
 ---
 
@@ -10321,981 +10321,981 @@ The page numbers in this index refer to the printed version of the book. Each li
 
 # Contents
 
-1. [Cover](xhtml/001_Cover.xhtml)
-2. [Also by Antony Beevor](xhtml/002_Also_by_Antony_Beevo.xhtml)
-3. [Title Page](xhtml/003_Title_Page.xhtml)
-4. [Copyright](xhtml/004_Copyright.xhtml)
-5. [Dedication](xhtml/005_Dedication.xhtml)
-6. [Contents](xhtml/006_Contents.xhtml)
-7. [List of Maps](xhtml/007_List_of_Maps.xhtml)
-8. [List of Illustrations](xhtml/008_List_of_Illustration.xhtml)
-9. [Map](xhtml/009_Map.xhtml)
-10. [Foreword](xhtml/010_Foreword.xhtml)
-11. [Part One: 1912–1917](xhtml/011_Part_One_1912_1917.xhtml)
-    1. [1. The Suicide of Europe](xhtml/012_1_The_Suicide_of_Eur.xhtml)
-    2. [2. The February Revolution](xhtml/013_2_The_February_Revol.xhtml)
-    3. [3. The Fall of the Double-Headed Eagle](xhtml/014_3_The_Fall_of_the_Do.xhtml)
-    4. [4. From Autocracy to Chaos](xhtml/015_4_From_Autocracy_to_.xhtml)
-    5. [5. The Pregnant Widow](xhtml/016_5_The_Pregnant_Widow.xhtml)
-    6. [6. The Kerensky Offensive and the July Days](xhtml/017_6_The_Kerensky_Offen.xhtml)
-    7. [7. Kornilov](xhtml/018_7_Kornilov.xhtml)
-    8. [8. The October Coup](xhtml/019_8_The_October_Coup.xhtml)
-    9. [9. The Boys’ Crusade Revolt of the Junkers](xhtml/020_9_The_Boys_Crusade_R.xhtml)
-    10. [10. The Infanticide of Democracy](xhtml/021_10_The_Infanticide_o.xhtml)
-12. [Part Two: 1918](xhtml/022_Part_Two_1918.xhtml)
-    1. [11. Breaking the Mould](xhtml/023_11_Breaking_the_Moul.xhtml)
-    2. [12. Brest-Litovsk](xhtml/024_12_Brest-Litovsk.xhtml)
-    3. [13. The Volunteer Army’s Ice March](xhtml/025_13_The_Volunteer_Arm.xhtml)
-    4. [14. The Germans March In](xhtml/026_14_The_Germans_March.xhtml)
-    5. [15. Enemies on the Periphery](xhtml/027_15_Enemies_on_the_Pe.xhtml)
-    6. [16. The Czechs and Left Socialist Revolutionaries Revolt](xhtml/028_16_The_Czechs_and_Le.xhtml)
-    7. [17. Red Terror](xhtml/029_17_Red_Terror.xhtml)
-    8. [18. Fighting on the Volga and the Red Army](xhtml/030_18_Fighting_on_the_V.xhtml)
-    9. [19. From the Volga to Siberia](xhtml/031_19_From_the_Volga_to.xhtml)
-    10. [20. The Central Powers Depart](xhtml/032_20_The_Central_Power.xhtml)
-    11. [21. The Baltic and Northern Russia](xhtml/033_21_The_Baltic_and_No.xhtml)
-13. [Part Three: 1919](xhtml/034_Part_Three_1919.xhtml)
-    1. [22. The Fatal Compromise](xhtml/035_22_The_Fatal_Comprom.xhtml)
-    2. [23. Siberia](xhtml/036_23_Siberia.xhtml)
-    3. [24. Don and Ukraine](xhtml/037_24_Don_and_Ukraine.xhtml)
-    4. [25. Murmansk and Arkhangel](xhtml/038_25_Murmansk_and_Arkh.xhtml)
-    5. [26. Siberia](xhtml/039_26_Siberia.xhtml)
-    6. [27. Baltic Summer](xhtml/040_27_Baltic_Summer.xhtml)
-    7. [28. The March on Moscow](xhtml/041_28_The_March_on_Mosc.xhtml)
-    8. [29. Baltic Surprise](xhtml/042_29_Baltic_Surprise.xhtml)
-    9. [30. Siberian Retreat](xhtml/043_30_Siberian_Retreat.xhtml)
-    10. [31. The Turning Point](xhtml/044_31_The_Turning_Point.xhtml)
-    11. [32. Retreat in the South](xhtml/045_32_Retreat_in_the_So.xhtml)
-14. [Part Four: 1920](xhtml/046_Part_Four_1920.xhtml)
-    1. [33. The Great Siberian Ice March](xhtml/047_33_The_Great_Siberia.xhtml)
-    2. [34. The Fall of Odessa](xhtml/048_34_The_Fall_of_Odess.xhtml)
-    3. [35. The Last Hurrah of the White Cavalry](xhtml/049_35_The_Last_Hurrah_o.xhtml)
-    4. [36. Wrangel Takes Command and the Poles Take Kiev](xhtml/050_36_Wrangel_Takes_Com.xhtml)
-    5. [37. Poles in the West, Wrangel in the South](xhtml/051_37_Poles_in_the_West.xhtml)
-    6. [38. The Miracle on the Vistula](xhtml/052_38_The_Miracle_on_th.xhtml)
-    7. [39. The Riviera of Hades](xhtml/053_39_The_Riviera_of_Ha.xhtml)
-    8. [40. The Death of Hope](xhtml/054_40_The_Death_of_Hope.xhtml)
-    9. [Conclusion. The Devil’s Apprentice](xhtml/055_Conclusion_The_Devil.xhtml)
-15. [Glossary](xhtml/056_Glossary.xhtml)
-16. [Acknowledgements](xhtml/057_Acknowledgements.xhtml)
-17. [Abbreviations](xhtml/058_Abbreviations.xhtml)
-18. [Notes](xhtml/059_Notes.xhtml)
-19. [Bibliography](xhtml/060_Bibliography.xhtml)
-20. [Fiction](xhtml/061_Fiction.xhtml)
-21. [Index](xhtml/062_Index.xhtml)
-22. [About the Author](xhtml/063_About_the_Author.xhtml)
+1. Cover
+2. Also by Antony Beevor
+3. Title Page
+4. Copyright
+5. Dedication
+6. Contents
+7. List of Maps
+8. List of Illustrations
+9. Map
+10. Foreword
+11. Part One: 1912–1917
+    1. 1. The Suicide of Europe
+    2. 2. The February Revolution
+    3. 3. The Fall of the Double-Headed Eagle
+    4. 4. From Autocracy to Chaos
+    5. 5. The Pregnant Widow
+    6. 6. The Kerensky Offensive and the July Days
+    7. 7. Kornilov
+    8. 8. The October Coup
+    9. 9. The Boys’ Crusade Revolt of the Junkers
+    10. 10. The Infanticide of Democracy
+12. Part Two: 1918
+    1. 11. Breaking the Mould
+    2. 12. Brest-Litovsk
+    3. 13. The Volunteer Army’s Ice March
+    4. 14. The Germans March In
+    5. 15. Enemies on the Periphery
+    6. 16. The Czechs and Left Socialist Revolutionaries Revolt
+    7. 17. Red Terror
+    8. 18. Fighting on the Volga and the Red Army
+    9. 19. From the Volga to Siberia
+    10. 20. The Central Powers Depart
+    11. 21. The Baltic and Northern Russia
+13. Part Three: 1919
+    1. 22. The Fatal Compromise
+    2. 23. Siberia
+    3. 24. Don and Ukraine
+    4. 25. Murmansk and Arkhangel
+    5. 26. Siberia
+    6. 27. Baltic Summer
+    7. 28. The March on Moscow
+    8. 29. Baltic Surprise
+    9. 30. Siberian Retreat
+    10. 31. The Turning Point
+    11. 32. Retreat in the South
+14. Part Four: 1920
+    1. 33. The Great Siberian Ice March
+    2. 34. The Fall of Odessa
+    3. 35. The Last Hurrah of the White Cavalry
+    4. 36. Wrangel Takes Command and the Poles Take Kiev
+    5. 37. Poles in the West, Wrangel in the South
+    6. 38. The Miracle on the Vistula
+    7. 39. The Riviera of Hades
+    8. 40. The Death of Hope
+    9. Conclusion. The Devil’s Apprentice
+15. Glossary
+16. Acknowledgements
+17. Abbreviations
+18. Notes
+19. Bibliography
+20. Fiction
+21. Index
+22. About the Author
 
 
 # Landmarks
 
-1. [Cover](xhtml/001_Cover.xhtml)
-2. [Cover](xhtml/001_Cover.xhtml)
-3. [Title Page](xhtml/003_Title_Page.xhtml)
-4. [Start](xhtml/007_List_of_Maps.xhtml)
-5. [Table of Contents](xhtml/006_Contents.xhtml)
-6. [Copyright](xhtml/004_Copyright.xhtml)
+1. Cover
+2. Cover
+3. Title Page
+4. Start
+5. Table of Contents
+6. Copyright
 
 
 # Print Page List
 
-1. [i](xhtml/002_Also_by_Antony_Beevo.xhtml#page_i)
-2. [ii](xhtml/002_Also_by_Antony_Beevo.xhtml#page_ii)
-3. [iii](xhtml/003_Title_Page.xhtml#page_iii)
-4. [iv](xhtml/004_Copyright.xhtml#page_iv)
-5. [v](xhtml/005_Dedication.xhtml#page_v)
-6. [vi](xhtml/005_Dedication.xhtml#page_vi)
-7. [vii](xhtml/006_Contents.xhtml#page_vii)
-8. [viii](xhtml/006_Contents.xhtml#page_viii)
-9. [ix](xhtml/006_Contents.xhtml#page_ix)
-10. [x](xhtml/007_List_of_Maps.xhtml#page_x)
-11. [xi](xhtml/007_List_of_Maps.xhtml#page_xi)
-12. [xii](xhtml/008_List_of_Illustration.xhtml#page_xii)
-13. [xiii](xhtml/008_List_of_Illustration.xhtml#page_xiii)
-14. [xiv](xhtml/009_Map.xhtml#page_xiv)
-15. [xv](xhtml/009_Map.xhtml#page_xv)
-16. [xvi](xhtml/010_Foreword.xhtml#page_xvi)
-17. [1](xhtml/010_Foreword.xhtml#page_1)
-18. [2](xhtml/010_Foreword.xhtml#page_2)
-19. [3](xhtml/010_Foreword.xhtml#page_3)
-20. [4](xhtml/010_Foreword.xhtml#page_4)
-21. [5](xhtml/010_Foreword.xhtml#page_5)
-22. [6](xhtml/012_1_The_Suicide_of_Eur.xhtml#page_6)
-23. [7](xhtml/012_1_The_Suicide_of_Eur.xhtml#page_7)
-24. [8](xhtml/012_1_The_Suicide_of_Eur.xhtml#page_8)
-25. [9](xhtml/012_1_The_Suicide_of_Eur.xhtml#page_9)
-26. [10](xhtml/012_1_The_Suicide_of_Eur.xhtml#page_10)
-27. [11](xhtml/012_1_The_Suicide_of_Eur.xhtml#page_11)
-28. [12](xhtml/012_1_The_Suicide_of_Eur.xhtml#page_12)
-29. [13](xhtml/012_1_The_Suicide_of_Eur.xhtml#page_13)
-30. [14](xhtml/013_2_The_February_Revol.xhtml#page_14)
-31. [15](xhtml/013_2_The_February_Revol.xhtml#page_15)
-32. [16](xhtml/013_2_The_February_Revol.xhtml#page_16)
-33. [17](xhtml/013_2_The_February_Revol.xhtml#page_17)
-34. [18](xhtml/013_2_The_February_Revol.xhtml#page_18)
-35. [19](xhtml/013_2_The_February_Revol.xhtml#page_19)
-36. [20](xhtml/013_2_The_February_Revol.xhtml#page_20)
-37. [21](xhtml/013_2_The_February_Revol.xhtml#page_21)
-38. [22](xhtml/013_2_The_February_Revol.xhtml#page_22)
-39. [23](xhtml/013_2_The_February_Revol.xhtml#page_23)
-40. [24](xhtml/013_2_The_February_Revol.xhtml#page_24)
-41. [25](xhtml/013_2_The_February_Revol.xhtml#page_25)
-42. [26](xhtml/013_2_The_February_Revol.xhtml#page_26)
-43. [27](xhtml/014_3_The_Fall_of_the_Do.xhtml#page_27)
-44. [28](xhtml/014_3_The_Fall_of_the_Do.xhtml#page_28)
-45. [29](xhtml/014_3_The_Fall_of_the_Do.xhtml#page_29)
-46. [30](xhtml/014_3_The_Fall_of_the_Do.xhtml#page_30)
-47. [31](xhtml/014_3_The_Fall_of_the_Do.xhtml#page_31)
-48. [32](xhtml/014_3_The_Fall_of_the_Do.xhtml#page_32)
-49. [33](xhtml/014_3_The_Fall_of_the_Do.xhtml#page_33)
-50. [34](xhtml/015_4_From_Autocracy_to_.xhtml#page_34)
-51. [35](xhtml/015_4_From_Autocracy_to_.xhtml#page_35)
-52. [36](xhtml/015_4_From_Autocracy_to_.xhtml#page_36)
-53. [37](xhtml/015_4_From_Autocracy_to_.xhtml#page_37)
-54. [38](xhtml/015_4_From_Autocracy_to_.xhtml#page_38)
-55. [39](xhtml/015_4_From_Autocracy_to_.xhtml#page_39)
-56. [40](xhtml/015_4_From_Autocracy_to_.xhtml#page_40)
-57. [41](xhtml/015_4_From_Autocracy_to_.xhtml#page_41)
-58. [42](xhtml/015_4_From_Autocracy_to_.xhtml#page_42)
-59. [43](xhtml/015_4_From_Autocracy_to_.xhtml#page_43)
-60. [44](xhtml/015_4_From_Autocracy_to_.xhtml#page_44)
-61. [45](xhtml/015_4_From_Autocracy_to_.xhtml#page_45)
-62. [46](xhtml/015_4_From_Autocracy_to_.xhtml#page_46)
-63. [47](xhtml/016_5_The_Pregnant_Widow.xhtml#page_47)
-64. [48](xhtml/016_5_The_Pregnant_Widow.xhtml#page_48)
-65. [49](xhtml/016_5_The_Pregnant_Widow.xhtml#page_49)
-66. [50](xhtml/016_5_The_Pregnant_Widow.xhtml#page_50)
-67. [51](xhtml/016_5_The_Pregnant_Widow.xhtml#page_51)
-68. [52](xhtml/016_5_The_Pregnant_Widow.xhtml#page_52)
-69. [53](xhtml/016_5_The_Pregnant_Widow.xhtml#page_53)
-70. [54](xhtml/016_5_The_Pregnant_Widow.xhtml#page_54)
-71. [55](xhtml/016_5_The_Pregnant_Widow.xhtml#page_55)
-72. [56](xhtml/016_5_The_Pregnant_Widow.xhtml#page_56)
-73. [57](xhtml/016_5_The_Pregnant_Widow.xhtml#page_57)
-74. [58](xhtml/016_5_The_Pregnant_Widow.xhtml#page_58)
-75. [59](xhtml/016_5_The_Pregnant_Widow.xhtml#page_59)
-76. [60](xhtml/016_5_The_Pregnant_Widow.xhtml#page_60)
-77. [61](xhtml/016_5_The_Pregnant_Widow.xhtml#page_61)
-78. [62](xhtml/017_6_The_Kerensky_Offen.xhtml#page_62)
-79. [63](xhtml/017_6_The_Kerensky_Offen.xhtml#page_63)
-80. [64](xhtml/017_6_The_Kerensky_Offen.xhtml#page_64)
-81. [65](xhtml/017_6_The_Kerensky_Offen.xhtml#page_65)
-82. [66](xhtml/017_6_The_Kerensky_Offen.xhtml#page_66)
-83. [67](xhtml/017_6_The_Kerensky_Offen.xhtml#page_67)
-84. [68](xhtml/017_6_The_Kerensky_Offen.xhtml#page_68)
-85. [69](xhtml/017_6_The_Kerensky_Offen.xhtml#page_69)
-86. [70](xhtml/017_6_The_Kerensky_Offen.xhtml#page_70)
-87. [71](xhtml/017_6_The_Kerensky_Offen.xhtml#page_71)
-88. [72](xhtml/017_6_The_Kerensky_Offen.xhtml#page_72)
-89. [73](xhtml/017_6_The_Kerensky_Offen.xhtml#page_73)
-90. [74](xhtml/017_6_The_Kerensky_Offen.xhtml#page_74)
-91. [75](xhtml/018_7_Kornilov.xhtml#page_75)
-92. [76](xhtml/018_7_Kornilov.xhtml#page_76)
-93. [77](xhtml/018_7_Kornilov.xhtml#page_77)
-94. [78](xhtml/018_7_Kornilov.xhtml#page_78)
-95. [79](xhtml/018_7_Kornilov.xhtml#page_79)
-96. [80](xhtml/018_7_Kornilov.xhtml#page_80)
-97. [81](xhtml/018_7_Kornilov.xhtml#page_81)
-98. [82](xhtml/018_7_Kornilov.xhtml#page_82)
-99. [83](xhtml/018_7_Kornilov.xhtml#page_83)
-100. [84](xhtml/018_7_Kornilov.xhtml#page_84)
-101. [85](xhtml/018_7_Kornilov.xhtml#page_85)
-102. [86](xhtml/018_7_Kornilov.xhtml#page_86)
-103. [87](xhtml/018_7_Kornilov.xhtml#page_87)
-104. [88](xhtml/018_7_Kornilov.xhtml#page_88)
-105. [89](xhtml/018_7_Kornilov.xhtml#page_89)
-106. [90](xhtml/018_7_Kornilov.xhtml#page_90)
-107. [91](xhtml/018_7_Kornilov.xhtml#page_91)
-108. [92](xhtml/019_8_The_October_Coup.xhtml#page_92)
-109. [93](xhtml/019_8_The_October_Coup.xhtml#page_93)
-110. [94](xhtml/019_8_The_October_Coup.xhtml#page_94)
-111. [95](xhtml/019_8_The_October_Coup.xhtml#page_95)
-112. [96](xhtml/019_8_The_October_Coup.xhtml#page_96)
-113. [97](xhtml/019_8_The_October_Coup.xhtml#page_97)
-114. [98](xhtml/019_8_The_October_Coup.xhtml#page_98)
-115. [99](xhtml/019_8_The_October_Coup.xhtml#page_99)
-116. [100](xhtml/019_8_The_October_Coup.xhtml#page_100)
-117. [101](xhtml/019_8_The_October_Coup.xhtml#page_101)
-118. [102](xhtml/019_8_The_October_Coup.xhtml#page_102)
-119. [103](xhtml/019_8_The_October_Coup.xhtml#page_103)
-120. [104](xhtml/019_8_The_October_Coup.xhtml#page_104)
-121. [105](xhtml/020_9_The_Boys_Crusade_R.xhtml#page_105)
-122. [106](xhtml/020_9_The_Boys_Crusade_R.xhtml#page_106)
-123. [107](xhtml/020_9_The_Boys_Crusade_R.xhtml#page_107)
-124. [108](xhtml/020_9_The_Boys_Crusade_R.xhtml#page_108)
-125. [109](xhtml/020_9_The_Boys_Crusade_R.xhtml#page_109)
-126. [110](xhtml/020_9_The_Boys_Crusade_R.xhtml#page_110)
-127. [111](xhtml/020_9_The_Boys_Crusade_R.xhtml#page_111)
-128. [112](xhtml/020_9_The_Boys_Crusade_R.xhtml#page_112)
-129. [113](xhtml/020_9_The_Boys_Crusade_R.xhtml#page_113)
-130. [114](xhtml/020_9_The_Boys_Crusade_R.xhtml#page_114)
-131. [115](xhtml/020_9_The_Boys_Crusade_R.xhtml#page_115)
-132. [116](xhtml/020_9_The_Boys_Crusade_R.xhtml#page_116)
-133. [117](xhtml/020_9_The_Boys_Crusade_R.xhtml#page_117)
-134. [118](xhtml/021_10_The_Infanticide_o.xhtml#page_118)
-135. [119](xhtml/021_10_The_Infanticide_o.xhtml#page_119)
-136. [120](xhtml/021_10_The_Infanticide_o.xhtml#page_120)
-137. [121](xhtml/021_10_The_Infanticide_o.xhtml#page_121)
-138. [122](xhtml/021_10_The_Infanticide_o.xhtml#page_122)
-139. [123](xhtml/021_10_The_Infanticide_o.xhtml#page_123)
-140. [124](xhtml/021_10_The_Infanticide_o.xhtml#page_124)
-141. [125](xhtml/021_10_The_Infanticide_o.xhtml#page_125)
-142. [126](xhtml/021_10_The_Infanticide_o.xhtml#page_126)
-143. [127](xhtml/021_10_The_Infanticide_o.xhtml#page_127)
-144. [128](xhtml/021_10_The_Infanticide_o.xhtml#page_128)
-145. [129](xhtml/021_10_The_Infanticide_o.xhtml#page_129)
-146. [130](xhtml/021_10_The_Infanticide_o.xhtml#page_130)
-147. [131](xhtml/021_10_The_Infanticide_o.xhtml#page_131)
-148. [132](xhtml/023_11_Breaking_the_Moul.xhtml#page_132)
-149. [133](xhtml/023_11_Breaking_the_Moul.xhtml#page_133)
-150. [134](xhtml/023_11_Breaking_the_Moul.xhtml#page_134)
-151. [135](xhtml/023_11_Breaking_the_Moul.xhtml#page_135)
-152. [136](xhtml/023_11_Breaking_the_Moul.xhtml#page_136)
-153. [137](xhtml/023_11_Breaking_the_Moul.xhtml#page_137)
-154. [138](xhtml/023_11_Breaking_the_Moul.xhtml#page_138)
-155. [139](xhtml/023_11_Breaking_the_Moul.xhtml#page_139)
-156. [140](xhtml/023_11_Breaking_the_Moul.xhtml#page_140)
-157. [141](xhtml/023_11_Breaking_the_Moul.xhtml#page_141)
-158. [142](xhtml/023_11_Breaking_the_Moul.xhtml#page_142)
-159. [143](xhtml/023_11_Breaking_the_Moul.xhtml#page_143)
-160. [144](xhtml/024_12_Brest-Litovsk.xhtml#page_144)
-161. [145](xhtml/024_12_Brest-Litovsk.xhtml#page_145)
-162. [146](xhtml/024_12_Brest-Litovsk.xhtml#page_146)
-163. [147](xhtml/024_12_Brest-Litovsk.xhtml#page_147)
-164. [148](xhtml/024_12_Brest-Litovsk.xhtml#page_148)
-165. [149](xhtml/024_12_Brest-Litovsk.xhtml#page_149)
-166. [150](xhtml/024_12_Brest-Litovsk.xhtml#page_150)
-167. [151](xhtml/024_12_Brest-Litovsk.xhtml#page_151)
-168. [152](xhtml/024_12_Brest-Litovsk.xhtml#page_152)
-169. [153](xhtml/024_12_Brest-Litovsk.xhtml#page_153)
-170. [154](xhtml/024_12_Brest-Litovsk.xhtml#page_154)
-171. [155](xhtml/024_12_Brest-Litovsk.xhtml#page_155)
-172. [156](xhtml/024_12_Brest-Litovsk.xhtml#page_156)
-173. [157](xhtml/024_12_Brest-Litovsk.xhtml#page_157)
-174. [158](xhtml/024_12_Brest-Litovsk.xhtml#page_158)
-175. [159](xhtml/025_13_The_Volunteer_Arm.xhtml#page_159)
-176. [160](xhtml/025_13_The_Volunteer_Arm.xhtml#page_160)
-177. [161](xhtml/025_13_The_Volunteer_Arm.xhtml#page_161)
-178. [162](xhtml/025_13_The_Volunteer_Arm.xhtml#page_162)
-179. [163](xhtml/025_13_The_Volunteer_Arm.xhtml#page_163)
-180. [164](xhtml/025_13_The_Volunteer_Arm.xhtml#page_164)
-181. [165](xhtml/025_13_The_Volunteer_Arm.xhtml#page_165)
-182. [166](xhtml/025_13_The_Volunteer_Arm.xhtml#page_166)
-183. [167](xhtml/025_13_The_Volunteer_Arm.xhtml#page_167)
-184. [168](xhtml/025_13_The_Volunteer_Arm.xhtml#page_168)
-185. [169](xhtml/025_13_The_Volunteer_Arm.xhtml#page_169)
-186. [170](xhtml/025_13_The_Volunteer_Arm.xhtml#page_170)
-187. [171](xhtml/025_13_The_Volunteer_Arm.xhtml#page_171)
-188. [172](xhtml/025_13_The_Volunteer_Arm.xhtml#page_172)
-189. [173](xhtml/025_13_The_Volunteer_Arm.xhtml#page_173)
-190. [174](xhtml/025_13_The_Volunteer_Arm.xhtml#page_174)
-191. [175](xhtml/026_14_The_Germans_March.xhtml#page_175)
-192. [176](xhtml/026_14_The_Germans_March.xhtml#page_176)
-193. [177](xhtml/026_14_The_Germans_March.xhtml#page_177)
-194. [178](xhtml/026_14_The_Germans_March.xhtml#page_178)
-195. [179](xhtml/026_14_The_Germans_March.xhtml#page_179)
-196. [180](xhtml/026_14_The_Germans_March.xhtml#page_180)
-197. [181](xhtml/026_14_The_Germans_March.xhtml#page_181)
-198. [182](xhtml/026_14_The_Germans_March.xhtml#page_182)
-199. [183](xhtml/026_14_The_Germans_March.xhtml#page_183)
-200. [184](xhtml/026_14_The_Germans_March.xhtml#page_184)
-201. [185](xhtml/026_14_The_Germans_March.xhtml#page_185)
-202. [186](xhtml/026_14_The_Germans_March.xhtml#page_186)
-203. [187](xhtml/027_15_Enemies_on_the_Pe.xhtml#page_187)
-204. [188](xhtml/027_15_Enemies_on_the_Pe.xhtml#page_188)
-205. [189](xhtml/027_15_Enemies_on_the_Pe.xhtml#page_189)
-206. [190](xhtml/027_15_Enemies_on_the_Pe.xhtml#page_190)
-207. [191](xhtml/027_15_Enemies_on_the_Pe.xhtml#page_191)
-208. [192](xhtml/027_15_Enemies_on_the_Pe.xhtml#page_192)
-209. [193](xhtml/027_15_Enemies_on_the_Pe.xhtml#page_193)
-210. [194](xhtml/027_15_Enemies_on_the_Pe.xhtml#page_194)
-211. [195](xhtml/027_15_Enemies_on_the_Pe.xhtml#page_195)
-212. [196](xhtml/027_15_Enemies_on_the_Pe.xhtml#page_196)
-213. [197](xhtml/027_15_Enemies_on_the_Pe.xhtml#page_197)
-214. [198](xhtml/027_15_Enemies_on_the_Pe.xhtml#page_198)
-215. [199](xhtml/027_15_Enemies_on_the_Pe.xhtml#page_199)
-216. [200](xhtml/027_15_Enemies_on_the_Pe.xhtml#page_200)
-217. [201](xhtml/027_15_Enemies_on_the_Pe.xhtml#page_201)
-218. [202](xhtml/028_16_The_Czechs_and_Le.xhtml#page_202)
-219. [203](xhtml/028_16_The_Czechs_and_Le.xhtml#page_203)
-220. [204](xhtml/028_16_The_Czechs_and_Le.xhtml#page_204)
-221. [205](xhtml/028_16_The_Czechs_and_Le.xhtml#page_205)
-222. [206](xhtml/028_16_The_Czechs_and_Le.xhtml#page_206)
-223. [207](xhtml/028_16_The_Czechs_and_Le.xhtml#page_207)
-224. [208](xhtml/028_16_The_Czechs_and_Le.xhtml#page_208)
-225. [209](xhtml/028_16_The_Czechs_and_Le.xhtml#page_209)
-226. [210](xhtml/028_16_The_Czechs_and_Le.xhtml#page_210)
-227. [211](xhtml/028_16_The_Czechs_and_Le.xhtml#page_211)
-228. [212](xhtml/028_16_The_Czechs_and_Le.xhtml#page_212)
-229. [213](xhtml/028_16_The_Czechs_and_Le.xhtml#page_213)
-230. [214](xhtml/028_16_The_Czechs_and_Le.xhtml#page_214)
-231. [215](xhtml/028_16_The_Czechs_and_Le.xhtml#page_215)
-232. [216](xhtml/028_16_The_Czechs_and_Le.xhtml#page_216)
-233. [217](xhtml/029_17_Red_Terror.xhtml#page_217)
-234. [218](xhtml/029_17_Red_Terror.xhtml#page_218)
-235. [219](xhtml/029_17_Red_Terror.xhtml#page_219)
-236. [220](xhtml/029_17_Red_Terror.xhtml#page_220)
-237. [221](xhtml/029_17_Red_Terror.xhtml#page_221)
-238. [222](xhtml/029_17_Red_Terror.xhtml#page_222)
-239. [223](xhtml/029_17_Red_Terror.xhtml#page_223)
-240. [224](xhtml/029_17_Red_Terror.xhtml#page_224)
-241. [225](xhtml/030_18_Fighting_on_the_V.xhtml#page_225)
-242. [226](xhtml/030_18_Fighting_on_the_V.xhtml#page_226)
-243. [227](xhtml/030_18_Fighting_on_the_V.xhtml#page_227)
-244. [228](xhtml/030_18_Fighting_on_the_V.xhtml#page_228)
-245. [229](xhtml/030_18_Fighting_on_the_V.xhtml#page_229)
-246. [230](xhtml/030_18_Fighting_on_the_V.xhtml#page_230)
-247. [231](xhtml/030_18_Fighting_on_the_V.xhtml#page_231)
-248. [232](xhtml/030_18_Fighting_on_the_V.xhtml#page_232)
-249. [233](xhtml/030_18_Fighting_on_the_V.xhtml#page_233)
-250. [234](xhtml/030_18_Fighting_on_the_V.xhtml#page_234)
-251. [235](xhtml/030_18_Fighting_on_the_V.xhtml#page_235)
-252. [236](xhtml/030_18_Fighting_on_the_V.xhtml#page_236)
-253. [237](xhtml/030_18_Fighting_on_the_V.xhtml#page_237)
-254. [238](xhtml/030_18_Fighting_on_the_V.xhtml#page_238)
-255. [239](xhtml/031_19_From_the_Volga_to.xhtml#page_239)
-256. [240](xhtml/031_19_From_the_Volga_to.xhtml#page_240)
-257. [242](xhtml/031_19_From_the_Volga_to.xhtml#page_242)
-258. [241](xhtml/031_19_From_the_Volga_to.xhtml#page_241)
-259. [243](xhtml/031_19_From_the_Volga_to.xhtml#page_243)
-260. [244](xhtml/031_19_From_the_Volga_to.xhtml#page_244)
-261. [245](xhtml/031_19_From_the_Volga_to.xhtml#page_245)
-262. [246](xhtml/031_19_From_the_Volga_to.xhtml#page_246)
-263. [247](xhtml/031_19_From_the_Volga_to.xhtml#page_247)
-264. [248](xhtml/031_19_From_the_Volga_to.xhtml#page_248)
-265. [249](xhtml/031_19_From_the_Volga_to.xhtml#page_249)
-266. [250](xhtml/031_19_From_the_Volga_to.xhtml#page_250)
-267. [251](xhtml/031_19_From_the_Volga_to.xhtml#page_251)
-268. [252](xhtml/031_19_From_the_Volga_to.xhtml#page_252)
-269. [253](xhtml/031_19_From_the_Volga_to.xhtml#page_253)
-270. [254](xhtml/031_19_From_the_Volga_to.xhtml#page_254)
-271. [255](xhtml/031_19_From_the_Volga_to.xhtml#page_255)
-272. [256](xhtml/032_20_The_Central_Power.xhtml#page_256)
-273. [257](xhtml/032_20_The_Central_Power.xhtml#page_257)
-274. [258](xhtml/032_20_The_Central_Power.xhtml#page_258)
-275. [259](xhtml/032_20_The_Central_Power.xhtml#page_259)
-276. [260](xhtml/032_20_The_Central_Power.xhtml#page_260)
-277. [261](xhtml/032_20_The_Central_Power.xhtml#page_261)
-278. [262](xhtml/032_20_The_Central_Power.xhtml#page_262)
-279. [263](xhtml/032_20_The_Central_Power.xhtml#page_263)
-280. [264](xhtml/032_20_The_Central_Power.xhtml#page_264)
-281. [265](xhtml/032_20_The_Central_Power.xhtml#page_265)
-282. [266](xhtml/032_20_The_Central_Power.xhtml#page_266)
-283. [267](xhtml/032_20_The_Central_Power.xhtml#page_267)
-284. [268](xhtml/033_21_The_Baltic_and_No.xhtml#page_268)
-285. [269](xhtml/033_21_The_Baltic_and_No.xhtml#page_269)
-286. [270](xhtml/033_21_The_Baltic_and_No.xhtml#page_270)
-287. [271](xhtml/033_21_The_Baltic_and_No.xhtml#page_271)
-288. [272](xhtml/033_21_The_Baltic_and_No.xhtml#page_272)
-289. [273](xhtml/033_21_The_Baltic_and_No.xhtml#page_273)
-290. [274](xhtml/033_21_The_Baltic_and_No.xhtml#page_274)
-291. [275](xhtml/033_21_The_Baltic_and_No.xhtml#page_275)
-292. [276](xhtml/034_Part_Three_1919.xhtml#page_276)
-293. [277](xhtml/034_Part_Three_1919.xhtml#page_277)
-294. [278](xhtml/034_Part_Three_1919.xhtml#page_278)
-295. [279](xhtml/035_22_The_Fatal_Comprom.xhtml#page_279)
-296. [280](xhtml/035_22_The_Fatal_Comprom.xhtml#page_280)
-297. [281](xhtml/035_22_The_Fatal_Comprom.xhtml#page_281)
-298. [282](xhtml/035_22_The_Fatal_Comprom.xhtml#page_282)
-299. [283](xhtml/035_22_The_Fatal_Comprom.xhtml#page_283)
-300. [284](xhtml/035_22_The_Fatal_Comprom.xhtml#page_284)
-301. [285](xhtml/035_22_The_Fatal_Comprom.xhtml#page_285)
-302. [286](xhtml/035_22_The_Fatal_Comprom.xhtml#page_286)
-303. [287](xhtml/035_22_The_Fatal_Comprom.xhtml#page_287)
-304. [288](xhtml/035_22_The_Fatal_Comprom.xhtml#page_288)
-305. [289](xhtml/035_22_The_Fatal_Comprom.xhtml#page_289)
-306. [290](xhtml/035_22_The_Fatal_Comprom.xhtml#page_290)
-307. [291](xhtml/035_22_The_Fatal_Comprom.xhtml#page_291)
-308. [292](xhtml/035_22_The_Fatal_Comprom.xhtml#page_292)
-309. [293](xhtml/036_23_Siberia.xhtml#page_293)
-310. [294](xhtml/036_23_Siberia.xhtml#page_294)
-311. [295](xhtml/036_23_Siberia.xhtml#page_295)
-312. [296](xhtml/036_23_Siberia.xhtml#page_296)
-313. [297](xhtml/036_23_Siberia.xhtml#page_297)
-314. [298](xhtml/036_23_Siberia.xhtml#page_298)
-315. [299](xhtml/036_23_Siberia.xhtml#page_299)
-316. [300](xhtml/036_23_Siberia.xhtml#page_300)
-317. [301](xhtml/037_24_Don_and_Ukraine.xhtml#page_301)
-318. [302](xhtml/037_24_Don_and_Ukraine.xhtml#page_302)
-319. [303](xhtml/037_24_Don_and_Ukraine.xhtml#page_303)
-320. [304](xhtml/037_24_Don_and_Ukraine.xhtml#page_304)
-321. [305](xhtml/037_24_Don_and_Ukraine.xhtml#page_305)
-322. [306](xhtml/037_24_Don_and_Ukraine.xhtml#page_306)
-323. [307](xhtml/037_24_Don_and_Ukraine.xhtml#page_307)
-324. [308](xhtml/037_24_Don_and_Ukraine.xhtml#page_308)
-325. [309](xhtml/037_24_Don_and_Ukraine.xhtml#page_309)
-326. [310](xhtml/037_24_Don_and_Ukraine.xhtml#page_310)
-327. [311](xhtml/037_24_Don_and_Ukraine.xhtml#page_311)
-328. [312](xhtml/037_24_Don_and_Ukraine.xhtml#page_312)
-329. [313](xhtml/037_24_Don_and_Ukraine.xhtml#page_313)
-330. [314](xhtml/037_24_Don_and_Ukraine.xhtml#page_314)
-331. [315](xhtml/037_24_Don_and_Ukraine.xhtml#page_315)
-332. [316](xhtml/037_24_Don_and_Ukraine.xhtml#page_316)
-333. [317](xhtml/038_25_Murmansk_and_Arkh.xhtml#page_317)
-334. [318](xhtml/038_25_Murmansk_and_Arkh.xhtml#page_318)
-335. [319](xhtml/038_25_Murmansk_and_Arkh.xhtml#page_319)
-336. [320](xhtml/038_25_Murmansk_and_Arkh.xhtml#page_320)
-337. [321](xhtml/038_25_Murmansk_and_Arkh.xhtml#page_321)
-338. [322](xhtml/038_25_Murmansk_and_Arkh.xhtml#page_322)
-339. [323](xhtml/039_26_Siberia.xhtml#page_323)
-340. [324](xhtml/039_26_Siberia.xhtml#page_324)
-341. [325](xhtml/039_26_Siberia.xhtml#page_325)
-342. [326](xhtml/039_26_Siberia.xhtml#page_326)
-343. [327](xhtml/039_26_Siberia.xhtml#page_327)
-344. [328](xhtml/039_26_Siberia.xhtml#page_328)
-345. [329](xhtml/039_26_Siberia.xhtml#page_329)
-346. [330](xhtml/039_26_Siberia.xhtml#page_330)
-347. [331](xhtml/039_26_Siberia.xhtml#page_331)
-348. [332](xhtml/039_26_Siberia.xhtml#page_332)
-349. [333](xhtml/039_26_Siberia.xhtml#page_333)
-350. [334](xhtml/039_26_Siberia.xhtml#page_334)
-351. [335](xhtml/039_26_Siberia.xhtml#page_335)
-352. [336](xhtml/040_27_Baltic_Summer.xhtml#page_336)
-353. [337](xhtml/040_27_Baltic_Summer.xhtml#page_337)
-354. [338](xhtml/040_27_Baltic_Summer.xhtml#page_338)
-355. [339](xhtml/040_27_Baltic_Summer.xhtml#page_339)
-356. [340](xhtml/040_27_Baltic_Summer.xhtml#page_340)
-357. [341](xhtml/040_27_Baltic_Summer.xhtml#page_341)
-358. [342](xhtml/040_27_Baltic_Summer.xhtml#page_342)
-359. [343](xhtml/040_27_Baltic_Summer.xhtml#page_343)
-360. [344](xhtml/040_27_Baltic_Summer.xhtml#page_344)
-361. [345](xhtml/040_27_Baltic_Summer.xhtml#page_345)
-362. [346](xhtml/040_27_Baltic_Summer.xhtml#page_346)
-363. [347](xhtml/040_27_Baltic_Summer.xhtml#page_347)
-364. [348](xhtml/041_28_The_March_on_Mosc.xhtml#page_348)
-365. [349](xhtml/041_28_The_March_on_Mosc.xhtml#page_349)
-366. [350](xhtml/041_28_The_March_on_Mosc.xhtml#page_350)
-367. [351](xhtml/041_28_The_March_on_Mosc.xhtml#page_351)
-368. [352](xhtml/041_28_The_March_on_Mosc.xhtml#page_352)
-369. [353](xhtml/041_28_The_March_on_Mosc.xhtml#page_353)
-370. [354](xhtml/041_28_The_March_on_Mosc.xhtml#page_354)
-371. [355](xhtml/041_28_The_March_on_Mosc.xhtml#page_355)
-372. [356](xhtml/041_28_The_March_on_Mosc.xhtml#page_356)
-373. [357](xhtml/041_28_The_March_on_Mosc.xhtml#page_357)
-374. [358](xhtml/041_28_The_March_on_Mosc.xhtml#page_358)
-375. [359](xhtml/041_28_The_March_on_Mosc.xhtml#page_359)
-376. [360](xhtml/041_28_The_March_on_Mosc.xhtml#page_360)
-377. [361](xhtml/041_28_The_March_on_Mosc.xhtml#page_361)
-378. [362](xhtml/041_28_The_March_on_Mosc.xhtml#page_362)
-379. [363](xhtml/042_29_Baltic_Surprise.xhtml#page_363)
-380. [364](xhtml/042_29_Baltic_Surprise.xhtml#page_364)
-381. [365](xhtml/042_29_Baltic_Surprise.xhtml#page_365)
-382. [366](xhtml/042_29_Baltic_Surprise.xhtml#page_366)
-383. [367](xhtml/042_29_Baltic_Surprise.xhtml#page_367)
-384. [368](xhtml/042_29_Baltic_Surprise.xhtml#page_368)
-385. [369](xhtml/042_29_Baltic_Surprise.xhtml#page_369)
-386. [370](xhtml/043_30_Siberian_Retreat.xhtml#page_370)
-387. [371](xhtml/043_30_Siberian_Retreat.xhtml#page_371)
-388. [372](xhtml/043_30_Siberian_Retreat.xhtml#page_372)
-389. [373](xhtml/043_30_Siberian_Retreat.xhtml#page_373)
-390. [374](xhtml/043_30_Siberian_Retreat.xhtml#page_374)
-391. [375](xhtml/043_30_Siberian_Retreat.xhtml#page_375)
-392. [376](xhtml/043_30_Siberian_Retreat.xhtml#page_376)
-393. [377](xhtml/043_30_Siberian_Retreat.xhtml#page_377)
-394. [378](xhtml/043_30_Siberian_Retreat.xhtml#page_378)
-395. [379](xhtml/043_30_Siberian_Retreat.xhtml#page_379)
-396. [380](xhtml/043_30_Siberian_Retreat.xhtml#page_380)
-397. [381](xhtml/044_31_The_Turning_Point.xhtml#page_381)
-398. [382](xhtml/044_31_The_Turning_Point.xhtml#page_382)
-399. [383](xhtml/044_31_The_Turning_Point.xhtml#page_383)
-400. [384](xhtml/044_31_The_Turning_Point.xhtml#page_384)
-401. [385](xhtml/044_31_The_Turning_Point.xhtml#page_385)
-402. [386](xhtml/044_31_The_Turning_Point.xhtml#page_386)
-403. [387](xhtml/044_31_The_Turning_Point.xhtml#page_387)
-404. [388](xhtml/044_31_The_Turning_Point.xhtml#page_388)
-405. [389](xhtml/044_31_The_Turning_Point.xhtml#page_389)
-406. [390](xhtml/044_31_The_Turning_Point.xhtml#page_390)
-407. [391](xhtml/044_31_The_Turning_Point.xhtml#page_391)
-408. [392](xhtml/044_31_The_Turning_Point.xhtml#page_392)
-409. [393](xhtml/044_31_The_Turning_Point.xhtml#page_393)
-410. [394](xhtml/044_31_The_Turning_Point.xhtml#page_394)
-411. [395](xhtml/045_32_Retreat_in_the_So.xhtml#page_395)
-412. [396](xhtml/045_32_Retreat_in_the_So.xhtml#page_396)
-413. [397](xhtml/045_32_Retreat_in_the_So.xhtml#page_397)
-414. [398](xhtml/045_32_Retreat_in_the_So.xhtml#page_398)
-415. [399](xhtml/045_32_Retreat_in_the_So.xhtml#page_399)
-416. [400](xhtml/045_32_Retreat_in_the_So.xhtml#page_400)
-417. [401](xhtml/045_32_Retreat_in_the_So.xhtml#page_401)
-418. [402](xhtml/045_32_Retreat_in_the_So.xhtml#page_402)
-419. [403](xhtml/045_32_Retreat_in_the_So.xhtml#page_403)
-420. [404](xhtml/045_32_Retreat_in_the_So.xhtml#page_404)
-421. [405](xhtml/045_32_Retreat_in_the_So.xhtml#page_405)
-422. [406](xhtml/045_32_Retreat_in_the_So.xhtml#page_406)
-423. [407](xhtml/045_32_Retreat_in_the_So.xhtml#page_407)
-424. [408](xhtml/046_Part_Four_1920.xhtml#page_408)
-425. [409](xhtml/046_Part_Four_1920.xhtml#page_409)
-426. [410](xhtml/047_33_The_Great_Siberia.xhtml#page_410)
-427. [411](xhtml/047_33_The_Great_Siberia.xhtml#page_411)
-428. [412](xhtml/047_33_The_Great_Siberia.xhtml#page_412)
-429. [413](xhtml/047_33_The_Great_Siberia.xhtml#page_413)
-430. [414](xhtml/047_33_The_Great_Siberia.xhtml#page_414)
-431. [415](xhtml/047_33_The_Great_Siberia.xhtml#page_415)
-432. [416](xhtml/047_33_The_Great_Siberia.xhtml#page_416)
-433. [417](xhtml/047_33_The_Great_Siberia.xhtml#page_417)
-434. [418](xhtml/047_33_The_Great_Siberia.xhtml#page_418)
-435. [419](xhtml/048_34_The_Fall_of_Odess.xhtml#page_419)
-436. [420](xhtml/048_34_The_Fall_of_Odess.xhtml#page_420)
-437. [421](xhtml/048_34_The_Fall_of_Odess.xhtml#page_421)
-438. [422](xhtml/048_34_The_Fall_of_Odess.xhtml#page_422)
-439. [423](xhtml/048_34_The_Fall_of_Odess.xhtml#page_423)
-440. [424](xhtml/048_34_The_Fall_of_Odess.xhtml#page_424)
-441. [425](xhtml/049_35_The_Last_Hurrah_o.xhtml#page_425)
-442. [426](xhtml/049_35_The_Last_Hurrah_o.xhtml#page_426)
-443. [427](xhtml/049_35_The_Last_Hurrah_o.xhtml#page_427)
-444. [428](xhtml/049_35_The_Last_Hurrah_o.xhtml#page_428)
-445. [429](xhtml/049_35_The_Last_Hurrah_o.xhtml#page_429)
-446. [430](xhtml/049_35_The_Last_Hurrah_o.xhtml#page_430)
-447. [431](xhtml/049_35_The_Last_Hurrah_o.xhtml#page_431)
-448. [432](xhtml/049_35_The_Last_Hurrah_o.xhtml#page_432)
-449. [433](xhtml/049_35_The_Last_Hurrah_o.xhtml#page_433)
-450. [434](xhtml/049_35_The_Last_Hurrah_o.xhtml#page_434)
-451. [435](xhtml/049_35_The_Last_Hurrah_o.xhtml#page_435)
-452. [436](xhtml/049_35_The_Last_Hurrah_o.xhtml#page_436)
-453. [437](xhtml/049_35_The_Last_Hurrah_o.xhtml#page_437)
-454. [438](xhtml/049_35_The_Last_Hurrah_o.xhtml#page_438)
-455. [439](xhtml/049_35_The_Last_Hurrah_o.xhtml#page_439)
-456. [440](xhtml/049_35_The_Last_Hurrah_o.xhtml#page_440)
-457. [441](xhtml/050_36_Wrangel_Takes_Com.xhtml#page_441)
-458. [442](xhtml/050_36_Wrangel_Takes_Com.xhtml#page_442)
-459. [443](xhtml/050_36_Wrangel_Takes_Com.xhtml#page_443)
-460. [444](xhtml/050_36_Wrangel_Takes_Com.xhtml#page_444)
-461. [445](xhtml/050_36_Wrangel_Takes_Com.xhtml#page_445)
-462. [446](xhtml/050_36_Wrangel_Takes_Com.xhtml#page_446)
-463. [447](xhtml/050_36_Wrangel_Takes_Com.xhtml#page_447)
-464. [448](xhtml/050_36_Wrangel_Takes_Com.xhtml#page_448)
-465. [449](xhtml/050_36_Wrangel_Takes_Com.xhtml#page_449)
-466. [450](xhtml/050_36_Wrangel_Takes_Com.xhtml#page_450)
-467. [451](xhtml/050_36_Wrangel_Takes_Com.xhtml#page_451)
-468. [452](xhtml/050_36_Wrangel_Takes_Com.xhtml#page_452)
-469. [453](xhtml/051_37_Poles_in_the_West.xhtml#page_453)
-470. [454](xhtml/051_37_Poles_in_the_West.xhtml#page_454)
-471. [455](xhtml/051_37_Poles_in_the_West.xhtml#page_455)
-472. [456](xhtml/051_37_Poles_in_the_West.xhtml#page_456)
-473. [457](xhtml/051_37_Poles_in_the_West.xhtml#page_457)
-474. [458](xhtml/051_37_Poles_in_the_West.xhtml#page_458)
-475. [459](xhtml/051_37_Poles_in_the_West.xhtml#page_459)
-476. [460](xhtml/051_37_Poles_in_the_West.xhtml#page_460)
-477. [461](xhtml/051_37_Poles_in_the_West.xhtml#page_461)
-478. [462](xhtml/051_37_Poles_in_the_West.xhtml#page_462)
-479. [463](xhtml/051_37_Poles_in_the_West.xhtml#page_463)
-480. [464](xhtml/051_37_Poles_in_the_West.xhtml#page_464)
-481. [465](xhtml/051_37_Poles_in_the_West.xhtml#page_465)
-482. [466](xhtml/051_37_Poles_in_the_West.xhtml#page_466)
-483. [467](xhtml/051_37_Poles_in_the_West.xhtml#page_467)
-484. [468](xhtml/051_37_Poles_in_the_West.xhtml#page_468)
-485. [469](xhtml/052_38_The_Miracle_on_th.xhtml#page_469)
-486. [470](xhtml/052_38_The_Miracle_on_th.xhtml#page_470)
-487. [471](xhtml/052_38_The_Miracle_on_th.xhtml#page_471)
-488. [472](xhtml/052_38_The_Miracle_on_th.xhtml#page_472)
-489. [473](xhtml/052_38_The_Miracle_on_th.xhtml#page_473)
-490. [474](xhtml/052_38_The_Miracle_on_th.xhtml#page_474)
-491. [475](xhtml/052_38_The_Miracle_on_th.xhtml#page_475)
-492. [476](xhtml/052_38_The_Miracle_on_th.xhtml#page_476)
-493. [477](xhtml/052_38_The_Miracle_on_th.xhtml#page_477)
-494. [478](xhtml/052_38_The_Miracle_on_th.xhtml#page_478)
-495. [479](xhtml/052_38_The_Miracle_on_th.xhtml#page_479)
-496. [480](xhtml/053_39_The_Riviera_of_Ha.xhtml#page_480)
-497. [481](xhtml/053_39_The_Riviera_of_Ha.xhtml#page_481)
-498. [482](xhtml/053_39_The_Riviera_of_Ha.xhtml#page_482)
-499. [483](xhtml/053_39_The_Riviera_of_Ha.xhtml#page_483)
-500. [484](xhtml/053_39_The_Riviera_of_Ha.xhtml#page_484)
-501. [485](xhtml/053_39_The_Riviera_of_Ha.xhtml#page_485)
-502. [486](xhtml/053_39_The_Riviera_of_Ha.xhtml#page_486)
-503. [487](xhtml/053_39_The_Riviera_of_Ha.xhtml#page_487)
-504. [488](xhtml/053_39_The_Riviera_of_Ha.xhtml#page_488)
-505. [489](xhtml/053_39_The_Riviera_of_Ha.xhtml#page_489)
-506. [490](xhtml/053_39_The_Riviera_of_Ha.xhtml#page_490)
-507. [491](xhtml/053_39_The_Riviera_of_Ha.xhtml#page_491)
-508. [492](xhtml/054_40_The_Death_of_Hope.xhtml#page_492)
-509. [493](xhtml/054_40_The_Death_of_Hope.xhtml#page_493)
-510. [494](xhtml/054_40_The_Death_of_Hope.xhtml#page_494)
-511. [495](xhtml/054_40_The_Death_of_Hope.xhtml#page_495)
-512. [496](xhtml/054_40_The_Death_of_Hope.xhtml#page_496)
-513. [497](xhtml/054_40_The_Death_of_Hope.xhtml#page_497)
-514. [498](xhtml/054_40_The_Death_of_Hope.xhtml#page_498)
-515. [499](xhtml/054_40_The_Death_of_Hope.xhtml#page_499)
-516. [500](xhtml/054_40_The_Death_of_Hope.xhtml#page_500)
-517. [501](xhtml/055_Conclusion_The_Devil.xhtml#page_501)
-518. [502](xhtml/055_Conclusion_The_Devil.xhtml#page_502)
-519. [503](xhtml/056_Glossary.xhtml#page_503)
-520. [504](xhtml/056_Glossary.xhtml#page_504)
-521. [505](xhtml/057_Acknowledgements.xhtml#page_505)
-522. [506](xhtml/057_Acknowledgements.xhtml#page_506)
-523. [507](xhtml/058_Abbreviations.xhtml#page_507)
-524. [508](xhtml/058_Abbreviations.xhtml#page_508)
-525. [509](xhtml/058_Abbreviations.xhtml#page_509)
-526. [510](xhtml/058_Abbreviations.xhtml#page_510)
-527. [511](xhtml/059_Notes.xhtml#page_511)
-528. [512](xhtml/059_Notes.xhtml#page_512)
-529. [513](xhtml/059_Notes.xhtml#page_513)
-530. [514](xhtml/059_Notes.xhtml#page_514)
-531. [515](xhtml/059_Notes.xhtml#page_515)
-532. [516](xhtml/059_Notes.xhtml#page_516)
-533. [517](xhtml/059_Notes.xhtml#page_517)
-534. [518](xhtml/059_Notes.xhtml#page_518)
-535. [519](xhtml/059_Notes.xhtml#page_519)
-536. [520](xhtml/059_Notes.xhtml#page_520)
-537. [521](xhtml/059_Notes.xhtml#page_521)
-538. [522](xhtml/059_Notes.xhtml#page_522)
-539. [523](xhtml/059_Notes.xhtml#page_523)
-540. [524](xhtml/059_Notes.xhtml#page_524)
-541. [525](xhtml/059_Notes.xhtml#page_525)
-542. [526](xhtml/059_Notes.xhtml#page_526)
-543. [527](xhtml/059_Notes.xhtml#page_527)
-544. [528](xhtml/059_Notes.xhtml#page_528)
-545. [529](xhtml/059_Notes.xhtml#page_529)
-546. [530](xhtml/059_Notes.xhtml#page_530)
-547. [531](xhtml/059_Notes.xhtml#page_531)
-548. [532](xhtml/059_Notes.xhtml#page_532)
-549. [533](xhtml/059_Notes.xhtml#page_533)
-550. [534](xhtml/059_Notes.xhtml#page_534)
-551. [535](xhtml/059_Notes.xhtml#page_535)
-552. [536](xhtml/059_Notes.xhtml#page_536)
-553. [537](xhtml/059_Notes.xhtml#page_537)
-554. [538](xhtml/059_Notes.xhtml#page_538)
-555. [539](xhtml/059_Notes.xhtml#page_539)
-556. [540](xhtml/059_Notes.xhtml#page_540)
-557. [541](xhtml/059_Notes.xhtml#page_541)
-558. [542](xhtml/059_Notes.xhtml#page_542)
-559. [543](xhtml/059_Notes.xhtml#page_543)
-560. [544](xhtml/059_Notes.xhtml#page_544)
-561. [545](xhtml/059_Notes.xhtml#page_545)
-562. [546](xhtml/059_Notes.xhtml#page_546)
-563. [547](xhtml/059_Notes.xhtml#page_547)
-564. [548](xhtml/060_Bibliography.xhtml#page_548)
-565. [549](xhtml/060_Bibliography.xhtml#page_549)
-566. [550](xhtml/060_Bibliography.xhtml#page_550)
-567. [551](xhtml/060_Bibliography.xhtml#page_551)
-568. [552](xhtml/060_Bibliography.xhtml#page_552)
-569. [553](xhtml/060_Bibliography.xhtml#page_553)
-570. [554](xhtml/060_Bibliography.xhtml#page_554)
-571. [555](xhtml/060_Bibliography.xhtml#page_555)
-572. [556](xhtml/060_Bibliography.xhtml#page_556)
-573. [557](xhtml/060_Bibliography.xhtml#page_557)
-574. [558](xhtml/060_Bibliography.xhtml#page_558)
-575. [559](xhtml/060_Bibliography.xhtml#page_559)
-576. [560](xhtml/060_Bibliography.xhtml#page_560)
-577. [561](xhtml/060_Bibliography.xhtml#page_561)
-578. [562](xhtml/061_Fiction.xhtml#page_562)
-579. [563](xhtml/062_Index.xhtml#page_563)
-580. [564](xhtml/062_Index.xhtml#page_564)
-581. [565](xhtml/062_Index.xhtml#page_565)
-582. [566](xhtml/062_Index.xhtml#page_566)
-583. [567](xhtml/062_Index.xhtml#page_567)
-584. [568](xhtml/062_Index.xhtml#page_568)
-585. [569](xhtml/062_Index.xhtml#page_569)
-586. [570](xhtml/062_Index.xhtml#page_570)
-587. [571](xhtml/062_Index.xhtml#page_571)
-588. [572](xhtml/062_Index.xhtml#page_572)
-589. [573](xhtml/062_Index.xhtml#page_573)
-590. [574](xhtml/062_Index.xhtml#page_574)
-591. [575](xhtml/062_Index.xhtml#page_575)
-592. [576](xhtml/062_Index.xhtml#page_576)
+1. i
+2. ii
+3. iii
+4. iv
+5. v
+6. vi
+7. vii
+8. viii
+9. ix
+10. x
+11. xi
+12. xii
+13. xiii
+14. xiv
+15. xv
+16. xvi
+17. 1
+18. 2
+19. 3
+20. 4
+21. 5
+22. 6
+23. 7
+24. 8
+25. 9
+26. 10
+27. 11
+28. 12
+29. 13
+30. 14
+31. 15
+32. 16
+33. 17
+34. 18
+35. 19
+36. 20
+37. 21
+38. 22
+39. 23
+40. 24
+41. 25
+42. 26
+43. 27
+44. 28
+45. 29
+46. 30
+47. 31
+48. 32
+49. 33
+50. 34
+51. 35
+52. 36
+53. 37
+54. 38
+55. 39
+56. 40
+57. 41
+58. 42
+59. 43
+60. 44
+61. 45
+62. 46
+63. 47
+64. 48
+65. 49
+66. 50
+67. 51
+68. 52
+69. 53
+70. 54
+71. 55
+72. 56
+73. 57
+74. 58
+75. 59
+76. 60
+77. 61
+78. 62
+79. 63
+80. 64
+81. 65
+82. 66
+83. 67
+84. 68
+85. 69
+86. 70
+87. 71
+88. 72
+89. 73
+90. 74
+91. 75
+92. 76
+93. 77
+94. 78
+95. 79
+96. 80
+97. 81
+98. 82
+99. 83
+100. 84
+101. 85
+102. 86
+103. 87
+104. 88
+105. 89
+106. 90
+107. 91
+108. 92
+109. 93
+110. 94
+111. 95
+112. 96
+113. 97
+114. 98
+115. 99
+116. 100
+117. 101
+118. 102
+119. 103
+120. 104
+121. 105
+122. 106
+123. 107
+124. 108
+125. 109
+126. 110
+127. 111
+128. 112
+129. 113
+130. 114
+131. 115
+132. 116
+133. 117
+134. 118
+135. 119
+136. 120
+137. 121
+138. 122
+139. 123
+140. 124
+141. 125
+142. 126
+143. 127
+144. 128
+145. 129
+146. 130
+147. 131
+148. 132
+149. 133
+150. 134
+151. 135
+152. 136
+153. 137
+154. 138
+155. 139
+156. 140
+157. 141
+158. 142
+159. 143
+160. 144
+161. 145
+162. 146
+163. 147
+164. 148
+165. 149
+166. 150
+167. 151
+168. 152
+169. 153
+170. 154
+171. 155
+172. 156
+173. 157
+174. 158
+175. 159
+176. 160
+177. 161
+178. 162
+179. 163
+180. 164
+181. 165
+182. 166
+183. 167
+184. 168
+185. 169
+186. 170
+187. 171
+188. 172
+189. 173
+190. 174
+191. 175
+192. 176
+193. 177
+194. 178
+195. 179
+196. 180
+197. 181
+198. 182
+199. 183
+200. 184
+201. 185
+202. 186
+203. 187
+204. 188
+205. 189
+206. 190
+207. 191
+208. 192
+209. 193
+210. 194
+211. 195
+212. 196
+213. 197
+214. 198
+215. 199
+216. 200
+217. 201
+218. 202
+219. 203
+220. 204
+221. 205
+222. 206
+223. 207
+224. 208
+225. 209
+226. 210
+227. 211
+228. 212
+229. 213
+230. 214
+231. 215
+232. 216
+233. 217
+234. 218
+235. 219
+236. 220
+237. 221
+238. 222
+239. 223
+240. 224
+241. 225
+242. 226
+243. 227
+244. 228
+245. 229
+246. 230
+247. 231
+248. 232
+249. 233
+250. 234
+251. 235
+252. 236
+253. 237
+254. 238
+255. 239
+256. 240
+257. 242
+258. 241
+259. 243
+260. 244
+261. 245
+262. 246
+263. 247
+264. 248
+265. 249
+266. 250
+267. 251
+268. 252
+269. 253
+270. 254
+271. 255
+272. 256
+273. 257
+274. 258
+275. 259
+276. 260
+277. 261
+278. 262
+279. 263
+280. 264
+281. 265
+282. 266
+283. 267
+284. 268
+285. 269
+286. 270
+287. 271
+288. 272
+289. 273
+290. 274
+291. 275
+292. 276
+293. 277
+294. 278
+295. 279
+296. 280
+297. 281
+298. 282
+299. 283
+300. 284
+301. 285
+302. 286
+303. 287
+304. 288
+305. 289
+306. 290
+307. 291
+308. 292
+309. 293
+310. 294
+311. 295
+312. 296
+313. 297
+314. 298
+315. 299
+316. 300
+317. 301
+318. 302
+319. 303
+320. 304
+321. 305
+322. 306
+323. 307
+324. 308
+325. 309
+326. 310
+327. 311
+328. 312
+329. 313
+330. 314
+331. 315
+332. 316
+333. 317
+334. 318
+335. 319
+336. 320
+337. 321
+338. 322
+339. 323
+340. 324
+341. 325
+342. 326
+343. 327
+344. 328
+345. 329
+346. 330
+347. 331
+348. 332
+349. 333
+350. 334
+351. 335
+352. 336
+353. 337
+354. 338
+355. 339
+356. 340
+357. 341
+358. 342
+359. 343
+360. 344
+361. 345
+362. 346
+363. 347
+364. 348
+365. 349
+366. 350
+367. 351
+368. 352
+369. 353
+370. 354
+371. 355
+372. 356
+373. 357
+374. 358
+375. 359
+376. 360
+377. 361
+378. 362
+379. 363
+380. 364
+381. 365
+382. 366
+383. 367
+384. 368
+385. 369
+386. 370
+387. 371
+388. 372
+389. 373
+390. 374
+391. 375
+392. 376
+393. 377
+394. 378
+395. 379
+396. 380
+397. 381
+398. 382
+399. 383
+400. 384
+401. 385
+402. 386
+403. 387
+404. 388
+405. 389
+406. 390
+407. 391
+408. 392
+409. 393
+410. 394
+411. 395
+412. 396
+413. 397
+414. 398
+415. 399
+416. 400
+417. 401
+418. 402
+419. 403
+420. 404
+421. 405
+422. 406
+423. 407
+424. 408
+425. 409
+426. 410
+427. 411
+428. 412
+429. 413
+430. 414
+431. 415
+432. 416
+433. 417
+434. 418
+435. 419
+436. 420
+437. 421
+438. 422
+439. 423
+440. 424
+441. 425
+442. 426
+443. 427
+444. 428
+445. 429
+446. 430
+447. 431
+448. 432
+449. 433
+450. 434
+451. 435
+452. 436
+453. 437
+454. 438
+455. 439
+456. 440
+457. 441
+458. 442
+459. 443
+460. 444
+461. 445
+462. 446
+463. 447
+464. 448
+465. 449
+466. 450
+467. 451
+468. 452
+469. 453
+470. 454
+471. 455
+472. 456
+473. 457
+474. 458
+475. 459
+476. 460
+477. 461
+478. 462
+479. 463
+480. 464
+481. 465
+482. 466
+483. 467
+484. 468
+485. 469
+486. 470
+487. 471
+488. 472
+489. 473
+490. 474
+491. 475
+492. 476
+493. 477
+494. 478
+495. 479
+496. 480
+497. 481
+498. 482
+499. 483
+500. 484
+501. 485
+502. 486
+503. 487
+504. 488
+505. 489
+506. 490
+507. 491
+508. 492
+509. 493
+510. 494
+511. 495
+512. 496
+513. 497
+514. 498
+515. 499
+516. 500
+517. 501
+518. 502
+519. 503
+520. 504
+521. 505
+522. 506
+523. 507
+524. 508
+525. 509
+526. 510
+527. 511
+528. 512
+529. 513
+530. 514
+531. 515
+532. 516
+533. 517
+534. 518
+535. 519
+536. 520
+537. 521
+538. 522
+539. 523
+540. 524
+541. 525
+542. 526
+543. 527
+544. 528
+545. 529
+546. 530
+547. 531
+548. 532
+549. 533
+550. 534
+551. 535
+552. 536
+553. 537
+554. 538
+555. 539
+556. 540
+557. 541
+558. 542
+559. 543
+560. 544
+561. 545
+562. 546
+563. 547
+564. 548
+565. 549
+566. 550
+567. 551
+568. 552
+569. 553
+570. 554
+571. 555
+572. 556
+573. 557
+574. 558
+575. 559
+576. 560
+577. 561
+578. 562
+579. 563
+580. 564
+581. 565
+582. 566
+583. 567
+584. 568
+585. 569
+586. 570
+587. 571
+588. 572
+589. 573
+590. 574
+591. 575
+592. 576
 
 ---
 
 ## Section 64
 
-[\*](012_1_The_Suicide_of_Eur.xhtml#footnote-002-backlink "footnote reference") One pood was just over sixteen kilograms.
+\* One pood was just over sixteen kilograms.
 
 ---
 
 ## Section 65
 
-[\*](012_1_The_Suicide_of_Eur.xhtml#footnote-001-backlink "footnote reference") The Kadet, or Constitutional Democratic (KD) Party was a liberal centrist group including both moderate monarchists and republicans. It was founded by Milyukov in 1905 and mainly supported by academics, lawyers and the more enlightened middle class, including Jews, because it believed in Jewish emancipation.
+\* The Kadet, or Constitutional Democratic (KD) Party was a liberal centrist group including both moderate monarchists and republicans. It was founded by Milyukov in 1905 and mainly supported by academics, lawyers and the more enlightened middle class, including Jews, because it believed in Jewish emancipation.
 
 ---
 
 ## Section 66
 
-[\*](012_1_The_Suicide_of_Eur.xhtml#footnote-000-backlink "footnote reference") The Black Hundreds were the reactionary monarchist, nationalistic and anti-Semitic groups supported by Nicholas II.
+\* The Black Hundreds were the reactionary monarchist, nationalistic and anti-Semitic groups supported by Nicholas II.
 
 ---
 
 ## Section 67
 
-[\*](013_2_The_February_Revol.xhtml#footnote-004-backlink "footnote reference") Buchanan recounted his interview with the Tsar to his close colleague Paléologue immediately afterwards. It is striking that Paléologue’s version, recorded in his diary, is much more frigid and ends with the Tsar dismissing Buchanan with finality: ‘Adieu, Monsieur l’Ambassadeur.’ Buchanan’s much later account in his memoirs ends rather less convincingly with heartfelt thanks and a very warm, emotional handshake. The Tsar made no mention of the meeting in his private diary, but then he seldom bothered to record conversations with ambassadors.
+\* Buchanan recounted his interview with the Tsar to his close colleague Paléologue immediately afterwards. It is striking that Paléologue’s version, recorded in his diary, is much more frigid and ends with the Tsar dismissing Buchanan with finality: ‘Adieu, Monsieur l’Ambassadeur.’ Buchanan’s much later account in his memoirs ends rather less convincingly with heartfelt thanks and a very warm, emotional handshake. The Tsar made no mention of the meeting in his private diary, but then he seldom bothered to record conversations with ambassadors.
 
 ---
 
 ## Section 68
 
-[\*](013_2_The_February_Revol.xhtml#footnote-003-backlink "footnote reference") The Volynsky’s service in the previous century had been largely devoted to suppressing uprisings in Poland.
+\* The Volynsky’s service in the previous century had been largely devoted to suppressing uprisings in Poland.
 
 ---
 
 ## Section 69
 
-[\*](014_3_The_Fall_of_the_Do.xhtml#footnote-006-backlink "footnote reference") Admiral Kolchak, the commander-in-chief of the Black Sea Fleet, also failed to reply, perhaps because he was in Batumi not Sevastopol. The Tsar’s cousin Grand Duke Nikolai Nikolaevich had been negotiating with him there and found him ‘absolutely impossible’ to deal with. He replied to Alekseev as soon as he reached Tiflis.
+\* Admiral Kolchak, the commander-in-chief of the Black Sea Fleet, also failed to reply, perhaps because he was in Batumi not Sevastopol. The Tsar’s cousin Grand Duke Nikolai Nikolaevich had been negotiating with him there and found him ‘absolutely impossible’ to deal with. He replied to Alekseev as soon as he reached Tiflis.
 
 ---
 
 ## Section 70
 
-[\*](014_3_The_Fall_of_the_Do.xhtml#footnote-005-backlink "footnote reference") Mikhail Aleksandrovich had commanded the Savage Division from the Caucasus, with Ingush, Chechen, Dagestani, Tatar, Circassian and other mountain people, in the Brusilov offensive of 1916.
+\* Mikhail Aleksandrovich had commanded the Savage Division from the Caucasus, with Ingush, Chechen, Dagestani, Tatar, Circassian and other mountain people, in the Brusilov offensive of 1916.
 
 ---
 
 ## Section 71
 
-[\*](015_4_From_Autocracy_to_.xhtml#footnote-007-backlink "footnote reference") Tikhobrazov in his account wrote: ‘I am quoting this text from memory but I am confident that I remember the essence of each paragraph.’ The Livadia Palace was the imperial family’s summer residence at Yalta in the Crimea, and the setting for the Yalta Conference in February 1945 with Stalin as host.
+\* Tikhobrazov in his account wrote: ‘I am quoting this text from memory but I am confident that I remember the essence of each paragraph.’ The Livadia Palace was the imperial family’s summer residence at Yalta in the Crimea, and the setting for the Yalta Conference in February 1945 with Stalin as host.
 
 ---
 
 ## Section 72
 
-[\*](016_5_The_Pregnant_Widow.xhtml#footnote-008-backlink "footnote reference") French diplomats warned Paris of the great bitterness felt by many Russians that the western Allies were robbing them of peace by insisting on final victory and reparations. Viktor Shklovsky never forgave ‘the foul ruthless policies of the Allies’. He blamed them for the Bolshevik seizure of power. ‘They wouldn’t go along with our peace conditions. They, no one but they, blew up Russia. Their refusal allowed the so-called Internationalists to take power.’
+\* French diplomats warned Paris of the great bitterness felt by many Russians that the western Allies were robbing them of peace by insisting on final victory and reparations. Viktor Shklovsky never forgave ‘the foul ruthless policies of the Allies’. He blamed them for the Bolshevik seizure of power. ‘They wouldn’t go along with our peace conditions. They, no one but they, blew up Russia. Their refusal allowed the so-called Internationalists to take power.’
 
 ---
 
 ## Section 73
 
-[\*](017_6_The_Kerensky_Offen.xhtml#footnote-009-backlink "footnote reference") The Provisional Government’s accusations do not amount to hard proof that the Bolsheviks accepted ‘German gold’, and yet it is hard to see how the Bolsheviks could have afforded all their newspapers without outside help.
+\* The Provisional Government’s accusations do not amount to hard proof that the Bolsheviks accepted ‘German gold’, and yet it is hard to see how the Bolsheviks could have afforded all their newspapers without outside help.
 
 ---
 
 ## Section 74
 
-[\*](018_7_Kornilov.xhtml#footnote-010-backlink "footnote reference") Tsentroflot’s version of events was brief. ‘The corps commander, as well as General Aranovsky, commandant of the Vyborg Fortress, and Colonel Tyurenius and some others were arrested for supporting Kornilov. The first three were killed by the excited crowd when they were being moved to the fortress.’
+\* Tsentroflot’s version of events was brief. ‘The corps commander, as well as General Aranovsky, commandant of the Vyborg Fortress, and Colonel Tyurenius and some others were arrested for supporting Kornilov. The first three were killed by the excited crowd when they were being moved to the fortress.’
 
 ---
 
 ## Section 75
 
-[\*](019_8_The_October_Coup.xhtml#footnote-013-backlink "footnote reference") Uritsky estimated the Petrograd Red Guard to have reached 40,000 men by mid-October, but even Trotsky admitted that the figure was probably exaggerated, and later suggested it was less than 20,000.
+\* Uritsky estimated the Petrograd Red Guard to have reached 40,000 men by mid-October, but even Trotsky admitted that the figure was probably exaggerated, and later suggested it was less than 20,000.
 
 ---
 
 ## Section 76
 
-[\*](019_8_The_October_Coup.xhtml#footnote-012-backlink "footnote reference") Alekseev believed that there must have been around 15,000 officers in Petrograd of whom a third might have been prepared to fight.
+\* Alekseev believed that there must have been around 15,000 officers in Petrograd of whom a third might have been prepared to fight.
 
 ---
 
 ## Section 77
 
-[\*](019_8_The_October_Coup.xhtml#footnote-011-backlink "footnote reference") Trotsky’s account tries to give the impression that there was hardly any resistance during the coup and afterwards, and that almost every regiment in Petrograd had gone over to the Bolsheviks.
+\* Trotsky’s account tries to give the impression that there was hardly any resistance during the coup and afterwards, and that almost every regiment in Petrograd had gone over to the Bolsheviks.
 
 ---
 
 ## Section 78
 
-[\*](020_9_The_Boys_Crusade_R.xhtml#footnote-014-backlink "footnote reference") Madame Kurdyukova, a sort of Russian Mrs Malaprop, was the protagonist in the comic novel by Ivan Myatlev, *Sensations and Observations of Madame Kurdyukova Abroad*, *Dans l’étranger* (1840–44).
+\* Madame Kurdyukova, a sort of Russian Mrs Malaprop, was the protagonist in the comic novel by Ivan Myatlev, *Sensations and Observations of Madame Kurdyukova Abroad*, *Dans l’étranger* (1840–44).
 
 ---
 
 ## Section 79
 
-[\*](023_11_Breaking_the_Moul.xhtml#footnote-015-backlink "footnote reference") ‘Antanta’ was what Russians called the Triple Entente of Allies.
+\* ‘Antanta’ was what Russians called the Triple Entente of Allies.
 
 ---
 
 ## Section 80
 
-[\*](026_14_The_Germans_March.xhtml#footnote-017-backlink "footnote reference") It is very tempting to include the whole correspondence between Krasnov and Rodzyanko, which is most amusing, but it goes on for pages and pages.
+\* It is very tempting to include the whole correspondence between Krasnov and Rodzyanko, which is most amusing, but it goes on for pages and pages.
 
 ---
 
 ## Section 81
 
-[\*](026_14_The_Germans_March.xhtml#footnote-016-backlink "footnote reference") Haidemaks were Ukrainian soldiers. Originally they had been peasants who had revolted in the eighteenth century against their Polish overlords. Their heads were semi-shaved with a long top-knot in traditional Ukrainian style escaping from their sheepskin caps.
+\* Haidemaks were Ukrainian soldiers. Originally they had been peasants who had revolted in the eighteenth century against their Polish overlords. Their heads were semi-shaved with a long top-knot in traditional Ukrainian style escaping from their sheepskin caps.
 
 ---
 
 ## Section 82
 
-[\*](028_16_The_Czechs_and_Le.xhtml#footnote-019-backlink "footnote reference") The American ‘consul on special detail’ reported more than a year later to Lansing in Washington that ‘The German government, through its ambassador von Mirbach, urged Trotsky to disarm the Czechoslovaks and thus precipitated the crisis earlier than had been designed.’
+\* The American ‘consul on special detail’ reported more than a year later to Lansing in Washington that ‘The German government, through its ambassador von Mirbach, urged Trotsky to disarm the Czechoslovaks and thus precipitated the crisis earlier than had been designed.’
 
 ---
 
 ## Section 83
 
-[\*](028_16_The_Czechs_and_Le.xhtml#footnote-018-backlink "footnote reference") Nicholas, deliberately ignoring the recent Bolshevik switch to the Gregorian calendar, stayed with the Julian calendar of his ancestors by giving the date as 16 June.
+\* Nicholas, deliberately ignoring the recent Bolshevik switch to the Gregorian calendar, stayed with the Julian calendar of his ancestors by giving the date as 16 June.
 
 ---
 
 ## Section 84
 
-[\*](029_17_Red_Terror.xhtml#footnote-020-backlink "footnote reference") ‘God save us from seeing a Russian revolt, senseless and merciless. Those who plot impossible upheavals among us, are either young and do not know our people, or are hard-hearted men who do not care a straw either about their own lives or those of others.’ Pushkin’s observation on the unbelievably violent rebellion by Emelian Pugachev (1773–4) comes in *The Captain’s Daughter*, London, 2009, p. 203.
+\* ‘God save us from seeing a Russian revolt, senseless and merciless. Those who plot impossible upheavals among us, are either young and do not know our people, or are hard-hearted men who do not care a straw either about their own lives or those of others.’ Pushkin’s observation on the unbelievably violent rebellion by Emelian Pugachev (1773–4) comes in *The Captain’s Daughter*, London, 2009, p. 203.
 
 ---
 
 ## Section 85
 
-[\*](030_18_Fighting_on_the_V.xhtml#footnote-023-backlink "footnote reference") Many assume it was the Czechs who captured the gold reserves, but in fact it appears to have been Kappel’s men. In any case it was a massive blow for the Sovnarkom at a moment when the rouble was now worth only a fifth of its value just prior to Kerensky’s downfall.
+\* Many assume it was the Czechs who captured the gold reserves, but in fact it appears to have been Kappel’s men. In any case it was a massive blow for the Sovnarkom at a moment when the rouble was now worth only a fifth of its value just prior to Kerensky’s downfall.
 
 ---
 
 ## Section 86
 
-[\*](030_18_Fighting_on_the_V.xhtml#footnote-022-backlink "footnote reference") Budyonny was famous for his vanity. His cavalry moustache grew larger and larger as he progressed up the ranks, and he wore red breeches with silver stripes. Timoshenko was the original for Savitsky in Isaac Babel’s short story ‘My First Goose’.
+\* Budyonny was famous for his vanity. His cavalry moustache grew larger and larger as he progressed up the ranks, and he wore red breeches with silver stripes. Timoshenko was the original for Savitsky in Isaac Babel’s short story ‘My First Goose’.
 
 ---
 
 ## Section 87
 
-[\*](030_18_Fighting_on_the_V.xhtml#footnote-021-backlink "footnote reference") Wavell did not like Tukhachevsky. ‘Tukhachevsky, with whom I lunched one day, was rather a nasty piece of work, to whom I took an instant dislike, but he was undoubtedly able, ambitious and energetic.’
+\* Wavell did not like Tukhachevsky. ‘Tukhachevsky, with whom I lunched one day, was rather a nasty piece of work, to whom I took an instant dislike, but he was undoubtedly able, ambitious and energetic.’
 
 ---
 
 ## Section 88
 
-[\*](031_19_From_the_Volga_to.xhtml#footnote-024-backlink "footnote reference") The Black Hundreds were the reactionary monarchist, nationalistic and anti-Semitic groups of Tsarist times supported by Nicholas II.
+\* The Black Hundreds were the reactionary monarchist, nationalistic and anti-Semitic groups of Tsarist times supported by Nicholas II.
 
 ---
 
 ## Section 89
 
-[\*](032_20_The_Central_Power.xhtml#footnote-026-backlink "footnote reference") Doubts over the authenticity of Kuzmenko’s diary have been raised. There are indeed parts added to it which appear dubious, but that does not necessarily mean that all is false.
+\* Doubts over the authenticity of Kuzmenko’s diary have been raised. There are indeed parts added to it which appear dubious, but that does not necessarily mean that all is false.
 
 ---
 
 ## Section 90
 
-[\*](032_20_The_Central_Power.xhtml#footnote-025-backlink "footnote reference") The special force consisted of three squadrons of the 2nd Officers Mounted Regiment, two companies of the Drozdovsky Infantry Regiment and the 11th Ingermanland Hussars, the remains of a regular regiment from the Tsarist army.
+\* The special force consisted of three squadrons of the 2nd Officers Mounted Regiment, two companies of the Drozdovsky Infantry Regiment and the 11th Ingermanland Hussars, the remains of a regular regiment from the Tsarist army.
 
 ---
 
 ## Section 91
 
-[\*](035_22_The_Fatal_Comprom.xhtml#footnote-029-backlink "footnote reference") Stanislaw Bulak-Balachovich (1883–1940) commanded a cavalry guerrilla unit operating behind German lines in the war, joined the Red Army with Trotsky’s approval, but very soon switched sides to join the White forces of General Yudenich.
+\* Stanislaw Bulak-Balachovich (1883–1940) commanded a cavalry guerrilla unit operating behind German lines in the war, joined the Red Army with Trotsky’s approval, but very soon switched sides to join the White forces of General Yudenich.
 
 ---
 
 ## Section 92
 
-[\*](035_22_The_Fatal_Comprom.xhtml#footnote-028-backlink "footnote reference") Nikolai Chaikovsky (1851–1926) had been the Socialist Revolutionary leader in Arkhangel.
+\* Nikolai Chaikovsky (1851–1926) had been the Socialist Revolutionary leader in Arkhangel.
 
 ---
 
 ## Section 93
 
-[\*](035_22_The_Fatal_Comprom.xhtml#footnote-027-backlink "footnote reference") Ignacy Paderewski (1860–1941). When Clemenceau at the Versailles Peace Conference asked one of his entourage who he was, he heard that he was the famous pianist Paderewski, but now had become the prime minister of Poland. ‘*Quelle chute!*’ (‘What a downfall’) came the inimitable retort.
+\* Ignacy Paderewski (1860–1941). When Clemenceau at the Versailles Peace Conference asked one of his entourage who he was, he heard that he was the famous pianist Paderewski, but now had become the prime minister of Poland. ‘*Quelle chute!*’ (‘What a downfall’) came the inimitable retort.
 
 ---
 
 ## Section 94
 
-[\*](036_23_Siberia.xhtml#footnote-030-backlink "footnote reference") Vasily Chapayev was one of the most famous Red heroes of the civil war. A film was made in 1934 about his life and death.
+\* Vasily Chapayev was one of the most famous Red heroes of the civil war. A film was made in 1934 about his life and death.
 
 ---
 
 ## Section 95
 
-[\*](037_24_Don_and_Ukraine.xhtml#footnote-032-backlink "footnote reference") Saenko, the head of the Kharkov Cheka, was both an alcoholic and a cocaine addict. His pathological sadism was notorious. He enjoyed sticking a knife a short way into flesh, then twisting the blade, as well as scalping prisoners while still alive and giving them ‘the glove treatment’. A Left Socialist Revolutionary who survived described him as ‘short with shining eyes and a twitching maniacal face’.
+\* Saenko, the head of the Kharkov Cheka, was both an alcoholic and a cocaine addict. His pathological sadism was notorious. He enjoyed sticking a knife a short way into flesh, then twisting the blade, as well as scalping prisoners while still alive and giving them ‘the glove treatment’. A Left Socialist Revolutionary who survived described him as ‘short with shining eyes and a twitching maniacal face’.
 
 ---
 
 ## Section 96
 
-[\*](037_24_Don_and_Ukraine.xhtml#footnote-031-backlink "footnote reference") On 16 March, Vatsetis, the commander-in-chief of the Red Army, gave Mironov the authorisation to raise a Red Cossack division. The very next day, the Don Bureau informed the Party Central Committee that they had ‘made the decision to remove Mironov from the Don oblast’ because he was a trouble-maker.
+\* On 16 March, Vatsetis, the commander-in-chief of the Red Army, gave Mironov the authorisation to raise a Red Cossack division. The very next day, the Don Bureau informed the Party Central Committee that they had ‘made the decision to remove Mironov from the Don oblast’ because he was a trouble-maker.
 
 ---
 
 ## Section 97
 
-[\*](041_28_The_March_on_Mosc.xhtml#footnote-036-backlink "footnote reference") By a curious coincidence, Sergei Kamenev would die from a heart attack on 25 August 1936, the very day Lev Kamenev was executed at the start of Stalin’s purges.
+\* By a curious coincidence, Sergei Kamenev would die from a heart attack on 25 August 1936, the very day Lev Kamenev was executed at the start of Stalin’s purges.
 
 ---
 
 ## Section 98
 
-[\*](041_28_The_March_on_Mosc.xhtml#footnote-035-backlink "footnote reference") The accusation against Vatsetis was soon shown to be false and he was released, but Stalin never forgot a victim as well as an enemy. During the Great Terror, Vatsetis was again accused of being a secret Fascist and shot in 1938.
+\* The accusation against Vatsetis was soon shown to be false and he was released, but Stalin never forgot a victim as well as an enemy. During the Great Terror, Vatsetis was again accused of being a secret Fascist and shot in 1938.
 
 ---
 
 ## Section 99
 
-[\*](041_28_The_March_on_Mosc.xhtml#footnote-034-backlink "footnote reference") Prokhorovka, according to Soviet propaganda, was the site of the Red Army’s great tank victory in the Battle of Kursk in 1943, when in fact it was worse than Phyrric. It has now been shown that the Tiger tanks of the Waffen SS destroyed most of the 5th Guards Tank Army during its ill-planned counter-attack.
+\* Prokhorovka, according to Soviet propaganda, was the site of the Red Army’s great tank victory in the Battle of Kursk in 1943, when in fact it was worse than Phyrric. It has now been shown that the Tiger tanks of the Waffen SS destroyed most of the 5th Guards Tank Army during its ill-planned counter-attack.
 
 ---
 
 ## Section 100
 
-[\*](041_28_The_March_on_Mosc.xhtml#footnote-033-backlink "footnote reference") Osvag, the acronym of *osvedomitel’noe-agitatsionnoe otdelenie*, was the propaganda arm of the Armed Forces of South Russia and based in Rostov. Since it had little positive news to offer on the political front due to the refusal of the Whites to contemplate any reform, its success was very limited. Paper shortages did not help.
+\* Osvag, the acronym of *osvedomitel’noe-agitatsionnoe otdelenie*, was the propaganda arm of the Armed Forces of South Russia and based in Rostov. Since it had little positive news to offer on the political front due to the refusal of the Whites to contemplate any reform, its success was very limited. Paper shortages did not help.
 
 ---
 
 ## Section 101
 
-[\*](043_30_Siberian_Retreat.xhtml#footnote-037-backlink "footnote reference") ‘Ptichki’ – Russian for ‘birdies’ – was what the Bolsheviks called the Polish eagle badge on the caps of Captain Dojan’s men.
+\* ‘Ptichki’ – Russian for ‘birdies’ – was what the Bolsheviks called the Polish eagle badge on the caps of Captain Dojan’s men.
 
 ---
 
 ## Section 102
 
-[\*](044_31_The_Turning_Point.xhtml#footnote-040-backlink "footnote reference") The official Red Army account, on the other hand, states that Mironov had ‘5,000 men (of these, only 2,000 were armed and 1,000 with horses).’
+\* The official Red Army account, on the other hand, states that Mironov had ‘5,000 men (of these, only 2,000 were armed and 1,000 with horses).’
 
 ---
 
 ## Section 103
 
-[\*](044_31_The_Turning_Point.xhtml#footnote-039-backlink "footnote reference") Altogether, the Red Army *Stavka* had transferred 60,000 men from the Eastern Front since May, making a total of 171,600 Red troops facing 151,900 Whites, many of whom were guarding against uprisings in the rear.
+\* Altogether, the Red Army *Stavka* had transferred 60,000 men from the Eastern Front since May, making a total of 171,600 Red troops facing 151,900 Whites, many of whom were guarding against uprisings in the rear.
 
 ---
 
 ## Section 104
 
-[\*](044_31_The_Turning_Point.xhtml#footnote-038-backlink "footnote reference") There is no indication from Red Army sources that Chinese units were engaged in this battle.
+\* There is no indication from Red Army sources that Chinese units were engaged in this battle.
 
 ---
 
 ## Section 105
 
-[\*](045_32_Retreat_in_the_So.xhtml#footnote-041-backlink "footnote reference") ‘Denikin roubles’ were called ‘Bells’ because they bore the image of the huge Tsar Bell in the Moscow Kremlin.
+\* ‘Denikin roubles’ were called ‘Bells’ because they bore the image of the huge Tsar Bell in the Moscow Kremlin.
 
 ---
 
 ## Section 106
 
-[\*](047_33_The_Great_Siberia.xhtml#footnote-042-backlink "footnote reference") As well as Czechs and Poles, there were also a Romanian Legion, a Slovakian Regiment and a Croat detachment, which all came under his Allied command. Janin, to the deep suspicion of Russian officers, favoured the creation of individual national units, including Ukrainians and other groups who had been part of the Tsarist Empire.
+\* As well as Czechs and Poles, there were also a Romanian Legion, a Slovakian Regiment and a Croat detachment, which all came under his Allied command. Janin, to the deep suspicion of Russian officers, favoured the creation of individual national units, including Ukrainians and other groups who had been part of the Tsarist Empire.
 
 ---
 
 ## Section 107
 
-[\*](048_34_The_Fall_of_Odess.xhtml#footnote-043-backlink "footnote reference") This was the way that anti-Semitic gangs tested somebody they suspected of being Jewish.
+\* This was the way that anti-Semitic gangs tested somebody they suspected of being Jewish.
 
 ---
 
 ## Section 108
 
-[\*](049_35_The_Last_Hurrah_o.xhtml#footnote-044-backlink "footnote reference") Red forces in the civil war were carrying out a policy close to genocide against the Kalmyks. This, no doubt, was the reason why so many Kalmyks collaborated with the German Wehrmacht in the autumn and winter of 1942.
+\* Red forces in the civil war were carrying out a policy close to genocide against the Kalmyks. This, no doubt, was the reason why so many Kalmyks collaborated with the German Wehrmacht in the autumn and winter of 1942.
 
 ---
 
 ## Section 109
 
-[\*](050_36_Wrangel_Takes_Com.xhtml#footnote-046-backlink "footnote reference") Vilnius – its current and original name – was the ancient Lithuanian capital, founded by the Grand Dukes of Lithuania in the thirteenth century. Many distinguished Poles, including their national poet Mickiewicz, came from there. Piłsudski captured it during this counter-attack against the Reds and refused to return it to the newly independent Lithuania. The Lithuanians had to shift their capital to Kaunas. The Soviet Union under Stalin gave it back to the Lithuanians, but many Poles still believe in their hearts that it belongs to them.
+\* Vilnius – its current and original name – was the ancient Lithuanian capital, founded by the Grand Dukes of Lithuania in the thirteenth century. Many distinguished Poles, including their national poet Mickiewicz, came from there. Piłsudski captured it during this counter-attack against the Reds and refused to return it to the newly independent Lithuania. The Lithuanians had to shift their capital to Kaunas. The Soviet Union under Stalin gave it back to the Lithuanians, but many Poles still believe in their hearts that it belongs to them.
 
 ---
 
 ## Section 110
 
-[\*](050_36_Wrangel_Takes_Com.xhtml#footnote-045-backlink "footnote reference") The legion formed in Vladivostok included Poles who had been former soldiers of the German garrison in Kiao-Chau, captured by the Japanese back in 1914.
+\* The legion formed in Vladivostok included Poles who had been former soldiers of the German garrison in Kiao-Chau, captured by the Japanese back in 1914.
 
 ---
 
 ## Section 111
 
-[\*](051_37_Poles_in_the_West.xhtml#footnote-048-backlink "footnote reference") The ‘Chinamen’ were part of Iona Yakir’s force of two divisions on the left wing of the Red 12th Army commanded by Sergei Mezheninov.
+\* The ‘Chinamen’ were part of Iona Yakir’s force of two divisions on the left wing of the Red 12th Army commanded by Sergei Mezheninov.
 
 ---
 
 ## Section 112
 
-[\*](051_37_Poles_in_the_West.xhtml#footnote-047-backlink "footnote reference") Search parties sawed the legs off furniture because hollow legs were a favourite place for hiding gold coins.
+\* Search parties sawed the legs off furniture because hollow legs were a favourite place for hiding gold coins.
 
 ---
 
 ## Section 113
 
-[\*](052_38_The_Miracle_on_th.xhtml#footnote-049-backlink "footnote reference") With grotesque bad taste, Himmler so loved the place that he had it renamed Himmlerstadt during the German occupation.
+\* With grotesque bad taste, Himmler so loved the place that he had it renamed Himmlerstadt during the German occupation.
 
 ---
 
 ## Section 114
 
-[\*](053_39_The_Riviera_of_Ha.xhtml#footnote-050-backlink "footnote reference") The counter-intelligence ‘Special Department’, or OO (Osobyi otdel), was set up the year before by Feliks Dzerzhinsky on Lenin’s order to ensure that the Cheka retained control over the Red Army’s political discipline. This continued under the Cheka’s successor organisations until April 1943 when the NKVD special departments were hived off under Viktor Abakumov to form SMERSh: *Smert shpionam*, or ‘Death to spies’.
+\* The counter-intelligence ‘Special Department’, or OO (Osobyi otdel), was set up the year before by Feliks Dzerzhinsky on Lenin’s order to ensure that the Cheka retained control over the Red Army’s political discipline. This continued under the Cheka’s successor organisations until April 1943 when the NKVD special departments were hived off under Viktor Abakumov to form SMERSh: *Smert shpionam*, or ‘Death to spies’.
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 tags:
-  - Vigilantism
-Source Type: Book
-Source Name: Putin's Russia
-Source Topic: Putin's Russia
+  - Book
+Genre: Putin's Russia
+Author:
+  - "[[Anna Politkovskaya]]"
 ---
 
 --- Section 1 ---

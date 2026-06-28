@@ -1,16 +1,18 @@
 ---
 tags:
-  - Politics
-  - Vigilantism
-Source Type: Book
-Source Name: Battle for Spain 1936-1939
-Source Topic: Battle for Spain 1936-1939
+  - Book
+Genre: "[[Spanish Civil War]]"
+Author: "[[Antony Beevor]]"
 ---
+
 ---
+
 ## Section 2
 
 ## THE BATTLE FOR SPAIN
+
 ---
+
 ## Section 3
 
 ## Books by the same author
@@ -53,17 +55,17 @@ LONDON
 
 ## Section 6
 
-First published in Great Britain in 2006
+First published in Great Britain in 2006   
 by Weidenfeld & Nicolson
 
-An earlier version of this book was published by Orbis Publishing Ltd in 1982
+An earlier version of this book was published by Orbis Publishing Ltd in 1982   
 under the title The Spanish Civil War
 
 © Ocito Ltd 2006
 
 All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without the prior permission of both the copyright owner and the above publisher.
 
-The right of Antony Beevor to be identified as the author of this work has been asserted in accordance with the
+The right of Antony Beevor to be identified as the author of this work has been asserted in accordance with the   
 Copyright, Designs and Patents Act 1988.
 
 A CIP catalogue record for this book is available from the British Library.
@@ -74,9 +76,9 @@ The Orion Publishing Group’s policy is to use papers that are natural, renewab
 
 Weidenfeld & Nicolson
 
-The Orion Publishing Group Ltd
-Orion House
- 5 Upper Saint Martin’s Lane
+The Orion Publishing Group Ltd   
+Orion House  
+ 5 Upper Saint Martin’s Lane  
  London, WC2H 9EA
 
 www.orionbooks.co.uk
@@ -93,128 +95,128 @@ For Gonzalo Pontón with all my gratitude for all his help
 
 ## CONTENTS
 
-> [LIST OF ILLUSTRATIONS](part0007.html#filepos21360)
+> LIST OF ILLUSTRATIONS
 >
-> [MAPS](part0008.html#filepos29240)
+> MAPS
 >
-> [ACKNOWLEDGEMENTS](part0009.html#filepos30616)
+> ACKNOWLEDGEMENTS
 >
-> [INTRODUCTION](part0010.html#filepos34089)
+> INTRODUCTION
 >
-> [POLITICAL PARTIES, GROUPINGS AND ORGANIZATIONS](part0011.html#filepos44516)
+> POLITICAL PARTIES, GROUPINGS AND ORGANIZATIONS
 >
-> [INITIALS](part0012.html#filepos55311)
+> INITIALS
 
-[PART ONE:
- Old Spain and the Second Republic](part0013.html#filepos61786)
+[PART ONE:  
+ Old Spain and the Second Republic]
 
-[1 Their Most Catholic Majesties](part0015.html#filepos62147)
+1 Their Most Catholic Majesties
 
-[2  Royal Exit](part0016.html#filepos85187)
+2  Royal Exit
 
-[3  The Second Republic](part0017.html#filepos113768)
+3  The Second Republic
 
-[4  The Popular Front](part0018.html#filepos154925)
+4  The Popular Front
 
-[5  The Fatal Paradox](part0019.html#filepos183384)
+5  The Fatal Paradox
 
-[PART TWO:
- The War of Two Spains](part0020.html#filepos209329)
+[PART TWO:  
+ The War of Two Spains]
 
-[6  The Rising of the Generals](part0022.html#filepos209678)
+6  The Rising of the Generals
 
-[7  The Struggle for Control](part0023.html#filepos257891)
+7  The Struggle for Control
 
-[8  The Red Terror](part0024.html#filepos286211)
+8  The Red Terror
 
-[9  The White Terror](part0025.html#filepos307750)
+9  The White Terror
 
-[10  The Nationalist Zone](part0026.html#filepos329656)
+10  The Nationalist Zone
 
-[11  The Republican Zone](part0027.html#filepos350859)
+11  The Republican Zone
 
-[12  The Army of Africa and the People’s Militias](part0028.html#filepos388660)
+12  The Army of Africa and the People’s Militias
 
-[PHOTOGRAPHIC INSERT I](part0029.html#filepos426594)
+PHOTOGRAPHIC INSERT I
 
-[PART THREE:
- The Civil War Becomes International](part0048.html#filepos436326)
+[PART THREE:  
+ The Civil War Becomes International]
 
-[13  Arms and the Diplomats](part0050.html#filepos436691)
+13  Arms and the Diplomats
 
-[14  Sovereign States](part0051.html#filepos468231)
+14  Sovereign States
 
-[15  The Soviet Union and the Spanish Republic](part0052.html#filepos491620)
+15  The Soviet Union and the Spanish Republic
 
-[PHOTOGRAPHIC INSERT II](part0064.html#filepos798250)
+PHOTOGRAPHIC INSERT II
 
-[16  The International Brigades and the Soviet Advisers](part0053.html#filepos513071)
+16  The International Brigades and the Soviet Advisers
 
-[17  The Battle for Madrid](part0054.html#filepos540793)
+17  The Battle for Madrid
 
-[PART FOUR:
- World War by Proxy](part0055.html#filepos600701)
+[PART FOUR:  
+ World War by Proxy]
 
-[18  The Metamorphosis of the War](part0057.html#filepos601048)
+18  The Metamorphosis of the War
 
-[19  The Battles of the Jarama and Guadalajara](part0058.html#filepos658187)
+19  The Battles of the Jarama and Guadalajara
 
-[20  The War in the North](part0059.html#filepos702466)
+20  The War in the North
 
-[21  The Propaganda War and the Intellectuals](part0060.html#filepos752457)
+21  The Propaganda War and the Intellectuals
 
-[PART FIVE:
- Internal Tensions](part0061.html#filepos791127)
+[PART FIVE:  
+ Internal Tensions]
 
-[22  The Struggle for Power](part0063.html#filepos791473)
+22  The Struggle for Power
 
-[23  The Civil War within the Civil War](part0081.html#filepos825177)
+23  The Civil War within the Civil War
 
-[24  The Battle of Brunete](part0082.html#filepos859839)
+24  The Battle of Brunete
 
-[25  The Beleaguered Republic](part0083.html#filepos900586)
+25  The Beleaguered Republic
 
-[26  The War in Aragón](part0084.html#filepos919775)
+26  The War in Aragón
 
-[27  The Destruction of the Northern Front and of Republican Idealism](part0085.html#filepos939234)
+27  The Destruction of the Northern Front and of Republican Idealism
 
-[PART SIX:
- The Route to Disaster](part0086.html#filepos967157)
+[PART SIX:  
+ The Route to Disaster]
 
-[28  The Battle of Teruel and Franco’s ‘Victorious Sword’](part0088.html#filepos967506)
+28  The Battle of Teruel and Franco’s ‘Victorious Sword’
 
-[29  Hopes of Peace Destroyed](part0089.html#filepos1012568)
+29  Hopes of Peace Destroyed
 
-[30  Arriba España!](part0090.html#filepos1048908)
+30  Arriba España!
 
-[31  The Battle of the Ebro](part0091.html#filepos1075432)
+31  The Battle of the Ebro
 
-[32  The Republic in the European Crisis](part0092.html#filepos1107747)
+32  The Republic in the European Crisis
 
-[33  The Fall of Catalonia](part0093.html#filepos1139441)
+33  The Fall of Catalonia
 
-[PHOTOGRAPHIC INSERT III](part0094.html#filepos1176393)
+PHOTOGRAPHIC INSERT III
 
-[34  The Collapse of the Republic](part0112.html#filepos1183104)
+34  The Collapse of the Republic
 
-[PART SEVEN:
- Vae Victis!](part0113.html#filepos1225722)
+[PART SEVEN:  
+ Vae Victis!]
 
-[35  The New Spain and the Franquist Gulag](part0115.html#filepos1226063)
+35  The New Spain and the Franquist Gulag
 
-[36  The Exiles and the Second World War](part0116.html#filepos1251926)
+36  The Exiles and the Second World War
 
-[37  The Unfinished War](part0117.html#filepos1278858)
+37  The Unfinished War
 
-[38  Lost Causes](part0118.html#filepos1294685)
+38  Lost Causes
 
-> [BIBLIOGRAPHY](part0119.html#filepos1318524)
+> BIBLIOGRAPHY
 >
-> [SOURCES](part0120.html#filepos1402032)
+> SOURCES
 >
-> [NOTES](part0121.html#filepos1404921)
+> NOTES
 >
-> [INDEX](part0122.html#filepos1595117)
+> INDEX
 
 ---
 
@@ -6153,10 +6155,10 @@ CHAPTER 17: The Battle for Madrid
 
 29 BA-MA RL35/38.
 
-30 Venid a ver la sangre por las calles,
-venid a ver
-la sangre por las calles,
-venid a ver la sangre
+30 Venid a ver la sangre por las calles,   
+venid a ver   
+la sangre por las calles,   
+venid a ver la sangre   
 por las calles! ‘Explico algunas cosas’ in Poesía política, Santiago de Chile, 1953, I, p. 60.
 
 31 RGASPI 495/120/261, p. 14.
