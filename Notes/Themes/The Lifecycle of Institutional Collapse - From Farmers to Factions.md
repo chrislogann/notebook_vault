@@ -1,6 +1,8 @@
 ---
 tags:
   - Politics
+Source Type: NotebookLM
+Source Name: The Birth of Kansas
 Source Topic: Theming
 ---
 ### Overview

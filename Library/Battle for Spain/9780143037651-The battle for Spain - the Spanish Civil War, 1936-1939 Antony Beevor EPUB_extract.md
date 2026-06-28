@@ -3,6 +3,7 @@ tags:
   - Politics
   - Vigilantism
 Source Type: Book
+Source Name: Battle for Spain 1936-1939
 Source Topic: Battle for Spain 1936-1939
 ---
 ---

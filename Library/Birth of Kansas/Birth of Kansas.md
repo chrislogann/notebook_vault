@@ -3,6 +3,7 @@ tags:
   - Politics
   - Vigilantism
 Source Type: Book
+Source Name: The Birth of Kansas
 Source Topic: The Birth of Kansas
 ---
 

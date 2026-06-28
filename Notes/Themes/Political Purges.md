@@ -1,6 +1,8 @@
 ---
 tags:
   - Politics
+Source Type: AI
+Source Name: Gemini 3.1 Flash Lite
 Source Topic: Theming
 ---
 [[The Ideological Marginalization of the Falangist 'Old Shirts']]
