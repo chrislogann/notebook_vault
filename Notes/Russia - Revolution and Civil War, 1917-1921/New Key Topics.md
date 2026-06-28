@@ -2,11 +2,11 @@
 tags:
   - Politics
   - Military
+  - Status/wip
 Source Type: AI
 Source Name: Gemini 3.1 Flash Lite
 Source Topic: Russia - Revolution and Civil War, 1917-1921
 ---
-[[9780375424588-Twelve Days - The Story of the 1956 Hungarian Revolution Victor Sebestyen, Victor Sebestyen PDF_extract]]
 
 Based on the content of [[9780593493878-Russia - Revolution and Civil War, 1917-1921 Antony Beevor EPUB_extract]], you should prepare to explore several complex historical and political topics that extend beyond the themes in your current vault. 
 

@@ -5,8 +5,6 @@ Source Type: AI
 Source Name: Gemini 3.1 Flash Lite
 Source Topic: Theming
 ---
-[[The Ideological Marginalization of the Falangist 'Old Shirts']]
-
 The marginalization of the Falangist "Old Shirts" in Spain and the political purging associated with General James H. Lane in Kansas share a common structural dynamic: the **subordination of revolutionary or grassroots idealism to the consolidation of absolute power by a centralizing authority.**
 
 In both cases, the initial movement—which relied on radical, populist, or "common" energy—was systematically dismantled or co-opted by a leader who viewed that original energy as a threat to their own control.
