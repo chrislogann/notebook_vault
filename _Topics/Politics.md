@@ -3,7 +3,7 @@ tags:
   - topic
 ---
 [[Foreign Actors]]
-[[The Lifecycle of Institutional Collapse - From Farmers to Factions]]
+[[Political Lifecycle]]
 [[Propaganda]]
 [[Politicized Intelligence]]
 [[Political Science]]

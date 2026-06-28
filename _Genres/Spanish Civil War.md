@@ -1,5 +1,5 @@
 ---
 tags:
-  - topic
+  - genre
   - Status/wip
 ---

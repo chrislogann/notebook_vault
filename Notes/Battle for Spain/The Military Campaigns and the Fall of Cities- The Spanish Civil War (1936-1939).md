@@ -3,11 +3,10 @@ tags:
   - NotebookLM
   - Note
 Topic:
-  - "[[Military]]"
 Genre:
   - "[[Spanish Civil War]]"
 Source Name:
-  - "[[The Battle for Spain: The Spanish Civil War 1936-1939]]"
+  - "[[The Battle for Spain - The Spanish Civil War 1936-1939]]"
 ---
 [[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]
 

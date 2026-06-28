@@ -3,13 +3,13 @@ tags:
   - NotebookLM
   - Note
 Topic:
-  - "[[The Lifecycle of Institutional Collapse - From Farmers to Factions]]"
+  - "[[Political Lifecycle]]"
   - "[[Statecraft]]"
 Genre:
-  - "[[Kansas]]"
+  - "[[Early Kansas]]"
 Source Name: The Birth of Kansas
 ---
-[[Birth of Kansas]]
+[[notebook_vault/Library/Birth of Kansas/Birth of Kansas]]
 [[Kansas_Political_Cycle_1859-1863.png]]
 [[Kansas_Statecraft__Idealism_to_Instability.png]]
 

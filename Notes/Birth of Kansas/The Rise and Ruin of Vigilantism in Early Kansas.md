@@ -5,11 +5,11 @@ tags:
 Topic:
   - "[[Vigilantism Across History]]"
 Genre:
-  - "[[Kansas]]"
+  - "[[Early Kansas]]"
 Source Name:
   - "[[Analysis of Spain and Kansas]]"
 ---
-[[Birth of Kansas]]
+[[notebook_vault/Library/Birth of Kansas/Birth of Kansas]]
 
 During its turbulent territorial and early statehood periods, Kansas was consumed by political and social chaos that severely undermined the established legal system. This breakdown of law and order gave rise to widespread vigilantism, led by men who took the law into their own hands. These irregular fighters were commonly called **"Jayhawkers,"** while the active abolitionist leaders of these groups preferred to call themselves **"Vigilantes"**.
 

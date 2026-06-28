@@ -1,7 +1,7 @@
 ---
 tags:
   - Book
-Genre: "[[Kansas]]"
+Genre: "[[Early Kansas]]"
 Author: "[[Raymond Gaeddert]]"
 ---
 

@@ -15,7 +15,7 @@ The following notes from your vault offer valuable comparative frameworks that w
 
 ### 1. Understanding Institutional Collapse and Factionalism
 The Russian Revolution was defined by the rapid disintegration of state authority and the subsequent struggle for power. These notes provide a theoretical model for how new governments often fail:
-- [[The Lifecycle of Institutional Collapse - From Farmers to Factions]]: This note outlines the predictable trajectory from grassroots idealism to institutional corruption and administrative paralysis. It is highly relevant to the "Power Vacuum" and "Dual-Power" structure mentioned in the Beevor extract.
+- [[Political Lifecycle]]: This note outlines the predictable trajectory from grassroots idealism to institutional corruption and administrative paralysis. It is highly relevant to the "Power Vacuum" and "Dual-Power" structure mentioned in the Beevor extract.
 - [[Spanish Factionalism]]: This note compares the Spanish Republic’s "cauldron of incompatibilities" to the same cycle of collapse. It highlights how internal tribalism—similar to the Bolsheviks vs. Provisional Government struggle—can leave a state vulnerable to external exploitation and totalizing violence.
 - [[Vigilantism Across History]]
 
@@ -34,4 +34,4 @@ The Beevor extract notes that the Bolsheviks viewed civil war as a necessary too
 - [[The Era of Lynch Law - State-Sanctioned Vigilantism in Putin's Russia]]: This note explores how the Russian state has historically utilized arbitrary retaliation and "lynch law" as a structural pillar of society, offering a long-term perspective on the culture of impunity that began with the Cheka.
 - [[Vigilantism Across History]]
 
-**Recommendation:** Start with [[The Lifecycle of Institutional Collapse - From Farmers to Factions]] to establish a mental model of how the Russian state fell, then move to [[The Role of Vigilantism in the Spanish Civil War]] to understand the brutal reality of the "Red Terror" that followed.
+**Recommendation:** Start with [[Political Lifecycle]] to establish a mental model of how the Russian state fell, then move to [[The Role of Vigilantism in the Spanish Civil War]] to understand the brutal reality of the "Red Terror" that followed.

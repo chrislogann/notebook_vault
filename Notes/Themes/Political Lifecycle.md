@@ -5,7 +5,6 @@ tags:
   - Status/wip
 Topic:
   - "[[Politics]]"
-  - "[[Vigilantism Across History]]"
   - "[[Idealism]]"
   - "[[Corruption]]"
 Genre:

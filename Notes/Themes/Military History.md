@@ -1,8 +1,9 @@
 ---
 tags:
-  - Note
+  - Theme
   - Status/wip
 Topic:
+  - "[[Military]]"
 Genre:
 Source Name:
 ---

@@ -3,7 +3,7 @@ tags:
   - AI
   - Theme
 Topic:
-  - "[[The Lifecycle of Institutional Collapse - From Farmers to Factions]]"
+  - "[[Political Lifecycle]]"
 Genre:
 Source Name:
   - "[[Gemini 3.1 Flash Lite]]"

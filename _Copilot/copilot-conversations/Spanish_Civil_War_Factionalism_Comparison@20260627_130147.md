@@ -71,7 +71,7 @@ The ultimate consequence of this political tribalism is the complete paralysis o
 This high-level cycle demonstrates that without the continuous maintenance of political trust and a vigilant check on personal ambition, the effectiveness of any new government will inevitably deteriorate into factional instability and institutional collapse. The Spanish Civil War serves as a tragic validation of this model, proving that when a state is hollowed out by internal tribalism, it loses the capacity to defend its own existence.
 [Timestamp: 2026/06/27 13:20:33]
 
-**user**: Who did non-state actors influence domestic life for [[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]  and [[Birth of Kansas]] ?
+**user**: Who did non-state actors influence domestic life for [[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]  and [[notebook_vault/Library/Birth of Kansas/Birth of Kansas]] ?
 [Context: Notes: notebook_vault/Library/Battle for Spain/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract.txt.md, notebook_vault/Library/Birth of Kansas/Birth of Kansas.md]
 [Timestamp: 2026/06/27 16:13:51]
 
