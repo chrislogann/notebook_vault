@@ -1,1 +1,7 @@
-{}
+{
+  "userIgnoreFilters": [
+    "_Copilot/",
+    "_Templates/"
+  ],
+  "alwaysUpdateLinks": true
+}
