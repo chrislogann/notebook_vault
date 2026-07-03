@@ -1,0 +1,21 @@
+---
+tags:
+  - genre
+  - NotebookLM
+  - Status/wip
+Source Name:
+  - "[[Sid Meier's Civilization Manual 20260621]]"
+---
+- **[[American Military Doctrine.pdf]]**
+- **[[China Military Doctrine.pdf]]**
+- **[[Iran Military Doctrine.pdf]]**
+- **[[Israel Military Doctrine.pdf]]**
+- **[[Russian War Doctrine.pdf]]**
+- **[[Sid-Meiers-Civilization_Manual_Win-3x_EN.pdf]]**
+- **[[Computational thinking - KS3 Computer Science - BBC Bitesize]]**
+- **[[What is abstraction - Abstraction - KS3 Computer Science Revision - BBC Bitesize]]**
+- **[[What is an algorithm - Algorithms - KS3 Computer Science Revision - BBC Bitesize]]**
+- **[[What is computational thinking - Introduction to computational thinking - KS3 Computer Science Revision - BBC Bitesize]]**
+- **[[What is decomposition - Decomposition - KS3 Computer Science Revision - BBC Bitesize]]**
+- **[[What is evaluation - Evaluating solutions - KS3 Computer Science Revision - BBC Bitesize]]**
+- **[[What is pattern recognition - Pattern recognition - KS3 Computer Science Revision - BBC Bitesize]]**
