@@ -5,8 +5,10 @@ tags:
 Topic:
   - "[[Gaming]]"
   - "[[Military Tactics]]"
+  - "[[Cognition]]"
 Genre:
   - "[[Sid Meier's Civilization 1]]"
+  - "[[Computational Thinking]]"
 Source Name:
   - "[[Sid Meier's Civilization Manual 20260621]]"
 ---

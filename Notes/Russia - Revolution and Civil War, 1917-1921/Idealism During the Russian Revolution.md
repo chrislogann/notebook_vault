@@ -2,9 +2,9 @@
 tags:
   - Note
   - NotebookLM
-  - Status/wip
 Topic:
   - "[[notebook_vault/Notes/Themes/Idealism]]"
+  - "[[Civic Duty]]"
 Genre:
   - "[[Russia - Revolution and Civil War, 1917-1921]]"
 Source Name:

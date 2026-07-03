@@ -1,7 +1,6 @@
 ---
 tags:
   - Note
-  - Status/wip
 Topic:
   - "[[Realism]]"
 Genre:

@@ -1,0 +1,33 @@
+---
+tags:
+  - NotebookLM
+---
+- **[[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract.md]]**
+- **[[9780375424588-Twelve Days - The Story of the 1956 Hungarian Revolution Victor Sebestyen, Victor Sebestyen PDF_extract.md]]**
+- **[[9780593493878-Russia - Revolution and Civil War, 1917-1921 Antony Beevor EPUB_extract.md]]**
+- **[[9780805082500-Putin's Russia - life in a failing democracy Anna Politkovskaya EPUB_extract.txt.md]]**
+- **[[Analysis of Spain and Kansas 20260627.md]]**
+- **[[Analysis of The Birth of Kansas 20260623.md]]**
+- **[[Birth of Kansas.md]]**
+- **[[Business Interests in Politics.md]]**
+- **[[Business.md]]**
+- **[[Civic Duty.md]]**
+- **[[Foreign Actors.md]]**
+- **[[General Francisco Franco’s Consolidation of Absolute Power (1936–1939).md]]**
+- **[[Idealism.md]]**
+- **[[Intelligence Community.md]]**
+- **[[Journalism.md]]**
+- **[[Judicial System.md]]**
+- **[[Mythology.md]]**
+- **[[New Key Topics.md]]**
+- **[[Obsidian Notes Books Business and Politics 20260701.md]]**
+- **[[Obsidian Notes Books Idealism, Realism, and the Political Cycle 20260701.md]]**
+- **[[Obsidian Notes Political Science 20260703.md]]**
+- **[[Political Lifecycle.md]]**
+- **[[Political Purges.md]]**
+- **[[Political Science.md]]**
+- **[[Politicized Intelligence.md]]**
+- **[[Politics.md]]**
+- **[[Propaganda.md]]**
+- **[[Realism.md]]**
+- **[[Statecraft.md]]**
