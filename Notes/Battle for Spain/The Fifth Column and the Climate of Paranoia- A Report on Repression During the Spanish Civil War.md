@@ -5,7 +5,7 @@ tags:
 Topic:
   - "[[Political Purges]]"
 Genre:
-  - "[[The Battle for Spain - The Spanish Civil War 1936-1939]]"
+  - "[[Spanish Civil War]]"
 Source Name:
   - "[[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]"
 ---

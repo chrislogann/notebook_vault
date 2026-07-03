@@ -6,7 +6,7 @@ tags:
 Topic:
   - "[[Politics]]"
   - "[[Idealism]]"
-  - "[[Corruption]]"
+  - "[[Materialism]]"
 Genre:
 Source Name:
   - "[[The Birth of Kansas]]"

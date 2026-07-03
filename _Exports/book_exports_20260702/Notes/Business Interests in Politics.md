@@ -3,8 +3,7 @@ tags:
   - Status/wip
   - Theme
 Topic:
-  - "[[Politics]]"
 Genre:
 Source Name:
 ---
-[[Mythology]]
+[[Iron Rails and Political Reins in Early Kansas]]

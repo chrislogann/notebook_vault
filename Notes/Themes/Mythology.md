@@ -1,10 +1,8 @@
 ---
 tags:
-  - Status/wip
   - Theme
+  - Status/wip
 Topic:
-  - "[[Politics]]"
 Genre:
 Source Name:
 ---
-[[Mythology]]
