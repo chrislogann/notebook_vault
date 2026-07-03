@@ -4,7 +4,7 @@ tags:
   - Theme
   - Status/wip
 Topic:
-  - "[[Politics]]"
+  - "[[notebook_vault/_Exports/book_exports_20260702/Political Cycle/Politics]]"
   - "[[notebook_vault/_Exports/book_exports_20260702/Political Cycle/Idealism]]"
   - "[[Materialism]]"
 Genre:

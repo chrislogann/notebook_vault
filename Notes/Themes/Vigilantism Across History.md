@@ -6,7 +6,7 @@ Topic:
   - "[[Vigilantism Across History]]"
 Genre:
 Source Name:
-  - "[[Vigilantism Across History]]"
+  - "[[Vigilantism Across History 20260627]]"
 ---
 [[Four_Models_of_Extralegal_Justice.png]]
 

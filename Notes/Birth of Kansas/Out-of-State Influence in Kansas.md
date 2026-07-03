@@ -3,14 +3,12 @@ tags:
   - NotebookLM
   - Note
 Topic:
-  - "[[Foreign Actors]]"
+  - "[[notebook_vault/Notes/Themes/Foreign Actors]]"
 Genre:
   - "[[Early Kansas]]"
 Source Name:
-  - "[[Foreign Intervention in Spain and Kansas]]"
+  - "[[Analysis of Spain and Kansas 20260627]]"
 ---
-[[notebook_vault/Library/Birth of Kansas/Birth of Kansas]]
-
 Out-of-state actors played a pivotal role in the early political, military, and economic development of Kansas. Just as foreign powers used Spain as a battleground, external forces—ranging from Missouri border ruffians to Eastern politicians and financiers—used Kansas as a proxy to fight national battles over slavery, political dominance, and economic exploitation.
 
 **Border Warfare and Southern Secessionists** The proximity of Missouri, a slave state, led to constant cross-border violence. **"Border Ruffians"** from Missouri, such as Sheriff Jones, clashed repeatedly with Free-State "Jayhawkers" over land claims and the enforcement of the Fugitive Slave Law. When the Civil War began, this guerrilla warfare escalated. Missouri's Governor C. F. Jackson virtually declared war on the U.S. government, prompting Kansas Governor Charles Robinson to prepare the state for invasion. Confederate forces, including those under General Price, threatened to "wipe Kansas off the map," while notorious raiders like Quantrill sacked Kansas towns, including Olathe, Shawnee, and Lawrence, murdering citizens and looting property. Furthermore, the Confederate government actively encouraged Indian tribes (such as the Cherokees, Creeks, and Seminoles) to attack Kansas settlers with the promise of restoring their lands.

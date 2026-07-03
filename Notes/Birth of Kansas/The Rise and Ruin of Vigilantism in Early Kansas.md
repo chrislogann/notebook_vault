@@ -7,7 +7,7 @@ Topic:
 Genre:
   - "[[Early Kansas]]"
 Source Name:
-  - "[[Analysis of Spain and Kansas]]"
+  - "[[Analysis of Spain and Kansas 20260627]]"
 ---
 [[notebook_vault/Library/Birth of Kansas/Birth of Kansas]]
 

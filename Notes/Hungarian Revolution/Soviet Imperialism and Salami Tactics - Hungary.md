@@ -3,8 +3,8 @@ tags:
   - Note
   - NotebookLM
 Topic:
-  - "[[Business Interests in Politics]]"
-  - "[[Foreign Actors]]"
+  - "[[notebook_vault/Notes/Themes/Business Interests in Politics]]"
+  - "[[notebook_vault/Notes/Themes/Foreign Actors]]"
 Genre:
   - "[[Hungarian Revolution]]"
 Source Name:

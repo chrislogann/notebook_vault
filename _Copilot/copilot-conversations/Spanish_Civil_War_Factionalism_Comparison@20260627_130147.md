@@ -9,11 +9,11 @@ tags:
   - copilot-conversation
 ---
 
-**user**: [[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]] [[Farmers to Factions]] Reflect how Spain compare to the source Farmers to Faction
+**user**: [[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]] [[Farmers to Factions]] Reflect how Spain compare to the source Farmers to Faction
 [Context: Notes: notebook_vault/Library/Battle for Spain/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract.txt.md, notebook_vault/Notes/Themes/The Lifecycle of Institutional Collapse - From Farmers to Factions.md]
 [Timestamp: 2026/06/27 13:01:47]
 
-**ai**: The historical trajectory of the Spanish Second Republic, as detailed in [[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]], provides a striking real-world parallel to the theoretical cycle of institutional collapse described in [[Farmers to Factions]].
+**ai**: The historical trajectory of the Spanish Second Republic, as detailed in [[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]], provides a striking real-world parallel to the theoretical cycle of institutional collapse described in [[Farmers to Factions]].
 
 The comparison can be broken down across the phases of the "Farmers to Factions" model:
 
@@ -36,7 +36,7 @@ The "Farmers to Factions" model posits that when a government is consumed by par
 The Spanish Civil War serves as a tragic validation of the "Farmers to Factions" cycle. The Republic began with the noble intent of establishing a new, representative state, but it was quickly hollowed out by internal tribalism. By the time the military coup occurred in July 1936, the state was already so fractured by factionalism that it could not effectively defend its own existence, ultimately leading to the "administrative collapse" and the totalizing violence that the model warns against.
 [Timestamp: 2026/06/27 13:02:19]
 
-**user**: Revise [[Farmers to Factions]] according to [[Spanish Factionalism]] [[Kansas Impeachments]] 
+**user**: Revise [[Farmers to Factions]] according to [[notebook_vault/Notes/Battle for Spain/Spanish Factionalism]] [[Kansas Impeachments]] 
 [Context: Notes: notebook_vault/Notes/Themes/The Lifecycle of Institutional Collapse - From Farmers to Factions.md, notebook_vault/Notes/Battle for Spain/Spanish Factionalism.md]
 [Timestamp: 2026/06/27 13:17:30]
 
@@ -71,7 +71,7 @@ The ultimate consequence of this political tribalism is the complete paralysis o
 This high-level cycle demonstrates that without the continuous maintenance of political trust and a vigilant check on personal ambition, the effectiveness of any new government will inevitably deteriorate into factional instability and institutional collapse. The Spanish Civil War serves as a tragic validation of this model, proving that when a state is hollowed out by internal tribalism, it loses the capacity to defend its own existence.
 [Timestamp: 2026/06/27 13:20:33]
 
-**user**: Who did non-state actors influence domestic life for [[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]  and [[notebook_vault/Library/Birth of Kansas/Birth of Kansas]] ?
+**user**: Who did non-state actors influence domestic life for [[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]  and [[notebook_vault/Library/Birth of Kansas/Birth of Kansas]] ?
 [Context: Notes: notebook_vault/Library/Battle for Spain/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract.txt.md, notebook_vault/Library/Birth of Kansas/Birth of Kansas.md]
 [Timestamp: 2026/06/27 16:13:51]
 

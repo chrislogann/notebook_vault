@@ -2,8 +2,8 @@
 tags:
   - Theme
 Topic:
-  - "[[Business Interests in Politics]]"
-  - "[[Foreign Actors]]"
+  - "[[notebook_vault/Notes/Themes/Business Interests in Politics]]"
+  - "[[notebook_vault/Notes/Themes/Foreign Actors]]"
   - "[[notebook_vault/_Topics/Business|Business]]"
 Genre:
 Source Name:

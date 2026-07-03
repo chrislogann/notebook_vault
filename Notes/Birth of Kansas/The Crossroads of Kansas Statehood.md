@@ -3,7 +3,7 @@ tags:
   - NotebookLM
   - Note
 Topic:
-  - "[[Statecraft]]"
+  - "[[notebook_vault/Notes/Themes/Statecraft]]"
 Genre:
   - "[[Early Kansas]]"
 Source Name:

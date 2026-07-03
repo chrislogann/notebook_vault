@@ -9,7 +9,7 @@ tags:
   - copilot-conversation
 ---
 
-**user**: Merge the ideas from[[Corporate Capture of Statecraft - Railroads in Early Kansas]]and [[Iron Rails and Political Reins in Early Kansas]]
+**user**: Merge the ideas from[[Corporate Capture of Statecraft - Railroads in Early Kansas]]and [[notebook_vault/Notes/Birth of Kansas/Iron Rails and Political Reins in Early Kansas]]
 [Context: Notes: notebook_vault/Notes/Birth of Kansas/Corporate Capture of Statecraft - Railroads in Early Kansas.md, notebook_vault/Notes/Birth of Kansas/Iron Rails and Political Reins in Early Kansas.md]
 [Timestamp: 2026/07/02 18:41:49]
 
@@ -22,11 +22,11 @@ tags:
 Please retry in 59.704789055s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-3.1-pro","location":"global"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-3.1-pro","location":"global"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"model":"gemini-3.1-pro","location":"global"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerDay-FreeTier","quotaDimensions":{"model":"gemini-3.1-pro","location":"global"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"59s"}]</errorChunk>
 [Timestamp: 2026/07/02 18:42:00]
 
-**user**: Merge the ideas from[[Corporate Capture of Statecraft - Railroads in Early Kansas]]and [[Iron Rails and Political Reins in Early Kansas]]\
+**user**: Merge the ideas from[[Corporate Capture of Statecraft - Railroads in Early Kansas]]and [[notebook_vault/Notes/Birth of Kansas/Iron Rails and Political Reins in Early Kansas]]\
 [Context: Notes: notebook_vault/Notes/Birth of Kansas/Corporate Capture of Statecraft - Railroads in Early Kansas.md, notebook_vault/Notes/Birth of Kansas/Iron Rails and Political Reins in Early Kansas.md]
 [Timestamp: 2026/07/02 18:42:10]
 
-**ai**: The notes [[Corporate Capture of Statecraft - Railroads in Early Kansas]] and [[Iron Rails and Political Reins in Early Kansas]] provide a consistent account of how railroad interests dominated the political landscape of early Kansas. By merging these perspectives, we can synthesize the following overview of that era:
+**ai**: The notes [[Corporate Capture of Statecraft - Railroads in Early Kansas]] and [[notebook_vault/Notes/Birth of Kansas/Iron Rails and Political Reins in Early Kansas]] provide a consistent account of how railroad interests dominated the political landscape of early Kansas. By merging these perspectives, we can synthesize the following overview of that era:
 
 ### The Symbiosis of Corporate and Political Power
 In early Kansas, the line between public service and private corporate interest was effectively erased. Politicians were not merely influenced by railroad companies; they were often the primary architects and directors of those same corporations. 

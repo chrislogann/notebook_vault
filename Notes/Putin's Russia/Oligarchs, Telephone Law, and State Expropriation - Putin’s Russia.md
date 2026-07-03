@@ -3,7 +3,7 @@ tags:
   - Note
   - NotebookLM
 Topic:
-  - "[[Business Interests in Politics]]"
+  - "[[notebook_vault/Notes/Themes/Business Interests in Politics]]"
 Genre:
   - Putin's Russia
 Source Name:

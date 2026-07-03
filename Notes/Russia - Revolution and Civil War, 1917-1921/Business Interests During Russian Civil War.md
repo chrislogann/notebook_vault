@@ -3,11 +3,11 @@ tags:
   - Note
   - AI
 Topic:
-  - "[[Business Interests in Politics]]"
+  - "[[notebook_vault/Notes/Themes/Business Interests in Politics]]"
   - "[[Intelligence Community]]"
   - "[[Military]]"
   - "[[Vigilantism Across History]]"
-  - "[[Propaganda]]"
+  - "[[notebook_vault/Notes/Themes/Propaganda]]"
   - "[[Mythology]]"
 Genre:
   - "[[Russia - Revolution and Civil War, 1917-1921]]"

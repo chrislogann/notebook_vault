@@ -3,13 +3,13 @@ tags:
   - AI
   - Note
 Topic:
-  - "[[Political Lifecycle]]"
+  - "[[notebook_vault/Notes/Themes/Political Lifecycle]]"
 Genre:
   - "[[Spanish Civil War]]"
 Source Name:
   - "[[Gemini 3.1 Flash Lite]]"
 ---
-The historical trajectory of the Spanish Second Republic, as detailed in [[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]], provides a striking real-world parallel to the theoretical cycle of institutional collapse described in [[Political Lifecycle]].
+The historical trajectory of the Spanish Second Republic, as detailed in [[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]], provides a striking real-world parallel to the theoretical cycle of institutional collapse described in [[notebook_vault/Notes/Themes/Political Lifecycle]].
 
 The comparison can be broken down across the phases of the "Farmers to Factions" model:
 

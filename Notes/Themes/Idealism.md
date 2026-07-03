@@ -3,7 +3,7 @@ tags:
   - Theme
   - Status/wip
 Topic:
-  - "[[Political Lifecycle]]"
+  - "[[notebook_vault/Notes/Themes/Political Lifecycle]]"
 Genre:
 Source Name:
 ---

@@ -2,4 +2,4 @@
 tags:
   - topic
 ---
-[[Business Interests in Politics]]
+[[notebook_vault/Notes/Themes/Business Interests in Politics]]

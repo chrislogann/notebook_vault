@@ -3,8 +3,8 @@ tags:
   - NotebookLM
   - Note
 Topic:
-  - "[[Political Lifecycle]]"
-  - "[[Statecraft]]"
+  - "[[notebook_vault/Notes/Themes/Political Lifecycle]]"
+  - "[[notebook_vault/Notes/Themes/Statecraft]]"
 Genre:
   - "[[Early Kansas]]"
 Source Name: The Birth of Kansas

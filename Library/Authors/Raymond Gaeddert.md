@@ -4,9 +4,9 @@ tags:
   - AI
 Source Name: "[[Gemini 3.1 Flash Lite]]"
 ---
-[[Birth of Kansas]]
+[[notebook_vault/Library/Birth of Kansas/Birth of Kansas]]
 
-Based on the notes in your vault, **Raymond Gaeddert** is the author of the work titled **[[Birth of Kansas]]**.
+Based on the notes in your vault, **Raymond Gaeddert** is the author of the work titled **[[notebook_vault/Library/Birth of Kansas/Birth of Kansas]]**.
 
 This book serves as a primary source for your research into the early political and social history of Kansas. Specifically, your notes utilize Gaeddert's work to analyze:
 

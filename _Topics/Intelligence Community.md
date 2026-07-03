@@ -2,4 +2,4 @@
 tags:
   - topic
 ---
-[[Politicized Intelligence]]
+[[notebook_vault/Notes/Themes/Politicized Intelligence]]

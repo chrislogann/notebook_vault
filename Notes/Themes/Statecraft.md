@@ -3,7 +3,7 @@ tags:
   - Status/wip
   - Theme
 Topic:
-  - "[[Politics]]"
+  - "[[notebook_vault/_Topics/Politics]]"
 Genre:
 Source Name:
 ---

@@ -1,0 +1,11 @@
+---
+tags:
+  - NotebookLM
+---
+- [[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract|9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]
+- [[notebook_vault/Library/Hungarian Revolution/9780375424588-Twelve Days - The Story of the 1956 Hungarian Revolution Victor Sebestyen, Victor Sebestyen PDF_extract]]
+- [[notebook_vault/Library/Putin's Russia/9780805082500-Putin's Russia - life in a failing democracy Anna Politkovskaya EPUB_extract.txt]]
+- [[notebook_vault/Library/Birth of Kansas/Birth of Kansas]]
+- [[The Fury of the Streets - Vigilantism and Mob Justice in the 1956 Hungarian Revolution.md]]
+- [[The Rise and Ruin of Vigilantism in Early Kansas.md]]
+- [[The Role of Vigilantism in the Spanish Civil War.md]]

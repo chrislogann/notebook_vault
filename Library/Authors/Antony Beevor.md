@@ -4,16 +4,16 @@ tags:
   - AI
 Source Name: "[[Gemini 3.1 Flash Lite]]"
 ---
-[[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]
+[[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]
 
-[[9780593493878-Russia - Revolution and Civil War, 1917-1921 Antony Beevor EPUB_extract]]
+[[notebook_vault/_Exports/book_exports_20260702/9780593493878-Russia - Revolution and Civil War, 1917-1921 Antony Beevor EPUB_extract]]
 
 Antony Beevor is a renowned British military historian and author, widely recognized for his detailed and narrative-driven accounts of major 20th-century conflicts. His work is characterized by a deep focus on the human experience of war, often blending high-level strategic analysis with the personal accounts of soldiers and civilians.
 
 Based on the notes in your vault, his work is central to your research on the mechanics of state collapse, ideological conflict, and military history. Specifically, your vault references two of his major works:
 
-- **[[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]:** This work serves as a primary source for your analysis of the Spanish Civil War. It provides the framework for your understanding of the "cauldron of incompatibilities" within the Republic, the nature of the "Red" and "White" terror, and the strategic consolidation of power by General Francisco Franco.
-- **[[9780593493878-Russia - Revolution and Civil War, 1917-1921 Antony Beevor EPUB_extract]]:** This text is a key reference for your research into the Russian Revolution. It provides the historical basis for your study of the "mechanics of military disintegration," the institutionalization of terror through the Cheka, and the transition from "Dual Power" to a one-party state.
+- **[[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]:** This work serves as a primary source for your analysis of the Spanish Civil War. It provides the framework for your understanding of the "cauldron of incompatibilities" within the Republic, the nature of the "Red" and "White" terror, and the strategic consolidation of power by General Francisco Franco.
+- **[[notebook_vault/_Exports/book_exports_20260702/9780593493878-Russia - Revolution and Civil War, 1917-1921 Antony Beevor EPUB_extract]]:** This text is a key reference for your research into the Russian Revolution. It provides the historical basis for your study of the "mechanics of military disintegration," the institutionalization of terror through the Cheka, and the transition from "Dual Power" to a one-party state.
 
 In your research, Beevor’s writing is used to:
 - **Provide Comparative Frameworks:** His analysis of the Spanish Civil War is frequently used to contrast with the Russian Revolution, helping you identify patterns in how states collapse and how ideological terror is institutionalized.

@@ -4,6 +4,7 @@ tags:
   - NotebookLM
 Topic:
   - "[[notebook_vault/Notes/Themes/Idealism]]"
+  - "[[Civic Duty]]"
 Genre:
   - "[[Early Kansas]]"
 Source Name:

@@ -3,13 +3,13 @@ tags:
   - NotebookLM
   - Note
 Topic:
-  - "[[Political Purges]]"
+  - "[[notebook_vault/Notes/Themes/Political Purges]]"
 Genre:
   - "[[Spanish Civil War]]"
 Source Name:
-  - "[[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]"
+  - "[[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]"
 ---
-[[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]
+[[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]
 ### 1. Introduction: The Internal Front
 
 The Spanish Civil War was characterized by Antoine de Saint-Exupéry not merely as a conventional military conflict, but as a "sickness" where "the enemy is within" and "one fights almost against oneself." This psychological landscape was forged by an extreme polarization between "reds" and "whites," a process where ideologies stripped opponents of both their humanity and their citizenship. In this internationalized civil war, the domestic front became a theater of Manichaean propaganda that manipulated apocalyptic images of the enemy, overriding normal human instincts and turning brothers into "faceless strangers."

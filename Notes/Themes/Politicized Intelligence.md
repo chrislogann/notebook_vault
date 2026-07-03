@@ -3,7 +3,7 @@ tags:
   - Status/wip
   - Theme
 Topic:
-  - "[[Politics]]"
+  - "[[notebook_vault/_Topics/Politics]]"
   - "[[Intelligence Community]]"
 Genre:
 Source Name:

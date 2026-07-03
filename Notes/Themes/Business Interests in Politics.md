@@ -3,7 +3,7 @@ tags:
   - Theme
   - NotebookLM
 Topic:
-  - "[[Business Interests in Politics]]"
+  - "[[notebook_vault/Notes/Themes/Business Interests in Politics]]"
   - "[[notebook_vault/_Topics/Business|Business]]"
 Genre:
 Source Name:

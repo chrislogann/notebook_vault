@@ -6,9 +6,9 @@ Topic:
 Genre:
   - "[[Spanish Civil War]]"
 Source Name:
-  - "[[The Battle for Spain - The Spanish Civil War 1936-1939]]"
+  - "[[The Battle for Spain - The Spanish Civil War 1936-1939 Analysis 20260601]]"
 ---
-[[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]
+[[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]
 
 Here is a detailed report elaborating on the major military operations in Aragón and the stark contrast between the two battles for Barcelona, drawing on the sources provided.
 

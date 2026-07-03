@@ -9,7 +9,7 @@ tags:
   - copilot-conversation
 ---
 
-**user**: How did out-of-state actors influence [[notebook_vault/Library/Birth of Kansas/Birth of Kansas]] and [[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]] ?
+**user**: How did out-of-state actors influence [[notebook_vault/Library/Birth of Kansas/Birth of Kansas]] and [[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]] ?
 [Context: Notes: notebook_vault/Library/Birth of Kansas/Birth of Kansas.md, notebook_vault/Library/Battle for Spain/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract.txt.md]
 [Timestamp: 2026/06/27 16:15:31]
 
@@ -19,7 +19,7 @@ tags:
 Please retry in 9.351125851s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-3.1-flash-lite"},"quotaValue":"250000"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"9s"}]</errorChunk>
 [Timestamp: 2026/06/27 16:15:50]
 
-**user**: How did out-of-state actors influence [[notebook_vault/Library/Birth of Kansas/Birth of Kansas]] and [[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]] ?
+**user**: How did out-of-state actors influence [[notebook_vault/Library/Birth of Kansas/Birth of Kansas]] and [[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]] ?
 [Context: Notes: notebook_vault/Library/Battle for Spain/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract.txt.md, notebook_vault/Library/Birth of Kansas/Birth of Kansas.md]
 [Timestamp: 2026/06/27 16:20:34]
 
@@ -32,7 +32,7 @@ In the context of the establishment of the Kansas state government (1859–1863)
 - **The "Bond Swindle":** This was a major scandal involving the sale of state bonds to the federal government. State officers sold these bonds at 85 cents on the dollar, but were only required to account for 60 cents, with the difference being pocketed by R.S. Stevens and his associates.
 - **Railroad Politics:** External influence was exerted through the L., P., & W. Railroad Company, which engaged in legislative maneuvering and secured treaties with the Delaware and Pottawatomie tribes to obtain land grants.
 
-### [[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]
+### [[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]
 The provided note for this title contains bibliographic and publication information rather than the historical narrative of the Spanish Civil War itself. 
 
 - **Content Limitation:** The current note context only covers the book's publication history, copyright information, and a list of other works by Antony Beevor. 

@@ -7,11 +7,8 @@ Topic:
 Genre:
   - Putin's Russia
 Source Name:
-  - "[[Vigilantism Across History]]"
+  - "[[Vigilantism Across History 20260627]]"
 ---
-[[9780805082500-Putin's Russia - life in a failing democracy Anna Politkovskaya EPUB_extract.txt]]
-[[Vigilantism Across History]]
-
 In Putin's Russia, vigilantism diverged sharply from the traditional understanding of spontaneous grassroots mob justice. Instead, it manifested as a **state-sanctioned system of arbitrary retaliation that effectively replaced the formal rule of law**. With the nation's courts rendered entirely subservient to political interests and law enforcement deeply corrupted, citizens were left without legal protection. As a result, **an "eye for an eye, a tooth for a tooth" mentality became the defining order of both the Russian state and its people**.
 
 **A Culture Modeled from the Kremlin** This culture of extrajudicial retribution was not an accident; it was modeled and encouraged from the absolute highest levels of government. **President Vladimir Putin himself set the ultimate example of "lynch law" by dismantling the major, transparent oil company Yukos and imprisoning its chief executive, Mikhail Khodorkovsky**. By bypassing formal legal principles to eliminate a political opponent, the Kremlin demonstrated to the rest of the country that arbitrary retaliation was a perfectly acceptable method for resolving disputes.

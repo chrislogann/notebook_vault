@@ -3,7 +3,7 @@ tags:
   - Status/wip
   - Theme
 Topic:
-  - "[[Politics]]"
+  - "[[notebook_vault/_Exports/book_exports_20260702/Political Cycle/Politics]]"
   - "[[Intelligence Community]]"
 Genre:
 Source Name:

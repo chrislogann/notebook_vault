@@ -1,5 +1,5 @@
 ---
 tags:
+  - topic
   - Status/wip
-  - NotebookLM
 ---

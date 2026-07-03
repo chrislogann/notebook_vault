@@ -2,7 +2,7 @@
 tags:
   - Theme
 Topic:
-  - "[[Business Interests in Politics]]"
+  - "[[notebook_vault/Notes/Themes/Business Interests in Politics]]"
   - "[[Military]]"
   - "[[notebook_vault/_Topics/Business|Business]]"
 Genre:

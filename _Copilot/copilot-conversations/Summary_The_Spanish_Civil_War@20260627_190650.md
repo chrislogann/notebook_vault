@@ -9,7 +9,7 @@ tags:
   - copilot-conversation
 ---
 
-**user**: Summarize [[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]
+**user**: Summarize [[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]
 [Context: Notes: notebook_vault/Library/Battle for Spain/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract.md]
 [Timestamp: 2026/06/27 19:06:50]
 
@@ -17,11 +17,11 @@ tags:
 <errorChunk>Model request failed: API key is not provided for the model: gemini-3.1-flash-lite|google.</errorChunk>
 [Timestamp: 2026/06/27 19:07:09]
 
-**user**: Summarize [[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]
+**user**: Summarize [[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]
 [Context: Notes: notebook_vault/Library/Battle for Spain/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract.md]
 [Timestamp: 2026/06/27 19:08:37]
 
-**ai**: The note [[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]] provides an overview of Antony Beevor’s historical work regarding the Spanish Civil War. Here is a summary of the key details:
+**ai**: The note [[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]] provides an overview of Antony Beevor’s historical work regarding the Spanish Civil War. Here is a summary of the key details:
 
 - **Subject Matter**: The book covers the Spanish Civil War (1936–1939), exploring the conflict not only as a domestic struggle but as part of a broader "international civil war" fueled by the tensions following the Bolshevik revolution.
 - **Author Background**: Antony Beevor is a prolific historian whose other notable works include *Stalingrad*, *Berlin: The Downfall*, and *Crete: the Battle and the Resistance*.
@@ -36,7 +36,7 @@ tags:
 **user**: What is said about José Calvo
 [Timestamp: 2026/06/27 19:09:21]
 
-**ai**: Based on the provided context from [[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]], there is no specific information mentioned regarding José Calvo. 
+**ai**: Based on the provided context from [[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]], there is no specific information mentioned regarding José Calvo. 
 
 The note contains a list of illustrations and general introductory material, but it does not provide detailed biographical or historical accounts of specific political figures beyond those listed in the photographic inserts (such as King Alfonso XIII, Miguel Primo de Rivera, Lerroux, Alcalá Zamora, Gil Robles, and José Antonio Primo de Rivera). 
 
@@ -46,18 +46,18 @@ If you have more notes in your vault that might contain information about him, p
 **user**: What is said about Calvo Sotelo
 [Timestamp: 2026/06/27 19:10:04]
 
-**ai**: Based on the provided context from [[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]], there is no specific information mentioned regarding Calvo Sotelo.
+**ai**: Based on the provided context from [[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]], there is no specific information mentioned regarding Calvo Sotelo.
 
 The available text focuses on the book's publication history, the author's other works, the table of contents, and a list of illustrations. While the list of illustrations mentions figures like José Antonio Primo de Rivera, Gil Robles, and King Alfonso XIII, it does not contain any entries or descriptive text regarding Calvo Sotelo.
 
 If you have other notes in your vault that discuss this figure, please let me know!
 [Timestamp: 2026/06/27 19:10:05]
 
-**user**: [[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]] What is said about Calvo Sotelo
+**user**: [[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]] What is said about Calvo Sotelo
 [Context: Notes: notebook_vault/Library/Battle for Spain/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract.md]
 [Timestamp: 2026/06/27 19:11:59]
 
-**ai**: I have carefully reviewed the provided content of [[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]. 
+**ai**: I have carefully reviewed the provided content of [[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]. 
 
 The provided text consists of the book's front matter, acknowledgments, introduction, and a list of illustrations. **There is no mention of Calvo Sotelo in this specific note.** 
 

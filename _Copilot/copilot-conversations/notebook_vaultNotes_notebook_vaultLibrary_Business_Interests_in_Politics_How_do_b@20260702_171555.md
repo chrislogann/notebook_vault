@@ -9,7 +9,7 @@ tags:
   - copilot-conversation
 ---
 
-**user**: {notebook_vault/Notes} {notebook_vault/Library} [[Business Interests in Politics]] How do business interests influence politics?
+**user**: {notebook_vault/Notes} {notebook_vault/Library} [[notebook_vault/Notes/Themes/Business Interests in Politics]] How do business interests influence politics?
 [Context: Notes: notebook_vault/Notes/Themes/Business Interests in Politics.md]
 [Timestamp: 2026/07/02 17:15:55]
 
@@ -22,7 +22,7 @@ tags:
 Please retry in 47.29450459s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-3.1-pro"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-3.1-pro"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-3.1-pro"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerDay-FreeTier","quotaDimensions":{"location":"global","model":"gemini-3.1-pro"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"47s"}]</errorChunk>
 [Timestamp: 2026/07/02 17:16:12]
 
-**user**: {notebook_vault/Library} [[Business Interests in Politics]] How does business influence politics from the given book sources?
+**user**: {notebook_vault/Library} [[notebook_vault/Notes/Themes/Business Interests in Politics]] How does business influence politics from the given book sources?
 [Context: Notes: notebook_vault/Notes/Themes/Business Interests in Politics.md]
 [Timestamp: 2026/07/02 17:17:35]
 

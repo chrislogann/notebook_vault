@@ -4,7 +4,7 @@ tags:
   - AI
 Source Name: "[[Gemini 3.1 Flash Lite]]"
 ---
-[[9780805082500-Putin's Russia - life in a failing democracy Anna Politkovskaya EPUB_extract.txt]]
+[[notebook_vault/Library/Putin's Russia/9780805082500-Putin's Russia - life in a failing democracy Anna Politkovskaya EPUB_extract.txt]]
 
 Anna Politkovskaya (1958–2006) was a prominent Russian journalist, author, and human rights activist known for her courageous and critical reporting on the Second Chechen War and the political climate in Vladimir Putin's Russia.
 

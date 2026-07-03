@@ -41,8 +41,8 @@ Her work remains a critical primary source for understanding the "era of lynch l
 
 Based on the notes in your vault, his work is central to your research on the mechanics of state collapse, ideological conflict, and military history. Specifically, your vault references two of his major works:
 
-- **[[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]:** This work serves as a primary source for your analysis of the Spanish Civil War. It provides the framework for your understanding of the "cauldron of incompatibilities" within the Republic, the nature of the "Red" and "White" terror, and the strategic consolidation of power by General Francisco Franco.
-- **[[9780593493878-Russia - Revolution and Civil War, 1917-1921 Antony Beevor EPUB_extract]]:** This text is a key reference for your research into the Russian Revolution. It provides the historical basis for your study of the "mechanics of military disintegration," the institutionalization of terror through the Cheka, and the transition from "Dual Power" to a one-party state.
+- **[[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]:** This work serves as a primary source for your analysis of the Spanish Civil War. It provides the framework for your understanding of the "cauldron of incompatibilities" within the Republic, the nature of the "Red" and "White" terror, and the strategic consolidation of power by General Francisco Franco.
+- **[[notebook_vault/_Exports/book_exports_20260702/9780593493878-Russia - Revolution and Civil War, 1917-1921 Antony Beevor EPUB_extract]]:** This text is a key reference for your research into the Russian Revolution. It provides the historical basis for your study of the "mechanics of military disintegration," the institutionalization of terror through the Cheka, and the transition from "Dual Power" to a one-party state.
 
 In your research, Beevor’s writing is used to:
 - **Provide Comparative Frameworks:** His analysis of the Spanish Civil War is frequently used to contrast with the Russian Revolution, helping you identify patterns in how states collapse and how ideological terror is institutionalized.
@@ -56,7 +56,7 @@ In short, Antony Beevor is a foundational author in your vault, providing the hi
 [Context: Notes: Library/Authors/Raymond Gaeddert.md]
 [Timestamp: 2026/06/28 20:21:07]
 
-**ai**: Based on the notes in your vault, **Raymond Gaeddert** is identified as an author associated with the study of early Kansas history. Specifically, his work is linked to the note [[Birth of Kansas]], which serves as a foundational text for your research into the political and social development of the state during its territorial and early statehood periods.
+**ai**: Based on the notes in your vault, **Raymond Gaeddert** is identified as an author associated with the study of early Kansas history. Specifically, his work is linked to the note [[notebook_vault/Library/Birth of Kansas/Birth of Kansas]], which serves as a foundational text for your research into the political and social development of the state during its territorial and early statehood periods.
 
 While your vault does not provide a detailed biographical summary of Gaeddert, his work is the primary source for the historical context regarding:
 - **The Wyandotte Convention:** The attempt to establish a "fresh start" for Kansas through the election of politically inexperienced "common farmers."
@@ -70,7 +70,7 @@ If you have specific questions about his analysis of these events or need more i
 [Context: Notes: Library/Authors/Raymond Gaeddert.md]
 [Timestamp: 2026/06/28 20:21:48]
 
-**ai**: Based on the notes in your vault, **Raymond Gaeddert** is the author of the work titled **[[Birth of Kansas]]**.
+**ai**: Based on the notes in your vault, **Raymond Gaeddert** is the author of the work titled **[[notebook_vault/Library/Birth of Kansas/Birth of Kansas]]**.
 
 This book serves as a primary source for your research into the early political and social history of Kansas. Specifically, your notes utilize Gaeddert's work to analyze:
 
@@ -88,7 +88,7 @@ In short, Raymond Gaeddert is the historian whose research provides the foundati
 
 **ai**: Victor Sebestyen is a journalist and author known for his historical writing, particularly regarding the history of the Soviet Union and Eastern Europe.
 
-Based on the notes in your vault, he is the author of **[[9780375424588-Twelve Days - The Story of the 1956 Hungarian Revolution Victor Sebestyen, Victor Sebestyen PDF_extract]]**. This work is a primary source for your research into the 1956 Hungarian Revolution, specifically regarding:
+Based on the notes in your vault, he is the author of **[[notebook_vault/Library/Hungarian Revolution/9780375424588-Twelve Days - The Story of the 1956 Hungarian Revolution Victor Sebestyen, Victor Sebestyen PDF_extract]]**. This work is a primary source for your research into the 1956 Hungarian Revolution, specifically regarding:
 
 - **Vigilantism and Mob Justice:** His research details how the brutal oppression of the Soviet-backed regime led to spontaneous lynch mobs targeting the secret police (the AVO).
 - **The Dynamics of Uprising:** He documents the "fury of the streets," including the siege of the Communist Party headquarters at Republic Square and the violent retribution in towns like Mosonmagyaróvár.

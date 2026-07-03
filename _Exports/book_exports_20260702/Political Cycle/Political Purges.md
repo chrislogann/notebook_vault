@@ -3,7 +3,7 @@ tags:
   - AI
   - Theme
 Topic:
-  - "[[Political Lifecycle]]"
+  - "[[notebook_vault/_Exports/book_exports_20260702/Political Cycle/Political Lifecycle]]"
 Genre:
 Source Name:
   - "[[Gemini 3.1 Flash Lite]]"
