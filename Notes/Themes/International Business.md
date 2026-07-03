@@ -4,6 +4,7 @@ tags:
 Topic:
   - "[[Business Interests in Politics]]"
   - "[[Foreign Actors]]"
+  - "[[notebook_vault/_Topics/Business|Business]]"
 Genre:
 Source Name:
   - "[[Obsidian Notes Books Business and Politics 20260701]]"

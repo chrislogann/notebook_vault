@@ -1,6 +1,5 @@
 ---
 tags:
-  - Status/wip
   - AI
 Source Name: "[[Gemini 3.1 Flash Lite]]"
 ---

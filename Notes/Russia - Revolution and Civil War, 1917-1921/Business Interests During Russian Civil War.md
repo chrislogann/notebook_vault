@@ -1,7 +1,6 @@
 ---
 tags:
   - Note
-  - Status/wip
   - AI
 Topic:
   - "[[Business Interests in Politics]]"
