@@ -5,9 +5,9 @@ tags:
 Topic:
   - "[[notebook_vault/Notes/Themes/Business Interests in Politics]]"
 Genre:
-  - "[[Early Kansas]]"
+  - "[[notebook_vault/_Genres/The birth of Kansas]]"
 Source Name:
-  - "[[Obsidian Notes Books Business and Politics 20260701]]"
+  - "[[notebook_vault/Library/NoteBookLM/Obsidian Notes Books Business and Politics 20260701]]"
 ---
 In the mid-19th century, the boundary between corporate enterprises and state politics in Kansas was virtually non-existent, as "politicians and corporate interests were frequently the same people". Railroad corporations and their promoters exerted a massive, corrupting control over early statecraft:
 

@@ -7,7 +7,7 @@ Topic:
   - "[[notebook_vault/Notes/Themes/Idealism]]"
 Genre:
 Source Name:
-  - "[[Obsidian Notes Political Science 20260703]]"
+  - "[[notebook_vault/_Exports/book_exports_20260702/Political Science/Obsidian Notes Political Science 20260703]]"
 ---
 1. The Integration of Capital and Public Office
 

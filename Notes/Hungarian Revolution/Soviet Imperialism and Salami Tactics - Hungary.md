@@ -6,9 +6,9 @@ Topic:
   - "[[notebook_vault/Notes/Themes/Business Interests in Politics]]"
   - "[[notebook_vault/Notes/Themes/Foreign Actors]]"
 Genre:
-  - "[[Hungarian Revolution]]"
+  - "[[Twelve Days - The Story of the 1956 Hungarian Revolution]]"
 Source Name:
-  - "[[Obsidian Notes Books Business and Politics 20260701]]"
+  - "[[notebook_vault/Library/NoteBookLM/Obsidian Notes Books Business and Politics 20260701]]"
 ---
 In post-WWII Hungary, the intersection of business and politics took the form of rapid state-sanctioned nationalization and colonial exploitation by the Soviet Union:
 

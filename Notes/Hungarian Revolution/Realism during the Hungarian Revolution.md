@@ -4,9 +4,9 @@ tags:
 Topic:
   - "[[Realism]]"
 Genre:
-  - "[[Hungarian Revolution]]"
+  - "[[Twelve Days - The Story of the 1956 Hungarian Revolution]]"
 Source Name:
-  - "[[Obsidian Notes Books Idealism, Realism, and the Political Cycle 20260701]]"
+  - "[[notebook_vault/Library/NoteBookLM/Obsidian Notes Books Idealism, Realism, and the Political Cycle 20260701]]"
 ---
 - **The Churchill-Stalin "Percentage Deal" (1944):** During a wartime summit in Moscow, Winston Churchill and Joseph Stalin realistically and clinically divided up Eastern Europe on a "half-sheet of paper". With a blue pencil, **Stalin checked off the proposal, allocating 90% dominance in Romania to Russia, 90% say in Greece to Britain, and a 50/50 split of Yugoslavia and Hungary**—disposing of the fates of millions of people in an offhand, pragmatic transaction.
 - **Soviet Imperial Realism:** Following the death of Stalin, the Presidium vacillated during the 1956 Hungarian uprising but ultimately operated with a clear, unsentimental understanding of their geopolitical priorities. Nikita Khrushchev and other Soviet leaders **realistically recognized that the entire monolithic empire could collapse in days if Hungary were permitted to leave the Warsaw Pact**, and thus chose a course of brutal military consolidation to buy time at a high cost in blood.

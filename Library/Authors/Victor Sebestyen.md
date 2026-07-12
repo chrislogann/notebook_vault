@@ -2,13 +2,13 @@
 tags:
   - author
   - AI
-Source Name: "[[Gemini 3.1 Flash Lite]]"
+Source Name: "[[notebook_vault/Library/AI/Gemini 3.1 Flash Lite]]"
 ---
-[[notebook_vault/Library/Hungarian Revolution/9780375424588-Twelve Days - The Story of the 1956 Hungarian Revolution Victor Sebestyen, Victor Sebestyen PDF_extract]]
+[[Twelve_Days_-_The_Story_of_the_1956_Hungarian_Revolution_9780375424588]]
 
 Victor Sebestyen is a journalist and author known for his historical writing, particularly regarding the history of the Soviet Union and Eastern Europe.
 
-Based on the notes in your vault, he is the author of **[[notebook_vault/Library/Hungarian Revolution/9780375424588-Twelve Days - The Story of the 1956 Hungarian Revolution Victor Sebestyen, Victor Sebestyen PDF_extract]]**. This work is a primary source for your research into the 1956 Hungarian Revolution, specifically regarding:
+Based on the notes in your vault, he is the author of **[[Twelve_Days_-_The_Story_of_the_1956_Hungarian_Revolution_9780375424588]]**. This work is a primary source for your research into the 1956 Hungarian Revolution, specifically regarding:
 
 - **Vigilantism and Mob Justice:** His research details how the brutal oppression of the Soviet-backed regime led to spontaneous lynch mobs targeting the secret police (the AVO).
 - **The Dynamics of Uprising:** He documents the "fury of the streets," including the siege of the Communist Party headquarters at Republic Square and the violent retribution in towns like Mosonmagyaróvár.

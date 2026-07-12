@@ -7,7 +7,7 @@ Topic:
 Genre:
   - "[[Russia - Revolution and Civil War, 1917-1921]]"
 Source Name:
-  - "[[Gemini 3.1 Flash Lite]]"
+  - "[[notebook_vault/Library/AI/Gemini 3.1 Flash Lite]]"
 ---
 
 Based on the content of [[notebook_vault/_Exports/book_exports_20260702/9780593493878-Russia - Revolution and Civil War, 1917-1921 Antony Beevor EPUB_extract]], you should prepare to explore several complex historical and political topics that extend beyond the themes in your current vault. 

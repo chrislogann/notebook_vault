@@ -5,11 +5,11 @@ tags:
 Topic:
   - "[[Vigilantism Across History]]"
 Genre:
-  - "[[Spanish Civil War]]"
+  - "[[The battle for Spain - the Spanish Civil War, 1936-1939]]"
 Source Name:
-  - "[[Analysis of Spain and Kansas 20260627]]"
+  - "[[notebook_vault/Library/NoteBookLM/Analysis of Spain and Kansas 20260627]]"
 ---
-[[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]
+[[The_battle_for_Spain_-_the_Spanish_Civil_War,_1936-1939_9780143037651]]
 
 Vigilantism and the breakdown of law and order were defining features of the period leading up to and during the Spanish Civil War. The extrajudicial violence began as a deadly cycle of tit-for-tat retaliations before the conflict officially started. **The most significant catalyst was the vigilante assassination of the prominent right-wing leader José Calvo Sotelo**. After Falangist gunmen murdered the left-wing Assault Guard officer Lieutenant José Castillo, Castillo’s comrades completely bypassed legal frameworks to exact immediate revenge. They abducted Calvo Sotelo from his home, shot him in an automobile, and dumped his body in a cemetery. **Nationalists immediately framed this extrajudicial killing as the "final straw," providing massive propaganda value and driving wider popular support for their pre-planned military rebellion**.
 

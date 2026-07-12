@@ -6,7 +6,7 @@ Topic:
   - "[[notebook_vault/Notes/Themes/Political Lifecycle]]"
 Genre:
 Source Name:
-  - "[[Obsidian Notes Books Idealism, Realism, and the Political Cycle 20260701]]"
+  - "[[notebook_vault/Library/NoteBookLM/Obsidian Notes Books Idealism, Realism, and the Political Cycle 20260701]]"
 ---
 **Political and strategic realism manifests in your sources as a cold-blooded calculus where geopolitical survival, materialist self-interest, and tactical ruthlessness systematically dismantle or exploit democratic and moral ideals****.** Far from being a mere passive acknowledgment of constraints, "realism" in these historical narratives functions as an active, often brutal framework of statecraft, corporate survival, and personal opportunism.
 

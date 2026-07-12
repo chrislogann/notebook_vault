@@ -5,9 +5,9 @@ tags:
 Topic:
   - "[[notebook_vault/Notes/Themes/Business Interests in Politics]]"
 Genre:
-  - Putin's Russia
+  - "[[Putin's Russia - life in a failing democracy]]"
 Source Name:
-  - "[[Obsidian Notes Books Business and Politics 20260701]]"
+  - "[[notebook_vault/Library/NoteBookLM/Obsidian Notes Books Business and Politics 20260701]]"
 ---
 In modern Russia, the economic system represents a hybrid of a free market, Soviet-style bureaucratic control (_nomenklatura_), and various features designed to put "Soviet ideology at the service of big-time private capital".
 

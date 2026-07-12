@@ -10,7 +10,7 @@ Topic:
   - "[[notebook_vault/Notes/Themes/Idealism]]"
 Genre:
 Source Name:
-  - "[[Obsidian Notes Political Science 20260703]]"
+  - "[[notebook_vault/_Exports/book_exports_20260702/Political Science/Obsidian Notes Political Science 20260703]]"
 ---
 - **Political and Strategic Realism:** Rather than an abstract theory, realism is defined in the texts as a "cold-blooded calculus where geopolitical survival, materialist self-interest, and tactical ruthlessness systematically dismantle or exploit democratic and moral ideals". Under this realist framework, international and domestic actors consistently operate on the assumption that long-term strategic and commercial interests must take absolute precedence over democratic or ideological alignments.
 - **Political Idealism:** Idealism is defined as the "architect of revolution and the fuel for statecraft". The sources outline a typology of idealism—categorized into naive, romantic, doctrinal, and ethical strains—which determines how political movements will wield power, justify violence, or collapse when confronted with the unyielding realities of governance and conflict.

@@ -4,7 +4,7 @@ tags:
 Genre:
   - "[[Computational Thinking]]"
 Author:
-  - "[[BBC]]"
+  - "[[notebook_vault/Library/Authors/BBC]]"
 ---
 https://www.bbc.co.uk/bitesize/guides/zqqfyrd/revision/1
 # What is decomposition? - Decomposition - KS3 Computer Science Revision - BBC Bitesize

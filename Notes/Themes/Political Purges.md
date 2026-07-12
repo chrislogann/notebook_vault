@@ -6,7 +6,7 @@ Topic:
   - "[[notebook_vault/Notes/Themes/Political Lifecycle]]"
 Genre:
 Source Name:
-  - "[[Gemini 3.1 Flash Lite]]"
+  - "[[notebook_vault/Library/AI/Gemini 3.1 Flash Lite]]"
 ---
 The marginalization of the Falangist "Old Shirts" in Spain and the political purging associated with General James H. Lane in Kansas share a common structural dynamic: the **subordination of revolutionary or grassroots idealism to the consolidation of absolute power by a centralizing authority.**
 

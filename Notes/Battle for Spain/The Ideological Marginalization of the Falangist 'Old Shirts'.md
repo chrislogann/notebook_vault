@@ -5,11 +5,11 @@ tags:
 Topic:
   - "[[notebook_vault/Notes/Themes/Political Purges]]"
 Genre:
-  - "[[Spanish Civil War]]"
+  - "[[The battle for Spain - the Spanish Civil War, 1936-1939]]"
 Source Name:
   - "[[The Battle for Spain - The Spanish Civil War 1936-1939 Analysis 20260601]]"
 ---
-[[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]
+[[The_battle_for_Spain_-_the_Spanish_Civil_War,_1936-1939_9780143037651]]
 
 **1. Historical Genesis and the Proletarian Roots of the Falange**
 

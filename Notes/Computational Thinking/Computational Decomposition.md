@@ -7,7 +7,7 @@ Topic:
 Genre:
   - "[[Computational Thinking]]"
 Source Name:
-  - "[[Sid Meier's Civilization Manual 20260621]]"
+  - "[[notebook_vault/Library/NoteBookLM/Sid Meier's Civilization Manual 20260621]]"
 ---
 **Decomposition is a fundamental cornerstone of Computer Science that involves breaking down a complex problem or system into smaller parts that are more manageable and easier to understand**. Before a computer can even begin to solve a problem, both the problem itself and the potential ways to resolve it must be thoroughly understood. Decomposition acts as the first step in this process by making large, intimidating challenges simpler to work with.
 

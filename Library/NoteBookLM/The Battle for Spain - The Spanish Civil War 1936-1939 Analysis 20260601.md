@@ -2,4 +2,4 @@
 tags:
   - NotebookLM
 ---
-[[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract|9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]
+[[The_battle_for_Spain_-_the_Spanish_Civil_War,_1936-1939_9780143037651|_9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]

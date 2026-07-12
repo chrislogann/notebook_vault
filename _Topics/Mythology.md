@@ -6,7 +6,7 @@ Topic:
   - "[[Mythology]]"
 Genre:
 Source Name:
-  - "[[Obsidian Notes Political Science 20260703]]"
+  - "[[notebook_vault/Library/NoteBookLM/Obsidian Notes Political Science 20260703]]"
 ---
 **Mythology is never a passive collection of ancient fables; across these sources, it is shown to be an active, weaponized instrument of statecraft, psychological warfare, and military mobilization.** Ruling regimes, revolutionary vanguards, and intelligence networks systematically construct, distort, and deploy mythic narratives to provide spiritual justification for violence, sanitize historical defeats, and manipulate the loyalties of both domestic populations and foreign observers.
 

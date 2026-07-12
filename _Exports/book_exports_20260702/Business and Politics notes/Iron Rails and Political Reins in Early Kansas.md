@@ -5,11 +5,11 @@ tags:
 Topic:
   - "[[notebook_vault/_Exports/book_exports_20260702/Business and Politics notes/Business Interests in Politics]]"
 Genre:
-  - "[[Early Kansas]]"
+  - "[[notebook_vault/_Genres/The birth of Kansas]]"
 Source Name:
-  - "[[Gemini 3.1 Flash Lite]]"
+  - "[[notebook_vault/Library/AI/Gemini 3.1 Flash Lite]]"
 ---
-[[notebook_vault/Library/Birth of Kansas/Birth of Kansas]]
+[[The_birth_of_Kansas_9780879913359]]
 
 While the sources do not explicitly use the phrase "corporate takeover," they provide overwhelming evidence that **railroad corporations and their promoters exerted a massive, often corrupting, control over early Kansas politics, elections, and land distribution.** Politicians and corporate interests were frequently the same people, and railroad agendas dictated many of the new state's earliest decisions.
 

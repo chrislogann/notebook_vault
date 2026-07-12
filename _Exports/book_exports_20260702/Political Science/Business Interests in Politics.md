@@ -7,7 +7,7 @@ Topic:
   - "[[notebook_vault/_Topics/Business|Business]]"
 Genre:
 Source Name:
-  - "[[Obsidian Notes Books Business and Politics 20260701]]"
+  - "[[notebook_vault/_Exports/book_exports_20260702/Political Science/Obsidian Notes Books Business and Politics 20260701]]"
 ---
 The intersection of business interests and political power represents a structural synthesis where state machinery, financial leverage, and regulatory systems are captured by commercial entities to consolidate wealth and authority. Across vast historical epochs—spanning the unregulated frontier of Gilded Age Kansas, the battlefields of the Spanish Civil War, the coercive command economies of Soviet-dominated Hungary, and the turbulent transitions of revolutionary and modern Russia—the integration of capital and statecraft has systematically subverted democratic processes and reshaped the boundaries of private property.
 

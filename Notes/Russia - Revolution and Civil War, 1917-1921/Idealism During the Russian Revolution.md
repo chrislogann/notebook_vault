@@ -8,7 +8,7 @@ Topic:
 Genre:
   - "[[Russia - Revolution and Civil War, 1917-1921]]"
 Source Name:
-  - "[[Obsidian Notes Books Idealism, Realism, and the Political Cycle 20260701]]"
+  - "[[notebook_vault/Library/NoteBookLM/Obsidian Notes Books Idealism, Realism, and the Political Cycle 20260701]]"
 ---
 - **Lvov’s "Karamazovian Sentimentalism":** Prince Georgy Lvov, the first prime minister of the Provisional Government, possessed a highly liberal outlook that made him blindly believe in the "essential goodness of the people" . He naively believed that declaring Russia "the freest country in the world" and releasing all political prisoners would instantly elevate and transform the morality of its citizens .
 - **The February Revolution's Misty Romanticism:** The early days of the February Revolution swept the populace up in a "misty romanticism" and a collective "belief in universal happiness" . However, this widespread idealism evaporated rapidly as the brutal realities of winter, starvation, and political chaos took hold .

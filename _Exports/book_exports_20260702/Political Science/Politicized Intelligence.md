@@ -12,7 +12,7 @@ Topic:
   - "[[Judicial System]]"
 Genre:
 Source Name:
-  - "[[Obsidian Notes Political Science 20260703]]"
+  - "[[notebook_vault/_Exports/book_exports_20260702/Political Science/Obsidian Notes Political Science 20260703]]"
 ---
 **Politicized intelligence communities do not function as neutral arbiters of national security; instead, they operate as the ultimate praetorian guards of ruling regimes—weaponized to enforce ideological conformity, execute political purges, orchestrate resource extraction, and systematically terrorize domestic populations.** Across the historical and modern contexts detailed in the texts—ranging from the early Soviet Cheka and the Spanish Republican counter-intelligence (SIM) to the Soviet-modeled Hungarian State Security (AVO/AVH) and the modern Russian FSB—politicized intelligence apparatuses follow a chillingly consistent methodology of state capture, systemic torture, and information manipulation.
 

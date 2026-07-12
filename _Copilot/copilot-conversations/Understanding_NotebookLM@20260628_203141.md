@@ -22,5 +22,5 @@ Key features of NotebookLM include:
 - **Audio Overviews:** It can generate "Deep Dive" audio discussions where two AI hosts summarize and discuss the content of your sources.
 - **Citations:** It provides direct citations to your source material, allowing you to verify the information easily.
 
-In the context of your vault, you have linked [[NotebookLM]] to [[Gemini 3.1 Flash Lite]], suggesting you are using it as a tool for managing or analyzing information related to that specific model.
+In the context of your vault, you have linked [[NotebookLM]] to [[notebook_vault/Library/AI/Gemini 3.1 Flash Lite]], suggesting you are using it as a tool for managing or analyzing information related to that specific model.
 [Timestamp: 2026/06/28 20:31:43]

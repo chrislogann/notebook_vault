@@ -4,7 +4,7 @@ tags:
 Genre:
   - "[[Computational Thinking]]"
 Author:
-  - "[[BBC]]"
+  - "[[notebook_vault/Library/Authors/BBC]]"
 ---
 https://www.bbc.co.uk/bitesize/guides/zp92mp3/revision/1
 # What is computational thinking? - Introduction to computational thinking - KS3 Computer Science Revision - BBC Bitesize

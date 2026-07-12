@@ -15,7 +15,7 @@ tags:
 
 **ai**: The note [[Computational Decomposition]] is a foundational entry within the [[Computational Thinking]] genre, categorized under the topic of [[Cognition]]. 
 
-Based on the metadata provided, the note serves as a conceptual reference point, likely exploring the process of breaking down complex problems or systems into smaller, more manageable parts—a core pillar of computational thinking. It identifies [[Gemini 3.1 Flash Lite]] as the source of the information. 
+Based on the metadata provided, the note serves as a conceptual reference point, likely exploring the process of breaking down complex problems or systems into smaller, more manageable parts—a core pillar of computational thinking. It identifies [[notebook_vault/Library/AI/Gemini 3.1 Flash Lite]] as the source of the information. 
 
 If you would like me to expand on the specific principles of decomposition or how it relates to your other notes on [[Cognition]], please let me know!
 [Timestamp: 2026/07/03 10:25:00]

@@ -7,7 +7,7 @@ Topic:
 Genre:
   - "[[Computational Thinking]]"
 Source Name:
-  - "[[Sid Meier's Civilization Manual 20260621]]"
+  - "[[notebook_vault/Library/NoteBookLM/Sid Meier's Civilization Manual 20260621]]"
 ---
 **Abstraction is one of the four cornerstones of Computer Science that involves filtering out—essentially ignoring—the characteristics and specific details we do not need in order to concentrate on those we do.** In computational thinking, this process occurs after we decompose a complex problem into smaller parts and look for patterns among and within those smaller problems. By filtering out irrelevant details, we can focus strictly on what is necessary to create a representation, or general idea, of what we are trying to solve.
 

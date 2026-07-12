@@ -3,7 +3,7 @@ tags:
   - genre
   - AI
 Source Name:
-  - "[[Gemini 3.1 Flash Lite]]"
+  - "[[notebook_vault/Library/AI/Gemini 3.1 Flash Lite]]"
 ---
 The Russian Revolution (1917–1921) was a transformative collapse of the Tsarist order, driven by the intersection of systemic economic exploitation, the pressures of World War I, and the subsequent rise of a totalizing Bolshevik state. Based on your vault notes, the revolution can be summarized through these key thematic pillars:
 

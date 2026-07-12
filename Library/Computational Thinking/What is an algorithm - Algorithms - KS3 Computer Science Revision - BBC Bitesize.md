@@ -4,7 +4,7 @@ tags:
 Genre:
   - "[[Computational Thinking]]"
 Author:
-  - "[[BBC]]"
+  - "[[notebook_vault/Library/Authors/BBC]]"
 ---
 https://www.bbc.co.uk/bitesize/guides/zpp49j6/revision/1
 # What is an algorithm? - Algorithms - KS3 Computer Science Revision - BBC Bitesize

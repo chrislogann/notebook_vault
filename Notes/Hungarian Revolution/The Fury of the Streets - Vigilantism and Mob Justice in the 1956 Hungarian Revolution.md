@@ -5,7 +5,7 @@ tags:
 Topic:
   - "[[Vigilantism Across History]]"
 Genre:
-  - "[[Hungarian Revolution]]"
+  - "[[Twelve Days - The Story of the 1956 Hungarian Revolution]]"
 Source Name:
   - "[[Vigilantism Across History 20260627]]"
 ---

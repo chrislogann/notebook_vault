@@ -37,7 +37,7 @@ The Wyandotte Convention attempted to "purge" the system of professional politic
 In summary, while there were no formal "purges" in the modern sense, the political environment of early Kansas was defined by a **constant cycle of factional displacement**. Political actors used impeachment, patronage, and corporate-backed influence to neutralize opponents, which ultimately prioritized personal and corporate gain over the security and stability of the state.
 [Timestamp: 2026/06/27 12:53:09]
 
-**user**: {notebook_vault/_Notes/Birth of Kansas} [[notebook_vault/Library/Birth of Kansas/Birth of Kansas]] Analyze the role of political purges in Kansas
+**user**: {notebook_vault/_Notes/Birth of Kansas} [[The_birth_of_Kansas_9780879913359]] Analyze the role of political purges in Kansas
 [Context: Notes: notebook_vault/Library/Birth of Kansas.md]
 [Timestamp: 2026/06/27 12:54:46]
 

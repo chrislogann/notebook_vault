@@ -3,7 +3,7 @@ tags:
   - author
   - NotebookLM
 Source Name:
-  - "[[Sid Meier's Civilization Manual 20260621]]"
+  - "[[notebook_vault/Library/NoteBookLM/Sid Meier's Civilization Manual 20260621]]"
 ---
 The BBC is identified in your sources as the creator, publisher, and copyright holder of the **Bitesize KS3 Computer Science** revision platform.
 

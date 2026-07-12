@@ -7,7 +7,7 @@ Topic:
   - "[[notebook_vault/_Topics/Business|Business]]"
 Genre:
 Source Name:
-  - "[[Obsidian Notes Books Business and Politics 20260701]]"
+  - "[[notebook_vault/Library/NoteBookLM/Obsidian Notes Books Business and Politics 20260701]]"
 ---
 # Sovereign Interlopers and Corporate Cartels: The Geopolitical Architecture of External Capital
 

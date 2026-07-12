@@ -1,13 +1,13 @@
 ---
 tags:
   - Note
-  - Status/wip
+  - NotebookLM
 Topic:
   - "[[Realism]]"
 Genre:
-  - "[[Spanish Civil War]]"
+  - "[[The battle for Spain - the Spanish Civil War, 1936-1939]]"
 Source Name:
-  - "[[Obsidian Notes Books Idealism, Realism, and the Political Cycle 20260701]]"
+  - "[[notebook_vault/Library/NoteBookLM/Obsidian Notes Books Idealism, Realism, and the Political Cycle 20260701]]"
 ---
 - **Geopolitical Realpolitik and British Non-Intervention:** The British Foreign Office acted with cold-blooded realism, secretly prepared to sacrifice the Spanish Republic to preserve Mediterranean trade routes and secure commercial relations with Axis powers. They ultimately **preferred a stable, neutral Spain under General Francisco Franco to an unstable Republic**, deliberately turning a blind eye to Italian and German aircraft flying over Gibraltar to supply the Nationalists.
 - **Transnational Corporate Support of Fascism:** While democratic governments enforced a strict policy of non-intervention, major American and British corporations engaged in materialist, pragmatical support of Franco’s forces. Companies like **Texaco, Standard Oil of New Jersey, Ford, Studebaker, General Motors, and DuPont actively supplied Franco with essential credits, military trucks, fuel, and bombs**. Franco's foreign ministry later admitted that without American petroleum, trucks, and credit, the Nationalists could never have won.

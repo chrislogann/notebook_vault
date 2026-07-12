@@ -4,18 +4,18 @@ tags:
   - NotebookLM
   - Status/wip
 Source Name:
-  - "[[Sid Meier's Civilization Manual 20260621]]"
+  - "[[notebook_vault/Library/NoteBookLM/Sid Meier's Civilization Manual 20260621]]"
 ---
-- **[[American Military Doctrine.pdf]]**
-- **[[China Military Doctrine.pdf]]**
-- **[[Iran Military Doctrine.pdf]]**
-- **[[Israel Military Doctrine.pdf]]**
-- **[[Russian War Doctrine.pdf]]**
-- **[[Sid-Meiers-Civilization_Manual_Win-3x_EN.pdf]]**
-- **[[Computational thinking - KS3 Computer Science - BBC Bitesize]]**
-- **[[What is abstraction - Abstraction - KS3 Computer Science Revision - BBC Bitesize]]**
-- **[[What is an algorithm - Algorithms - KS3 Computer Science Revision - BBC Bitesize]]**
-- **[[What is computational thinking - Introduction to computational thinking - KS3 Computer Science Revision - BBC Bitesize]]**
-- **[[What is decomposition - Decomposition - KS3 Computer Science Revision - BBC Bitesize]]**
-- **[[What is evaluation - Evaluating solutions - KS3 Computer Science Revision - BBC Bitesize]]**
-- **[[What is pattern recognition - Pattern recognition - KS3 Computer Science Revision - BBC Bitesize]]**
+- **[[notebook_vault/Library/Military Doctrines/American Military Doctrine.pdf]]**
+- **[[notebook_vault/Library/Military Doctrines/China Military Doctrine.pdf]]**
+- **[[notebook_vault/Library/Military Doctrines/Iran Military Doctrine.pdf]]**
+- **[[notebook_vault/Library/Military Doctrines/Israel Military Doctrine.pdf]]**
+- **[[notebook_vault/Library/Military Doctrines/Russian War Doctrine.pdf]]**
+- **[[notebook_vault/Library/Civilization 1/Sid-Meiers-Civilization_Manual_Win-3x_EN.pdf]]**
+- **[[notebook_vault/Library/Computational Thinking/Computational thinking - KS3 Computer Science - BBC Bitesize]]**
+- **[[notebook_vault/Library/Computational Thinking/What is abstraction - Abstraction - KS3 Computer Science Revision - BBC Bitesize]]**
+- **[[notebook_vault/Library/Computational Thinking/What is an algorithm - Algorithms - KS3 Computer Science Revision - BBC Bitesize]]**
+- **[[notebook_vault/Library/Computational Thinking/What is computational thinking - Introduction to computational thinking - KS3 Computer Science Revision - BBC Bitesize]]**
+- **[[notebook_vault/Library/Computational Thinking/What is decomposition - Decomposition - KS3 Computer Science Revision - BBC Bitesize]]**
+- **[[notebook_vault/Library/Computational Thinking/What is evaluation - Evaluating solutions - KS3 Computer Science Revision - BBC Bitesize]]**
+- **[[notebook_vault/Library/Computational Thinking/What is pattern recognition - Pattern recognition - KS3 Computer Science Revision - BBC Bitesize]]**

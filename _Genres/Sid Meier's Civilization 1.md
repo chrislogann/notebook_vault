@@ -3,7 +3,7 @@ tags:
   - genre
   - NotebookLM
 Source Name:
-  - "[[Sid Meier's Civilization Manual 20260621]]"
+  - "[[notebook_vault/Library/NoteBookLM/Sid Meier's Civilization Manual 20260621]]"
 ---
 **Sid Meier's Civilization 1** is a turn-based strategy game designed by Sid Meier and Bruce Shelley in 1991. The game casts you in the role of a legendary leader guiding an **entire civilization through many generations**, beginning with the founding of the world's first cities in 4000 BC and culminating in the imminent colonization of space in the modern era.
 

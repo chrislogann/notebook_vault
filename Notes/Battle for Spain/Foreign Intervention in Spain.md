@@ -3,9 +3,9 @@ tags:
   - NotebookLM
   - Note
 Topic: "[[notebook_vault/Notes/Themes/Foreign Actors]]"
-Genre: "[[Spanish Civil War]]"
+Genre: "[[The battle for Spain - the Spanish Civil War, 1936-1939]]"
 Source Name:
-  - "[[Analysis of Spain and Kansas 20260627]]"
+  - "[[notebook_vault/Library/NoteBookLM/Analysis of Spain and Kansas 20260627]]"
 ---
 
 Out-of-state actors fundamentally transformed the Spanish Civil War from an internal military coup into almost a **"world war by proxy,"** using Spain as a testing ground for modern weaponry, a political chessboard, and a distraction for broader geopolitical ambitions. Foreign intervention shaped the conflict in four major ways: military aid, political subversion, economic exploitation, and diplomatic isolation.

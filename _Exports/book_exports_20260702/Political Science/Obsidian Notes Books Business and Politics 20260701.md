@@ -2,11 +2,11 @@
 tags:
   - NotebookLM
 ---
-- **[[notebook_vault/Library/Battle for Spain/Book/9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract]]**
-- **[[notebook_vault/Library/Hungarian Revolution/9780375424588-Twelve Days - The Story of the 1956 Hungarian Revolution Victor Sebestyen, Victor Sebestyen PDF_extract]]**
+- **[[The_battle_for_Spain_-_the_Spanish_Civil_War,_1936-1939_9780143037651]]**
+- **[[Twelve_Days_-_The_Story_of_the_1956_Hungarian_Revolution_9780375424588]]**
 - **[[notebook_vault/_Exports/book_exports_20260702/9780593493878-Russia - Revolution and Civil War, 1917-1921 Antony Beevor EPUB_extract]]**
-- **[[notebook_vault/Library/Putin's Russia/9780805082500-Putin's Russia - life in a failing democracy Anna Politkovskaya EPUB_extract.txt]]**
-- **[[notebook_vault/Library/Birth of Kansas/Birth of Kansas]]**
+- **[[Putin's_Russia_-_life_in_a_failing_democracy_9780805082500]]**
+- **[[The_birth_of_Kansas_9780879913359]]**
 - **[[notebook_vault/Notes/Themes/Business Interests in Politics]]**
 - **[[notebook_vault/_Topics/Business]]**
 - **[[notebook_vault/Notes/Birth of Kansas/Iron Rails and Political Reins in Early Kansas]]**

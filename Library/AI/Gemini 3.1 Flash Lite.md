@@ -1,7 +1,7 @@
 ---
 tags:
   - AI
-Source Name: "[[Gemini 3.1 Flash Lite]]"
+Source Name: "[[notebook_vault/Library/AI/Gemini 3.1 Flash Lite]]"
 ---
 Based on the notes in your vault, **Gemini 3.1 Flash Lite** is not a person, but rather an **AI model** that serves as a source for your research and note-taking.
 

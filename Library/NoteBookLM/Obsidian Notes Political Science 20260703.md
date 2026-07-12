@@ -2,13 +2,13 @@
 tags:
   - NotebookLM
 ---
-- **[[9780143037651-The battle for Spain - the Spanish Civil War, 1936-1939 Antony Beevor EPUB_extract.md]]**
-- **[[9780375424588-Twelve Days - The Story of the 1956 Hungarian Revolution Victor Sebestyen, Victor Sebestyen PDF_extract.md]]**
+- **[[The_battle_for_Spain_-_the_Spanish_Civil_War,_1936-1939_9780143037651]]**
+- **[[Twelve_Days_-_The_Story_of_the_1956_Hungarian_Revolution_9780375424588]]**
 - **[[9780593493878-Russia - Revolution and Civil War, 1917-1921 Antony Beevor EPUB_extract.md]]**
-- **[[9780805082500-Putin's Russia - life in a failing democracy Anna Politkovskaya EPUB_extract.txt.md]]**
-- **[[Analysis of Spain and Kansas 20260627.md]]**
-- **[[Analysis of The Birth of Kansas 20260623.md]]**
-- **[[Birth of Kansas.md]]**
+- **[[Putin's_Russia_-_life_in_a_failing_democracy_9780805082500]]**
+- **[[notebook_vault/Library/NoteBookLM/Analysis of Spain and Kansas 20260627]]**
+- **[[notebook_vault/Library/NoteBookLM/Analysis of The Birth of Kansas 20260623]]**
+- **[[The_birth_of_Kansas_9780879913359]]**
 - **[[Business Interests in Politics.md]]**
 - **[[Business.md]]**
 - **[[Civic Duty.md]]**
@@ -20,9 +20,9 @@ tags:
 - **[[Judicial System.md]]**
 - **[[Mythology.md]]**
 - **[[New Key Topics.md]]**
-- **[[Obsidian Notes Books Business and Politics 20260701.md]]**
-- **[[Obsidian Notes Books Idealism, Realism, and the Political Cycle 20260701.md]]**
-- **[[Obsidian Notes Political Science 20260703.md]]**
+- **[[notebook_vault/Library/NoteBookLM/Obsidian Notes Books Business and Politics 20260701]]**
+- **[[notebook_vault/Library/NoteBookLM/Obsidian Notes Books Idealism, Realism, and the Political Cycle 20260701]]**
+- **[[notebook_vault/Library/NoteBookLM/Obsidian Notes Political Science 20260703]]**
 - **[[Political Lifecycle.md]]**
 - **[[Political Purges.md]]**
 - **[[Political Science.md]]**

@@ -7,7 +7,7 @@ Topic:
 Genre:
   - "[[Computational Thinking]]"
 Source Name:
-  - "[[Sid Meier's Civilization Manual 20260621]]"
+  - "[[notebook_vault/Library/NoteBookLM/Sid Meier's Civilization Manual 20260621]]"
 ---
 **Pattern recognition is a cornerstone of Computer Science that involves finding similarities or shared characteristics among smaller, decomposed problems to solve complex issues more efficiently.** By identifying these common elements, we can design solutions that apply to multiple related challenges rather than starting from scratch each time.
 

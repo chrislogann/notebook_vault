@@ -7,7 +7,7 @@ Topic:
   - "[[notebook_vault/Notes/Themes/Political Science|Political Science]]"
 Genre:
 Source Name:
-  - "[[Obsidian Notes Political Science 20260703]]"
+  - "[[notebook_vault/_Exports/book_exports_20260702/Political Science/Obsidian Notes Political Science 20260703]]"
 ---
 **In the provided sources, civic duty is not a static or neutral obligation; instead, it is a contested concept deeply shaped by the systematic forces of political science—specifically the political lifecycle—and the shifting strains of political idealism.** Across different historical eras, the sources illustrate how civic duty is initiated by naive or romantic ideals, weaponized and coerced into a tool of state consolidation by doctrinal idealists, hollowed out by opportunism during the "realist inversion" of the state, or preserved as a vital moral anchor by ethical individuals.
 

@@ -5,14 +5,14 @@ tags:
 Topic:
   - "[[notebook_vault/Notes/Themes/Business Interests in Politics]]"
   - "[[Intelligence Community]]"
-  - "[[Military]]"
   - "[[Vigilantism Across History]]"
   - "[[notebook_vault/Notes/Themes/Propaganda]]"
   - "[[Mythology]]"
+  - "[[War Economy]]"
 Genre:
   - "[[Russia - Revolution and Civil War, 1917-1921]]"
 Source Name:
-  - "[[Obsidian Notes Books Business and Politics 20260701]]"
+  - "[[notebook_vault/Library/NoteBookLM/Obsidian Notes Books Business and Politics 20260701]]"
 ---
 # The Architectures of Collapse: Capital, Conflict, and the Russian Revolution
 

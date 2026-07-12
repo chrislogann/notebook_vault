@@ -7,7 +7,7 @@ Topic:
 Genre:
   - "[[Computational Thinking]]"
 Source Name:
-  - "[[Sid Meier's Civilization Manual 20260621]]"
+  - "[[notebook_vault/Library/NoteBookLM/Sid Meier's Civilization Manual 20260621]]"
 ---
 **Evaluation is the systematic process of ensuring that a designed problem-solving solution is fully "fit for purpose" and operates efficiently before any programming begins**. It acts as the final quality gate in computational thinking, verifying that a proposed solution successfully does the job it was designed to do while identifying areas where it can be further improved.
 

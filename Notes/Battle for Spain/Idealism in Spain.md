@@ -5,9 +5,9 @@ tags:
 Topic:
   - "[[notebook_vault/Notes/Themes/Idealism]]"
 Genre:
-  - "[[Spanish Civil War]]"
+  - "[[The battle for Spain - the Spanish Civil War, 1936-1939]]"
 Source Name:
-  - "[[Obsidian Notes Books Idealism, Realism, and the Political Cycle 20260701]]"
+  - "[[notebook_vault/Library/NoteBookLM/Obsidian Notes Books Idealism, Realism, and the Political Cycle 20260701]]"
 ---
 - **The Romantic Byronic Tradition:** Historical sympathy for foreign military ventures was heavily influenced by a romantic "Byronic tradition" of volunteering to support foreign insurrections, as exemplified by the 10,000-strong British Legion that volunteered to fight for the liberals in the First Carlist War of 1833–40 .
 - **Anarchist Naive Optimism:** Early Spanish anarchism functioned as a secular religion driven by a "naive optimism" . Converts lived ascetic, highly moral lives and operated under the idealistic belief that mutual aid and absolute freedom were the natural foundations of society, convinced that a single uprising would instantly unlock the "spontaneous creativity of the masses" .

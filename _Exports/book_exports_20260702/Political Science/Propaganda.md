@@ -7,7 +7,7 @@ Topic:
   - "[[Mythology]]"
 Genre:
 Source Name:
-  - "[[Obsidian Notes Political Science 20260703]]"
+  - "[[notebook_vault/_Exports/book_exports_20260702/Political Science/Obsidian Notes Political Science 20260703]]"
 ---
 **Manichaean propaganda, paranoid fabrications, and the cynical manipulation of public opinion do not merely reflect the ideological battlegrounds of the twentieth century; they are actively deployed as primary instruments of state survival, military mobilization, and strategic deception.** Across the Spanish Civil War, early Soviet governance, and the 1956 Hungarian Revolution, the integration of propaganda into statecraft systematically altered the course of history.
 

@@ -5,11 +5,11 @@ tags:
 Topic:
   - "[[notebook_vault/Notes/Themes/Statecraft]]"
 Genre:
-  - "[[Early Kansas]]"
+  - "[[notebook_vault/_Genres/The birth of Kansas]]"
 Source Name:
   - The Birth of Kansas
 ---
-[[notebook_vault/Library/Birth of Kansas/Birth of Kansas]]
+[[The_birth_of_Kansas_9780879913359]]
 [[Kansas_Statehood_Debate_Infographic.png]]
 
 The debate over Kansas statehood was fiercely contested, with the arguments dividing largely along party lines between the Democratic Party (opposing immediate admission) and the Republican/Free-State Party (favoring it).

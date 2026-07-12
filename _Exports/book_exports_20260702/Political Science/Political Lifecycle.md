@@ -8,7 +8,7 @@ Topic:
   - "[[Realism]]"
 Genre:
 Source Name:
-  - "[[Analysis of The Birth of Kansas 20260623]]"
+  - "[[notebook_vault/_Exports/book_exports_20260702/Political Science/Analysis of The Birth of Kansas 20260623]]"
 ---
 # The Gravity of Power: A Deep Dive into the Political Cycle of Idealism and Realism
 

@@ -6,10 +6,10 @@ Topic:
   - "[[notebook_vault/Notes/Themes/Political Lifecycle]]"
   - "[[notebook_vault/Notes/Themes/Statecraft]]"
 Genre:
-  - "[[Early Kansas]]"
+  - "[[notebook_vault/_Genres/The birth of Kansas]]"
 Source Name: The Birth of Kansas
 ---
-[[notebook_vault/Library/Birth of Kansas/Birth of Kansas]]
+[[The_birth_of_Kansas_9780879913359]]
 [[Kansas_Political_Cycle_1859-1863.png]]
 [[Kansas_Statecraft__Idealism_to_Instability.png]]
 

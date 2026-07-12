@@ -9,11 +9,11 @@ tags:
   - copilot-conversation
 ---
 
-**user**: Summarize [[Early Kansas]] according to {notebook_vault/Notes}
+**user**: Summarize [[notebook_vault/_Genres/The birth of Kansas]] according to {notebook_vault/Notes}
 [Context: Notes: notebook_vault/_Genres/Early Kansas.md]
 [Timestamp: 2026/07/03 09:44:02]
 
-**ai**: Based on the provided notes, [[Early Kansas]] is characterized by a political environment where the boundary between public office and private corporate interest was virtually non-existent. The genre is defined by the following key dynamics:
+**ai**: Based on the provided notes, [[notebook_vault/_Genres/The birth of Kansas]] is characterized by a political environment where the boundary between public office and private corporate interest was virtually non-existent. The genre is defined by the following key dynamics:
 
 ### 1. Corporate Capture of Statecraft
 The political landscape was dominated by railroad corporations and their promoters, who often held dual roles as state officials.

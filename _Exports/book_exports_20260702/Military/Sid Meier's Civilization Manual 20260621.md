@@ -1,0 +1,21 @@
+---
+tags:
+  - genre
+  - NotebookLM
+  - Status/wip
+Source Name:
+  - "[[notebook_vault/_Exports/book_exports_20260702/Military/Sid Meier's Civilization Manual 20260621]]"
+---
+- **[[notebook_vault/_Exports/book_exports_20260702/Military/American Military Doctrine.pdf]]**
+- **[[notebook_vault/_Exports/book_exports_20260702/Military/China Military Doctrine.pdf]]**
+- **[[notebook_vault/_Exports/book_exports_20260702/Military/Iran Military Doctrine.pdf]]**
+- **[[notebook_vault/_Exports/book_exports_20260702/Military/Israel Military Doctrine.pdf]]**
+- **[[notebook_vault/_Exports/book_exports_20260702/Military/Russian War Doctrine.pdf]]**
+- **[[notebook_vault/_Exports/book_exports_20260702/Military/Sid-Meiers-Civilization_Manual_Win-3x_EN.pdf]]**
+- **[[notebook_vault/_Exports/book_exports_20260702/Military/Computational thinking - KS3 Computer Science - BBC Bitesize]]**
+- **[[notebook_vault/_Exports/book_exports_20260702/Military/What is abstraction - Abstraction - KS3 Computer Science Revision - BBC Bitesize]]**
+- **[[notebook_vault/_Exports/book_exports_20260702/Military/What is an algorithm - Algorithms - KS3 Computer Science Revision - BBC Bitesize]]**
+- **[[notebook_vault/_Exports/book_exports_20260702/Military/What is computational thinking - Introduction to computational thinking - KS3 Computer Science Revision - BBC Bitesize]]**
+- **[[notebook_vault/_Exports/book_exports_20260702/Military/What is decomposition - Decomposition - KS3 Computer Science Revision - BBC Bitesize]]**
+- **[[notebook_vault/_Exports/book_exports_20260702/Military/What is evaluation - Evaluating solutions - KS3 Computer Science Revision - BBC Bitesize]]**
+- **[[notebook_vault/_Exports/book_exports_20260702/Military/What is pattern recognition - Pattern recognition - KS3 Computer Science Revision - BBC Bitesize]]**

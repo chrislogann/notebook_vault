@@ -7,7 +7,7 @@ Topic:
 Genre:
   - "[[Computational Thinking]]"
 Source Name:
-  - "[[Sid Meier's Civilization Manual 20260621]]"
+  - "[[notebook_vault/Library/NoteBookLM/Sid Meier's Civilization Manual 20260621]]"
 ---
 **An algorithm is a plan consisting of a set of step-by-step instructions designed to resolve a specific problem.** As one of the four cornerstones of Computer Science, algorithms are essential because computers cannot solve problems without being given precise instructions on exactly what to do and how to do it. If you have ever tied your shoelaces, made a cup of tea, got dressed, or prepared a meal, you have already followed an algorithm in your everyday life.
 

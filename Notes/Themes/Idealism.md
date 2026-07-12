@@ -6,7 +6,7 @@ Topic:
   - "[[notebook_vault/Notes/Themes/Political Lifecycle]]"
 Genre:
 Source Name:
-  - "[[Obsidian Notes Books Idealism, Realism, and the Political Cycle 20260701]]"
+  - "[[notebook_vault/Library/NoteBookLM/Obsidian Notes Books Idealism, Realism, and the Political Cycle 20260701]]"
 ---
 # The Anatomy of Ideals: A Deep Dive into the Typology, Weaponization, and Collapse of Historical Idealism
 

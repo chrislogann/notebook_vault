@@ -9,7 +9,7 @@ Topic:
   - "[[Materialism]]"
 Genre:
 Source Name:
-  - "[[The Birth of Kansas]]"
+  - "[[notebook_vault/_Exports/book_exports_20260702/Political Cycle/The Birth of Kansas]]"
 ---
 ### Overview
 

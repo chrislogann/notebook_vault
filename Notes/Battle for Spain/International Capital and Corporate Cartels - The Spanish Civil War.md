@@ -6,9 +6,9 @@ Topic:
   - "[[notebook_vault/Notes/Themes/Business Interests in Politics]]"
   - "[[notebook_vault/Notes/Themes/Foreign Actors]]"
 Genre:
-  - "[[Spanish Civil War]]"
+  - "[[The battle for Spain - the Spanish Civil War, 1936-1939]]"
 Source Name:
-  - "[[Obsidian Notes Books Business and Politics 20260701]]"
+  - "[[notebook_vault/Library/NoteBookLM/Obsidian Notes Books Business and Politics 20260701]]"
   - "[[The Battle for Spain - The Spanish Civil War 1936-1939 Analysis 20260601]]"
 ---
 During the Spanish Civil War (1936–1939), the political and military success of General Francisco Franco's Nationalists was heavily underpinned by domestic and international business networks:

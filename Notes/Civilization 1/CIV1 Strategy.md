@@ -8,7 +8,7 @@ Genre:
   - "[[Sid Meier's Civilization 1]]"
   - "[[Computational Thinking]]"
 Source Name:
-  - "[[Sid Meier's Civilization Manual 20260621]]"
+  - "[[notebook_vault/Library/NoteBookLM/Sid Meier's Civilization Manual 20260621]]"
 ---
 CIV1 Strategy
 - Expand, build, and develop

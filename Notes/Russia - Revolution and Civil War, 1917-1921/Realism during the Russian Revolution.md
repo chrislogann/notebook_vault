@@ -7,7 +7,7 @@ Topic:
 Genre:
   - "[[Russia - Revolution and Civil War, 1917-1921]]"
 Source Name:
-  - "[[Obsidian Notes Books Idealism, Realism, and the Political Cycle 20260701]]"
+  - "[[notebook_vault/Library/NoteBookLM/Obsidian Notes Books Idealism, Realism, and the Political Cycle 20260701]]"
 ---
 - **Bolshevik Structural Ruthlessness:** Vladimir Lenin treated civil war not as an unfortunate accident of history, but as a conscious, pragmatic tool of statecraft. He welcomed the destruction of the old order, **realizing that the Bolsheviks' only chance of seizing and retaining power across the Russian land-mass was to achieve a** **tabula rasa** **through violence** so that there could be no possibility of a return to the past.
 - **Trotsky’s Military Realism:** Leon Trotsky realistically recognized that an effective, professional military could not be run by incompetent revolutionaries. Overcoming fierce ideological opposition from the Left, **Trotsky recruited 75,000 Tsarist military specialists—"experts" of doubtful loyalty—and used "blocking detachments" and executions of commanders** behind the lines to enforce iron discipline.
