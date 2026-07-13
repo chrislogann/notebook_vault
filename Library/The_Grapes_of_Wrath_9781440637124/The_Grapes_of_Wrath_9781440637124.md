@@ -13,7 +13,7 @@ isbn: 9781440637124
 
 ## Section 1
 
-![](images/cover.jpg)
+![](notebook_vault/Library/The_Grapes_of_Wrath_9781440637124/images/cover.jpg)
 
 ---
 
