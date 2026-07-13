@@ -43,7 +43,14 @@ def write_obsidian_md(output_path: str, meta: dict, content: str):
     """
     title = meta.get("Title", "Unknown Title")
     authors_list = meta.get("Authors", ["Unknown Author"])
-    authors = ", ".join(authors_list) if isinstance(authors_list, list) else authors_list
+    
+    # Ensure it's a list, then format each author as an individual stringified backlink
+    if isinstance(authors_list, str):
+        authors_list = [authors_list]
+        
+    # Creates an array format: ["[[Author 1]]", "[[Author 2]]"]
+    formatted_authors = "[" + ", ".join([f'"[[{author}]]"' for author in authors_list]) + "]"
+    
     isbn = meta.get("ISBN-13", "")
     
     # Obsidian YAML Frontmatter
@@ -51,7 +58,7 @@ def write_obsidian_md(output_path: str, meta: dict, content: str):
         "---\n"
         f"tags: \"Book\"\n"
         f"Genre: \"[[{title}]]\"\n"
-        f"author: \"[[{authors}]]\"\n"
+        f"author: {formatted_authors}\n"
         f"isbn: {isbn}\n"
         "---\n\n"
         f"# {title}\n\n"

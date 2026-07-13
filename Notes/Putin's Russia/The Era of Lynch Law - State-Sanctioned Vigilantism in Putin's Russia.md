@@ -5,7 +5,7 @@ tags:
 Topic:
   - "[[Vigilantism Across History]]"
 Genre:
-  - "[[Putin's Russia - life in a failing democracy]]"
+  - "[[Putin's_Russia_-_life_in_a_failing_democracy_9780805082500]]"
 Source Name:
   - "[[Vigilantism Across History 20260627]]"
 ---

@@ -5,7 +5,7 @@ tags:
 Topic:
   - "[[Realism]]"
 Genre:
-  - "[[Putin's Russia - life in a failing democracy]]"
+  - "[[Putin's_Russia_-_life_in_a_failing_democracy_9780805082500]]"
 Source Name:
   - "[[notebook_vault/Library/NoteBookLM/Obsidian Notes Books Idealism, Realism, and the Political Cycle 20260701]]"
 ---
