@@ -3,8 +3,8 @@ tags:
   - Note
   - NotebookLM
 Topic:
-  - "[[notebook_vault/Notes/Themes/Idealism]]"
-  - "[[Civic Duty]]"
+  - "[[notebook_vault/Notes/_Themes/Idealism]]"
+  - "[[notebook_vault/Notes/_Themes/Civic Duty]]"
 Genre:
   - "[[Russia - Revolution and Civil War, 1917-1921]]"
 Source Name:

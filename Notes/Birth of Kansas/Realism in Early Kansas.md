@@ -2,7 +2,7 @@
 tags:
   - Note
 Topic:
-  - "[[Realism]]"
+  - "[[notebook_vault/Notes/_Themes/Realism]]"
 Genre:
   - "[[notebook_vault/_Genres/The birth of Kansas]]"
 Source Name:

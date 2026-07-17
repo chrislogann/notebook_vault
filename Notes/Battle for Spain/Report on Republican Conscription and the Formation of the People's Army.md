@@ -3,7 +3,7 @@ tags:
   - NotebookLM
   - Note
 Topic:
-  - "[[Military History]]"
+  - "[[notebook_vault/Notes/_Themes/Military History]]"
 Genre:
   - "[[The battle for Spain - the Spanish Civil War, 1936-1939]]"
 Source Name:

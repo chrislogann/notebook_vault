@@ -1,7 +1,7 @@
 ---
-tags: Book
-Genre: "[[notebook_vault/_Exports/book_exports_20260702/Political Cycle/The Birth of Kansas]]"
-author: "[[Gustave Raymond Gaeddert]]"
+tags: "Book"
+Genre: "[[The birth of Kansas]]"
+author: ["[[Gustave Raymond Gaeddert]]"]
 isbn: 9780879913359
 ---
 

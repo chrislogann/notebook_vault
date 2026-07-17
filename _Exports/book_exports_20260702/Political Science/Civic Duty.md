@@ -3,8 +3,8 @@ tags:
   - Theme
   - NotebookLM
 Topic:
-  - "[[notebook_vault/Notes/Themes/Idealism]]"
-  - "[[notebook_vault/Notes/Themes/Political Science|Political Science]]"
+  - "[[notebook_vault/Notes/_Themes/Idealism]]"
+  - "[[notebook_vault/Notes/_Themes/Political Science|Political Science]]"
 Genre:
 Source Name:
   - "[[notebook_vault/_Exports/book_exports_20260702/Political Science/Obsidian Notes Political Science 20260703]]"

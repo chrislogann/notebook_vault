@@ -3,7 +3,7 @@ tags:
   - Note
   - NotebookLM
 Topic:
-  - "[[Military Tactics]]"
+  - "[[notebook_vault/Notes/_Themes/Military Tactics]]"
   - "[[Cognition]]"
   - "[[Gaming]]"
 Genre:

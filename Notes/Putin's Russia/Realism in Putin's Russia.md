@@ -3,7 +3,7 @@ tags:
   - Note
   - NotebookLM
 Topic:
-  - "[[Realism]]"
+  - "[[notebook_vault/Notes/_Themes/Realism]]"
 Genre:
   - "[[Putin's_Russia_-_life_in_a_failing_democracy_9780805082500]]"
 Source Name:

@@ -3,8 +3,8 @@ tags:
   - Note
   - NotebookLM
 Topic:
-  - "[[notebook_vault/Notes/Themes/Business Interests in Politics]]"
-  - "[[notebook_vault/Notes/Themes/Foreign Actors]]"
+  - "[[notebook_vault/Notes/_Themes/Business Interests in Politics]]"
+  - "[[notebook_vault/Notes/_Themes/Foreign Actors]]"
 Genre:
   - "[[Twelve Days - The Story of the 1956 Hungarian Revolution]]"
 Source Name:

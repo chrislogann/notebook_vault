@@ -3,7 +3,7 @@ tags:
   - Theme
   - NotebookLM
 Topic:
-  - "[[notebook_vault/Notes/Themes/Political Lifecycle]]"
+  - "[[notebook_vault/Notes/_Themes/Political Lifecycle]]"
 Genre:
 Source Name:
   - "[[notebook_vault/_Exports/book_exports_20260702/Political Science/Obsidian Notes Books Idealism, Realism, and the Political Cycle 20260701]]"

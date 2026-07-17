@@ -7,7 +7,7 @@ tags:
 topic: Falangist and Kansas Purges
 Source Topic: Theming
 ---
-[[notebook_vault/Notes/Themes/Political Purges]]
+[[notebook_vault/Notes/_Themes/Political Purges]]
 **user**: {notebook_vault/_Notes} How is the marginalization of Falangist Old Shirts in Spain similar to General Lane's purging in Kansas?
 [Timestamp: 2026/06/27 12:14:34]
 

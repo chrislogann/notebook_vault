@@ -3,7 +3,7 @@ tags:
   - Note
   - NotebookLM
 Topic:
-  - "[[notebook_vault/Notes/Themes/Idealism]]"
+  - "[[notebook_vault/Notes/_Themes/Idealism]]"
 Genre:
   - "[[Putin's_Russia_-_life_in_a_failing_democracy_9780805082500]]"
 Source Name:

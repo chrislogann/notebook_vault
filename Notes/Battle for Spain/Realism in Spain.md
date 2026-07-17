@@ -3,7 +3,7 @@ tags:
   - Note
   - NotebookLM
 Topic:
-  - "[[Realism]]"
+  - "[[notebook_vault/Notes/_Themes/Realism]]"
 Genre:
   - "[[The battle for Spain - the Spanish Civil War, 1936-1939]]"
 Source Name:

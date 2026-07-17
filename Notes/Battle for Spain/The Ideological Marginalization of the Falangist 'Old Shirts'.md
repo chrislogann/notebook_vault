@@ -3,7 +3,7 @@ tags:
   - NotebookLM
   - Note
 Topic:
-  - "[[notebook_vault/Notes/Themes/Political Purges]]"
+  - "[[notebook_vault/Notes/_Themes/Political Purges]]"
 Genre:
   - "[[The battle for Spain - the Spanish Civil War, 1936-1939]]"
 Source Name:

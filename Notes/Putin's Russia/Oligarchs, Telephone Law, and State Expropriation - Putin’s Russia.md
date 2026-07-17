@@ -3,7 +3,7 @@ tags:
   - Note
   - NotebookLM
 Topic:
-  - "[[notebook_vault/Notes/Themes/Business Interests in Politics]]"
+  - "[[notebook_vault/Notes/_Themes/Business Interests in Politics]]"
 Genre:
   - "[[Putin's_Russia_-_life_in_a_failing_democracy_9780805082500]]"
 Source Name:

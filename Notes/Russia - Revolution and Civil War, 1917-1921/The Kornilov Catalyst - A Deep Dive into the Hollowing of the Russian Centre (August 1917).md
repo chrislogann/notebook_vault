@@ -3,8 +3,8 @@ tags:
   - Note
   - NotebookLM
 Topic:
-  - "[[notebook_vault/Notes/Themes/Political Science]]"
-  - "[[Military Tactics]]"
+  - "[[notebook_vault/Notes/_Themes/Political Science]]"
+  - "[[notebook_vault/Notes/_Themes/Military Tactics]]"
 Genre:
   - "[[Russia - Revolution and Civil War, 1917-1921]]"
 Source Name:

@@ -6,8 +6,8 @@ tags:
 Topic:
   - "[[notebook_vault/_Topics/Politics]]"
   - "[[Intelligence Community]]"
-  - "[[Realism]]"
-  - "[[notebook_vault/Notes/Themes/Idealism]]"
+  - "[[notebook_vault/_Exports/book_exports_20260702/Political Science/Realism]]"
+  - "[[notebook_vault/Notes/_Themes/Idealism]]"
 Genre:
 Source Name:
   - "[[notebook_vault/_Exports/book_exports_20260702/Political Science/Obsidian Notes Political Science 20260703]]"

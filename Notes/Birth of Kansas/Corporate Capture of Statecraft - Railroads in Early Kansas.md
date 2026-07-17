@@ -3,7 +3,7 @@ tags:
   - Note
   - NotebookLM
 Topic:
-  - "[[notebook_vault/Notes/Themes/Business Interests in Politics]]"
+  - "[[notebook_vault/Notes/_Themes/Business Interests in Politics]]"
 Genre:
   - "[[notebook_vault/_Genres/The birth of Kansas]]"
 Source Name:

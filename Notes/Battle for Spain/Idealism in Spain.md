@@ -3,7 +3,7 @@ tags:
   - Note
   - NotebookLM
 Topic:
-  - "[[notebook_vault/Notes/Themes/Idealism]]"
+  - "[[notebook_vault/Notes/_Themes/Idealism]]"
 Genre:
   - "[[The battle for Spain - the Spanish Civil War, 1936-1939]]"
 Source Name:

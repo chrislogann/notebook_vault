@@ -3,7 +3,7 @@ tags:
   - Note
   - NotebookLM
 Topic:
-  - "[[Military Tactics]]"
+  - "[[notebook_vault/_Exports/book_exports_20260702/Military/Military Tactics]]"
   - "[[Cognition]]"
   - "[[Gaming]]"
 Genre:

@@ -2,7 +2,7 @@
 tags:
   - topic
 ---
-[[Military Disintegration]]
-[[Military History]]
-[[War Economy]]
-[[Military Tactics]]
+[[notebook_vault/Notes/_Themes/Military Disintegration]]
+[[notebook_vault/Notes/_Themes/Military History]]
+[[notebook_vault/Notes/_Themes/War Economy]]
+[[notebook_vault/Notes/_Themes/Military Tactics]]

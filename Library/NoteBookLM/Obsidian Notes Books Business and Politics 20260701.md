@@ -7,7 +7,7 @@ tags:
 - **[[notebook_vault/_Exports/book_exports_20260702/9780593493878-Russia - Revolution and Civil War, 1917-1921 Antony Beevor EPUB_extract]]**
 - **[[Putin's_Russia_-_life_in_a_failing_democracy_9780805082500]]**
 - **[[The_birth_of_Kansas_9780879913359]]**
-- **[[notebook_vault/Notes/Themes/Business Interests in Politics]]**
+- **[[notebook_vault/Notes/_Themes/Business Interests in Politics]]**
 - **[[notebook_vault/_Topics/Business]]**
 - **[[notebook_vault/Notes/Birth of Kansas/Iron Rails and Political Reins in Early Kansas]]**
 - **[[notebook_vault/_Topics/Politics]]**

@@ -7,20 +7,20 @@ tags:
 - **[[notebook_vault/_Exports/book_exports_20260702/9780593493878-Russia - Revolution and Civil War, 1917-1921 Antony Beevor EPUB_extract]]**
 - **[[Putin's_Russia_-_life_in_a_failing_democracy_9780805082500]]**
 - **[[The_birth_of_Kansas_9780879913359]]**
-- **[[notebook_vault/Notes/Themes/Business Interests in Politics]]**
+- **[[notebook_vault/Notes/_Themes/Business Interests in Politics]]**
 - **[[notebook_vault/_Exports/book_exports_20260702/Political Cycle/Emerging Topics]]**
-- **[[notebook_vault/Notes/Themes/Foreign Actors]]**
-- **[[notebook_vault/Notes/Themes/Idealism]]**
+- **[[notebook_vault/Notes/_Themes/Foreign Actors]]**
+- **[[notebook_vault/Notes/_Themes/Idealism]]**
 - **[[notebook_vault/_Copilot/copilot-conversations/Institutional_Collapse_and_Vigilantism@20260627_184407]]**
 - **[[Materialism]]**
-- **[[notebook_vault/Notes/Themes/Political Lifecycle]]**
-- **[[notebook_vault/Notes/Themes/Political Purges]]**
-- **[[notebook_vault/Notes/Themes/Political Science]]**
-- **[[notebook_vault/Notes/Themes/Politicized Intelligence]]**
+- **[[notebook_vault/Notes/_Themes/Political Lifecycle]]**
+- **[[notebook_vault/Notes/_Themes/Political Purges]]**
+- **[[notebook_vault/Notes/_Themes/Political Science]]**
+- **[[notebook_vault/Notes/_Themes/Politicized Intelligence]]**
 - **[[notebook_vault/_Topics/Politics]]**
-- **[[notebook_vault/Notes/Themes/Propaganda]]**
+- **[[notebook_vault/Notes/_Themes/Propaganda]]**
 - **[[notebook_vault/_Copilot/copilot-conversations/Reviewing_Sources_for_Beevor_Book@20260627_200408]]**
 - **[[notebook_vault/Notes/Battle for Spain/Spanish Factionalism]]**
-- **[[notebook_vault/Notes/Themes/Statecraft]]**
+- **[[notebook_vault/Notes/_Themes/Statecraft]]**
 - **[[notebook_vault/_Exports/book_exports_20260702/Political Cycle/The Birth of Kansas]]**
 - **[[notebook_vault/Notes/Birth of Kansas/The Perils of Early Kansas Statecraft]]**

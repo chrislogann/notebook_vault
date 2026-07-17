@@ -5,9 +5,9 @@ tags:
 Topic:
   - "[[notebook_vault/_Topics/Politics]]"
   - "[[Intelligence Community]]"
-  - "[[notebook_vault/Notes/Themes/Political Purges|Political Purges]]"
+  - "[[notebook_vault/Notes/_Themes/Political Purges|Political Purges]]"
   - "[[Mythology]]"
-  - "[[notebook_vault/Notes/Themes/Propaganda]]"
+  - "[[notebook_vault/Notes/_Themes/Propaganda]]"
   - "[[Journalism]]"
   - "[[Judicial System]]"
 Genre:

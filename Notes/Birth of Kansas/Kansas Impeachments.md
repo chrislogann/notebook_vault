@@ -3,7 +3,7 @@ tags:
   - AI
   - Note
 Topic:
-  - "[[notebook_vault/Notes/Themes/Political Purges]]"
+  - "[[notebook_vault/Notes/_Themes/Political Purges]]"
 Genre:
   - "[[notebook_vault/_Genres/The birth of Kansas]]"
 Source Name: Gemini 3.1 Flash Lite

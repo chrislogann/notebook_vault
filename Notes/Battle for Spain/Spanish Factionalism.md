@@ -3,13 +3,13 @@ tags:
   - AI
   - Note
 Topic:
-  - "[[notebook_vault/Notes/Themes/Political Lifecycle]]"
+  - "[[notebook_vault/Notes/_Themes/Political Lifecycle]]"
 Genre:
   - "[[The battle for Spain - the Spanish Civil War, 1936-1939]]"
 Source Name:
   - "[[notebook_vault/Library/AI/Gemini 3.1 Flash Lite]]"
 ---
-The historical trajectory of the Spanish Second Republic, as detailed in [[The_battle_for_Spain_-_the_Spanish_Civil_War,_1936-1939_9780143037651]], provides a striking real-world parallel to the theoretical cycle of institutional collapse described in [[notebook_vault/Notes/Themes/Political Lifecycle]].
+The historical trajectory of the Spanish Second Republic, as detailed in [[The_battle_for_Spain_-_the_Spanish_Civil_War,_1936-1939_9780143037651]], provides a striking real-world parallel to the theoretical cycle of institutional collapse described in [[notebook_vault/Notes/_Themes/Political Lifecycle]].
 
 The comparison can be broken down across the phases of the "Farmers to Factions" model:
 

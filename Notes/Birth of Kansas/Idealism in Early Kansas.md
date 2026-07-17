@@ -3,8 +3,8 @@ tags:
   - Note
   - NotebookLM
 Topic:
-  - "[[notebook_vault/Notes/Themes/Idealism]]"
-  - "[[Civic Duty]]"
+  - "[[notebook_vault/Notes/_Themes/Idealism]]"
+  - "[[notebook_vault/Notes/_Themes/Civic Duty]]"
 Genre:
   - "[[notebook_vault/_Genres/The birth of Kansas]]"
 Source Name:

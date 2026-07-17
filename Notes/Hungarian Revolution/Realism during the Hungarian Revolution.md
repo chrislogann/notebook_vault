@@ -2,7 +2,7 @@
 tags:
   - Note
 Topic:
-  - "[[Realism]]"
+  - "[[notebook_vault/Notes/_Themes/Realism]]"
 Genre:
   - "[[Twelve Days - The Story of the 1956 Hungarian Revolution]]"
 Source Name:

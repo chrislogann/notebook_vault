@@ -3,7 +3,7 @@ tags:
   - Note
   - NotebookLM
 Topic:
-  - "[[Realism]]"
+  - "[[notebook_vault/Notes/_Themes/Realism]]"
 Genre:
   - "[[Russia - Revolution and Civil War, 1917-1921]]"
 Source Name:

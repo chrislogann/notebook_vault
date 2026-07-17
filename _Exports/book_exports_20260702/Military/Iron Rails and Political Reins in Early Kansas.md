@@ -3,7 +3,7 @@ tags:
   - AI
   - Note
 Topic:
-  - "[[notebook_vault/Notes/Themes/Business Interests in Politics]]"
+  - "[[notebook_vault/Notes/_Themes/Business Interests in Politics]]"
 Genre:
   - "[[Early Kansas]]"
 Source Name:

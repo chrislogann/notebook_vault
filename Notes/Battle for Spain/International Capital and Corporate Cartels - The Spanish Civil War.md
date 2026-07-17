@@ -3,8 +3,8 @@ tags:
   - Note
   - NotebookLM
 Topic:
-  - "[[notebook_vault/Notes/Themes/Business Interests in Politics]]"
-  - "[[notebook_vault/Notes/Themes/Foreign Actors]]"
+  - "[[notebook_vault/Notes/_Themes/Business Interests in Politics]]"
+  - "[[notebook_vault/Notes/_Themes/Foreign Actors]]"
 Genre:
   - "[[The battle for Spain - the Spanish Civil War, 1936-1939]]"
 Source Name:

@@ -124,6 +124,7 @@ def convert_epub_to_md(input_path: str, output_path: str, meta: dict):
             # Clean up residual self-referential HTML/XHTML links
             markdown_text = re.sub(r'\[(.*?)\]\([^)]*\.xhtml[^)]*\)', r'\1', markdown_text)
             markdown_text = re.sub(r'\[(.*?)\]\([^)]*\.html[^)]*\)', r'\1', markdown_text)
+            markdown_text = re.sub(r'\[(.*?)\]\([^)]*\.htm[^)]*\)', r'\1', markdown_text)
             
             # Clean up image links to point to the local 'images/' folder
             markdown_text = re.sub(

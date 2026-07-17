@@ -46,7 +46,7 @@ Your notes highlight that the Russian experience serves as a historical blueprin
 - **Grain Requisitions:** The economic dimension of terror, where starvation was used as a political tool.
 [Timestamp: 2026/07/02 21:32:43]
 
-**user**: Analyze the role of idealism and realism in the political lifecycle: [[notebook_vault/Notes/Themes/Idealism]] [[Realism]] [[notebook_vault/Notes/Themes/Political Lifecycle]]
+**user**: Analyze the role of idealism and realism in the political lifecycle: [[notebook_vault/Notes/_Themes/Idealism]] [[notebook_vault/Notes/_Themes/Realism]] [[notebook_vault/Notes/_Themes/Political Lifecycle]]
 [Context: Notes: notebook_vault/Notes/Themes/Idealism.md, notebook_vault/Notes/Themes/Realism.md, notebook_vault/Notes/Themes/Political Lifecycle.md]
 [Timestamp: 2026/07/02 22:30:05]
 

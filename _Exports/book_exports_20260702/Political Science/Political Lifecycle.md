@@ -4,8 +4,8 @@ tags:
   - Theme
 Topic:
   - "[[notebook_vault/_Topics/Politics]]"
-  - "[[notebook_vault/Notes/Themes/Idealism]]"
-  - "[[Realism]]"
+  - "[[notebook_vault/Notes/_Themes/Idealism]]"
+  - "[[notebook_vault/_Exports/book_exports_20260702/Political Science/Realism]]"
 Genre:
 Source Name:
   - "[[notebook_vault/_Exports/book_exports_20260702/Political Science/Analysis of The Birth of Kansas 20260623]]"

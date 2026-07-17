@@ -2,7 +2,7 @@
 tags:
   - NotebookLM
   - Note
-Topic: "[[notebook_vault/Notes/Themes/Foreign Actors]]"
+Topic: "[[notebook_vault/Notes/_Themes/Foreign Actors]]"
 Genre: "[[The battle for Spain - the Spanish Civil War, 1936-1939]]"
 Source Name:
   - "[[notebook_vault/Library/NoteBookLM/Analysis of Spain and Kansas 20260627]]"

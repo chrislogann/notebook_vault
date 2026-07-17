@@ -23,106 +23,106 @@ isbn: 9780486123400
 
 |  |
 | --- |
-| ***My Life** was originally published in 1930 by Charles Schribner’s Sons, NY. Transcription and HTML markup for the [Trotsky Internet Archive](http://marxists.org/archive/trotsky/index.htm) by David Walters in 1998.*  *Readers should note that the translation uses a form of written English combining both the British and the United States styles of English. The on-line version (base for this eBook) of **My Life** stays loyal to the literary structure, spelling and grammar of the original version published in 1930 from which it was transcribed.*  *Converted to eBook format by Kollektiv Yakov Perelman from the on-line version of **My Life** available at [Trotsky Internet Archive](http://marxists.org/archive/trotsky/1930/mylife/index.htm) on 15 January 2013.* |
+| ***My Life** was originally published in 1930 by Charles Schribner’s Sons, NY. Transcription and HTML markup for the Trotsky Internet Archive by David Walters in 1998.*  *Readers should note that the translation uses a form of written English combining both the British and the United States styles of English. The on-line version (base for this eBook) of **My Life** stays loyal to the literary structure, spelling and grammar of the original version published in 1930 from which it was transcribed.*  *Converted to eBook format by Kollektiv Yakov Perelman from the on-line version of **My Life** available at Trotsky Internet Archive on 15 January 2013.* |
 
 ---
 
 ### CONTENTS
 
-[Foreword](../Text/foreword.htm)
+Foreword
 
-[Preface to the Norwegian Edition](../Text/norge.htm) (1935)
+Preface to the Norwegian Edition (1935)
 
-[I. Yanovka](../Text/ch01.htm)
+I. Yanovka
 
-[II. Our Neighbors and My First School](../Text/ch02.htm)
+II. Our Neighbors and My First School
 
-[III. Odessa: My Family and My School](../Text/ch03.htm)
+III. Odessa: My Family and My School
 
-[IV. Books and Early Conflicts](../Text/ch04.htm)
+IV. Books and Early Conflicts
 
-[V. Country and Town](../Text/ch05.htm)
+V. Country and Town
 
-[VI. The Break](../Text/ch06.htm)
+VI. The Break
 
-[VII. My First Revolutionary Organization](../Text/ch07.htm)
+VII. My First Revolutionary Organization
 
-[VIII. My First Prisons](../Text/ch08.htm)
+VIII. My First Prisons
 
-[IX. My First Exile](../Text/ch09.htm)
+IX. My First Exile
 
-[X. My First Escpape](../Text/ch10.htm)
+X. My First Escpape
 
-[XI. An Immigrant for the First Time](../Text/ch11.htm)
+XI. An Immigrant for the First Time
 
-[XII. The Party Congress and the Split](../Text/ch12.htm)
+XII. The Party Congress and the Split
 
-[XIII. The Return to Russia](../Text/ch13.htm)
+XIII. The Return to Russia
 
-[XIV. The Year 1905](../Text/ch14.htm)
+XIV. The Year 1905
 
-[XV. Trial, Exile, Escape](../Text/ch15.htm)
+XV. Trial, Exile, Escape
 
-[XVI. My Second Foreign Exile: German Socialism](../Text/ch16.htm)
+XVI. My Second Foreign Exile: German Socialism
 
-[XVII. Preparing for a New Revolution](../Text/ch17.htm)
+XVII. Preparing for a New Revolution
 
-[XVIII. The Beginning or The War](../Text/ch18.htm)
+XVIII. The Beginning or The War
 
-[XIX. Paris and Zimmerwald](../Text/ch19.htm)
+XIX. Paris and Zimmerwald
 
-[XX. My Expulsion From France](../Text/ch20.htm)
+XX. My Expulsion From France
 
-[XXI. Through Spain](../Text/ch21.htm)
+XXI. Through Spain
 
-[XXII. New York](../Text/ch22.htm)
+XXII. New York
 
-[XXIII. In A Concentration Camp](../Text/ch23.htm)
+XXIII. In A Concentration Camp
 
-[XXIV. In Petrograd](../Text/ch24.htm)
+XXIV. In Petrograd
 
-[XXV. Concerning Slanderers](../Text/ch25.htm)
+XXV. Concerning Slanderers
 
-[XXVI. From July to October](../Text/ch26.htm)
+XXVI. From July to October
 
-[XXVII. The Deciding Night](../Text/ch27.htm)
+XXVII. The Deciding Night
 
-[XXVIII. “Trotskyism"in 1917](../Text/ch28.htm)
+XXVIII. “Trotskyism"in 1917
 
-[XXIX. In Power](../Text/ch29.htm)
+XXIX. In Power
 
-[XXX. In Moscow](../Text/ch30.htm)
+XXX. In Moscow
 
-[XXXI. Negotiations at Brest-Litovsk](../Text/ch31.htm)
+XXXI. Negotiations at Brest-Litovsk
 
-[XXXII. Peace](../Text/ch32.htm)
+XXXII. Peace
 
-[XXXIII. A Month at Sviyazhsh](../Text/ch33.htm)
+XXXIII. A Month at Sviyazhsh
 
-[XXXIV. The Train](../Text/ch34.htm)
+XXXIV. The Train
 
-[XXXV. The Defense of Petrograd](../Text/ch35.htm)
+XXXV. The Defense of Petrograd
 
-[XXXVI. The Military Opposition](../Text/ch36.htm)
+XXXVI. The Military Opposition
 
-[XXXVII. Disagreements Over War Strategy](../Text/ch37.htm)
+XXXVII. Disagreements Over War Strategy
 
 [XXXVIII. The Transition to the New Economic Policy, and My Relations With
-Lenin](../Text/ch38.htm)
+Lenin]
 
-[XXXIX. Lenin’s Illness](../Text/ch39.htm)
+XXXIX. Lenin’s Illness
 
-[XL. The Conspiracy of the Epigones](../Text/ch40.htm)
+XL. The Conspiracy of the Epigones
 
-[XLI. Lenin’s Death and the Shift of Power](../Text/ch41.htm)
+XLI. Lenin’s Death and the Shift of Power
 
-[XLII. The Last Period of Struggle Within the Party](../Text/ch42.htm)
+XLII. The Last Period of Struggle Within the Party
 
-[XLIII. The Exile](../Text/ch43.htm)
+XLIII. The Exile
 
-[XLIV. The Deportation](../Text/ch44.htm)
+XLIV. The Deportation
 
-[XLV. The Planet Without a Visa](../Text/ch45.htm)
+XLV. The Planet Without a Visa
 
 ---
 
@@ -551,7 +551,7 @@ The little boy feels neither shame nor repentance. How old was he then? About tw
 possibly three.
 
 It was about this time that I ran into a poisonous snake while walking in the garden with my
-nurse. “Look, Lyova!” [[1]](#n1)
+nurse. “Look, Lyova!” 
 she cried, pointing to a bright object in the grass. “Here is a snuff-box buried in the
 ground!” My nurse took a stick and began to dig it out. She herself was not more than sixteen
 years old. The snuff-box uncoiled itself, stretched into a snake, and, hissing, began to crawl in
@@ -1520,7 +1520,7 @@ too rapidly and not too slowly, one would pour water into the burrow and await, 
 the appearance at the opening of the rat-like snout with its matted wet hair. An old marmot would
 resist a long time, stopping up the burrow with his rump, but a second bucket of water would make
 him surrender and jump out to meet his death. One had to cut off the paws of the dead animal and
-string them on a thread – the Zemstvo [[1]](../Text/ch02.htm#n1) would pay one kopeck for each marmot. They used to demand to be shown the tail,
+string them on a thread – the Zemstvo [1] would pay one kopeck for each marmot. They used to demand to be shown the tail,
 but clever fellows learned to make a dozen tails out of the skin of one animal; so the Zemstvo now
 required the paws. I would return all wet and dirty. At home such adventures were not encouraged.
 They preferred me to sit on the divan in the dining-room and draw the blind Oedipus and
@@ -1592,7 +1592,7 @@ couple of slaps. I was not even offended, so extraordinary did it all seem.
 
 It must have been in the same year that I accompanied my father on a trip to Elizavetgrad. We
 started at dawn, and went slowly. In Bobrinetz the horses were fed. We reached Vshivaya
-[[2]](../Text/ch02.htm#n2) in the evening. We called
+[2] in the evening. We called
 it Shvivaya out of delicacy. There we stayed until daybreak, as robbers were reported on the
 outskirts. Not a single capital in the world, neither Paris nor New York, made in after years such
 an impression on me as Elizavetgrad with its sidewalks, green roofs, balconies, shops, policemen
@@ -1718,10 +1718,10 @@ opened a new era in my life.
 
 ### Notes
 
-[1.](../Text/ch02.htm#f1) An elective rural organization in
+1. An elective rural organization in
 charge of the administration of country districts. – *Translator*
 
-[2.](../Text/ch02.htm#f2) In the Russian this means
+2. In the Russian this means
 “lousy.” – *Translator*
 
 ---
@@ -1849,7 +1849,7 @@ she whispered to me indignantly. “What is he then?” I asked. “Just
 somebody,” she replied. And I had occasion to contemplate the complexity of human
 relations.
 
-At dinner Fanny Solomonovna [[1]](../Text/ch03.htm#n1) said to me, smiling strangely: “How about some more soup,
+At dinner Fanny Solomonovna [1] said to me, smiling strangely: “How about some more soup,
 author?”
 
 “What?” I asked, alarmed.
@@ -1884,7 +1884,7 @@ of education.
 
 In the fall, I took my examinations for the first class of the St. Paul *realschule*. I
 passed the entrance examination with average marks: a “3” in Russian, a “4”
-in arithmetic. [[2]](../Text/ch03.htm#n2) This was
+in arithmetic. [2] This was
 not enough, as the ten per cent statute meant the most rigid selection complicated, of course, by
 bribery. It was decided to put me in the preparatory class, attached to the school as a private
 institution. Jews were transferred from there to the first class according to the statute, it is
@@ -2259,10 +2259,10 @@ curses, not usually found in dictionaries.
 
 ### Notes
 
-[1.](../Text/ch03.htm#f1) The wife of Moissey
+1. The wife of Moissey
 Filippovich.
 
-[2.](../Text/ch03.htm#f2) In the Russian system of grading,
+2. In the Russian system of grading,
 “5” was the highest and “1” the lowest mark. –
 *Translator*
 
@@ -3068,7 +3068,7 @@ at my seniors, trying to read in their faces whether they were serious or joking
 not a joke. I bowed my head before their knowledge. Soon I got used to the idea that God was
 spirit. As became a little savage, I connected God with my own “spirit,” calling it
 “soul,” and already knowing that “soul,” that is, “breath,”
-ends when death comes. [[1]](../Text/ch05.htm#n1) I
+ends when death comes. [1] I
 did not yet know, however, that this doctrine bore the name of “animism.”
 
 On my first vacation at home, when I was getting ready to go to sleep on the sofa in the
@@ -3292,7 +3292,7 @@ no longer surprise me.
 
 ### Notes
 
-[1.](../Text/ch05.htm#f1) In Russian “spirit,”
+1. In Russian “spirit,”
 “soul,” and “breath” respectively “*dukh*,”
 “*dusha*,” and “*dykhaniya*” derive from the same root.
 – *Translator*
@@ -3743,7 +3743,7 @@ eating-place patronized by tramps. He worked in the harbor as a longshoreman; he
 drank. He was reserved and well-mannered. But there must have been some thing mysterious about his
 life, despite the fact that he was only twenty-one, to account for his constant gloominess. He soon
 confided in me that he had been introduced to some members of the secret society of Narodovoltzi
-[[1]](../Text/ch07.htm#n1), and offered to put me in
+[1], and offered to put me in
 touch with them. Three of us, Mukhin, Yefimov and I, were sitting drinking tea in the noisy
 *Russia* inn, at the same time listening to the deafening music of the organ and waiting. At
 last, Yefimov indicated to us with his eyes the figure of a big, stout man with a small beard.
@@ -3908,7 +3908,7 @@ Both the revolutionaries and the police were growing in experience.
 
 ### Notes
 
-[1.](../Text/ch07.htm#f1) Members of the Terrorist
+1. Members of the Terrorist
 *Narodnaya Volya* (*The People’ Will*). – *Trans.*
 
 ---
@@ -4144,7 +4144,7 @@ main ideas and conclusions were correct. I felt, even at that time, that I was s
 my own feet, and as the work progressed, I had the feeling even more strongly. I would give a great
 deal to-day to find that manuscript. It went with me into exile, although there I discontinued my
 work on freemasonry to take up the study of Marxian economics. After my escape abroad, Alexandra
-Lvovna [[1]](../Text/ch08.htm#n1) forwarded the
+Lvovna [1] forwarded the
 script to me from Siberia, through my parents, when they visited me in Paris in 1903. Later on,
 when I went on a secret mission to Russia, it was left in Geneva with the rest of my modest émigré
 archives, to be come part of the **Iskra**’s archives and to find there an
@@ -4187,7 +4187,7 @@ the autumn of 1900 that we reached our place of banishment.
 
 ### Notes
 
-[1.](../Text/ch08.htm#f1) Alexandra Lvovna Sokolovskaya,
+1. Alexandra Lvovna Sokolovskaya,
 who was exiled to Siberia with the author, and became his wife – *Trans.*
 
 ---
@@ -4404,7 +4404,7 @@ maniacs as well. We were absolutely sure that we would get the better of that lu
 
 The old structure of the state was cracking all through its foundations. The students were still
 the ringleaders in the struggle, and in their impatience began to employ the methods of terrorism.
-After the shots fired by Karpovich and Balmashov [[1]](../Text/ch09.htm#n1), all the exiles were as much aroused as if they had heard the bugle-call
+After the shots fired by Karpovich and Balmashov [1], all the exiles were as much aroused as if they had heard the bugle-call
 of alarm. Arguments about the use of terrorist methods began. After individual vacillations, the
 Marxist section of the exiled went on record against terrorism. The chemistry of high explosives
 cannot take the place of mass action, we said. Individuals may be destroyed in a heroic struggle,
@@ -4461,7 +4461,7 @@ intellectual kinship.
 
 ### Notes
 
-[1.](../Text/ch09.htm#f1) Karpovich shot Bogolyepov,
+1. Karpovich shot Bogolyepov,
 Minister of Education. Balmashov shot Sipyagin, Minister of the Interior, in 1902. –
 *Trans.*
 
@@ -4727,7 +4727,7 @@ hour. But I was still impelled by the force that had set me off on my journey fr
 had disturbed Axelrod in Zurich in the same barbarous way, although that was in the middle of the
 night, instead of at dawn. Lenin was still in bed, and the kindly expression of his face was tinged
 with a justifiable amazement. Such was the setting for our first meeting and conversation. Both
-Vladimir Ilyich [[1]](../Text/ch11.htm#n1) and
+Vladimir Ilyich [1] and
 Nadyezhda Konstantinovna already knew of me from Kler’s letter, and had been waiting for
 me.
 
@@ -4958,7 +4958,7 @@ one lance there in my hot defense of materialist dialectics.
 
 ### Notes
 
-[1.](../Text/ch11.htm#f1) Lenin’s full original name
+1. Lenin’s full original name
 is Vladimir Ilyich Ulyanov, Nikolay Lenin being his party- and pen-name. Since the revolution it
 has become customary to refer to him as Vladimir Ilyich Lenin, and more familiarly as Ilyich. His
 wife’s maiden name is Nadyezhda Konstantinovna Krupskaya. – *Trans.*
@@ -5217,7 +5217,7 @@ The congress opened in Brussels at the headquarters of a labor co-operative soci
 Maison du Peuple. The store room, which had been assigned for our work, and which was sufficiently
 hidden away from alien eyes, contained bales of wool; as a result, we were constantly being
 attacked by huge numbers of fleas. We referred to them as “Ansele’s army,”
-[[1]](../Text/ch12.htm#n1) mobilized for its attack
+[1] mobilized for its attack
 on bourgeois society. The meetings were an actual physical torture. Still worse was the persistent
 dogging of the delegates’ steps, from the very first day of their stay.
 
@@ -5401,7 +5401,7 @@ gay ironic sparkle in his eyes, his gray ing mustache alert and bristling, with 
 but lively and expressive gestures, Plekhanov as chairman illumined the entire large gathering with
 his personality, like a live fire works of erudition and wit.
 
-The leader of the Mensheviks [[2]](../Text/ch12.htm#n2), Martov, must be counted as one of the most tragic figures of the revolutionary
+The leader of the Mensheviks [2], Martov, must be counted as one of the most tragic figures of the revolutionary
 movement. A gifted writer, an ingenious politician, a penetrating thinker, Martov stood far above
 the intellectual movement of which he became the leader. But his thought lacked courage; his in
 sight was devoid of will. Sheer doggedness was no substitute. Martov’s initial reaction to
@@ -5422,11 +5422,11 @@ unconscious tools in the hands of hostile forces.
 
 ### Notes
 
-[1.](../Text/ch12.htm#f1) Ansele was one of the leaders of
+1. Ansele was one of the leaders of
 the Socialist party in Belgium, particularly prominent in the co-operative movement. –
 *Trans.*
 
-[2.](../Text/ch12.htm#f2) As the result of the spilt at the
+2. As the result of the spilt at the
 Second Congress of the Russian Social Demo cratic Party, the two factions came to be known as
 “Bolsheviks,” meaning “*of the majority*,” and
 “Mensheviks,” meaning “*of the minority*.” –
@@ -5497,10 +5497,10 @@ excitement.
 “What do you mean, did not come off?” he pounced on me. “We spent the whole
 night in a café reading fresh cables. Haven’t you heard anything? Here it is, here, here
 ...” and he pushed the paper into my hands. I ran through the first ten lines of the
-telegraphed report of the bloody Sunday. [[1]](../Text/ch13.htm#n1) A dull, burning sensation seemed to overpower me – I could not stay
+telegraphed report of the bloody Sunday. [1] A dull, burning sensation seemed to overpower me – I could not stay
 abroad any longer. My connections with the Bolsheviks had ended with the congress. I broke away
 from the Mensheviks; I had to act at my own risk. Through a student I got a new passport, and with
-my wife [[2]](../Text/ch13.htm#n2), who had come
+my wife [2], who had come
 abroad again in the autumn of 1904 I took the train to Munich. Parvus put us up in his own house.
 There he read my manuscript dealing with the events of the 22nd of January, and was much excited by
 it. “The events have fully confirmed this analysis. Now, no one can deny that the general
@@ -5723,7 +5723,7 @@ in St. Petersburg.
 
 ### Notes
 
-[1.](../Text/ch13.htm#f1) On January 22, 1905, great masses
+1. On January 22, 1905, great masses
 of workers in St. Petersburg, led by the priest Gapon and carrying church banners and the portrait
 of the Czar, marched to the Winter Palace to submit a petition in which they set forth their
 grievances and appealed to the Czar to help improve their lot. The men, their wives and children
@@ -5731,7 +5731,7 @@ proceeded to the Palace Square, but were met by government troops who shot and s
 or wounding thousands. The day has become known in Russia as “The Bloody Sunday.”
 – *Trans.*
 
-[2.](../Text/ch13.htm#f2) Natalia Ivanovna Sedova, the
+2. Natalia Ivanovna Sedova, the
 author’s second wife. – *Trans.*
 
 ---
@@ -5749,7 +5749,7 @@ strike, now with political slogans, spread from Moscow throughout the country. N
 strike had ever been seen anywhere before. In many towns there were clashes with the troops. But,
 taken by and large, the October events remained on the plane of a political strike and never took
 on the character of an armed up rising. Absolutism lost its head, however, and retreated. On
-October 17 [[1]](../Text/ch14.htm#n1) it announced
+October 17 [1] it announced
 the *Constitutional Manifesto*. It is true that injured Czarism retained the apparatus of
 power. The government policy was more than ever, to use the words of Witte, “a mixture of
 cowardice, blindness, treachery and stupidity.” Nevertheless, the revolution won its first
@@ -6089,7 +6089,7 @@ In this respect, as in others, the year 1905 was a preparation for the year 1917
 
 ### Notes
 
-[1.](../Text/ch14.htm#f1) The date is according to the
+1. The date is according to the
 Julian calendar which was in use in Russia before the Revolution, and corresponds to October 30 in
 the Gregorian calendar a difference of thirteen days. Where a double date is quoted the one in
 parentheses represents the Gregorian calendar. – *Trans.*
@@ -6131,7 +6131,7 @@ copies of the pamphlet were sold within a few weeks.
 D. Sverchkov, who shared my imprisonment with me, later described the prison period in his book
 **At the Dawn of the Revolution**. He wrote: “L. D. Trotsky, working under great
 pressure, wrote and handed in for printing parts of his book, ’Russia and the
-Revolution,’ a book in which he definitely advanced for the first time [[1]](../Text/ch15.htm#n1) the idea that the revolution which
+Revolution,’ a book in which he definitely advanced for the first time [1] the idea that the revolution which
 had started in Russia could not end until the Socialist regime was fulfilled. His theory of
 ‘permanent revolution,’ as it was called, was accepted by few, but he held firmly to
 his position, and even then discerned in the state of the world all the symptoms of decomposition
@@ -6334,7 +6334,7 @@ Zyryan, a clever and experienced fellow, like all the Zyryans.
 “Of course, a frightful tippler. But he speaks Russian and Zyryan fluently, and two Ostyak
 dialects which barely resemble each other. Another driver like him is not to be found a shrewd one,
 he is.” It was this shrewd fellow who afterward gave “The Goat’s Foot”
-away. But he got me away success fully. [[2]](../Text/ch15.htm#n2)
+away. But he got me away success fully. [2]
 
 The departure was set for Sunday at midnight. That day the officials were having amateur
 theatricals. I appeared at the barracks, which served as the improvised theatre, and when I met the
@@ -6527,10 +6527,10 @@ years.
 
 ### Notes
 
-[1.](../Text/ch15.htm#f1) Inexact. – *L.D.
+1. Inexact. – *L.D.
 Trotsky*
 
-[2.](../Text/ch15.htm#f2) In my book **1905**
+2. In my book **1905**
 this part of my escape was purposely described in different way. At that time, to tell the truth
 would have meant putting the Czar’s police on the track of my accomplices. To-day, I still
 hope that Stalin will not prosecute them either, especially since their sentences would have
@@ -7419,7 +7419,7 @@ questioned him, he said, ’It’s a prayer. You know prayers can be very pretty
 poems.’”
 
 Ever since my first foreign exile, my parents had been coming abroad. They visited me in Paris;
-then they came to Vienna with my oldest daughter [[1]](../Text/ch17.htm#n1), who was living with them in the country. In 1910 they came to Berlin. By
+then they came to Vienna with my oldest daughter [1], who was living with them in the country. In 1910 they came to Berlin. By
 that time they had become fully reconciled to my fate. The final argument was probably my first
 book in German.
 
@@ -7452,7 +7452,7 @@ burden on my wife. But she still found time and energy to help me in revolutiona
 
 ### Notes
 
-[1.](../Text/ch17.htm#f1) By the author’s first
+1. By the author’s first
 marriage. – *Trans.*
 
 ---
@@ -7549,7 +7549,7 @@ then was from thinking that his own son would commit a political murder! On the 
 war, I published an article in the **Kampf** magazine, edited by Adler’s son,
 showing the futility of individual terrorism. It is significant that the editor warmly approved the
 article. The terrorist act committed by Friedrich Adler was merely an outburst of opportunism in
-despair, nothing more. [[1]](../Text/ch18.htm#n1)
+despair, nothing more. [1]
 After he had vented his despair, he returned to his old rut.
 
 Geyer cautiously indicated the possibility that all Russians and Serbians might be put under
@@ -7745,7 +7745,7 @@ Indeed, it would seem that books have their own destiny.
 
 ### Notes
 
-[1.](../Text/ch18.htm#f1) Friedrich Adler, son of Victor
+1. Friedrich Adler, son of Victor
 Adler, shot Count Stürgkh, the Austro-Hungarian premier, on October 21, 1916. He received the
 death-sentence, later commuted to imprisonment. He was released from prison by the revolution of
 1918. - *Trans.*
@@ -9123,7 +9123,7 @@ Internationalists and the Central Committee of the Bolsheviks. No one was there 
 friend Uritzky, whom I had met in Siberia at the beginning of the century. He had been the
 permanent correspondent of the Paris **Nashe Slovo** for Scandinavia, and had acted as
 our connecting link with Russia during the war. A year after we met at Beloostrov, Uritzky was
-assassinated by a young Socialist-Revolutionist. [[1]](../Text/ch24.htm#n1) It was in the welcoming delegation that I first met Karakhan, who later
+assassinated by a young Socialist-Revolutionist. [1] It was in the welcoming delegation that I first met Karakhan, who later
 became famous as a Soviet diplomatist. The Bolsheviks were represented by Fyodorov, a metal-worker
 who soon after became the chairman of the workers’ section of the Petrograd Soviet.
 
@@ -9437,7 +9437,7 @@ Circus ended only in February, when I went to Moscow.
 
 ### Notes
 
-[1.](../Text/ch24.htm#f1) The Socialist-Revolutionist Party
+1. The Socialist-Revolutionist Party
 represented the left wing of the Populist movement. It differed from the Social-Democrats and the
 Marxists in general in its insistence on the identity of the interests of the proletariat and the
 peasantry, and in its use of terrorist methods against the Czarist government. –
@@ -9492,7 +9492,7 @@ That was the history of the $10,000. I recounted it at the time in Gorky’s pap
 *Novaya Zhizn* (June 27), ending the article with this moral:
 
 “To provide the necessary corrective for future occasions, I feel that it
-is pertinent for me to state, for the benefit of liars, slanderers, Kadet [[1]](../Text/ch25.htm#n1) reporters and blackguards in general, that in my
+is pertinent for me to state, for the benefit of liars, slanderers, Kadet [1] reporters and blackguards in general, that in my
 entire life I have not only never had at my disposal, at one time, $10,000, but even a tenth of
 that sum. Such a confession, I am afraid, may ruin my reputation among the Kadet public more
 completely than all the insinuations of M. Miliukoff, but I have long since become reconciled to
@@ -9529,7 +9529,7 @@ away, Kerensky assured us that Lenin and other Bolsheviks were agents of the Ger
 were connected with the German general staff, were receiving sums of money from it, and were
 carrying out its secret instructions with a view to bringing about the defeat of the Russian army
 and the dismemberment of the Russian state. This is all told in great detail in his amusing book,
-[[2]](../Text/ch25.htm#n2) I had formed a pretty
+[2] I had formed a pretty
 dear idea of Kerensky’s intellectual and moral stature from the events of 1917, but I never
 would have thought it possible that at this time, after all that has happened, he could have the
 audacity to repeat the accusation. But that is exactly what he did.
@@ -9560,7 +9560,7 @@ creator’s soul.
 Headquarters.” We had heard this name. He is the decisive figure in all this business. One
 notes too that Kerensky cannot be exact even when he has no interest in being inexact. The name of
 the petty rogue whom he brings out on the stage is not “Yarmolyenko,” but
-“Yermolyenko.” [[3]](../Text/ch25.htm#n3) This, at least, was the name under which he was listed by Mr. Kerensky’s
+“Yermolyenko.” [3] This, at least, was the name under which he was listed by Mr. Kerensky’s
 court investigators.
 
 And so, corporal Yermolyenko (Kerensky refers to him as “officer” with intentional
@@ -9819,18 +9819,18 @@ but against a great nation and its revolution.
 
 ### Notes
 
-[1.](../Text/ch25.htm#f1) The Constitutional-Democratic
+1. The Constitutional-Democratic
 Party, founded by Prof. Miliukoff, is known colloquially as the “Kadet” party (after
 the first letters, K-D) and its members as the “Kadets.” In Russian usage the term is
 almost synonymous with “liberal.” – *Trans.*
 
-[2.](../Text/ch25.htm#f2) The quotations in the above text
+2. The quotations in the above text
 are translated directly from the Russian edition of Kerensky’s book, and the pages cited
 refer to that edition. An English translation is published in New York by D. Appleton & Co.
 under the title of “The Catastrophe.” In that translation the passages discussed will
 be found on pp.229-233 and with especial emphasis on pages 290-310. – *Trans.*
 
-[3.](../Text/ch25.htm#f3) In Russian, the diphthongs
+3. In Russian, the diphthongs
 “ya” and “ye” are represented by two different characters:
 “Я” and “Е,” respectively. – *Trans.*
 
@@ -10126,7 +10126,7 @@ machine-guns. They proved to be in poor condition as a result of continuous negl
 soldiers had grown slack because they had no intention of defending Kerensky. I had a new and more
 reliable machine-gun detachment brought to the Smolny.
 
-October 24 [[1]](../Text/ch27.htm#n1), a gray
+October 24 [1], a gray
 morning, early. I roamed about the building from one floor to another, partly for the sake of
 movement and partly to make sure that everything was in order and to encourage those who needed it.
 Along the stone floors of the interminable and still half-dark corridors of the Smolny, the
@@ -10367,7 +10367,7 @@ of Lenin’s arrival in Petrograd.
 
 ### Notes
 
-[1.](../Text/ch27.htm#f1) By the Julian calendar which at
+1. By the Julian calendar which at
 the time was still the official calendar in Russia; November 6, by the calendar used in the rest of
 Europe. This accounts for the revolution being called sometimes the October, sometimes the November
 revolution. – *L.D. Trotsky*
@@ -10814,7 +10814,7 @@ they were of the simplest sort, like busts or memorial tablets to be placed in a
 if it could be managed, in the villages as well, so that what had happened might be fixed in the
 people’s imagination, and leave the deepest possible furrow in memory.
 
-Every meeting of the Soviet of People’s Commissaries [[1]](../Text/ch29.htm#n1), which changed its membership often at first, presented a
+Every meeting of the Soviet of People’s Commissaries [1], which changed its membership often at first, presented a
 picture of an immense legislative improvisation. Everything had to proceed from the beginning.
 There were no “precedents,” since history had none to offer. Lenin presided
 indefatigably at the Soviet for five and six hours on end, and the meetings of the People’s
@@ -10960,7 +10960,7 @@ Brest-Litovsk, during the Moscow period, in the spring and summer of 1918.
 
 ### Notes
 
-[1.](../Text/ch29.htm#f1) The Soviet (Council) of
+1. The Soviet (Council) of
 People’s Commissaries is the executive and directive Organ of the Central Executive Committee
 of the USSR. The Central Executive Committee acts as a legislative body between the sessions of the
 Congresses of Soviets. The Central Executive Committee, or, as it is sometimes called, the
@@ -11101,7 +11101,7 @@ us. In that period, Lenin was rather talkative – judged, of course, by his own
 There were so many new things, things utterly strange to us, to prepare for. We had to create
 ourselves and the others to fit in with the new conditions, and accordingly we felt the need of
 passing from the particular to the general and the other way about. The little cloud of the
-Brest-Litovsk disagreements [[1]](../Text/ch30.htm#n1) had dispersed, leaving never a trace. Lenin was very cordial and considerate
+Brest-Litovsk disagreements [1] had dispersed, leaving never a trace. Lenin was very cordial and considerate
 both to me and to my family. He often stopped our boys in the corridor to play with them.
 
 The furniture in my room was Karelian birch. Over the fireplace a clock struck the hours in a
@@ -11312,7 +11312,7 @@ The civil war kept me away from the work in the Soviet of Commissaries. I lived 
 railway-carriage or in an automobile. After weeks and months of such travelling, I got so
 completely out of touch with the current government business that I could not pick up the threads
 again in my brief visits to Moscow. The most important questions, however, were decided at the
-Politbureau. [[2]](../Text/ch30.htm#n2) Sometimes I
+Politbureau. [2] Sometimes I
 would return specially for the meeting of the Politbureau, in answer to Lenin’s summons. Or
 sometimes, through Svyerdlov, I would call an extraordinary meeting of the Politbureau to discuss
 important questions that I had brought with me from the front. During these years my correspondence
@@ -11365,10 +11365,10 @@ both derived from the same source – the petty bourgeois reaction against Octob
 
 ### Notes
 
-[1.](../Text/ch30.htm#f1) Explained in the ensuing chapters
+1. Explained in the ensuing chapters
 – *Trans.*
 
-[2.](../Text/ch30.htm#f2) The Politbureau (an abbreviation
+2. The Politbureau (an abbreviation
 of the “Political Bureau”) is an organization within the Central Committee of the
 Communist Party which controls the policy. – *Trans.*
 
@@ -11801,7 +11801,7 @@ that the right of determining the scope and character of my powers belongs exclu
 Government.”
 
 During the last stages of the negotiations, Kühlmann’s and Czernin’s trump card was
-the independent action of the Kiev Rada [[1]](../Text/ch31.htm#n1), which was hostile to Moscow. Its leaders represented the Ukrainian variety of
+the independent action of the Kiev Rada [1], which was hostile to Moscow. Its leaders represented the Ukrainian variety of
 Kerenskyism, and differed from their Great Russian prototype only in that they were even more
 provincial. The Brest-Litovsk delegates of the Rada were never intended by nature for any other
 fate than to be led by the nose by any capitalist diplomatist. Kühlmann and Czernin both engaged in
@@ -11864,19 +11864,19 @@ policy which is not so much a pious hypocrisy as it is cynicism. It has proved p
 bring forth numerous mass movements in various countries. And its tragic last act – the
 intervention against the revolution – has made socialism tremble in every fibre of its being.
 Time will show what harvest will ripen for the present victors from this sowing. They will not be
-pleased with it.” [[2]](../Text/ch31.htm#n2)
+pleased with it.” [2]
 
 ---
 
 ### Notes
 
-[1.](../Text/ch31.htm#f1) The Rada, an assembly of
+1. The Rada, an assembly of
 representatives of various public organizations in the Ukraine, was formed after the February
 revolution and claimed to be the spokesman for the Ukrainian nation. After its overthrow by the
 Bolsheviks, the Rada favored the German occupancy, which, when established, dissolved the Rada
 government and made Hetman Skoropadsky the sole ruler of the country. – *Trans.*
 
-[2.](../Text/ch31.htm#f2) Karl Liebknecht,
+2. Karl Liebknecht,
 **Politische Auszeichnungen aus seinem Nachlass**, Verlag Die Aktion, 1921, p.51.
 
 ---
@@ -12291,7 +12291,7 @@ Brest-Litovsk policy, which was wholly directed toward gaining time.
 
 Truth makes its way, but nonsense is just as tenacious. Professor Fisher of America, in a big
 book describing the first years of Soviet Russia, **The Famine in Soviet Russia**
-[[1]](../Text/ch32.htm#n1), attributed to me the
+[1], attributed to me the
 idea that the Soviets will never enter into a war with the bourgeois governments, nor make peace
 with them. Fisher, like many another, copied this nonsensical formula from Zinoviev and the
 epigones in general, adding to it some of his own lack of understanding. My belated critics have
@@ -12300,7 +12300,7 @@ into a universal formula in order to reduce it more easily to absurdity. In doin
 have failed to notice that the state of “no peace, no war,” or, more precisely, of
 neither peace *treaty* nor war, held nothing unnatural in itself. Exactly these relations
 exist to-day between Soviet Russia and the greatest countries of the world – the United
-States and Great Britain. [[2]](../Text/ch32.htm#n2)
+States and Great Britain. [2]
 True, it was not by our wish that they became established as such, but that does not alter
 matters.
 
@@ -12367,11 +12367,11 @@ learned from him to arrive independently at the same decision.
 
 ### Notes
 
-[1.](../Text/ch32.htm#f1) **The Famine in Soviet
+1. **The Famine in Soviet
 Russia, 1919-1923; the Operations of the American Relief Administration**, by H.H. Fisher.
 New York: the Macmillan Company, 1927.
 
-[2.](../Text/ch32.htm#f2) Written before the recent
+2. Written before the recent
 resumption of diplomatic relations between Soviet Russia and Great Britain. –
 *Trans.*
 
@@ -12630,7 +12630,7 @@ the Peter-Paul fortress during the revolution, and later on he took part in the 
 military students’ uprising. I intrusted him with important commissions during the Smolny
 period, and he carried them out well. “Out of such a lieutenant,” I had once said
 jokingly to Lenin, “even a Napoleon may come some day. He even has the right name for it:
-Blago-nravov, [[1]](../Text/ch33.htm#n1) almost like
+Blago-nravov, [1] almost like
 Bona-parte.” Lenin laughed at this unexpected comparison, then he grew thoughtful, and, with
 his cheekbones bulging even more, said very seriously, almost threateningly, “Well, I think
 we’ll manage the Bonapartes, don’t you?”
@@ -12656,7 +12656,7 @@ work.
 
 Revolution is a great devourer of men and character. It leads the brave to their destruction and
 destroys the souls of those who are less hardy. Today, Blagonravov is a member of the ruling staff
-of the State Political Board (“GPU”) [[2]](../Text/ch33.htm#n2), and one of the pillars of the present regime. He must have learned to
+of the State Political Board (“GPU”) [2], and one of the pillars of the present regime. He must have learned to
 hate the “permanent revolution” when he was still at Sviyazhsk.
 
 The fate of the revolution was trembling in the balance between Sviyazhsk and Kazan. No retreat
@@ -12821,10 +12821,10 @@ taken place in Europe. The German army was in a hopeless position.
 
 ### Notes
 
-[1.](../Text/ch33.htm#f1) In Russian this means
+1. In Russian this means
 “good-natured” or “good-mannered.” – *Trans.*
 
-[2.](../Text/ch33.htm#f2) The GPU, which is the
+2. The GPU, which is the
 abbreviation of “Gosudarstvennoye Politicheskoye Upravleniye,” i.e., “State
 Political Board,” is the Soviet organization of secret police. – *Trans.*
 
@@ -12835,7 +12835,7 @@ Political Board,” is the Soviet organization of secret police. – *Trans.*
 # CHAPTER XXXIV THE TRAIN
 
 Now it is time to speak of “The train of the
-Predrevoyensoviet.” [[1]](../Text/ch34.htm#n1)
+Predrevoyensoviet.” [1]
 During the most strenuous years of the revolution, my own personal life was bound up inseparably
 with the life of that train. The train, on the other hand, was inseparably bound up with the life
 of the Red Army. The train linked the front with the base, solved urgent problems on the spot,
@@ -13190,7 +13190,7 @@ comrades-in-arms.
 
 ### Notes
 
-[1.](../Text/ch34.htm#f1) The train of the Chairman of the
+1. The train of the Chairman of the
 Revolutionary Military Council. – *Trans.*
 
 ---
@@ -13796,11 +13796,11 @@ considerations. At the same time, he was naturally disturbed by the disagreement
 smooth out our relations. On October 23 he wrote to me at Balashov:
 
 “Today, Stalin returned bringing with him news of three big victories by
-our troops before Tsaritsin. [[1]](../Text/ch36.htm#n1) Stalin has persuaded Voroshilov and Minin, whom he considers very valuable and
+our troops before Tsaritsin. [1] Stalin has persuaded Voroshilov and Minin, whom he considers very valuable and
 quite irreplaceable workers, not to leave, and to obey in full the orders of the centre. The only
 cause of their dissatisfaction, according to him, is the extreme delay or even failure in sending
 them shells and cartridges, for lack of which the two hundred thousand strong of the Caucasian
-army, which is in fine fettle, are also perishing. [[2]](../Text/ch36.htm#n2) Stalin is anxious to work on the southern front.
+army, which is in fine fettle, are also perishing. [2] Stalin is anxious to work on the southern front.
 
 He hopes that in actual work he will be able to demonstrate the correctness of his
 view ... In informing you, Lev Davydovich, of all these statements of Stalin’s, I request
@@ -13960,7 +13960,7 @@ his conduct was during the October days, or whether he had any at all. But after
 power, in the hustle-bustle of the period he was sent to the ministry of finance. He showed no
 active enterprise of his own, or rather only enough to reveal his incompetence. Later on,
 Dzerzhinsky took him over. Dzerzhinsky was a man of tremendous will, passion, and high moral
-tension. His figure dominated the Che-Ka. [[3]](../Text/ch36.htm#n3) No one took any notice of Menzhinsky, so quietly toiling away over his papers.
+tension. His figure dominated the Che-Ka. [3] No one took any notice of Menzhinsky, so quietly toiling away over his papers.
 It was not until Dzerzhinsky, toward the end of his life, parted company with his deputy Unschiicht
 that he suggested appointing Menzhinsky to the vacant post, not being able to find anyone else. The
 proposal caused general surprise. “But who else?” Dzerzhinsky said, in excuse.
@@ -14024,14 +14024,14 @@ tried to dig under Ilyich.”
 
 ### Notes
 
-[1.](../Text/ch36.htm#f1) The ’victories’
+1. The ’victories’
 actually had merely episodic importance. – *L.T.*
 
-[2.](../Text/ch36.htm#f2) This army of irregulars crumbled
+2. This army of irregulars crumbled
 away at a single blow shortly after, and revealed its complete incompetence. –
 *L.T.*
 
-[3.](../Text/ch36.htm#f3) The “Chrezvychaynaya
+3. The “Chrezvychaynaya
 Komissia” (the Extraordinary Commission), known in short as the Che-Ka, performed police and
 judicial duties, chiefly in connection with the defense of the revolution. The functions of the
 Che-Ka, after its reorganization, have been taken over by the GPU (the State Political Board).
@@ -14539,7 +14539,7 @@ not been for the ruthless measures at Sviyazhsk, we would not have been holding 
 “Absolutely,” Lenin picked it up, and then and there began to write very fast, as he
 always did, in red ink at the bottom of a blank sheet that bore the seal of the Soviet of
 People’s Commissaries. Lenin was in the chair, and so the meeting stopped. Two minutes later,
-he handed me the sheet of paper. [[1]](../Text/ch38.htm#n1)
+he handed me the sheet of paper. [1]
 
 “I will give you,” said Lenin, “as many forms like this as you want.” In
 circumstances as serious as those of civil war, with its necessity of making hasty and irrevocable
@@ -14555,19 +14555,19 @@ in his archives, it could only be Lenin’s “Will,” which Stalin concealed f
 party – the “will” in which Stalin himself is referred to as a disloyal man,
 capable of abuse of power. It is enough simply to juxtapose these two texts – the unlimited
 moral power of attorney which Lenin conferred on me, and the moral “wolf’s
-passport,” [[2]](../Text/ch38.htm#n2) issued
+passport,” [2] issued
 to Stalin – to realize to the full his attitude toward each of us.
 
 ---
 
 ### Notes
 
-[1.](../Text/ch38.htm#f1) “*Knowing the strict
+1. “*Knowing the strict
 character of Comrade Trotsky’s orders, I am so convinced, so absolutely convinced, of the
 correctness, expediency, and necessity for the success of the cause of the order given by Comrade
 Trotsky, that I unreservedly endorse this order.*” – LENIN.
 
-[2.](../Text/ch38.htm#f2) The name of “wolf’s
+2. The name of “wolf’s
 passport” was applied colloquially in Czarist Russia to a document, also known as "the
 transit certificate,” issued to criminals in lieu of a passport; it usually made them
 outcasts not allowed to stay long in any one place. – *Trans.*
@@ -16110,7 +16110,7 @@ Kamenev was considered the official leader of Moscow. But after the routing with
 participation of the Moscow party organization in 1923, when the party came out in its majority to
 support the opposition, the rank-and-file of the Moscow communists maintained a grim silence. With
 the first attempts to resist Stalin, Kamenev found himself suspended in air. The situation in
-Leningrad [[1]](../Text/ch42.htm#n1) was different.
+Leningrad [1] was different.
 The Leningrad communists were protected from the opposition of 1923 by the heavy lid of
 Zinoviev’s apparatus. But now their turn came. The Leningrad workers were aroused by the
 political trend in favor of the rich peasants – the so-called *kulaks* – and a
@@ -16221,7 +16221,7 @@ without attracting anyone’s attention, feeling myself a part of the nameless w
 and observing. Only once did our companion say to me cautiously: “There they are selling your
 photographs.” But from those photographs no one would have recognized the member of the
 *collegium* of the commissariat of education, Kuzmyenko. In case these lines should meet the
-eyes of Count Westarp, of Hermann Müller, Stresemann [[2]](../Text/ch42.htm#n2), Count Reventlow, Hilferding, or of any others who opposed
+eyes of Count Westarp, of Hermann Müller, Stresemann [2], Count Reventlow, Hilferding, or of any others who opposed
 my admission into Germany, I think it necessary to inform them that I did not proclaim any
 reprehensible slogans, stick up any outrageous posters, that in general I was merely an observer
 waiting to undergo an operation a few days later.
@@ -16636,10 +16636,10 @@ placed at the disposal of the GPU.
 
 ### Notes
 
-[1.](../Text/ch42.htm#f1) St. Petersburg, renamed Petrograd
+1. St. Petersburg, renamed Petrograd
 during the war, had been rechristened as Leningrad. – *Trans.*
 
-[2.](../Text/ch42.htm#f2) Written before the recent death
+2. Written before the recent death
 of Stresemann. – *Trans.*
 
 ---
@@ -16785,7 +16785,7 @@ At Samara they bought us a change of under wear, soap, tooth-powder, brushes, et
 the escort’s camp from the station-restaurants. L.D., who was always obliged to follow a
 strict diet, now gaily ate everything that was served and kept cheering Lyova and me. I watched him
 with astonishment and apprehension. The things they bought for us in Samara were given special
-names – the towel was named ’Menzhinsky [[1]](../Text/ch43.htm#n1) the socks, ’Yagoda’ (Menzhinsky’s deputy)
+names – the towel was named ’Menzhinsky [1] the socks, ’Yagoda’ (Menzhinsky’s deputy)
 and so forth. Articles by such names were much gayer. The progress of the train was considerably
 delayed by snowdrifts. But every day we went deeper into Asia.
 
@@ -17088,14 +17088,14 @@ weeks. The letter she wrote to me from the hospital was seventy-three days reach
 after she died.
 
 Rakovsky wired me on June 16: “Yesterday received your letter about Nina’s grave
-illness. Wired Alexandra Georgiyevna [[2]](../Text/ch43.htm#n2) in Moscow. Learned to-day from the papers that Nina’s brief but
+illness. Wired Alexandra Georgiyevna [2] in Moscow. Learned to-day from the papers that Nina’s brief but
 revolutionary life came to an end. I am wholly with you, dear friend. It pains me to be separated
 from you by such an unsurmountable distance. I embrace you many times from my heart.  
 CHRISTIAN”
 
 A fortnight later came Rakovsky’s letter:
 
-“Dear friend, I am greatly pained about Ninochka, [[3]](../Text/ch43.htm#n3) for you and yours. You have long been bearing the
+“Dear friend, I am greatly pained about Ninochka, [3] for you and yours. You have long been bearing the
 heavy cross of a revolutionary Marxist, but now for the first time you are experiencing the
 boundless sorrow of a father. I am with you, with all my heart. I grieve that I am so far from you
 ... You must have heard from Seryozha of the absurd measures dealt out to your friends after the
@@ -17124,7 +17124,7 @@ necessary, without any loss of time, to get documents ready for the sixth congre
 International. It was difficult. On the other hand, the need of carrying out this work at any cost
 acted like a mustard-plaster, and helped us to bear up through the first most difficult weeks.
 
-“We were waiting here all July for Zinushka. [[4]](../Text/ch43.htm#n4) Alas! we were to be denied this visit. Guetier demanded
+“We were waiting here all July for Zinushka. [4] Alas! we were to be denied this visit. Guetier demanded
 that she be placed immediately in a sanitarium for consumptives. She had had the germ for a long
 time, and nursing Ninushka during the three months after the doctors had already given her up
 greatiy undermined her health ...
@@ -17176,7 +17176,7 @@ during the Geneva Conference was quoted as saying that England could not enter i
 with Russia for the simple reason that ‘Trotsky had not yet been shot against a wall’
 – he must be pleased by Trotsky’s banishment ... At any rate, the mouthpieces of
 reaction in Europe are one in their conclusion that Trotsky, and not Stalin, is their chief
-Communist enemy. [[5]](../Text/ch43.htm#n5) This is
+Communist enemy. [5] This is
 eloquent enough, isn’t it?”
 
 Here are a few bits of statistical data from my son’s notes:
@@ -17238,17 +17238,17 @@ N.I. SEDOVA-TROTSKAYA.”
 
 ### Notes
 
-[1.](../Text/ch43.htm#f1) Then head of the GPU. –
+1. Then head of the GPU. –
 *Trans*.
 
-[2.](../Text/ch43.htm#f2) Rakovsky’s wife.
+2. Rakovsky’s wife.
 
-[3.](../Text/ch43.htm#f3) Ninochka and Ninushka, Zinochka
+3. Ninochka and Ninushka, Zinochka
 and Zinushka, are endearing diminutives of Nina and Zina respectively. – *Trans.*
 
-[4.](../Text/ch43.htm#f4) The elder daughter.
+4. The elder daughter.
 
-[5.](../Text/ch43.htm#f5) **The Nation**,
+5. **The Nation**,
 February 1, 1928.
 
 ---
@@ -17621,7 +17621,7 @@ Soon after my arrival in Constantinople, I read in one of the Berlin papers the 
 president of the Reichstag delivered on the occasion of the tenth anniversary of the Weimar
 National Assembly. It closed with these words: *“Vielleicht kommen wir sogar dazu, Herrn
 Trolzki das freiheitliche Asyl zu geben” (Lebhafter Beifall bei der Mehrheit)*.”
-[[1]](../Text/ch45.htm#n1)
+[1]
 
 Löbe’s words were a great surprise to me, since everything that had gone before had given
 me reason to believe that the German government had decided against my admission to Germany. Such,
@@ -17792,7 +17792,7 @@ arise. I was neither allowed to deliver a lecture before the supporters of MacDo
 allowed to avail myself of the aid of English physicians. My application for a visa was flatly
 refused. Clynes, the Labor Home Secretary, defended this refusal in the House of Commons. He
 explained the philosophical meaning of democracy with a directness that would have done credit to
-any minister of Charles II.[[2]](../Text/ch45.htm#n2) According to Clynes, the right of asylum does not mean the right of an exile to
+any minister of Charles II.[2] According to Clynes, the right of asylum does not mean the right of an exile to
 demand asylum, but the right of the state to refuse it. Clynes’s definition is remarkable in
 one respect: by a single blow it destroys the very foundations of so-called democracy. The right of
 asylum, in the style of Clynes, always existed in Czarist Russia. When the Shah of Persia failed to
@@ -18072,11 +18072,11 @@ subscribe to them.
 
 ### Notes
 
-[1.](../Text/ch45.htm#f1) “Perhaps we shall even
+1. “Perhaps we shall even
 arrive at the point of granting Mr. Trotsky the democratic right of asylum.” (*Vigorous
 applause from the majority*)
 
-[2.](../Text/ch45.htm#f2) Transcriber’s Note: Clynes
+2. Transcriber’s Note: Clynes
 said:  
 “In regard to what is called‘the right of asylum’ this country has the right to
 grant asylum to any person whom it thinks fit to admit as a political refugee. On the other hand,

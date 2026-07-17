@@ -9,12 +9,12 @@ tags:
 - **[[notebook_vault/Library/NoteBookLM/Analysis of Spain and Kansas 20260627]]**
 - **[[notebook_vault/Library/NoteBookLM/Analysis of The Birth of Kansas 20260623]]**
 - **[[The_birth_of_Kansas_9780879913359]]**
-- **[[Business Interests in Politics.md]]**
+- **[[notebook_vault/Notes/_Themes/Business Interests in Politics]]**
 - **[[Business.md]]**
-- **[[Civic Duty.md]]**
-- **[[Foreign Actors.md]]**
+- **[[notebook_vault/Notes/_Themes/Civic Duty]]**
+- **[[notebook_vault/Notes/_Themes/Foreign Actors]]**
 - **[[General Francisco Franco’s Consolidation of Absolute Power (1936–1939).md]]**
-- **[[Idealism.md]]**
+- **[[notebook_vault/Notes/_Themes/Idealism]]**
 - **[[Intelligence Community.md]]**
 - **[[Journalism.md]]**
 - **[[Judicial System.md]]**
@@ -23,11 +23,11 @@ tags:
 - **[[notebook_vault/Library/NoteBookLM/Obsidian Notes Books Business and Politics 20260701]]**
 - **[[notebook_vault/Library/NoteBookLM/Obsidian Notes Books Idealism, Realism, and the Political Cycle 20260701]]**
 - **[[notebook_vault/Library/NoteBookLM/Obsidian Notes Political Science 20260703]]**
-- **[[Political Lifecycle.md]]**
-- **[[Political Purges.md]]**
-- **[[Political Science.md]]**
-- **[[Politicized Intelligence.md]]**
+- **[[notebook_vault/Notes/_Themes/Political Lifecycle]]**
+- **[[notebook_vault/Notes/_Themes/Political Purges]]**
+- **[[notebook_vault/Notes/_Themes/Political Science]]**
+- **[[notebook_vault/Notes/_Themes/Politicized Intelligence]]**
 - **[[Politics.md]]**
-- **[[Propaganda.md]]**
-- **[[Realism.md]]**
-- **[[Statecraft.md]]**
+- **[[notebook_vault/Notes/_Themes/Propaganda]]**
+- **[[notebook_vault/Notes/_Themes/Realism]]**
+- **[[notebook_vault/Notes/_Themes/Statecraft]]**

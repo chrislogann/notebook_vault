@@ -4,7 +4,7 @@ tags:
   - NotebookLM
 Topic:
   - "[[Gaming]]"
-  - "[[Military Tactics]]"
+  - "[[notebook_vault/_Exports/book_exports_20260702/Military/Military Tactics]]"
   - "[[Cognition]]"
 Genre:
   - "[[Sid Meier's Civilization 1]]"

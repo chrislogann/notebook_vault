@@ -3,7 +3,7 @@ tags:
   - Note
   - NotebookLM
 Topic:
-  - "[[notebook_vault/Notes/Themes/Idealism]]"
+  - "[[notebook_vault/Notes/_Themes/Idealism]]"
 Genre:
   - "[[Twelve Days - The Story of the 1956 Hungarian Revolution]]"
 Source Name:

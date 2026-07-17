@@ -1,7 +1,7 @@
 ---
 tags: "Book"
 Genre: "[[Twelve Days - The Story of the 1956 Hungarian Revolution]]"
-author: "[[notebook_vault/Library/Authors/Victor Sebestyen|Victor Sebestyen]]"
+author: ["[[Victor Sebestyen]]", "[[Victor Sebestyen]]"]
 isbn: 9780375424588
 ---
 
