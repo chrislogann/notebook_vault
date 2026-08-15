@@ -1,0 +1,38 @@
+tempCodeRunnerFile.sh
+
+*.log
+
+.venv/
+venv/
+ENV/
+.env
+
+__pycache__/
+*.pyc
+*.pyo
+
+# 1. Allow Git to traverse into directory structures
+!_export/**/
+!_import/**/
+
+# 2. Ignore all regular files inside _export and _import
+_export/**/*.*
+_import/**/*.*
+
+# 3. Explicitly un-ignore .gitkeep files
+!_export/**/.gitkeep
+!_import/**/.gitkeep
+!_import/**/create-file.md
+
+# Exclude Obsidian workspace and layout state (prevents constant git conflicts)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Exclude dynamic cache
+.obsidian/cache/
+
+# Optional: Exclude specific plugin data files if they store local paths or tokens
+# .obsidian/plugins/*/data.json
+
+# Ignore Smart Environment folder
+.smart-env/
